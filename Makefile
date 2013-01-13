@@ -17,6 +17,7 @@ help:
 	@echo '   make publish                     generate using production settings '
 	@echo '   make serve                       serve site at http://localhost:8000'
 	@echo '   make devserver                   start/restart develop_server.sh    '
+	@echo '   make deploy_s3                   deploy to amazon s3                '
 	@echo '                                                                       '
 
 
@@ -41,4 +42,7 @@ devserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-.PHONY: html help clean regenerate serve devserver publish
+deploy_s3:
+	s3vcp upload www.conference-agile.fr output
+
+.PHONY: html help clean regenerate serve devserver publish deploy_s3
