@@ -7,7 +7,3 @@ install:
 # command to run tests
 script:
   - "true"
-env:
-  secure:
-    - "qB0oAnZIDEwFO3Vz1fGSN01M7/QCT7xzr4uF8MC3rOwNhwKIUOtkj2RZZqXt\nbajBk2GN0c2rtLWXth7bhrdmf1y8c7+9Eq/5YRTCxzPpBHWAtfI+QEqF/Plt\npEIuZahrnkSp/qjFDZjtXIky5YgBaxOMBzOXA9gDJ0kaJiR3GN8="
-    - "QqgVPztIxxhLBIUrFv1r0zrmqCCx1gHG0SkiiBdNvPKVH+95CGa/8acaK7P8\neuVV53UkWBbEb+yT7UnLQ3MaDFv39aHtOFVbgFxFzxUulCY4sBIEYJhqLWjF\nmylEMKwupse85L3BHrFWJVuQsGenV6/COV2DJkSPc1OFPyQju/8="
