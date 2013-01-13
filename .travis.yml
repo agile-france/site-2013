@@ -6,7 +6,7 @@ install:
   - "pip install s3vcp pelican --use-mirrors"
 # command to run tests
 script:
-  - "make clean publish"
+  - "make clean publish deploy_s3"
 env:
   global:
     secure: "WI9edu3jyKWcyn0LyK6ws5IVrAhs8LSwk8kg4Zp+yFDnq1sTzA0lN+8ngQb1\nj7vy48VTB9Ue1v6IKWYijfGOpPx6/EzKbnzG4jhDe8Yo7BF26sij8j5FULUb\na9ykLzvWL8eTGVW2c16c+s/Bo2pV2Pn4NVJbHwoWP8VGM6XyMBY="
