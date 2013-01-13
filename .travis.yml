@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.2"
+# command to install dependencies
+install:
+  - "pip install s3vcp --use-mirrors"
+# command to run tests
+script:
+  - true
