@@ -3,7 +3,7 @@ python:
   - "2.7"
 # command to install dependencies
 install:
-  - "pip install s3vcp --use-mirrors"
+  - "pip install s3vcp pelican --use-mirrors"
 # command to run tests
 script:
   - "true"
