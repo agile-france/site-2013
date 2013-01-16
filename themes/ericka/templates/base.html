@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+   {% block head %}
+     {% include "head.html" %}
+   {% endblock head %}
+</head>
+
+<body>
+
+<!-- Header starts -->
+
+<header>
+   {% block header %}
+     {% include "header.html" %}
+   {% endblock header %}
+</header>
+
+<!-- Header ends -->
+
+
+<!-- Content strats -->
+
+<div class="content">
+   <div class="container">
+      <div class="row">
+         <div class="span12">
+           
+         {% block content %}
+         {% endblock content %}
+            
+         </div>
+      </div>
+   </div>
+</div>   
+
+<!-- Content ends --> 
+	
+<!-- Footer -->
+<footer>
+   {% block footer %}
+     {% include "footer.html" %}
+   {% endblock footer %}
+</footer>		
+
+<!-- JS -->
+<script src="theme/js/jquery.js"></script>
+<script src="theme/js/bootstrap.js"></script>
+<script src="theme/js/jquery.flexslider-min.js"></script>
+<script src="theme/js/jquery.isotope.js"></script>
+<script src="theme/js/jquery.prettyPhoto.js"></script>
+<script src="theme/js/filter.js"></script>
+<script src="theme/js/jquery.tweet.js"></script>
+<script src="theme/js/custom.js"></script>
+</body>
+</html>
