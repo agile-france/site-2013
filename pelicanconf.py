@@ -22,3 +22,5 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 THEME = 'themes/ericka'
+
+INDEX_SAVE_AS = False
