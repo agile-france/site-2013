@@ -51,8 +51,7 @@ if "%1" == "regenerate" (
 )
 
 if "%1" == "serve" (
-	cd %OUTPUTDIR%
-	python -m SimpleHTTPServer
+	%comspec% /c "cd %OUTPUTDIR% && python -m SimpleHTTPServer"
 	goto end
 )
 
