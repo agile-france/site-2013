@@ -1,0 +1,21 @@
+{% macro post(title, date, author, category, num_comments, image, more_url = "") -%}
+  <div class="entry">
+     <h2><a href="#">{{ title }}</a></h2>
+     
+     <!-- Meta details -->
+     <div class="meta">
+        <i class="icon-calendar"></i> {{ date }} <i class="icon-user"></i> {{ author }} <i class="icon-folder-open"></i> <a href="#">{{ category }}</a> <span class="pull-right"><i class="icon-comment"></i> <a href="#">{{ num_comments }} Comments</a></span>
+     </div>
+     
+     <!-- Thumbnail -->
+     <div class="bthumb">
+        <a href="#"><img src="{{ image }}" alt="" /></a>
+     </div>
+
+     {{ caller() }}
+
+     {% if more_url %}
+        <div class="button"><a href="{{ more_url }}">Read More...</a></div>
+     {% endif %}
+  </div>
+{%- endmacro %}
