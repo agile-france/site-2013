@@ -8,11 +8,15 @@ Summary: Le WHY de la conférence Agile France
 Template: comingsoon
 
 <p class="soon-med">
-  Permettre aux praticiens avancés de se réunir et d'échanger  
-  pour apprendre en dehors des sentiers battus.
+  Agile France <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013
 </p>
-<p class="soon-big">
-  Agile France en <span class="color">mai 2013</span>
+
+<p class="soon-med">
+  Permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger  
+  <span class="color">pour apprendre</span> en dehors des sentiers battus.
+</p>
+<p class="soon-small">
+<iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=28341&amp;code=7362&amp;cas=1" width="650" height="340" scrolling="auto" frameborder="0"></iframe>
 </p>
 <p class="soon-small">
   Nous voulons permettre aux <span class="color">agilistes</span> qui ont une <span class="color">expérience de terrain</span> d'évoluer  
