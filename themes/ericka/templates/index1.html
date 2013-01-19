@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% include "widgets/flexslider.html" %}
+  {% include "widgets/services.html" %}
+  {% include "widgets/cta.html" %}
+  {% include "widgets/rposts.html" %}
+  {% include "widgets/clients.html" %}
+{% endblock content %}
+	
+{% block javascript %}
+  {{ super() }}
+  <script type="text/javascript">
+  /* Flex Slider */
+  
+  $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "slide",
+      controlNav: true,
+      pauseOnHover: true,
+      slideshowSpeed: 15000
+    });
+  });
+  </script>
+{% endblock javascript %}

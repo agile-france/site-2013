@@ -1,31 +1,29 @@
+{% from "widgets/footer.html" import footer %}
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-   {% block head %}
-     {% include "head.html" %}
-   {% endblock head %}
+  {% block head %}
+    {% include "widgets/head.html" %}
+  {% endblock head %}
 </head>
 
 <body>
 
-<!-- Header starts -->
-
 <header>
    {% block header %}
-     {% include "header.html" %}
+     {% include "widgets/header.html" %}
    {% endblock header %}
 </header>
 
-<!-- Header ends -->
-
-
-<!-- Content strats -->
+{% block navbar %}
+  {% include "widgets/navbar.html" %}
+{% endblock navbar %}
 
 <div class="content">
    <div class="container">
       <div class="row">
          <div class="span12">
-           
+
          {% block content %}
          {% endblock content %}
             
@@ -34,23 +32,23 @@
    </div>
 </div>   
 
-<!-- Content ends --> 
-	
-<!-- Footer -->
 <footer>
-   {% block footer %}
-     {% include "footer.html" %}
-   {% endblock footer %}
-</footer>		
+  {% block footer %}
+    {% call footer() %}
+      {% block footer_widgets %}
+        {% include "widgets/footer-widgets.html" %}
+      {% endblock footer_widgets %}
+    {% endcall %}
+  {% endblock footer %}
+</footer>
 
-<!-- JS -->
-<script src="/theme/js/jquery.js"></script>
-<script src="/theme/js/bootstrap.js"></script>
-<script src="/theme/js/jquery.flexslider-min.js"></script>
-<script src="/theme/js/jquery.isotope.js"></script>
-<script src="/theme/js/jquery.prettyPhoto.js"></script>
-<script src="/theme/js/filter.js"></script>
-<script src="/theme/js/jquery.tweet.js"></script>
-<script src="/theme/js/custom.js"></script>
-</body>
-</html>
+{% block javascript %}
+  <script src="/theme/js/jquery.js"></script>
+  <script src="/theme/js/bootstrap.js"></script>
+  <script src="/theme/js/jquery.flexslider-min.js"></script>
+  <script src="/theme/js/jquery.isotope.js"></script>
+  <script src="/theme/js/jquery.prettyPhoto.js"></script>
+  <script src="/theme/js/filter.js"></script>
+  <script src="/theme/js/jquery.tweet.js"></script>
+  <script src="/theme/js/custom.js"></script>
+{% endblock javascript %}
