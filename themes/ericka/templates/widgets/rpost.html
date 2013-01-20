@@ -1,0 +1,15 @@
+{% macro rpost(post, pos) -%}
+  <div class="rpost{{ pos }}">
+  	{% if post.rimg %}
+	  <div class="rimg">
+	    <img src="theme/img/photos/r{{ post.rimg }}" alt="" />
+	  </div>
+    {% endif %}
+    <div class="rdetails">
+      <h5>{{ post.title }}</h5>
+      {% if post.summary %}
+        <p>{{ post.summary }}</p>
+      {% endif %}
+    </div>
+  </div>
+{%- endmacro %}

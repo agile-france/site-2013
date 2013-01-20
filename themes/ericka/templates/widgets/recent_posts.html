@@ -1,0 +1,41 @@
+{% from "widgets/rpost.html" import rpost %}
+{% macro wide(articles) -%}
+  <div class="rposts">
+     <h4>Recent Posts</h4>
+     <div class="row">
+        <div class="span6">
+
+          {% if articles[0] %}
+            {{ rpost(articles[0], 1) }}
+          {% endif %}
+
+          {% if articles[1] %}
+            {{ rpost(articles[1], 2) }}
+          {% endif %}
+
+        </div>
+        <div class="span6">
+
+          {% if articles[2] %}
+            {{ rpost(articles[2], 1) }}
+          {% endif %}
+
+          {% if articles[3] %}
+            {{ rpost(articles[3], 2) }}
+          {% endif %}
+
+        </div>
+     </div>
+  </div>
+{% endmacro %}
+{% macro tall(articles, maxposts) %}
+   <div class="widget">
+      <h4>Recent Posts</h4>
+         <ul>
+            {% for article in articles %}
+              {% if loop.index > maxposts %}{% break %}{% endif %}
+              <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+            {% endfor %}
+         </ul>
+   </div>
+{% endmacro %}

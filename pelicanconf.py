@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"commité d'organisation Agile France"
+from jinja2.ext import loopcontrols
+
+AUTHOR = u"L'équipe d'organisation"
 SITENAME = u'Agile France 2013'
 SITEURL = ''
 
@@ -24,3 +26,5 @@ DEFAULT_PAGINATION = 10
 THEME = 'themes/ericka'
 
 INDEX_SAVE_AS = False
+
+JINJA_EXTENSIONS = [loopcontrols]

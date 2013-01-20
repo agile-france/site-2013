@@ -1,10 +1,11 @@
 {% extends "base.html" %}
+{% import "widgets/recent_posts.html" as recent_posts %}
 
 {% block content %}
   {% include "widgets/flexslider.html" %}
   {% include "widgets/services.html" %}
   {% include "widgets/cta.html" %}
-  {% include "widgets/rposts.html" %}
+  {{ recent_posts.wide(articles) }}
   {% include "widgets/clients.html" %}
 {% endblock content %}
 	

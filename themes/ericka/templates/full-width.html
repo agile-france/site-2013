@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="full-width">
+   <div class="row">
+      <div class="span12">
+      
+         <div class="hero">
+            <h3><span>{{ article.title }}</span></h3>
+            {% if article.lead %}
+            <p>{{ article.lead }}</p>
+            {% endif %}
+         </div>
+         
+         <div class="row">
+            <div class="span12">
+               {{ article.content }}
+            </div>
+         </div>
+         
+      </div>
+   </div>
+</div>
+{% endblock content %}
