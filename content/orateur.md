@@ -14,7 +14,7 @@ Summary: Devenez Orateur
 L'appel à orateur terminera <span class="color">le samedi 2 mars</span> à minuit.
 </p>
 <p class="soon-big">
-	<button><a href="#">Soumettez votre session</a></button>
+	<button><a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ">Soumettez votre session</a></button>
 </p>
 <p class="soon-small">
 Nous voulons ouvrir la conférence aux pratiques agiles dans tous les métiers de l'IT (management, développement, MOA, test, ...) et hors IT. Ajoutez autant de propositions que vous le souhaitez, elles seront traitées avec la plus grande attention.
