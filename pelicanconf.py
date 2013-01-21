@@ -14,6 +14,7 @@ DEFAULT_LANG = u'fr'
 MENU = [
 	(u'Inscription', '/index.html'),
 	(u'Appel à Orateurs', '/orateur.html'),
+	(u'Blog', '/archives.html'),
 	(u'Éditions précédentes', [
 		(u'2006 - restauration en cours', '#'),
 		(u'2007 - restauration en cours', '#'),

@@ -10,15 +10,13 @@
            <div class="row">
               <div class="span8">
                  <div class="posts">
-                 
-                    {% call post(title="Sed justo scelerisque ut consectetur", date="26-2-2012", author="Admin", category="General", num_comments="2", image="theme/img/photos/1.jpg", more_url="#") %}
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate eros nec odio egestas in dictum nisi vehicula. Pellentesque habitant morbi   tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse porttitor luctus imperdiet. <a href="#">Praesent ultricies</a> enim ac   ipsum aliquet pellentesque. Nullam justo nunc, dignissim at convallis posuere, sodales eu orci. Duis a risus sed dolor placerat semper quis in urna.   Nam risus magna, fringilla sit amet blandit viverra, dignissim eget est. Ut <strong>commodo ullamcorper risus nec</strong> mattis. Fusce imperdiet   ornare dignissim. Donec aliquet convallis tortor, et placerat quam posuere posuere. Morbi tincidunt posuere turpis eu laoreet. Nulla facilisi. Aenean   at massa leo. Vestibulum in varius arcu.</p>
-                    {% endcall %}
-                    
-                    {% call post(title="Ut commodo ullamcorper risus nec mattis", date="26-2-2012", author="Admin", category="General", num_comments="2", image="theme/img/photos/2.jpg", more_url="#") %}
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate eros nec odio egestas in dictum nisi vehicula. Pellentesque habitant morbi   tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse porttitor luctus imperdiet. <a href="#">Praesent ultricies</a> enim ac   ipsum aliquet pellentesque. Nullam justo nunc, dignissim at convallis posuere, sodales eu orci. Duis a risus sed dolor placerat semper quis in urna.   Nam risus magna, fringilla sit amet blandit viverra, dignissim eget est. Ut <strong>commodo ullamcorper risus nec</strong> mattis. Fusce imperdiet   ornare dignissim. Donec aliquet convallis tortor, et placerat quam posuere posuere. Morbi tincidunt posuere turpis eu laoreet. Nulla facilisi. Aenean   at massa leo. Vestibulum in varius arcu.</p>
-                    {% endcall %}
-                    
+                    {% for article in articles %}                 
+                      {% call post(article) %}
+                        {{ article.content }}
+                      {% endcall %}
+                    {% endfor %}
+                   
+                    {#
                     <!-- Pagination -->
                     <div class="paging">
                        <span class='current'>1</span>
@@ -27,6 +25,7 @@
                        <a href='#'>6</a>
                        <a href="#">Next</a>
                     </div> 
+                    #}
                     
                     <div class="clearfix"></div>
                     
