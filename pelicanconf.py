@@ -11,15 +11,19 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-# Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+MENU = [
+	(u'Inscription', '/index.html'),
+	(u'Appel à Orateurs', '/orateur.html'),
+	(u'Éditions précédentes', [
+		(u'2006 - restauration en cours', '#'),
+		(u'2007 - restauration en cours', '#'),
+		(u'2008', 'http://2009.conference-agile.fr/conf.agile-france.org/2008_programme.html'),
+		(u'2009', 'http://2009.conference-agile.fr'),
+		(u'2010 - restauration en cours', '#'),
+		(u'2011 - restauration en cours', '#'),
+		(u'2012', 'http://2012.conference-agile.fr'),
+		],)
+	]
 
 DEFAULT_PAGINATION = 10
 

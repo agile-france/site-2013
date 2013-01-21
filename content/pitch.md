@@ -5,7 +5,7 @@ Category: general
 Slug: index
 Author: l'Équipe d'organisation
 Summary: Le WHY de la conférence Agile France
-Template: comingsoon
+Template: full-width
 
 <p class="soon-med">
   Agile France <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013

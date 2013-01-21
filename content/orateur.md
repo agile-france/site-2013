@@ -5,7 +5,6 @@ Category: general
 Slug: orateur
 Author: l'Équipe d'organisation
 Summary: Devenez Orateur
-Template: comingsoon
 
 
 <p class="soon-med">

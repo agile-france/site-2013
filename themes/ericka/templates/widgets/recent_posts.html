@@ -1,7 +1,7 @@
 {% from "widgets/rpost.html" import rpost %}
 {% macro wide(articles) -%}
   <div class="rposts">
-     <h4>Recent Posts</h4>
+     <h4>Articles récents</h4>
      <div class="row">
         <div class="span6">
 
@@ -30,7 +30,7 @@
 {% endmacro %}
 {% macro tall(articles, maxposts) %}
    <div class="widget">
-      <h4>Recent Posts</h4>
+      <h4>Articles récents</h4>
          <ul>
             {% for article in articles %}
               {% if loop.index > maxposts %}{% break %}{% endif %}
