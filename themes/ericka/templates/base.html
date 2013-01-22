@@ -43,6 +43,7 @@
 </footer>
 
 {% block javascript %}
+  {% include 'widgets/analytics.html' %}
   <script src="/theme/js/jquery.js"></script>
   <script src="/theme/js/bootstrap.js"></script>
   <script src="/theme/js/jquery.flexslider-min.js"></script>
@@ -52,3 +53,5 @@
   <script src="/theme/js/jquery.tweet.js"></script>
   <script src="/theme/js/custom.js"></script>
 {% endblock javascript %}
+</body>
+</html>

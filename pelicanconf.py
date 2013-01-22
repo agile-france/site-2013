@@ -26,6 +26,8 @@ MENU = [
 		],)
 	]
 
+GOOGLE_ANALYTICS = 'UA-36421002-1'
+
 DEFAULT_PAGINATION = 10
 
 THEME = 'themes/ericka'
