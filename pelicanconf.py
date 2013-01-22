@@ -26,6 +26,10 @@ MENU = [
 		],)
 	]
 
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
+
 GOOGLE_ANALYTICS = 'UA-36421002-1'
 
 DEFAULT_PAGINATION = 10
