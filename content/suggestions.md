@@ -2,7 +2,7 @@ Title: Agile France 2013 - Orateur
 Date: 2013-01-23 20:20
 Tags: orateur
 Category: general
-Slug: orateur
+Slug: suggestions
 Author: Jonathan Scher
 Summary: Orateurs proposés
 
