@@ -1,4 +1,4 @@
-Title: Agile France 2013 - Orateur
+Title: Vos suggestions d'orateurs pour la conférence
 Date: 2013-01-23 20:20
 Tags: orateur
 Category: general
