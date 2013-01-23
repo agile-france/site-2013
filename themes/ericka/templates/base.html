@@ -1,6 +1,6 @@
 {% from "widgets/footer.html" import footer %}
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="{{ DEFAULT_LANG }}">
 <head>
   {% block head %}
     {% include "widgets/head.html" %}
@@ -23,10 +23,8 @@
    <div class="container">
       <div class="row">
          <div class="span12">
-
-         {% block content %}
-         {% endblock content %}
-            
+           {% block content %}
+           {% endblock content %}
          </div>
       </div>
    </div>

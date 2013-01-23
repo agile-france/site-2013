@@ -36,6 +36,9 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'themes/ericka'
 
+# Color Stylesheet - orange, blue, pink, brown, red or green
+CSS_FILE = 'orange.css'
+
 INDEX_SAVE_AS = False
 
 JINJA_EXTENSIONS = [loopcontrols]
