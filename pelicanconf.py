@@ -11,7 +11,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-MENU = [
+MENUITEMS = [
 	(u'Inscription', '/index.html'),
 	(u'Appel à Orateurs', '/orateur.html'),
 	(u'Blog', '/archives.html'),
