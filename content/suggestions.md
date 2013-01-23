@@ -8,7 +8,7 @@ Summary: Orateurs proposés
 
 <p class="soon-small">Bonjour à tous et à toutes !</p>
 <p class="soon-small">Il y a peu, nous vous avions posé la question :
-<a href="#">"quels orateurs francophones vous apprendraient des choses?"</a> Vous avez été nombreux à nous répondre.
+<a href="https://docs.google.com/spreadsheet/viewform?formkey=dFlCenVQcnc0Um9yVk9lSURSS25tMEE6MQ#gid=0">"quels orateurs francophones vous apprendraient des choses?"</a> Vous avez été nombreux à nous répondre.
 En fin de ce poste, vous trouverez donc une première liste de 50 orateurs que vous avez envi de voir à Agile France.</p>
 <p class="soon-small">Nous allons tenter de contacter tous les orateurs de cette liste, pour leur demander de soumettre une session.
 Ils suivront ensuite le processus normal de sélection, avec une attention particulière.</p>
@@ -17,7 +17,7 @@ Il s'agirait de rendre la conférence accessible aux sourds et aux malentendants
 et ce ne sera pas forcément gratuit. Cependant, nous n'avons aucun objectif financier : si nous pouvons rendre Agile
 France accessible au plus grand nombre, ce sera un honneur pour nous !
 </p>
-<p class="soon-small">Si vous aussi avez des choses à enseigner aux praticiens avancés, <a href="#">l'appel à orateur pour Agile France 2013</a> est lancé !</p>
+<p class="soon-small">Si vous aussi avez des choses à enseigner aux praticiens avancés, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ">l'appel à orateur pour Agile France 2013</a> est lancé !</p>
 <ul>
 <li>Alain Cardon </li>
 <li>Alexandre Boutin (x2)</li>
