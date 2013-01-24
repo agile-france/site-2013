@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="error">
+     <div class="row">
+        <div class="span12">
+           <div class="error-page">
+              <p class="error-med">Ce que vous cherchez n'est pas là.</p>
+              <p class="error-big">404<span class="color">!!!</span></p>
+              <p class="error-small">Utilisez le menu pour en apprendre plus sur la conférence Agile France.</p>
+           </div>
+        </div>
+     </div>
+  </div>
+  {% include "widgets/cta.html" %}
+{% endblock content %}
