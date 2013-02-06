@@ -27,10 +27,15 @@ France accessible au plus grand nombre, ce sera un honneur pour nous !
 <li>Arnaud Bailly</li>
 <li>Aurélien Morvant</li>
 <li>Bernard Marie Chiquet</li>
+<li>Bernard Stiegler</li>
+<li>Bertrand Dour</li>
 <li>Bruno Latour</li>
 <li>Bruno Sbille</li>
 <li>Charlie Poole</li>
+<li>Christophe Riboulet</li>
 <li>Christophe Thibault (x3)</li>
+<li>Claire Blondel</li>
+<li>Claude Aubry</li>
 <li>Damien Thouvenin</li>
 <li>David Brocard</li>
 <li>Dominic Williams (x4)</li>
@@ -40,27 +45,35 @@ France accessible au plus grand nombre, ce sera un honneur pour nous !
 <li>Francois Wauquier</li>
 <li>Géry Derbier (x2)</li>
 <li>James Grenning</li>
-<li>Jean Claude Grosjean</li>
-<li>Jean François Hélie</li>
+<li>Jean-Claude Grosjean</li>
+<li>Jean-François Hélie</li>
+<li>Jean-François Zobrist</li>
 <li>Jean-Pierre Vickoff</li>
 <li>JF Jagodzinski</li>
 <li>Jonathan Perret (x2)</li>
+<li>Karine Aubry</li>
 <li>Laurent Bossavit (x3)</li>
 <li>Laurent Morisseau (x4)</li>
 <li>Laurent Sarrazin</li>
+<li>Michel Hervé</li>
+<li>Michel Serres</li>
 <li>Nathaniel Richand</li>
+<li>Oana Juncu</li>
+<li>Octave Klaba</li>
 <li>Olivier Azeau </li>
 <li>Olivier Lafontan</li>
 <li>Pablo Pernot</li>
 <li>Pascal Jussac</li>
-<li>Pascal van Cauwenberghe (x3, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)</li>
+<li>Pascal Van Cauwenberghe (x4, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)</li>
 <li>Patrice Petit</li>
 <li>Patrick Sarfati</li>
+<li>Peter Stevens</li>
 <li>Philippe Ensarguet</li>
 <li>Philippe Launay</li>
 <li>Pierre Pezziardi</li>
 <li>Raphael Perquin</li>
 <li>Régis Médina (x4)</li>
+<li>Régis Monot</li>
 <li>Romain Duris</li>
 <li>Sandrine Olivencia</li>
 <li>Sylvie Lebail</li>
@@ -68,5 +81,7 @@ France accessible au plus grand nombre, ce sera un honneur pour nous !
 <li>Thierry Montulé (x2)</li>
 <li>Tremeur Balbous</li>
 <li>Xavier Warzee</li>
+<li>Yves Caseau</li>
+<li>Yves Hanoulle</li>
 </ul>
 </p> Jonathan Scher, pour l'équipe d'organisation d'Agile France 2013<p class="soon-small">
