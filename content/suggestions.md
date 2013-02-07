@@ -80,6 +80,7 @@ France accessible au plus grand nombre, ce sera un honneur pour nous !
 <li>Thierry Cros (x2)</li>
 <li>Thierry Montulé (x2)</li>
 <li>Tremeur Balbous</li>
+<li>Xavier Nopre</li>
 <li>Xavier Warzee</li>
 <li>Yves Caseau</li>
 <li>Yves Hanoulle</li>
