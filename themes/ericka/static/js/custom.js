@@ -5,7 +5,7 @@
 
 jQuery(function($){
    $(".tweet").tweet({
-      username: "AgileFrance",
+      username: "ashokramesh90",
       join_text: "auto",
       avatar_size: 0,
       count: 3,
@@ -23,7 +23,7 @@ jQuery(function($){
 
 jQuery(function($){
    $(".ctweet").tweet({
-      username: "AgileFrance",
+      username: "ashokramesh90",
       join_text: "auto",
       avatar_size: 0,
       count: 1,

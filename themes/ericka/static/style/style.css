@@ -188,6 +188,10 @@ color:#fff !important;
 text-shadow:none !important;
 }
 
+.navbar .btn:hover{
+	color: #fff !important;
+} 
+
 .navbar .caret{
 border-top-color:#fff !important;
 border-bottom-color:#fff !important;
@@ -1408,9 +1412,11 @@ margin:10px 0px;
 .button a, .button a:visited{
 color:#fff;
 width:100px;
-padding:6px 15px;
+padding:2px 5px;
 font-size:14px;
 border-radius:5px;
+display: inline-block;
+text-align: center;
 }
 
 .button a:hover{
