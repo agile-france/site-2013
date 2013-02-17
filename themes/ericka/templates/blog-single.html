@@ -15,25 +15,13 @@
                       {{ article.content }}
                     {% endcall %}
                     
-                    {#
                     <div class="well">
-                       <!-- Social media icons -->
-                       <div class="social pull-left">
-                          <h5>Sharing is Sexy: </h5>
-                          <a href="#"><i class="icon-facebook facebook"></i></a>
-                          <a href="#"><i class="icon-twitter twitter"></i></a>
-                          <a href="#"><i class="icon-linkedin linkedin"></i></a>
-                          <a href="#"><i class="icon-pinterest pinterest"></i></a>
-                          <a href="#"><i class="icon-google-plus google-plus"></i></a>
-                       </div>
-                       <!-- Tags -->
-                       <div class="tags pull-right">
-                          <h5>Tags: </h5>
-                          <a href="#">Bootstrap</a> <a href="#">Responsive</a> <a href="#">Google</a> 
-                       </div>
+                       <h5>Le partage c'est chic !</h5>
+                       <div class='shareaholic-canvas' data-shareaholic-widgets='share_buttons'></div>
                        <div class="clearfix"></div>
                     </div>
                     
+                    {#
                     <hr />
                     
                     {% include "widgets/comments.html" %}
@@ -58,3 +46,25 @@
   </div>
   {% include "widgets/cta.html" %}
 {% endblock content %}
+
+{% block javascript %}
+  {{ super() }}
+  <script type="text/javascript">
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.src = '//dtym7iokkjlif.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript';
+      shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var apikey = '75c918ccb1ef6e239b16dd30d737492a'
+        try { Shareaholic.init(apikey); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+  </script>
+{% endblock javascript %}

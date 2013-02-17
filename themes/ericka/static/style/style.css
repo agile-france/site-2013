@@ -298,6 +298,10 @@ border-radius:30px;
 transition:background 1s ease;
 }
 
+.content .shareaholic-canvas ul li{
+background-image: none;
+}
+
 /* Content */
 
 .content ul{
