@@ -17,7 +17,14 @@
                     
                     <div class="well">
                        <h5>Le partage c'est chic !</h5>
-                       <div class='shareaholic-canvas' data-shareaholic-widgets='share_buttons'></div>
+                       <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+                         <a class="addthis_button_preferred_1"></a>
+                         <a class="addthis_button_preferred_2"></a>
+                         <a class="addthis_button_preferred_3"></a>
+                         <a class="addthis_button_preferred_4"></a>
+                         <a class="addthis_button_compact"></a>
+                         <a class="addthis_counter addthis_bubble_style"></a>
+                       </div>
                        <div class="clearfix"></div>
                     </div>
                     
@@ -49,22 +56,6 @@
 
 {% block javascript %}
   {{ super() }}
-  <script type="text/javascript">
-  //<![CDATA[
-    (function() {
-      var shr = document.createElement('script');
-      shr.src = '//dtym7iokkjlif.cloudfront.net/assets/pub/shareaholic.js';
-      shr.type = 'text/javascript';
-      shr.async = 'true';
-      shr.onload = shr.onreadystatechange = function() {
-        var rs = this.readyState;
-        if (rs && rs != 'complete' && rs != 'loaded') return;
-        var apikey = '75c918ccb1ef6e239b16dd30d737492a'
-        try { Shareaholic.init(apikey); } catch (e) {}
-      };
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(shr, s);
-    })();
-  //]]>
-  </script>
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-512128d447e94386"></script>
 {% endblock javascript %}
