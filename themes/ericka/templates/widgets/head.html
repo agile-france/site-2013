@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <!-- Title -->
-<title>{{ article.title | default('Agile France 2013') }}</title>
+<title>{{ article.title if article is defined else 'Agile France 2013' }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Description, Keywords -->
 <meta name="description" content="">
