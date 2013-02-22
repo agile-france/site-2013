@@ -6,7 +6,7 @@ from jinja2.ext import loopcontrols
 AUTHOR = u"L'équipe d'organisation"
 SITENAME = u'Agile France 2013'
 SITEURL = ''
-
+TWITTER_USERNAME = "AgileFrance"
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
@@ -42,3 +42,5 @@ CSS_FILE = 'orange.css'
 INDEX_SAVE_AS = False
 
 JINJA_EXTENSIONS = [loopcontrols]
+
+TEMPLATE_PAGES = {'js/custom.js': 'theme/js/custom.js'}
