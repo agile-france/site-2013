@@ -6,83 +6,89 @@ Slug: suggestions
 Author: Jonathan Scher
 Summary: Orateurs proposés
 
-<p class="soon-small">Bonjour à tous et à toutes !</p>
-<p class="soon-small">Il y a peu, nous vous avions posé la question :
-<a href="https://docs.google.com/spreadsheet/viewform?formkey=dFlCenVQcnc0Um9yVk9lSURSS25tMEE6MQ#gid=0">"quels orateurs francophones vous apprendraient des choses?"</a> Vous avez été nombreux à nous répondre.
-En fin de ce poste, vous trouverez donc une première liste de 50 orateurs que vous avez envi de voir à Agile France.</p>
-<p class="soon-small">Nous allons tenter de contacter tous les orateurs de cette liste, pour leur demander de soumettre une session.
-Ils suivront ensuite le processus normal de sélection, avec une attention particulière.</p>
-<p class="soon-small">Vous nous avez également adressé une demande particulière, que nous serions content d'honorer.
+Bonjour à tous et à toutes !
+
+Il y a peu, nous vous avions posé la question :
+["quels orateurs francophones vous apprendraient des choses?"][souhaits orateurs] Vous avez été nombreux à nous répondre.
+En fin de ce poste, vous trouverez donc une première liste de 50 orateurs que vous avez envi de voir à Agile France.
+
+Nous allons tenter de contacter tous les orateurs de cette liste, pour leur demander de soumettre une session.
+Ils suivront ensuite le processus normal de sélection, avec une attention particulière.
+
+Vous nous avez également adressé une demande particulière, que nous serions content d'honorer.
 Il s'agirait de rendre la conférence accessible aux sourds et aux malentendants. Ce n'est pas quelque chose de simple,
 et ce ne sera pas forcément gratuit. Cependant, nous n'avons aucun objectif financier : si nous pouvons rendre Agile
 France accessible au plus grand nombre, ce sera un honneur pour nous !
-</p>
-<p class="soon-small">Si vous aussi avez des choses à enseigner aux praticiens avancés, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ">l'appel à orateur pour Agile France 2013</a> est lancé !</p>
-<ul>
-<li>Alain Cardon </li>
-<li>Alexandre Boutin (x2)</li>
-<li>Alexis Monville</li>
-<li>Alistair Cockburn (x2)</li>
-<li>Antoine Contal (x2)</li>
-<li>Arnaud Bailly</li>
-<li>Aurélien Morvant</li>
-<li>Bernard Marie Chiquet</li>
-<li>Bernard Stiegler</li>
-<li>Bertrand Dour</li>
-<li>Bruno Latour</li>
-<li>Bruno Sbille</li>
-<li>Charlie Poole</li>
-<li>Christophe Riboulet</li>
-<li>Christophe Thibault (x3)</li>
-<li>Claire Blondel</li>
-<li>Claude Aubry</li>
-<li>Damien Thouvenin</li>
-<li>David Brocard</li>
-<li>Dominic Williams (x4)</li>
-<li>Emmanuel Gaillot (x2)</li>
-<li>Emmanuelle Laborit</li>
-<li>François Beauregard</li>
-<li>Francois Wauquier</li>
-<li>Géry Derbier (x2)</li>
-<li>James Grenning</li>
-<li>Jean-Claude Grosjean</li>
-<li>Jean-François Hélie</li>
-<li>Jean-François Zobrist</li>
-<li>Jean-Pierre Vickoff</li>
-<li>JF Jagodzinski</li>
-<li>Jonathan Perret (x2)</li>
-<li>Karine Aubry</li>
-<li>Laurent Bossavit (x3)</li>
-<li>Laurent Morisseau (x4)</li>
-<li>Laurent Sarrazin</li>
-<li>Michel Hervé</li>
-<li>Michel Serres</li>
-<li>Nathaniel Richand</li>
-<li>Oana Juncu</li>
-<li>Octave Klaba</li>
-<li>Olivier Azeau </li>
-<li>Olivier Lafontan</li>
-<li>Pablo Pernot</li>
-<li>Pascal Jussac</li>
-<li>Pascal Van Cauwenberghe (x4, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)</li>
-<li>Patrice Petit</li>
-<li>Patrick Sarfati</li>
-<li>Peter Stevens</li>
-<li>Philippe Ensarguet</li>
-<li>Philippe Launay</li>
-<li>Pierre Pezziardi</li>
-<li>Raphael Perquin</li>
-<li>Régis Médina (x4)</li>
-<li>Régis Monot</li>
-<li>Romain Duris</li>
-<li>Sandrine Olivencia</li>
-<li>Sylvie Lebail</li>
-<li>Thierry Cros (x2)</li>
-<li>Thierry Montulé (x2)</li>
-<li>Tremeur Balbous</li>
-<li>Xavier Nopre</li>
-<li>Xavier Warzee</li>
-<li>Yves Caseau</li>
-<li>Yves Hanoulle</li>
-</ul>
-</p> Jonathan Scher, pour l'équipe d'organisation d'Agile France 2013<p class="soon-small">
+
+Si vous aussi avez des choses à enseigner aux praticiens avancés, [l'appel à orateur pour Agile France 2013][appel orateurs] est lancé !
+
+- Alain Cardon 
+- Alexandre Boutin (x2)
+- Alexis Monville
+- Alistair Cockburn (x2)
+- Antoine Contal (x2)
+- Arnaud Bailly
+- Aurélien Morvant
+- Bernard Marie Chiquet
+- Bernard Stiegler
+- Bertrand Dour
+- Bruno Latour
+- Bruno Sbille
+- Charlie Poole
+- Christophe Riboulet
+- Christophe Thibault (x3)
+- Claire Blondel
+- Claude Aubry
+- Damien Thouvenin
+- David Brocard
+- Dominic Williams (x4)
+- Emmanuel Gaillot (x2)
+- Emmanuelle Laborit
+- François Beauregard
+- Francois Wauquier
+- Géry Derbier (x2)
+- James Grenning
+- Jean-Claude Grosjean
+- Jean-François Hélie
+- Jean-François Zobrist
+- Jean-Pierre Vickoff
+- JF Jagodzinski
+- Jonathan Perret (x2)
+- Karine Aubry
+- Laurent Bossavit (x3)
+- Laurent Morisseau (x4)
+- Laurent Sarrazin
+- Michel Hervé
+- Michel Serres
+- Nathaniel Richand
+- Oana Juncu
+- Octave Klaba
+- Olivier Azeau 
+- Olivier Lafontan
+- Pablo Pernot
+- Pascal Jussac
+- Pascal Van Cauwenberghe (x4, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)
+- Patrice Petit
+- Patrick Sarfati
+- Peter Stevens
+- Philippe Ensarguet
+- Philippe Launay
+- Pierre Pezziardi
+- Raphael Perquin
+- Régis Médina (x4)
+- Régis Monot
+- Romain Duris
+- Sandrine Olivencia
+- Sylvie Lebail
+- Thierry Cros (x2)
+- Thierry Montulé (x2)
+- Tremeur Balbous
+- Xavier Nopre
+- Xavier Warzee
+- Yves Caseau
+- Yves Hanoulle
+
+Jonathan Scher, pour l'équipe d'organisation d'Agile France 2013
+
+[souhaits orateurs]: https://docs.google.com/spreadsheet/viewform?formkey=dFlCenVQcnc0Um9yVk9lSURSS25tMEE6MQ#gid=0
+[appel orateurs]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ
