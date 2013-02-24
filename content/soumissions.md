@@ -2,12 +2,13 @@ Title: Aperçu des premières soumissions pour Agile France 2013
 Date: 2013-02-24 21:30
 Tags: agile france, soumissions, thèmes, speakers
 Category: general
-Slug: infos
+Slug: soumissions
 Author: Eric
 Summary: Informations sur les premières soumissions
 
-Nous attaquons la dernière ligne droite pour les soumissions : dans une semaine la date limite de soumission de session sera atteinte.
+Nous attaquons la dernière ligne droite pour les soumissions : dans moins d'une semaine la date limite de soumission de session sera atteinte.
 Pour vous donner envie de soumettre vous aussi, voici les thèmes qui ressortent pour l'instant (triés par volume de soumission) :
+
 - Agilité : performance et résolution de crises / échecs
 - Recrutement
 - Agilité et management, leadership 
@@ -22,10 +23,11 @@ Pour vous donner envie de soumettre vous aussi, voici les thèmes qui ressortent
 - L'avenir de l'agilité
 - Agilité et enseignement
 
-Si ces premières tendances vous inspirent, ou au contraire vous pensez à un thème non représentés, il est temps de nous [soumettre votre proposition][soumettre].
+Si ces premières tendances vous inspirent, ou au contraire vous pensez à un thème non représenté, il est temps de nous [soumettre votre proposition][soumettre].
 
 Mais quelle est l'identité de ceux qui ont jusque là soumis ?
 Sont représentés (par ordre décroissant) :
+
 - les coachs agile
 - les formateurs
 - les consultants
@@ -41,6 +43,7 @@ Sont représentés (par ordre décroissant) :
 - les chefs de projet
 
 Pour finir, les tendances sur les formats :
+
 - les conférences
 - les ateliers
 - les retours d'expérience
@@ -52,6 +55,7 @@ Pour finir, les tendances sur les formats :
 
 Enfin, vous voulez peut-être des noms ?
 Voici déjà ceux qui étaient listés dans les [suggestions][suggestions] et qui ont répondu à l'appel (en espérant ne pas en avoir oublié) :
+
 - Alexis Monville
 - Bertrand Dour
 - Jean-François Hélie
