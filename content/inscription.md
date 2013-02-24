@@ -8,7 +8,7 @@ Summary: Le WHY de la conférence Agile France
 Template: full-width
 
 <p class="soon-med">
-  Agile France aura lieu les <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013 au [Chalet de la Porte Jaune][cpj]
+  Agile France aura lieu les <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013 au <a href="https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA">Chalet de la Porte Jaune</a>
 </p>
 <p class="soon-small">
   Notre but : permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger
@@ -27,4 +27,3 @@ Template: full-width
 <iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=28341&amp;code=7362&amp;cas=1" width="650" height="340" scrolling="auto" frameborder="0"></iframe>
 </p>
 
-[cpj]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA "Localisation du Chalet de la Porte Jaune"
