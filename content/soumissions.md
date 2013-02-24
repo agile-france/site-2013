@@ -72,7 +72,7 @@ D'autres orateurs cités tel que Alistair Cockburn, Peter Stevens, Nathaniel Ric
 
 Pour connaître les noms des autres orateurs ayant soumis une session, il faudra attendre encore un peu ...
 
-A propos : il ne vous reste que jusqu'au 28 février pour profiter pour profiter de l'[inscription au tarif early bird][sinscrire].
+A propos : il ne vous reste que jusqu'au 28 février pour profiter de l'[inscription au tarif early bird][sinscrire].
 
 [soumettre]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ "soumettre une proposition"
 [sinscrire]: http://www.conference-agile.fr/ "s'inscrire à la conférence"
