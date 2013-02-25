@@ -69,6 +69,7 @@ Voici déjà ceux qui étaient listés dans les [suggestions][suggestions] et qu
 - Thierry Cros
  
 D'autres orateurs cités tel que Alistair Cockburn, Peter Stevens, Nathaniel Richand, Xavier Nopre, Xavier Warzee, Antoine Contal, Arnaud Bailly, Aurélien Morvant, Christophe Thibault, Damien Thouvenin, et Régis Medina, envisagent sérieusement une soumission !
+Soit dit en passant, nous avons contacté, de manière directe ou indirecte, quasiment l'ensemble des orateurs cités :-)
 
 Pour connaître les noms des autres orateurs ayant soumis une session, il faudra attendre encore un peu ...
 
