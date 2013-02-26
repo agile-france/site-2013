@@ -10,7 +10,7 @@ Nous vous avions sondés pour avoir des [suggestions d'orateurs][suggestions] en
 
 Il y a quelques jours nous vous partagions une première liste d'orateurs ayant soumis une session, mais également [les premiers thèmes][soumissions] qui se dégagaient de ces soumissions.
 
-Aujourd'hui, alors qu'il reste quelques jours aux orateurs pour soumettre une session, nous vous proposons de [partagez avec nous vos souhaits de sujets][souhaits] vous permettant - quel que soit votre niveau d'expérience - d'apprendre.
+Aujourd'hui, alors qu'il ne reste que quelques jours aux orateurs pour soumettre une session, nous vous proposons de [partager avec nous vos souhaits de sujets][souhaits] pouvant répondre à vos attentes d'apprentissage, et ceci quel que soit votre niveau d'expérience.
 
 Le présent article reprendra (à une fréquence au minimum quotidienne) le contenu de vos souhaits, permettant ainsi à des orateurs de nous proposer des sessions en écho à ces attentes.
 
