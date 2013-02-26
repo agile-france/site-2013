@@ -26,7 +26,7 @@ Si vous aussi avez des choses à enseigner aux praticiens avancés, [l'appel à 
 - Alexandre Boutin (x2)
 - Alexis Monville
 - Alistair Cockburn (x2)
-- Antoine Contal (x2)
+- Antoine Contal (x3)
 - Arnaud Bailly
 - Aurélien Morvant
 - Bernard Marie Chiquet
@@ -41,11 +41,12 @@ Si vous aussi avez des choses à enseigner aux praticiens avancés, [l'appel à 
 - Claude Aubry
 - Damien Thouvenin
 - David Brocard
-- Dominic Williams (x4)
+- Dominic Williams (x5)
 - Emmanuel Gaillot (x2)
 - Emmanuelle Laborit
 - François Beauregard
 - Francois Wauquier
+- Frédéric Menou
 - Géry Derbier (x2)
 - James Grenning
 - Jean-Claude Grosjean
@@ -67,7 +68,7 @@ Si vous aussi avez des choses à enseigner aux praticiens avancés, [l'appel à 
 - Olivier Lafontan
 - Pablo Pernot
 - Pascal Jussac
-- Pascal Van Cauwenberghe (x4, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)
+- Pascal Van Cauwenberghe (x5, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)
 - Patrice Petit
 - Patrick Sarfati
 - Peter Stevens
@@ -75,7 +76,7 @@ Si vous aussi avez des choses à enseigner aux praticiens avancés, [l'appel à 
 - Philippe Launay
 - Pierre Pezziardi
 - Raphael Perquin
-- Régis Médina (x4)
+- Régis Médina (x5)
 - Régis Monot
 - Romain Duris
 - Sandrine Olivencia
