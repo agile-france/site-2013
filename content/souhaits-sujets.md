@@ -14,6 +14,34 @@ Aujourd'hui, alors qu'il ne reste que quelques jours aux orateurs pour soumettre
 
 Le présent article reprendra (à une fréquence au minimum quotidienne) le contenu de vos souhaits, permettant ainsi à des orateurs de nous proposer des sessions en écho à ces attentes.
 
+Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 27 février :
+
+- Agilité et Management
+- Agile et RH
+- Agilité hors IT, par exemple dans une direction métier
+- Artisans logiciels indépendants (REX : sont-ils vraiment agile? quels résultats obtenus? les clients sont-ils satisfaits? comment parviennent-ils à gagner leur vie?)
+- Business agile, ingénierie du besoin, valeur business
+- Clean Code
+- Coaching
+- Coach VS Coach Agile
+- Contractualisation
+- Culture agile
+- DDD
+- eXtreme Programming
+- Kanban
+- Kanban avancé, multi équipes
+- Lean startup
+- Live coding et pratiques avancées de développement
+- Organisation apprenante et tribal leadership
+- Serious games
+- Software Craftsmanship
+- TDD (x2)
+- Transformation agile d'une organisation (au delà de l'équipe produit/projet)
+
+Une suggestion particulière : quelqu'un nous recommande de solliciter les speakers des meilleures session de [Devoxx France][devoxxfr] sur l'agilité.
+Dénoncez nous les sessions Devoxx France que vous voudriez voir également à Agile France ! Comment ? Envoyez un tweet à @AgileFrance avec le lien vers la session recommandée et le compte twitter du speaker :-)
+
+[devoxxfr]: http://www.devoxx.com/display/FR13/Programmes "Programme Devoxx France"
 [souhaits]: https://docs.google.com/forms/d/1GjfkQICnRGEsK4xf40EuPGCRGZca6MjwnbJzrE12Al8/viewform "partagez nous vos souhaits de sujets"
 [soumissions]: http://www.conference-agile.fr/soumissions.html "informations sur les premières soumissions"
 [suggestions]: http://www.conference-agile.fr/suggestions.html "suggestions d'orateurs"
