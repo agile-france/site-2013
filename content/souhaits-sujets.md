@@ -23,6 +23,7 @@ Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 2
 - Business agile, ingénierie du besoin, valeur business
 - Clean Code
 - Coaching
+- Coaching d'organisations
 - Coach VS Coach Agile
 - Contractualisation
 - Culture agile
