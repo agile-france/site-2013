@@ -14,7 +14,7 @@ Aujourd'hui, alors qu'il ne reste que quelques jours aux orateurs pour soumettre
 
 Le présent article reprendra (à une fréquence au minimum quotidienne) le contenu de vos souhaits, permettant ainsi à des orateurs de nous proposer des sessions en écho à ces attentes.
 
-Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 27 février :
+Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 28 février :
 
 - Agilité et Management
 - Agile et RH
