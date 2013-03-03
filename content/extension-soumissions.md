@@ -1,13 +1,13 @@
 status: draft
 Title: Déjà 91 soumissions - et quelques jours de plus pour soumettre
-Date: 2013-02-13 08:30
+Date: 2013-03-04 08:30
 Tags: orateur
 Category: general
 Slug: extension-soumissions
 Author: Frederic Merizen
 Summary: Les soumissions de sessions restent possibles jusqu'au 10 mars
 
-L'appel à orateurs prenait officiellement fin ce matin à minuit.  
+L'appel à orateurs prenait officiellement fin samedi 2 mars à minuit.  
 Avec 88 sessions soumises, c'était déjà un succès.
 Depuis, 3 sessions de plus ont été soumises, et plusieurs orateurs potentiels nous ont contacté pour demander une petite rallonge.
 
