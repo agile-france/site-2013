@@ -29,7 +29,7 @@ if "%1" == "help" (
 
 if "%1" == "html" (
 	call :clean
-	%PELICAN% %INPUTDIR% -o %OUTPUTDIR% -s %CONFFILE% %PELICANOPTS%
+	"%PELICAN%" "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%CONFFILE%" %PELICANOPTS%
 	if errorlevel 1 exit /b 1
 	echo.Done
 	goto end
@@ -37,31 +37,31 @@ if "%1" == "html" (
 
 if "%1" == "clean" (
 	:clean
-	for /d %%i in (%OUTPUTDIR%\*) do rmdir /q /s %%i
-	del /q /s %OUTPUTDIR%\*
+	for /d %%i in ("%OUTPUTDIR%\*") do rmdir /q /s %%i
+	del /q /s "%OUTPUTDIR%\*"
 	goto end
 )
 
 if "%1" == "regenerate" (
 	call :clean
-	%PELICAN% -r %INPUTDIR% -o %OUTPUTDIR% -s %CONFFILE% %PELICANOPTS%
+	"%PELICAN%" -r "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%CONFFILE%" "%PELICANOPTS%"
 	if errorlevel 1 exit /b 1
 	echo.Done
 	goto end
 )
 
 if "%1" == "serve" (
-	%comspec% /c "cd %OUTPUTDIR% && python -m SimpleHTTPServer"
+	%comspec% /c "cd ""%OUTPUTDIR%"" && python -m SimpleHTTPServer"
 	goto end
 )
 
 if "%1" == "devserver" (
-	%BASEDIR%\develop_server.bat restart
+	"%BASEDIR%\develop_server.bat" restart
 	goto end
 )
 
 if "%1" == "publish" (
-	%PELICAN% %INPUTDIR% -o %OUTPUTDIR% -s %PUBLISHCONF% %PELICANOPTS%
+	"%PELICAN%" "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%PUBLISHCONF%" "%PELICANOPTS%"
 	goto end
 )
 
