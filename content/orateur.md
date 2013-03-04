@@ -20,5 +20,7 @@ L'appel à orateur terminera <span class="color">le <strike>samedi 2 mars</strik
 Nous voulons ouvrir la conférence aux pratiques agiles dans tous les métiers de l'IT (management, développement, MOA, test, ...) et hors IT. Ajoutez autant de propositions que vous le souhaitez, elles seront traitées avec la plus grande attention.
 </p>
 <p class="soon-small">
-PS: le bouton "soumettre" ne fonctionne pas ? Cela arrive quand vous n'avez pas à accès à GoogleDocs. Dans ce cas envoyez un mail à contact [at] conference-agile [point] org avec votre nom, le tire et la durée de votre sessions, son type (atelier, conférence ...) et une description pour donner envie d'y participer.
+PS: <span class="color">le bouton "soumettre" ne fonctionne pas ?</span> Cela arrive quand vous n'avez pas à accès à GoogleDocs. 
+Dans ce cas envoyez un mail à contact [at] conference-agile [point] org avec votre nom, le titre et la durée de votre session, 
+son type (atelier, conférence ...) et une description qui donne envie d'y participer.
 </p>
