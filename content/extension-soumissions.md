@@ -1,4 +1,3 @@
-status: draft
 Title: Déjà 91 soumissions - et quelques jours de plus pour soumettre
 Date: 2013-03-04 08:30
 Tags: orateur
