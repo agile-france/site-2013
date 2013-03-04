@@ -14,7 +14,7 @@ Aujourd'hui, alors qu'il ne reste que quelques jours aux orateurs pour soumettre
 
 Le présent article reprendra (à une fréquence au minimum quotidienne) le contenu de vos souhaits, permettant ainsi à des orateurs de nous proposer des sessions en écho à ces attentes.
 
-Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 28 février :
+Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 4 mars :
 
 - Agile Games (x2)
 - Agilité et Management
