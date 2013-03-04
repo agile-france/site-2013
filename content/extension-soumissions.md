@@ -21,4 +21,4 @@ C'est pourquoi nous <span class='color'>rallongeons l'appel à orateurs</span> d
 Cet ami qui a promis de soumettre un sujet, mais n'a pas eu le temps ? Il lui reste une semaine pour passer à l'action.  
 Vous-même avez un regret de dernière minute ? Ce sujet qui vous tient à coeur mais que vous n'avez pas pu présenter ? Il vous reste une semaine.
 
-Messieurs, à vos crayons.
+Mesdames, messieurs, à vos crayons.
