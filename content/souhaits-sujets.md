@@ -16,28 +16,39 @@ Le présent article reprendra (à une fréquence au minimum quotidienne) le cont
 
 Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 28 février :
 
+- Agile Games (x2)
 - Agilité et Management
-- Agile et RH
+- Agile et RH (x2), notamment l'évolution de carrière des développeurs
 - Agilité hors IT, par exemple dans une direction métier
 - Artisans logiciels indépendants (REX : sont-ils vraiment agile? quels résultats obtenus? les clients sont-ils satisfaits? comment parviennent-ils à gagner leur vie?)
+- Assurance qualité et Agilité
+- ATDD
 - Business agile, ingénierie du besoin, valeur business
 - Clean Code
+- Cloud (PaaS / IaaS) et Agilité
 - Coaching
 - Coaching d'organisations
 - Coach VS Coach Agile
+- Coach : sa place dans l'organisation à court et moyen terme
 - Contractualisation
 - Culture agile
 - DDD
+- Développement personnel
+- DevOps
 - eXtreme Programming
 - Kanban
 - Kanban avancé, multi équipes
 - Lean startup
 - Live coding et pratiques avancées de développement
+- Livraison et déploiement continu
+- NoSQL et Agilité
 - Organisation apprenante et tribal leadership
-- Serious games
-- Software Craftsmanship
+- Quantified Self
+- Solution Focus
+- Software Craftsmanship (x2)
 - TDD (x2)
 - Transformation agile d'une organisation (au delà de l'équipe produit/projet)
+- Usine Logicielle
 
 Une suggestion particulière : quelqu'un nous recommande de solliciter les speakers des meilleures session de [Devoxx France][devoxxfr] sur l'agilité.
 Dénoncez nous les sessions Devoxx France que vous voudriez voir également à Agile France ! Comment ? Envoyez un tweet à @AgileFrance avec le lien vers la session recommandée et le compte twitter du speaker :-)
