@@ -1,5 +1,5 @@
 Title: Agile France 2013 - Orateur
-Date: 2013-01-03 20:20
+Date: 2013-03-04 09:50
 Tags: orateur
 Category: general
 Slug: orateur
@@ -11,7 +11,7 @@ Summary: Devenez Orateur
 	<span class="color">Vos session permettront aux praticiens avancés d'apprendre.</span>
 </p>
 <p class="soon-med">
-L'appel à orateur terminera <span class="color">le samedi 2 mars</span> à minuit.
+L'appel à orateur terminera <span class="color">le <strike>samedi 2 mars</strike> dimanche 10 mars</span> à minuit.
 </p>
 <p class="soon-big">
 	<button><a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ">Soumettez votre session</a></button>
