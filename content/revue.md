@@ -5,7 +5,7 @@ Category: general
 Slug: revue
 Author: l'Équipe d'organisation
 Summary: Comment se passe la revue des soumissions ?
-
+Status: draft
 
 <p class="soon-med">
   <span class="color">Revue communautaire pour les soumissions de sessions</span>
@@ -41,5 +41,3 @@ On arrête de modifier les sujets et nous établissons le programme sur la base 
 <p class="soon-small">
 (*) Le "Perfection Game" est un exercice tiré des "Core Protocols" de Jim & Michele Mac Carthy. Pour plus d'info vous pouvez télécharger une <a href="http://www.mccarthyshow.com/wp-content/uploads/2011/02/Equipe+v2.0-1.2.doc" alt="Core Protocols - Français">version française des 23 protocoles (dont le fameux Perfection Game)</a>.
 </p>
-
-draft
