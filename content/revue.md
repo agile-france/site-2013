@@ -26,7 +26,7 @@ Nous avons donc fait appel à la communauté pour revoir les soumissions et sugg
   <span class="color">Petit jeu de perfectionnement</span>
 </p>
 <p class="soon-med">
-Nous demandons aux "reviewers" (quel serait le terme français ?) de se livrer au "perfection game" : plutôt que de dire ce qui ne va pas, dire ce qui est bien et suggérer quelques pistes qui permettrait d'améliorer le pitch proposé.
+Nous demandons aux relecteurs de se livrer au "perfection game" : plutôt que de dire ce qui ne va pas, dire ce qui est bien et suggérer quelques pistes qui permettrait d'améliorer le pitch proposé.
 </p>
 <p class="soon-med">
 Libre ensuite aux orateurs d'en tenir compte ou pas et de déposer, le cas échéant, une nouvelle version de leur proposition de session. 
