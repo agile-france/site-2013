@@ -10,4 +10,4 @@ Les métadonnées sont décrites dans la [doc de pélican][]
 La syntaxe de markdown est décirte sur [daring fireball][].
 
 [doc de pélican]: http://docs.getpelican.com/en/3.1.1/getting_started.html#writing-articles-using-pelican
-[daring fireball][]: http://daringfireball.net/projects/markdown/syntax
+[daring fireball]: http://daringfireball.net/projects/markdown/syntax
