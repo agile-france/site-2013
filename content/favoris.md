@@ -6,17 +6,17 @@ Author: comité de sélection
 status: draft
 Summary: Nos 9 sessions favorites
 
-Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!
+Vous pouvez ignorer les contrôleurs de gestion; les contrôleurs de gestion eux ne vous ignoreront pas!
 Pierre Hervouet, Pascal Van Cauwenberghe
 La session est un peu décalée. L'agilité dans d'autres contextes : Marketing, Psychologie
 
 Agilistes, n'oubliez pas la technique
 Xavier Nopre
-Nous parlons de l'agilité en dehors des sentiers battus. Il n'y a pas que les cérémonies dans l'agilité, la techique aussi compte. Cela apportera beaucoup aux agilistes que nous sommes.
+Nous parlons de l'agilité en dehors des sentiers battus. Il n'y a pas que les cérémonies dans l'agilité, la technique aussi compte. Cela apportera beaucoup aux agilistes que nous sommes.
 
 Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?
 Michel Hervé
-Retour d'expérience d'un chef d'entreprise qui a créé sa boite en 1976 et construit un group agile et fractale de 2400 personnes selon des principes totalement agiles. Je veux faire pareil !
+Retour d'expérience d'un chef d'entreprise qui a créé sa boite en 1976 et construit un groupe agile et fractal de 2400 personnes selon des principes totalement agiles. Je veux faire pareil !
 
 Mais pourquoi y m'écoute pas ?
 Florence Chabanois
@@ -36,8 +36,8 @@ Pour la volonté d'apporter constamment de la valeur, le courage d'appliquer les
 
 Collaborer, et si on improvisait?
 Vincent Daviet
-Il y a certaine notion comme l'écoute, la confiance, l'adaptation que l'improvisation pourrait nous aider à mieux comprendre.
+Il y a certaines notions comme l'écoute, la confiance, l'adaptation que l'improvisation pourrait nous aider à mieux comprendre.
 
 Coacher des managers
 Antoine Contal
-En agile, on coach des équipes. Super, mais en fait, c'est souvent plus haut que ça bloque. Une session sur le sujet pourrait peut être nous être utile !
+En agile, on coache des équipes. Super, mais en fait, c'est souvent plus haut que ça bloque. Une session sur le sujet pourrait peut être nous être utile !
