@@ -24,7 +24,7 @@ Bailloner son "moi-je", comprendre et écouter efficacement pour mieux travaille
 
 Le serveur qui fait ping
 Emmanuel Gaillot et Jonathan Perret
-Nos valeureux héros codeurs vont au fond de la Moria vaincre le Balrode.js et en remontent avec une session de TDD qui s'annonce passionnante.
+Nos valeureux héros codeurs vont au fond de la Moria vaincre le Balnode.js et en remontent avec une session de TDD qui s'annonce passionnante.
 
 Imaginer l'entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes
 Lan Levy / Damien Thouvenin
