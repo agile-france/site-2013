@@ -18,7 +18,7 @@ Summary: Nos 9 sessions favorites
 <p><i>Xavier Nopre</i></p>
 <p>Ellène: "Nous parlons de l'agilité en dehors des sentiers battus. Il n'y a pas que les cérémonies dans l'agilité, la technique aussi compte. Cela apportera beaucoup aux agilistes que nous sommes."</p>
 
-<p>Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?</p>
+<h4>Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?</h4>
 <p><i>Michel Hervé</i></p>
 <p>Damien: "Retour d'expérience d'un chef d'entreprise qui a créé sa boite en 1976 et construit un groupe agile et fractal de 2400 personnes selon des principes totalement agiles. Je veux faire pareil !"</p>
 
