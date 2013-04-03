@@ -6,8 +6,8 @@ Author: comité de sélection
 status: draft
 Summary: Nos 9 sessions favorites
 
-Vous pouvez ignorer...
-PVC, +1
+Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!
+Pierre Hervouet, Pascal Van Cauwenberghe
 La session est un peu décalée. L'agilité dans d'autres contextes : Marketing, Psychologie
 
 Agilistes, n'oubliez pas la technique
