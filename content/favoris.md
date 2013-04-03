@@ -8,7 +8,7 @@ Summary: Nos 9 sessions favorites
 
 <p>Le comité de sélection d'Agile France 2013 était réuni hier soir. 9 participants (merci à Ségolène, Caroline et Yannick qui nous ont rejoint pour l'occasion), une grosse centaine de propositions et 3 heures de travail et de discussions passionnées ont permis d'arriver à une short-list de 52 sujets.</p>
 <p><p>Encore une fois, Agile France va marquer les mémoires. Au vu de la sélection, 2013 sera un grand cru ! N'oubliez pas de <a href="http://www.conference-agile.fr/" title="billeterie Agile France 2013">réserver vos places</a>.</p>
-<p>La semaine prochaine nous vérifieront la cohérence de l'ensemble, l'équilibre entre les sujets et les formats puis nous publierons le programme. En attendant, voici nos 9 propositions favorites:</p>
+<p>La semaine prochaine nous vérifierons la cohérence de l'ensemble, l'équilibre entre les sujets et les formats puis nous publierons le programme. En attendant, voici nos 9 propositions favorites:</p>
 
 <h4>Vous pouvez ignorer les contrôleurs de gestion; les contrôleurs de gestion eux ne vous ignoreront pas!</h4>
 <p><i>Pierre Hervouet, Pascal van Cauwenberghe</i></p>
@@ -24,7 +24,7 @@ Summary: Nos 9 sessions favorites
 
 <h4>Mais pourquoi y m'écoute pas ?</h4>
 <p><i>Florence Chabanois</i></p>
-<p>Stéphanie: "Bailloner son "moi-je", comprendre et écouter efficacement pour mieux travailler en équipe et se faire entendre."</p>
+<p>Stéphanie: "Baillonner son "moi-je", comprendre et écouter efficacement pour mieux travailler en équipe et se faire entendre."</p>
 
 <h4>Le serveur qui fait ping</h4>
 <p><i>Emmanuel Gaillot et Jonathan Perret</i></p>
@@ -32,7 +32,7 @@ Summary: Nos 9 sessions favorites
 
 <h4>Imaginer l'entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</h4>
 <p><i>Lan Levy / Damien Thouvenin</i></p>
-<p>Caro: "Pour avoir l'opportunité en une seule session d'à la fois travailler sur le sujet de l'entreprise agile et de découvrir un nouvel outil de facilitation."</p>
+<p>Caro: "Pour avoir l'opportunité en une seule session à la fois de travailler la question de l'entreprise agile et de découvrir un nouvel outil de facilitation."</p>
 
 <h4>Code Legacy : faire évoluer ou ré-écrire ?</h4>
 <p><i>Cyrille Martraire</i></p>
