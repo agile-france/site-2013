@@ -1,0 +1,36 @@
+{% macro post(session, speakers, more=False) -%}
+  <div class="entry">
+     <h2><a href="{{ session.url }}" rel="bookmark">{{ session.title }}</a></h2>
+     
+     <!-- Meta details -->
+     <div class="meta">
+        <i class="icon-user"></i>
+        {% for speaker in session.speakers %}
+          {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
+          {{ speaker }}
+        {%- endfor %}
+        {#
+          <span class="pull-right"><i class="icon-comment"></i> <a href="#">{{ num_comments }} Comments</a></span>
+        #}
+     </div>
+     {% if session.img %}
+       <div class="bthumb">
+         <a href="#"><img src="{{ session.img }}" alt="" /></a>
+       </div>
+     {% endif %}
+
+     {{ caller() }}
+     {% for name in session.speakers %}
+       {% set slugname = name|slugify %}
+       {% if slugname in speakers %}
+         {% set speaker = speakers[slugname] %}
+         <h4>{{ 'A propos de'|apostrophe(speaker.title) }}</h4>
+         {{ speaker.content }}
+       {% endif %}
+     {% endfor %}
+     {% if more %}
+        <div class="button"><a href="{{ more_url }}">Read More...</a></div>
+     {% else %}
+     {% endif %}
+  </div>
+{%- endmacro %}

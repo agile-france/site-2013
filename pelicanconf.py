@@ -2,6 +2,14 @@
 # -*- coding: utf-8 -*- #
 
 from jinja2.ext import loopcontrols
+from pelican.utils import slugify
+
+from os.path import dirname
+import sys
+
+sys.path.insert(0, dirname(__file__))
+
+from plugins import conference
 
 AUTHOR = u"L'équipe d'organisation"
 SITENAME = u'Agile France 2013'
@@ -14,6 +22,7 @@ DEFAULT_LANG = u'fr'
 MENUITEMS = [
 	(u'Inscription', '/index.html'),
 	(u'Appel à Orateurs', '/orateur.html'),
+	(u'Programme', lambda sessions: [(s.title, '/' + s.url) for s in sessions]),
 	(u'Blog', '/archives.html'),
 	(u'Éditions précédentes', [
 		(u'2006 - restauration en cours', '#'),
@@ -44,3 +53,26 @@ INDEX_SAVE_AS = False
 JINJA_EXTENSIONS = [loopcontrols]
 
 TEMPLATE_PAGES = {'js/custom.js': 'theme/js/custom.js'}
+
+PLUGINS = [conference]
+
+ARTICLE_EXCLUDES = ['pages', 'speakers', 'sessions']
+
+SESSION_DIR = 'sessions'
+SESSION_EXCLUDES = ''
+SESSION_SAVE_AS = 'sessions/{slug}.html'
+SESSION_URL = 'sessions/{slug}.html'
+
+SPEAKER_DIR = 'speakers'
+SPEAKER_EXCLUDES = ''
+SPEAKER_SAVE_AS = 'speakers/{slug}.html'
+SPEAKER_URL = 'speakers/{slug}.html'
+
+
+def apostrophe(article, nom):
+	if nom[0].lower() in "aeiouy":
+		return article[:-1] + "'" + nom
+	else:
+		return article + ' ' + nom
+
+JINJA_FILTERS = {'apostrophe': apostrophe, 'slugify': slugify}
