@@ -77,4 +77,4 @@ def apostrophe(article, nom):
 
 JINJA_FILTERS = {'apostrophe': apostrophe, 'slugify': slugify}
 
-STATIC_PATHS = ["resources", ]
+STATIC_PATHS = ['programme']
