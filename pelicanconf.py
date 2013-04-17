@@ -76,3 +76,5 @@ def apostrophe(article, nom):
 		return article + ' ' + nom
 
 JINJA_FILTERS = {'apostrophe': apostrophe, 'slugify': slugify}
+
+STATIC_PATHS = ["resources", ]
