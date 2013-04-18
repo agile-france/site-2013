@@ -1,7 +1,6 @@
 Title: Consultez le programme !
 Date: 2013-04-17 22:14
 Author: comité de sélection
-Status: draft
 Category: general
 
 Nous avons mis en ligne une première [version du programme 2013][].
