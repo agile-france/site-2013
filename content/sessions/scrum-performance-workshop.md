@@ -15,7 +15,7 @@ What should you change and what can leave the way it is?
 Every participant will leave this workshop with new inspiration for improving their own organization, starting on Monday morning!
 
 #### Options
+
 This workshop can be held in French or English.
 My (quite minimal) written materials are in English.
 I leave it up to the committee to decide which language you prefer, or we can defer the decision to session participants.
-As I do not really write French, if you would like materials or the announcement in French, I would need help translating them.

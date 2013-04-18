@@ -3,8 +3,6 @@ Title: Imaginer l’entreprise agile avec le Consensus Workshop, un outil de fac
 Duration: 120 minutes
 Format: Atelier
 
-
-
 Nombre de participant: 20 maximum
 Niveau: intermédiaire et plus
 

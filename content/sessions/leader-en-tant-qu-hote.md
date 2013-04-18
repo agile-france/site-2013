@@ -14,6 +14,7 @@ Nous verrons ainsi comment utiliser, ou pas, cette métaphore dans la mise en oe
 Compte tenu du caractère co-créatif de la métaphore proposée tout le monde est concerné et bienvenu dans cette session.
 
 #### Compléments
+
 Je n'ai encore jamais fait cette session, c'est donc expérimental.
 
 [métaphore ancienne]: http://hostleadership.ning.com/

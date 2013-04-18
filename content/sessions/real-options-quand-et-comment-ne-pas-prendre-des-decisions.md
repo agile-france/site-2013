@@ -21,6 +21,7 @@ Vous découvrirez peut-être que vous aussi croyez des choses qui sont fausses.
 Au minimum vous entendrez quelques histoires belges... :-)
 
 #### Compléments
+
 Cette conférence a été présentée à Devoxx France, fin mars. Entre mars et mai, la présentation aura surement changé ;-)
 
 [Options Réelles]: http://fr.wikipedia.org/wiki/Analyse_par_les_options_r%C3%A9elles
