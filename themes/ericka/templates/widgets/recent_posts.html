@@ -34,7 +34,7 @@
          <ul>
             {% for article in articles %}
               {% if loop.index > maxposts %}{% break %}{% endif %}
-              <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+              <li><a href="/{{ article.url }}">{{ article.title }}</a></li>
             {% endfor %}
          </ul>
    </div>
