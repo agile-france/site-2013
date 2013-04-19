@@ -17,5 +17,5 @@ Every participant will leave this workshop with new inspiration for improving th
 #### Options
 
 This workshop can be held in French or English.
+We can defer the decision to session participants.
 My (quite minimal) written materials are in English.
-I leave it up to the committee to decide which language you prefer, or we can defer the decision to session participants.
