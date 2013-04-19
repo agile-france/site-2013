@@ -5,9 +5,6 @@ Format: Quickie
 
 La pratique artistique comme source d'inspiration de l'amélioration continue.
 
-En relation avec Quickie  "Ce que le sport m'a appris d'agile", l'un peut se programmer sans l'autre
-Pas de limite de participants
-
 Dans son ouvrage Coaching agile Teams,  Lyssa Adkins mentionne au sujet du coach agile : "Nous apportons aux équipes nos compétences dans plusieurs disciplines connexes".
 Quelles compétences avons-nous acquises dans notre parcours de vie qui peuvent renforcer notre agilité professionnelle ?
 
@@ -15,4 +12,8 @@ En 5 temps, je présenterai quelques retours d'expérience de théâtre qui rés
 Quels enseignements ? Comme le rugby sert de métaphore à Scrum, quelles nouvelles inspirations trouver dans d'autres disciplines ?
 
 J'inviterai ainsi les participants à élargir leur vision de l'agilité et à réfléchir sur ce qui, dans leur propre expérience hors travail, peut alimenter leur amélioration professionnelle. Objectif : renforcer l'alignement des différentes facettes de nos personnalités.
-Compléments
+
+En relation avec le Quickie "[Ce que le sport m'a appris d'agile][]", l'un peut se programmer sans l'autre
+Pas de limite de participants
+
+[Ce que le sport m'a appris d'agile]: /sessions/ce-que-le-sport-ma-appris-dagile.html
