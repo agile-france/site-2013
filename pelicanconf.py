@@ -22,7 +22,8 @@ DEFAULT_LANG = u'fr'
 MENUITEMS = [
 	(u'Inscription', '/index.html'),
 	(u'Appel à Orateurs', '/orateur.html'),
-	(u'Programme', lambda sessions: [(s.title, '/' + s.url) for s in sessions]),
+	(u'Programme', '/static/programme/programme-agile-france-2013-draft-1.pdf'),
+	(u'Sessions', lambda sessions: [(s.title, '/' + s.url) for s in sessions]),
 	(u'Blog', '/archives.html'),
 	(u'Éditions précédentes', [
 		(u'2006 - restauration en cours', '#'),
