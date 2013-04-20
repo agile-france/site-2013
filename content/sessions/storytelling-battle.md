@@ -26,7 +26,7 @@ Pour le bilan de la session, les participants seront invités à évaluer la dif
 La participation aux sessions de présentation des sujets d'une personne qui ne connaît pas du tout le domaine (par exemple hôtesse d'accueil) sera idéale.
 Le but de l'atelier est de démontrer l'efficacité et la persistance des messages que nous transmettons en construisant des histoires.
 
-A qui s’adresse cette session?
+#### A qui s’adresse cette session?
 
 L’atelier ne vise pas un profil particulier pour le public, il s’adresse à toute personne intéressée à gagner en puissance du message qu’elle souhaite transmettre.
 Si réléver la vision produit, accompagner le changement, ou encore l’utilisation des outils pédagogiques innovants font partie de vos objectifs, cette session est pour vous.
