@@ -25,6 +25,7 @@ class SessionGenerator(Generator):
 
     def __init__(self, *args, **kwargs):
         self.sessions = []
+        self.drafts = []
         super(SessionGenerator, self).__init__(*args, **kwargs)
         signals.pages_generator_init.send(self)
 
@@ -46,7 +47,14 @@ class SessionGenerator(Generator):
 
             self.add_filename(session)
 
-            all_sessions.append(session)
+            if session.status == "published":
+                all_sessions.append(session)
+            elif session.status == "draft":
+                self.drafts.append(session)
+            else:
+                logger.warning(u"Unknown status %s for file %s, skipping it." %
+                               (repr(unicode.encode(session.status, 'utf-8')),
+                                repr(f)))
 
         self.sessions, self.translations = process_translations(all_sessions)
 
@@ -58,7 +66,10 @@ class SessionGenerator(Generator):
             writer.write_file(session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
-
+        for session in self.drafts:
+            writer.write_file('drafts/%s' % session.save_as, self.get_template(session.template),
+                    self.context, session=session,
+                    relative_urls=self.settings.get('RELATIVE_URLS'))
 
 class SpeakerGenerator(Generator):
     """Generate speakers"""
