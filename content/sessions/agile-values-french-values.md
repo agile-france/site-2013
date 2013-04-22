@@ -3,7 +3,7 @@ Title: Agile Values, French Values
 Duration: 90 minutes
 Format:  Workshop
 
-"Scrum won't work here! It might work in &lt;some other place>, but our values are different."
+"Scrum won't work here! It might work in &lt;some other place&gt;, but our values are different."
 How many people have had that reaction to a new or foreign idea: This won't work here because "our situation is different"?
 This interactive session will explore agile values and how to apply them in any context. 
 
