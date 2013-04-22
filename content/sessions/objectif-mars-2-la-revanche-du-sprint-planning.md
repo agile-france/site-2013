@@ -2,6 +2,7 @@ Speakers: Pierrick Revol
 Title: Objectif Mars 2 : La revanche du Sprint Planning
 Duration: 120 minutes
 Format: Atelier / Game
+Tags: Équipe, Jeu
 
 Venez découvrir cette seconde version du jeu Objectif Mars.
 

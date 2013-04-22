@@ -2,6 +2,7 @@ Speakers: Damien Thouvenin
 Title: Ma PME Agile (work in progress)
 Duration: 30 minutes
 Format: Conférence
+Tags: Ouverture, Retour d'expérience
 
 Comment appliquer l'agilité à son management quand on est patron d'une PME qui vend de l'agilité à ses clients ?
 

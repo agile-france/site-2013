@@ -2,6 +2,7 @@ Speakers: Yannick Ameur
 Title: Atelier RH Team
 Duration: 90 minutes
 Format: Atelier
+Tags: Ouverture
 
 Je vous propose de vous exercer à passer des entretiens Agile.
 

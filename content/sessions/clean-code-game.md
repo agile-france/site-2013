@@ -2,6 +2,7 @@ Speakers: Mathieu Gandin, Michel Domenjoud
 Title: Clean Code Game
 Duration: 120 minutes
 Format: Atelier
+Tags: Code
 
 Maintenir une base de code propre et bien testé est un facteur clé de succès de la réalisation d’un produit. Mais avant d’en arriver là, il convient, en tant que développeur, d’adopter une certaine discipline en terme de refactoring de code.
 

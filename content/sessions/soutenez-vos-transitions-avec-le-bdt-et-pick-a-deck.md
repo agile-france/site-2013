@@ -2,6 +2,7 @@ Speakers: Olivier Lafontan
 Title: Soutenez vos transitions avec le BDT et Pick A Deck
 Duration: 90 minutes
 Format: Atelier
+Tags: Ouverture
 
 Pick A Deck est une application GRATUITE dédiées au support des transitions vers de nouveaux comportements.
 

@@ -2,6 +2,7 @@ Speakers: Guillaume Duquesnay
 Title: Coder au féminin : mythe ou perspective ?
 Duration: 60 minutes
 Format: Conférence
+Tags: Ouverture
 
 Dans le milieu de l’informatique, on rencontre des femmes directrice, manageure, ergonome, responsable produit, chef de projet : les femmes sont là.
 Pourtant, une catégorie se fait rare : les codeuses.

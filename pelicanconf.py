@@ -19,22 +19,30 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-MENUITEMS = [
-	(u'Inscription', '/index.html'),
-	(u'Appel à Orateurs', '/orateur.html'),
-	(u'Programme', '/static/programme/programme-agile-france-2013-draft-2.pdf'),
-	(u'Sessions', lambda sessions: [(s.title, '/' + s.url) for s in sessions]),
-	(u'Blog', '/archives.html'),
-	(u'Éditions précédentes', [
-		(u'2006 - restauration en cours', '#'),
-		(u'2007 - restauration en cours', '#'),
-		(u'2008', 'http://2009.conference-agile.fr/conf.agile-france.org/2008_programme.html'),
-		(u'2009', 'http://2009.conference-agile.fr'),
-		(u'2010 - restauration en cours', '#'),
-		(u'2011 - restauration en cours', '#'),
-		(u'2012', 'http://2012.conference-agile.fr'),
-		],)
-	]
+def MENUITEMS(session_info):
+	def session_list_menu(sessions):
+		return [(s.title, '/' + s.url) for s in sessions]
+
+	def sessions_by_tag(tags):
+		return [(tag.name, session_list_menu(sessions)) for tag, sessions in tags.items()]
+
+	return [
+		(u'Inscription', '/index.html'),
+		(u'Appel à Orateurs', '/orateur.html'),
+		(u'Programme', '/static/programme/programme-agile-france-2013-draft-2.pdf'),
+		(u'Sessions', [
+			(u'Toutes', session_list_menu(session_info.sessions))] + sessions_by_tag(session_info.tags) ),
+		(u'Blog', '/archives.html'),
+		(u'Éditions précédentes', [
+			(u'2006 - restauration en cours', '#'),
+			(u'2007 - restauration en cours', '#'),
+			(u'2008', 'http://2009.conference-agile.fr/conf.agile-france.org/2008_programme.html'),
+			(u'2009', 'http://2009.conference-agile.fr'),
+			(u'2010 - restauration en cours', '#'),
+			(u'2011 - restauration en cours', '#'),
+			(u'2012', 'http://2012.conference-agile.fr'),
+			],)
+		]
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'

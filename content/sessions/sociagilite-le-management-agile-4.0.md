@@ -1,7 +1,8 @@
 Speakers: Thierry Cros
 Title: Sociagilité : le Management agile 4.0
 Duration: 120 minutes
-Format:  Atelier
+Format: Atelier
+Tags: Équipe
 
 En deux mots : à  partir d’une expérimentation concrète dont le but est de montrer l’intérêt de l’intelligence collective, cet atelier est une porte ouverte sur le rôle de management agile.
 

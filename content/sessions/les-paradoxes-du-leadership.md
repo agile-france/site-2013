@@ -2,6 +2,7 @@ Speakers: Thomas Lissajoux, Marc Cherfi
 Title: Les paradoxes du leadership
 Duration: 90 minutes
 Format:  Conférence
+Tags: Équipe, Coaching
 
 Vous êtes un manager, un coach ou un leader anonyme.
 En tout cas vous êtes un agent de changement et vous faites de votre mieux.

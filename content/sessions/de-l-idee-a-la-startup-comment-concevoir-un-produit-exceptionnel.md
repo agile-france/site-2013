@@ -2,6 +2,7 @@ Speakers: Nathaniel Richand, Yannick Grenzinger
 Title: De l'idée à la startup, comment concevoir un produit exceptionnel
 Duration: 180 minutes
 Format: Atelier
+Tags: Lean
 
 Vous avez une super idée en tête et vous vous posez plein de questions sur comment la concrétiser.
 Ou peut-être même mieux, vous l'avez déjà développé et mis à disposition, mais votre produit ne décolle pas aussi rapidement que vous l'auriez imaginé!

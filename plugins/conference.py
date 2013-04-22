@@ -1,3 +1,4 @@
+from collections import defaultdict
 from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, is_valid_content 
@@ -20,11 +21,18 @@ class Speaker(Page):
     default_template = 'speaker'
 
 
+class Sessions:
+    """All informations about sessions"""
+
+    def __init__(self, *args, **kwargs):
+        self.sessions = []
+        self.tags = defaultdict(list)
+
 class SessionGenerator(Generator):
     """Generate sessions"""
 
     def __init__(self, *args, **kwargs):
-        self.sessions = []
+        self.sessions = Sessions()
         self.drafts = []
         super(SessionGenerator, self).__init__(*args, **kwargs)
         signals.pages_generator_init.send(self)
@@ -48,6 +56,9 @@ class SessionGenerator(Generator):
             self.add_filename(session)
 
             if session.status == "published":
+                if hasattr(session, 'tags'):
+                    for tag in session.tags:
+                        self.sessions.tags[tag].append(session)
                 all_sessions.append(session)
             elif session.status == "draft":
                 self.drafts.append(session)
@@ -56,13 +67,13 @@ class SessionGenerator(Generator):
                                (repr(unicode.encode(session.status, 'utf-8')),
                                 repr(f)))
 
-        self.sessions, self.translations = process_translations(all_sessions)
+        self.sessions.sessions, self.translations = process_translations(all_sessions)
 
         self._update_context(('sessions', ))
         self.context['SESSIONS'] = self.sessions
 
     def generate_output(self, writer):
-        for session in chain(self.translations, self.sessions):
+        for session in chain(self.translations, self.sessions.sessions):
             writer.write_file(session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))

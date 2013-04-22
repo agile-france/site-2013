@@ -2,6 +2,7 @@ Speakers: Lan Levy, Damien Thouvenin
 Title: Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes
 Duration: 120 minutes
 Format: Atelier
+Tags: Coaching
 
 Et si on appliquait les principes agiles au pilotage d'entreprise ?
 

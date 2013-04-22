@@ -2,6 +2,7 @@ Speakers: Frédéric Menou, Valentin Surrel
 Title: Continuous Delivery chez capitainetrain.com
 Duration: 60 minutes
 Format: Conférence
+Tags: Retour d'expérience, Code
 
 Nous souhaitons vous montrer comment nous sommes passé de livraisons rares et douloureuses à des livraisons banales et fréquentes.
 Livrer son logiciel en production c'est un chemin parsemé d'embûches, donc il sera souvent question de ce qui ne marche pas !

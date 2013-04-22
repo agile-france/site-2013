@@ -2,6 +2,7 @@ Speakers: Alfred Almendra
 Title: Atelier MVP : un peu d'UX pour innover efficacement
 Duration: 60 minutes
 Format: Atelier LeanUX
+Tags: Lean
 
 Proposer une solution innovante et avoir un feedback rapide : le tout en moins de 2h !
 Quelle entreprise peut se permettre le luxe d'ignorer une technique aussi rentable ?

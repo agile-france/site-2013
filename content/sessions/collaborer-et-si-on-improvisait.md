@@ -2,6 +2,7 @@ Speakers: Vincent Daviet
 Title: Collaborer, et si on improvisait ?
 Duration: 60 minutes
 Format: Atelier
+Tags: Ouverture, Coaching
 
 Public : ouvert à tous, même aux plus timides !
 A la manière des jeux agiles, tout le monde peut participer sans compétence particulière.

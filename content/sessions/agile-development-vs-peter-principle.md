@@ -2,6 +2,7 @@ Speakers: Sébastien Drouard
 Title: Agile Development VS Peter Principle
 Duration: 30 minutes
 Format: Quickie
+Tags: Équipe, Retour d'expérience
 
 Dans le déploiement de l’Agilité en entreprise, les résistances aux changements peuvent prendre différentes formes et ne viennent pas forcément de la plus haute hiérarchie.
 

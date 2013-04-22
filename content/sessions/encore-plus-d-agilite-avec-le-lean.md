@@ -2,6 +2,7 @@ Speakers: Régis Medina
 Title: Encore plus d'agilité avec le lean : trois pratiques pour commencer
 Duration: 60 minutes
 Format: Conférence
+Tags: Lean
 
 Voilà, vous avez mis en oeuvre les principales pratiques agiles dans votre équipe.
 Bravo !
@@ -9,9 +10,10 @@ Mais que faire ensuite ?
 Quelles sont les prochaines étapes pour continuer à progresser ?
 
 Trois sujets émergent aujourd'hui comme prochaines frontières de l'agilité :
-Comment fabriquer le bon produit, en identifiant précisément l'ensemble minimum de fonctionnalités qui satisfera complètement les utilisateurs ?
-Comment livrer au rythme attendu par le client, sans rogner sur la qualité ou mettre l'équipe sur les genoux ?
-Comment traduire ces efforts en bénéfices concrets pour l'entreprise ?
+
+- Comment fabriquer le bon produit, en identifiant précisément l'ensemble minimum de fonctionnalités qui satisfera complètement les utilisateurs ?
+- Comment livrer au rythme attendu par le client, sans rogner sur la qualité ou mettre l'équipe sur les genoux ?
+- Comment traduire ces efforts en bénéfices concrets pour l'entreprise ?
 
 Le lean offre aujourd'hui des moyens efficaces pour progresser sur ces questions, en partant de vos pratiques actuelles et en impliquant l'ensemble des membres de l'équipe dans une démarche d'amélioration structurée.
 Mais par où commencer, concrètement ?

@@ -15,7 +15,12 @@
                       {{ article.content }}
                     {% endcall %}
                     
-                    {% include "widgets/share.html" %}
+                    <div class="well">
+                       <div class="social">
+                         {% include "widgets/share.html" %}
+                       </div>
+                       <div class="clearfix"></div>
+                    </div>
                     {#
                     <hr />
                     

@@ -2,6 +2,7 @@ Speakers: Guillaume Lours
 Title: Personal Kanban - Retrouvez votre efficacité !
 Duration: 50 minutes
 Format: Conférence
+Tags: Kanban
 
 Vous n'arrivez pas à être productif dans votre travail quotidien ?
 Vous savez faire, mais ce n'est pas fait? 

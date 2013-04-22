@@ -2,6 +2,7 @@ Speakers: Géry Derbier
 Title: Le tuteur
 Duration: 30 minutes
 Format: Jeu
+Tags: Ouverture, Jeu
 
 Parmi les jeux que j'utilise afin d'éveiller les consciences, j'en ai trouvé un remarquablement simple, efficace et très surprenant pour commencer à parler de propriétés émergentes, de dynamique d'auto-organisation (ou de son absence), de système décentralisé, de prise de décision en groupe, de la nature contre-intuitive de systèmes complexes...
 Bref, plusieurs de ces différents aspects qui nous intéressent dans l'agilité.

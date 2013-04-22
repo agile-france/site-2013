@@ -15,7 +15,20 @@
                       {{ session.content }}
                     {% endcall %}
                     
-                    {% include "widgets/share.html" %}
+                    <div class="well">
+                       {% if session.tags %}
+                          <div class="tags pull-right">
+                             <h5>Tags: </h5>
+                             {% for tag in session.tags %}
+                                <a href="#" onclick="return false">{{tag.name}}</a>
+                             {% endfor %}
+                          </div>
+                       {% endif %}
+                       <div class="social">
+                         {% include "widgets/share.html" %}
+                       </div>
+                       <div class="clearfix"></div>
+                    </div>
                     {#
                     <hr />
                     

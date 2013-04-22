@@ -2,6 +2,7 @@ Speakers: David Pilato, Tugdual Grall
 Title: Elastifiez votre application : du SQL au NoSQL en moins d'une heure
 Duration: 60 minutes
 Format: Conférence
+Tags: Code
 
 Au cours de cette session "live coding", Tugdual et David reprendront une application Java full SQL "à papa" pour la réécrire en NoSQL en 45 minutes.
 

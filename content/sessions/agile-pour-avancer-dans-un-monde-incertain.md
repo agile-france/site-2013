@@ -2,6 +2,7 @@ Speakers: Olivier Soudieux
 Title: A²GI²LE pour avancer dans un monde incertain
 Duration: 90 minutes
 Format: Conférence
+Tags: Ouverture
 
 Transformer perturbations, instabilité permanente et incertitudes en avantages concurrentiels
 

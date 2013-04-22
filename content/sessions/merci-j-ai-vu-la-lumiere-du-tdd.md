@@ -2,6 +2,7 @@ Speakers: Katia Aresti, Éric le Merdy
 Title: Merci, j’ai vu la lumière du TDD...
 Duration: 60 minutes
 Format: Retour d’expérience
+Tags: Code, Coaching
 
 Marre de prêcher le TDD dans le vide ?
 A travers un jeu de rôle, venez apprendre comment intéresser différents types de développeurs réfractaires :

@@ -2,6 +2,7 @@ Speakers: Guillaume Duquesnay
 Title: Mener le changement - les 8 étapes de Kotter
 Duration: 120 minutes
 Format: Conférence
+Tags: Ouverture, Coaching
 
 Aujourd'hui des entreprises se lancent dans une transition massive vers l’agile ; la phase des essais timides est terminée.
 C'est difficile pour elles, et c'est souvent risqué.

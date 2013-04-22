@@ -2,6 +2,7 @@ Speakers: Patrice Boisieau, Pierre Maciejewski
 Title: Maîtrise de la dette d'équipe : levier de performance et de réussite
 Duration: 60 minutes
 Format: Conférence
+Tags: Équipe
 
 Votre équipe est agile mais elle connaît des difficultés majeures, notamment sur la collaboration.
 Parfois, ces difficultés s'accumulent et mettent sérieusement en péril le projet.

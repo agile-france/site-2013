@@ -2,6 +2,7 @@ Speakers: Géry Derbier
 Title: Leader en tant qu'hôte
 Duration: 45 minutes
 Format: Conférence interactive
+Tags: Ouverture, Équipe
 
 La métaphore du leader comme héros ne me satisfait bien évidemment pas.
 Celle du servant leadership ne me convient pas beaucoup plus d'autant que je l'ai rarement entendue traduite en français et je pense que dire à un exécutif qu'il doit devenir un serviteur est... source de résistance. 

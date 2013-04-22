@@ -2,6 +2,7 @@ Speakers: Aurélien Morvant
 Title: L'agilité à distance - Mythes et Réalités
 Duration: 45 minutes
 Format: Conférence
+Tags: Équipe, Retour d'expérience, Coaching
 
 “Bonjour, je veux être agile mais je n'ai pas le temps pour accompagner l'IT et je ne serai pas sur site.
 C'est grave docteur ?”

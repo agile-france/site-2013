@@ -2,6 +2,7 @@ Speakers: Xavier Nopre
 Title: Agilistes : n'oubliez pas la technique !
 Duration: 60 minutes
 Format: Conférence
+Tags: Code, Coaching
 
 Présentation d'outils et méthodes pour ne pas oublier que la technique est indispensable au succès d'une transition agile.
 

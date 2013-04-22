@@ -2,6 +2,7 @@ Speakers: Thierry Cros
 Title: Le Développeur, la machine-outil et le syndrome kiski
 Duration: 30 minutes
 Format: Conférence
+Tags: Code, Coaching
 
 Au départ, l'agilité c'est un Développeur qui aime développer, qui du coup dialogue directement avec le représentant des Utilisateurs pour créer un logiciel qui offre de la valeur.
 Avec une prise de conscience : le développement est une activité difficile.

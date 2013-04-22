@@ -2,6 +2,7 @@ Speakers: David Alia
 Title: Un produit qui déchire, une équipe qui déchire... un leader qui déchire
 Duration: 45 minutes
 Format: Conférence participative
+Tags: Équipe
 
 Les expérimentés le savent bien : l'agile par les post-its, le planning poker, la démo... c'est du simple folklore si les fondamentaux de culture (amélioration continue, confiance mutuelle) sont absents au sein de l'équipe, et de l'entreprise.
 

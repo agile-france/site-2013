@@ -2,6 +2,7 @@ Speakers: Cyrille Deruel, Jonathan Scher
 Title: Le Respect en Action
 Duration: 60 minutes
 Format: Conférence
+Tags: Équipe
 
 Curieusement, dans le Lean, la littérature est orientée Kaizen.
 Nous n’avons trouvé que peu d’informations pratiques sur l'autre pilier - le Respect.

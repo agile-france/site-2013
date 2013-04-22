@@ -2,6 +2,7 @@ Speakers: Cyrille Deruel
 Title: Communautés de pratique en pratique
 Duration: 30 minutes
 Format: Conférence
+Tags: Équipe, Retour d'expérience
 
 Vous rêvez d'avoir des réunions où les développeurs échangent leurs techniques, présentent leurs dernières trouvailles,  les derniers frameworks utilisés, où les testeurs partagent leurs douleurs et leurs solutions, où des personnes échangent autour de différentes problématiques ? 
 

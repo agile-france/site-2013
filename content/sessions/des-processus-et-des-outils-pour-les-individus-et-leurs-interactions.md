@@ -2,6 +2,7 @@ Speakers: Christophe Morin
 Title: Des processus et des outils pour les individus et leurs interactions
 Duration: 60 minutes
 Format: Conférence
+Tags: Équipe, Coaching
 
 Pour la plupart d’entre nous, le premier principe de l’agilité (Les individus et leurs interactions, plus que les processus et les outils) est une conviction profonde pour ne pas dire plus… (une philosophie de travail ?)
 Mais lorsque nous accompagnons des équipes pour développer l’agilité et l’humain au cœur de l’entreprise, une question se pose rapidement : « Développer l’humain, c’est très bien!... mais concrètement, comment on fait ? »

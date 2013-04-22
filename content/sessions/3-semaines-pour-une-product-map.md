@@ -2,6 +2,7 @@ Speakers: Bertrand Dour
 Title: 3 semaines pour une Product Map
 Duration: 60 minutes
 Format: Conférence
+Tags: Retour d'expérience
 
 Si les cadres de travail agiles dont nous disposons traitent très bien la réalisation de produits, il en est tout autrement du développement de la vision, de la stratégie produit, et de l'initialisation du backlog: La Product Map.
 

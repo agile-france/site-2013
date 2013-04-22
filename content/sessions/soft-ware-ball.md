@@ -2,6 +2,7 @@ Speakers: Olivier Azeau
 Title: Soft(ware)ball
 Duration: 60 minutes
 Format: Jeu
+Tags: Code, Jeu
 
 Si vous aimez les changements de code incrémentaux et le refactoring, venez donc jouer une partie de soft(ware)ball !
 

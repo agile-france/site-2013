@@ -2,6 +2,7 @@ Speakers: Jean-François Jagodzinski
 Title: Une équipe si particulière
 Duration: 60 minutes
 Format: Conférence
+Tags: Équipe
 
 Quoi de plus simple et de plus élémentaire que la vie en équipe ?
 Nous chassions ensemble et nous vivions ensemble.
