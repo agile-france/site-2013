@@ -13,6 +13,9 @@ Je voudrais partager mon expérience avec des chef de projets qui se sont retrou
 J’adore échanger et discuter des projets agiles, en particulier les projets qui ont été difficiles à mettre en place. Le bénéfice est surtout pour Mister Patate... qui n’aura plus froid !
 
 Max 10 personnes autour d’une table ronde :
+
 - chefs de projets avec l'expérience d’un projet agile
+
 - chefs de projets qui ont envie d’agiliser leur projets traditionnelles
+
 - curieux d’agilité, avec une connaissance des théories d’agilité
