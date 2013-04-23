@@ -16,6 +16,6 @@ Max 10 personnes autour d’une table ronde :
 
 - chefs de projets avec l'expérience d’un projet agile
 
-- chefs de projets qui ont envie d’agiliser leur projets traditionnelles
+- chefs de projets qui ont envie d’agiliser leur projets traditionnels
 
 - curieux d’agilité, avec une connaissance des théories d’agilité
