@@ -44,7 +44,7 @@ if "%1" == "clean" (
 
 if "%1" == "regenerate" (
 	call :clean
-	"%PELICAN%" -r "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%CONFFILE%" "%PELICANOPTS%"
+	"%PELICAN%" -r "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%CONFFILE%" ß%PELICANOPTS%
 	if errorlevel 1 exit /b 1
 	echo.Done
 	goto end
@@ -61,7 +61,7 @@ if "%1" == "devserver" (
 )
 
 if "%1" == "publish" (
-	"%PELICAN%" "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%PUBLISHCONF%" "%PELICANOPTS%"
+	"%PELICAN%" "%INPUTDIR%" -o "%OUTPUTDIR%" -s "%PUBLISHCONF%" %PELICANOPTS%
 	goto end
 )
 

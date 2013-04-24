@@ -3,7 +3,7 @@ python:
   - "2.7"
 # command to install dependencies
 install:
-  - "pip install s3vcp markdown pelican --use-mirrors"
+  - "pip install s3vcp markdown pelican==3.1.1 --use-mirrors"
 # command to run tests
 script:
   - "make clean publish deploy_s3"
