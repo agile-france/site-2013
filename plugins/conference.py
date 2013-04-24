@@ -17,8 +17,8 @@ class Session(Page):
     default_template = 'session'
 
 
-class Speaker(Page):
-    default_template = 'speaker'
+class Bio(Page):
+    default_template = 'bio'
 
 
 class Sessions:
@@ -82,47 +82,47 @@ class SessionGenerator(Generator):
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
 
-class SpeakerGenerator(Generator):
-    """Generate speakers"""
+class BioGenerator(Generator):
+    """Generate bios"""
 
     def __init__(self, *args, **kwargs):
-        self.speakers = {}
-        super(SpeakerGenerator, self).__init__(*args, **kwargs)
+        self.bios = {}
+        super(BioGenerator, self).__init__(*args, **kwargs)
         signals.pages_generator_init.send(self)
 
     def generate_context(self):
-        all_speakers = []
+        all_bios = []
         for f in self.get_files(
-                os.path.join(self.path, self.settings['SPEAKER_DIR']),
-                exclude=self.settings['SPEAKER_EXCLUDES']):
+                os.path.join(self.path, self.settings['BIO_DIR']),
+                exclude=self.settings['BIO_EXCLUDES']):
             try:
                 content, metadata = read_file(f, settings=self.settings)
             except Exception, e:
                 logger.warning(u'Could not process %s\n%s' % (f, str(e)))
                 continue
-            speaker = Speaker(content, metadata, settings=self.settings,
+            bio = Bio(content, metadata, settings=self.settings,
                         filename=f, context=self.context)
-            if not is_valid_content(speaker, f):
+            if not is_valid_content(bio, f):
                 continue
 
-            self.add_filename(speaker)
+            self.add_filename(bio)
 
-            all_speakers.append(speaker)
+            all_bios.append(bio)
 
-        speakers, self.translations = process_translations(all_speakers)
-        self.speakers = {s.slug: s for s in speakers}
-        self._update_context(('speakers', ))
-        self.context['SPEAKERS'] = self.speakers
+        bios, self.translations = process_translations(all_bios)
+        self.bios = {s.slug: s for s in bios}
+        self._update_context(('bios', ))
+        self.context['BIOS'] = self.bios
 
     def generate_output(self, writer):
-        for speaker in chain(self.translations, self.speakers.values()):
-            writer.write_file(speaker.save_as, self.get_template(speaker.template),
-                    self.context, speaker=speaker,
+        for bio in chain(self.translations, self.bios.values()):
+            writer.write_file(bio.save_as, self.get_template(bio.template),
+                    self.context, bio=bio,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
 
 
 def get_generators(generators):
-    return [SessionGenerator, SpeakerGenerator]
+    return [SessionGenerator, BioGenerator]
 
 
 def register():

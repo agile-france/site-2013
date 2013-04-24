@@ -65,17 +65,17 @@ TEMPLATE_PAGES = {'js/custom.js': 'theme/js/custom.js'}
 
 PLUGINS = [conference]
 
-ARTICLE_EXCLUDES = ['pages', 'speakers', 'sessions']
+ARTICLE_EXCLUDES = ['pages', 'bios', 'sessions']
 
 SESSION_DIR = 'sessions'
 SESSION_EXCLUDES = ''
 SESSION_SAVE_AS = 'sessions/{slug}.html'
 SESSION_URL = 'sessions/{slug}.html'
 
-SPEAKER_DIR = 'speakers'
-SPEAKER_EXCLUDES = ''
-SPEAKER_SAVE_AS = 'speakers/{slug}.html'
-SPEAKER_URL = 'speakers/{slug}.html'
+BIO_DIR = 'bios'
+BIO_EXCLUDES = ''
+BIO_SAVE_AS = 'bios/{slug}.html'
+BIO_URL = 'bios/{slug}.html'
 
 
 def apostrophe(article, nom):
