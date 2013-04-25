@@ -49,11 +49,11 @@ class SessionGenerator(Generator):
                 logger.warning(u'Could not process %s\n%s' % (f, str(e)))
                 continue
             session = Session(content, metadata, settings=self.settings,
-                        filename=f, context=self.context)
+                        source_path=f, context=self.context)
             if not is_valid_content(session, f):
                 continue
 
-            self.add_filename(session)
+            self.add_source_path(session)
 
             if session.status == "published":
                 if hasattr(session, 'tags'):
@@ -101,11 +101,11 @@ class BioGenerator(Generator):
                 logger.warning(u'Could not process %s\n%s' % (f, str(e)))
                 continue
             bio = Bio(content, metadata, settings=self.settings,
-                        filename=f, context=self.context)
+                        source_path=f, context=self.context)
             if not is_valid_content(bio, f):
                 continue
 
-            self.add_filename(bio)
+            self.add_source_path(bio)
 
             all_bios.append(bio)
 
