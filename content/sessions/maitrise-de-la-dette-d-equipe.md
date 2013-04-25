@@ -1,4 +1,5 @@
 Speakers: Patrice Boisieau, Pierre Maciejewski
+Bios: patrice-boisieau-dette, pierre-maciejewski
 Title: Maîtrise de la dette d'équipe : levier de performance et de réussite
 Duration: 60 minutes
 Format: Conférence
