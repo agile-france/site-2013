@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- #
 
 from jinja2.ext import loopcontrols
-from pelican.utils import slugify
 
 from os.path import dirname
 import sys
@@ -84,6 +83,6 @@ def apostrophe(article, nom):
 	else:
 		return article + ' ' + nom
 
-JINJA_FILTERS = {'apostrophe': apostrophe, 'slugify': slugify}
+JINJA_FILTERS = {'apostrophe': apostrophe}
 
 STATIC_PATHS = ['programme']

@@ -1,4 +1,4 @@
-{% macro post(session, speakers, more=False) -%}
+{% macro post(session, more=False) -%}
   <div class="entry">
      <h2><a href="{{ session.url }}" rel="bookmark">{{ session.title }}</a></h2>
      
@@ -20,13 +20,9 @@
      {% endif %}
 
      {{ caller() }}
-     {% for name in session.speakers %}
-       {% set slugname = name|slugify %}
-       {% if slugname in speakers %}
-         {% set speaker = speakers[slugname] %}
-         <h4>{{ 'A propos de'|apostrophe(speaker.title) }}</h4>
-         {{ speaker.content }}
-       {% endif %}
+     {% for bio in session.bios %}
+         <h4>{{ 'A propos de'|apostrophe(bio.title) }}</h4>
+         {{ bio.content }}
      {% endfor %}
      {% if more %}
         <div class="button"><a href="{{ more_url }}">Read More...</a></div>

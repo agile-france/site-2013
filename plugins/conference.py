@@ -3,13 +3,18 @@ from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, is_valid_content 
 from pelican.readers import read_file
-from pelican.utils import process_translations
+from pelican.utils import process_translations, slugify
 from itertools import chain
 
 import os
 import logging
 
 logger = logging.getLogger(__name__)
+
+
+def split_and_strip(map, key):
+    if key in map:
+        map[key] = [e.strip() for e in map[key].split(',')]
 
 
 class Session(Page):
@@ -44,7 +49,8 @@ class SessionGenerator(Generator):
                 exclude=self.settings['SESSION_EXCLUDES']):
             try:
                 content, metadata = read_file(f, settings=self.settings)
-                metadata['speakers'] = [s.strip() for s in metadata['speakers'].split(',')]
+                split_and_strip(metadata, 'speakers')
+                split_and_strip(metadata, 'bios')
             except Exception, e:
                 logger.warning(u'Could not process %s\n%s' % (f, str(e)))
                 continue
@@ -72,12 +78,20 @@ class SessionGenerator(Generator):
         self._update_context(('sessions', ))
         self.context['SESSIONS'] = self.sessions
 
+    def set_bios(self, session):
+        bios = self.context['BIOS']
+        if not hasattr(session, 'bios'):
+            session.bios = [slugify(s) for s in session.speakers]
+        session.bios = [bios[s] for s in session.bios if s in bios]
+
     def generate_output(self, writer):
         for session in chain(self.translations, self.sessions.sessions):
+            self.set_bios(session)
             writer.write_file(session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
         for session in self.drafts:
+            self.set_bios(session)
             writer.write_file('drafts/%s' % session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
