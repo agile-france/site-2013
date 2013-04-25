@@ -9,6 +9,7 @@ set OUTPUTDIR=%BASEDIR%\output
 set CONFFILE=%BASEDIR%\pelicanconf.py
 set PUBLISHCONF=%BASEDIR%\publishconf.py
 
+if not exist "%OUTPUTDIR%\NUL" mkdir "%OUTPUTDIR%"
 
 if "%1" == "" goto help
 
