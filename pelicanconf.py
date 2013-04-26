@@ -83,6 +83,12 @@ def apostrophe(article, nom):
 	else:
 		return article + ' ' + nom
 
-JINJA_FILTERS = {'apostrophe': apostrophe}
+
+def sessions_after(sessions, session):
+	i = sessions.index(session)
+	return sessions[i+1:]+sessions[:i]
+
+
+JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after}
 
 STATIC_PATHS = ['programme']

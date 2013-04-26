@@ -28,12 +28,12 @@
      </div>
   </div>
 {% endmacro %}
-{% macro tall(articles, maxposts) %}
+{% macro tall(title, articles, maxposts) %}
    <div class="widget">
-      <h4>Articles récents</h4>
+      <h4>{{ title }}</h4>
          <ul>
             {% for article in articles %}
-              {% if loop.index > maxposts %}{% break %}{% endif %}
+              {% if maxposts is defined and loop.index > maxposts %}{% break %}{% endif %}
               <li><a href="/{{ article.url }}">{{ article.title }}</a></li>
             {% endfor %}
          </ul>

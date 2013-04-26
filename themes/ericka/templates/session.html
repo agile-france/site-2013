@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% from "widgets/session.html" import post %}
+{% from "widgets/sidebar.html" import sidebar %}
+{% import "widgets/recent_posts.html" as recent_posts %}
 
 {% block content %}
   <div class="blog">
@@ -47,7 +49,16 @@
                     <div class="clearfix"></div>
                  </div>
               </div>
-              {% include "widgets/sidebar.html" %}
+              {% if session.tags|count > 1 %}
+                {% set max_sessions = 3 %}
+              {% else %}
+                {% set max_sessions = 5 %}
+              {% endif %}
+              {% call sidebar() %}
+                {% for tag in session.tags %}
+                  {{ recent_posts.tall(tag.name, sessions.tags[tag.name]|sessions_after(session), max_sessions) }}
+                {% endfor %}
+              {% endcall %}
            </div>
         </div>
      </div>

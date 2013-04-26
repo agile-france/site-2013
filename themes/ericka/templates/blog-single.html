@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% from "widgets/post.html" import post %}
+{% from "widgets/sidebar.html" import sidebar %}
+{% import "widgets/recent_posts.html" as recent_posts %}
 
 {% block content %}
   <div class="blog">
@@ -39,7 +41,9 @@
                     <div class="clearfix"></div>
                  </div>
               </div>
-              {% include "widgets/sidebar.html" %}
+              {% call sidebar() %}
+                {{ recent_posts.tall('Articles récents', articles, 5) }}
+              {% endcall %}
            </div>
         </div>
      </div>
