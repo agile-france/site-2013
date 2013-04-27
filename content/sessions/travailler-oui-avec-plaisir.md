@@ -2,7 +2,7 @@ Speakers: Pierrick Thibault
 Title: Travailler ? Oui avec plaisir !
 Duration: 60 minutes
 Format: Conférence
-Tags: Ouverture, Coaching
+Tags: Outils de coaching
 
 “Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie." - Confucius . 
 

@@ -2,7 +2,7 @@ Speakers: Mathieu Gandin
 Title: Indiana Jones et le temple du Legacy Code
 Duration: 45 minutes
 Format: Conférence
-Tags: Code
+Tags: Technique
 
 Selon The Economics Of Software Maintenance In The 21 Century, nous passons 80% de notre temps à maintenir du code existant et pénible à modifier.
 Dans cette situation nous devenons des archéologues du code, tandis que les contraintes de temps se font plus fortes.

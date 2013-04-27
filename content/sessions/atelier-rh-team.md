@@ -2,11 +2,11 @@ Speakers: Yannick Ameur
 Title: Atelier RH Team
 Duration: 90 minutes
 Format: Atelier
-Tags: Ouverture
+Tags: Soft skills
 
 Je vous propose de vous exercer à passer des entretiens Agile.
 
-A savoir : recruter en groupe, preparer vos entretiens, poser les questions et gérer votre Stresse.
+A savoir : recruter en groupe, preparer vos entretiens, poser les questions et gérer votre stress.
 
 Nous formerons une équipes qui aura dans un permier temps, l’objectif de se connaitre et de définir une fiche de poste.
 

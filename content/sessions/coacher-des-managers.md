@@ -2,7 +2,7 @@ Speakers: Antoine Contal
 Title: Coacher des managers
 Duration: 60 minutes
 Format: Conférence
-Tags: Équipe, Coaching
+Tags: Changement à grande échelle
 
 Si vous êtes un coach agile expérimenté, vous êtes à l'aise pour accompagner des équipes, des scrum masters et des product owners.
 Mais lorsque l'agilité se diffuse dans une organisation, il arrive un moment où ça coince avec le management.

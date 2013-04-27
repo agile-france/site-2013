@@ -2,7 +2,7 @@ Speakers: Pierre Pezziardi
 Title: Agilité : do the wrong thing faster ?
 Duration: 30 minutes
 Format: Conférence - Débat
-Tags: Ouverture
+Tags: Déconstruire l'agilité
 
 Peut-on être fier d'être informaticien ?
 Affrontons la sévère réalité, combien d'entre nous peuvent dire avec certitude "J'ai fourni des outils informatiques à des usagers qui s'en réjouissent ? A qui je facilite le quotidien ?", comme peuvent se le dire le quidam chez Google, Kickstarter ou Wikipedia ?

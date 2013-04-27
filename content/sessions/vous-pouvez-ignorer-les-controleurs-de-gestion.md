@@ -2,7 +2,7 @@ Speakers: Pierre Hervouet, Pascal Van Cauwenberghe
 Title: Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!
 Duration: 90 minutes
 Format: Conférence + Atelier
-Tags: Lean, Coaching
+Tags: Lean, Changement à grande échelle
 
 L’agilité est de plus en plus présente dans le développement de logiciel, et dans d’autres services de l’entreprise comme le marketing (si, si)
 

@@ -2,7 +2,7 @@ Speakers: David Gageot
 Title: Du Legacy au Cloud en moins d'une heure
 Duration: 90 minutes
 Format: Conférence
-Tags: Code
+Tags: Technique
 
 Il est de plus en plus simple de développer une application web, en partant de zéro, et de l’héberger sur le Cloud.
 Est-ce aussi simple quand on part de code existant ?

@@ -2,7 +2,7 @@ Speakers: Eve Vinclair-Berkemeier
 Title: Le Proxy Product Owner - Superman, j'ai la Patate
 Duration: 60 minutes
 Format: Atelier
-Tags: Retour d'expérience
+Tags: Retour d'expérience, Agile aux limites
 
 Inexistant en théorie, on parle concrètement du Proxy Product Owner lors de la mise en place de certains projets informatiques. Nombreux sont les facteurs qui ont fait naître l’intermédiaire entre le(s) Product Owner(s) et l'équipe.
 Ces facteurs sont évoqués et discutés lors de la table ronde afin de faire émerger au fur et à mesure le rôle du PPO.

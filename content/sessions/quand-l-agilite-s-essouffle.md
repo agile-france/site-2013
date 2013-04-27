@@ -2,7 +2,7 @@ Speakers: Vincent Uribe
 Title: Quand l'agilité s'essouffle
 Duration: 60 minutes
 Format: Conférence
-Tags: Ouverture, Coaching
+Tags: Outils de coaching
 
 L’une des raisons pour lesquelles les transitions vers l’agilité échouent est tout simplement l’essoufflement, lorsque le coach n’est pas présent pendant une période étendue, lorsque les acteurs perdent ou ont perdu leur motivation ou que l’équipe change, il n’est pas rare de voir les pratiques  agiles disparaitre au point de voir l’agilité même disparaitre du projet.
 

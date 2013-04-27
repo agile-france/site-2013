@@ -2,7 +2,7 @@ Speakers: Jonathan Perret, Emmanuel Gaillot
 Title: Le serveur qui fait ping
 Duration: 60 minutes
 Format: Programmation live
-Tags: Code, Coaching
+Tags: Technique
 
 La popularité de Node.js est en hausse constante chez les développeurs de serveurs HTTP.
 Toutefois, son modèle de gestion "single thread" sous-jacent fait de la programmation en Node.js une expérience assez inhabituelle, ce qui donne aux codeurs un prétexte supplémentaire pour ne pas piloter leurs développements par les tests.

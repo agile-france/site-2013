@@ -2,7 +2,7 @@ Speakers: Jean François Hélie
 Title: Votre nouveau défi : Déployer l'agilité dans votre organisation !
 Duration: 45 minutes
 Format: Conférence
-Tags: Équipe, Coaching
+Tags: Changement à grande échelle
 
 Depuis 3/5 ans en France, beaucoup d'entreprises ont expérimenté sur leur projets de développement les méthodes agiles.
 Il faut croire que c'est avec succès, car maintenant elles vont plus loin, elles veulent déployer l'agilité dans leur organisation !

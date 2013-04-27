@@ -2,7 +2,7 @@ Speakers: Jean-Laurent de Morlhon
 Title: BDD &amp; applications web modernes
 Duration: 45 minutes
 Format: Conférence
-Tags: Code
+Tags: Technique
 
 Dans ce live coding d'environ 30 minutes vous verrez comment combiner l'écriture de tests expressifs avec une application utilisant les technologies web derniers cris.
 

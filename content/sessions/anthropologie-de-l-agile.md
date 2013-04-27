@@ -2,7 +2,7 @@ Speakers: Christian Fauré
 Title: Anthropologie de l'Agile
 Duration: 45 minutes
 Format: Conférence (30) Discussion (15)
-Tags: Ouverture
+Tags: Déconstruire l'agilité
 
 Je conçois cette conférence comme un moment d'ouverture en mettant en perspectives les pratiques agiles sur des longues périodes temporelles, c'est à dire à l'échelle du processus d'hominisation : l'objectif recherché est que des praticiens avancés puissent faire des liens entre leur expérience et d'autres champs de recherche (anthropologie, epistémologie, prospective) pour qu'ils puissent se dire en fin de conférence : "ah tiens, mais je fais de l'anthropologie, de l'épistémologie et de la prospective en faisant de l'Agile !"
 

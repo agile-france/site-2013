@@ -2,7 +2,7 @@ Speakers: Clémo Charnay, Myriam Roux, Céline STAUDER
 Title: Transformation agile à grande échelle : 18 mois plus tard
 Duration: 45 minutes
 Format: Conférence
-Tags: Retour d'expérience, Coaching
+Tags: Retour d'expérience, Changement à grande échelle
 
 Un département IT d'une centaine de personnes a entamé il y a 18 mois une transformation agile. Or, déployer l'agilité dans une contre-culture agile n'est pas de tout repos et réserve bien des surprises !
 Passés les premiers mois de développement agile, les murs de l'organisation peuvent paraître bien étroits, voire hostiles au plein épanouissement agile.
