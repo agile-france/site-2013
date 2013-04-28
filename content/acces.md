@@ -1,14 +1,14 @@
-Title: Agile France 2013 - Venir à Agile France
+Title: Agile France 2013 - Venir Ã  Agile France
 Date: 2013-04-28 22:37
 Tags: acces
 Category: general
 Slug: acces
-Author: l'Équipe d'organisation
-Summary: Venir à la conférence.
+Author: l'Ã‰quipe d'organisation
+Summary: Venir Ã  la confÃ©rence.
 
 
 <p class="soon-small">
-	Cette année encore la conférence aura lieu au Châlet de la Porte Jaune à Paris.
+	Cette annÃ©e encore la confÃ©rence aura lieu au ChÃ¢let de la Porte Jaune Ã  Paris.
 </p>
 <p class="soon-med">
 Adresse : Avenue de Nogent, Bois de Vincennes, 75012 Paris, France
@@ -17,24 +17,24 @@ Adresse : Avenue de Nogent, Bois de Vincennes, 75012 Paris, France
 	<span class="color">En transport en commun</span>
 </p>
 <p class="soon-small">
-	Métro 1, Arrêt "Chateau de Vincennes", puis Bus 114 ou 210 arrêt "Porte Jaune".
+	MÃ©tro 1, ArrÃªt "Chateau de Vincennes", puis Bus 114 ou 210 arrÃªt "Porte Jaune".
 </p>
 <p class="soon-small">
-	RER A, Arrêt Fontenay-sous-Bois (direction Boissy-Saint-Léger), puis accessible à pied en 5 minutes.
+	RER A, ArrÃªt Fontenay-sous-Bois (direction Boissy-Saint-LÃ©ger), puis accessible Ã  pied en 5 minutes.
 </p>
 <p class="soon-small">
-	Quelques sites pour vous aider à planifier votre itinéraire dans les transports en commun :
+	Quelques sites pour vous aider Ã  planifier votre itinÃ©raire dans les transports en commun :
 	<a href="http://www.ratp.fr">RATP : Infos sur les BUS</a>
-    <a href="http://www.transilien.com">Transilien.com : RER et Métro</a>
+    <a href="http://www.transilien.com">Transilien.com : RER et MÃ©tro</a>
 </p>
 
 <p class="soon-med">
 	<span class="color">En voiture</span>
 </p>
 <p class="soon-small">
-Un parking gratuit se trouve à côté du lieu de la conférence.
+Un parking gratuit se trouve Ã  cÃ´tÃ© du lieu de la confÃ©rence.
 </p>
 
 <p class="soon-med">
-	<a href="http://www.chaletportejaune.com/fr/index.php#situation-et-plan-d-acces.php">Plus d'informations sur le site du Châlet de la Porte Jaune</a>
+	<a href="http://www.chaletportejaune.com/fr/index.php#situation-et-plan-d-acces.php">Plus d'informations sur le site du ChÃ¢let de la Porte Jaune</a>
 </p>
