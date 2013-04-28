@@ -3,7 +3,6 @@ Date: 2013-04-28 22:37
 Tags: acces
 Category: general
 Slug: acces
-Status : draft
 Author: l'Équipe d'organisation
 Summary: Venir à la conférence.
 
