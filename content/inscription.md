@@ -4,26 +4,19 @@ Tags: billets
 Category: general
 Slug: index
 Author: l'Équipe d'organisation
-Summary: Le WHY de la conférence Agile France
-Template: full-width
+Summary: Inscription à Agile France
 
-<p class="soon-med">
-  Agile France aura lieu les <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013 au <a href="https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA">Chalet de la Porte Jaune</a>
-</p>
-<p class="soon-small">
-  Notre but : permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger
-  <span class="color">pour apprendre</span> en dehors des sentiers battus.
-</p>
-<p class="soon-med">
+<span class="soon-med">
+  Agile France aura lieu les <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013 au [Chalet de la Porte Jaune][1]
+</span>
+
+Notre but : permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger
+<span class="color">pour apprendre</span> en dehors des sentiers battus.
+
+<span class="soon-med">
   Achetez vos <span class="color">billets</span> dès maintenant !
-</p>
-<p class="soon-small">
-  Le tarif <span class="color">Early Bird</span> (avec ou sans dîner) est ouvert aux
-  <span class="color">50</span> premiers inscrits avant <span class="color">fin février</span>.
-</p>
-<p class="soon-med">
-</p>
-<p class="soon-small">
-<iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=28341&amp;code=7362&amp;cas=1" width="650" height="340" scrolling="auto" frameborder="0"></iframe>
-</p>
+</span>
 
+<iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=28341&amp;code=7362&amp;cas=1" width="650" height="340" scrolling="auto" frameborder="0"></iframe>
+
+[1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
