@@ -12,7 +12,7 @@ Agile France à besoin de vous !
 
 Vous pouvez nous aider de trois façons :
 
-- [En soumettant une session][soumettre], avant la fin du mois
+- [En soumettant une session][1], avant la fin du mois
 - En relayant cet appel sur tous vos réseaux sociaux préférés
 - En devenant relecteur des pitchs
 
@@ -23,4 +23,4 @@ Vous voulez en faire partie ? Contactez-nous sur <contact@conference-agile.fr>
 
 Jonathan Scher, pour l’équipe d’organisation d’Agile France 2013.
 
-[soumettre]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ
+[1]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ

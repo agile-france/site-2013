@@ -6,13 +6,14 @@ Slug: why
 Author: l'Équipe d'organisation
 Summary: Le WHY de la conférence Agile France
 
-<p class="soon-med">
+<span class="soon-med">
   Agile France <span class="color">jeudi 23</span> et <span class="color">vendredi 24 mai</span> 2013
-</p>
-<p class="soon-big">
+</span>
+
+<span class="soon-big">
   Permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger  
   <span class="color">pour apprendre</span> en dehors des sentiers battus.
-</p>
+</span>
 
 Nous voulons permettre aux <span class="color">agilistes</span> qui ont une <span class="color">expérience de terrain</span> d'évoluer  
 plutôt que d'évangéliser l'agilité auprès des novices.

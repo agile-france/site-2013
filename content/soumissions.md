@@ -23,7 +23,7 @@ Pour vous donner envie de soumettre vous aussi, voici les thèmes qui ressortent
 - L'avenir de l'agilité
 - Agilité et enseignement
 
-Si ces premières tendances vous inspirent, ou au contraire vous pensez à un thème non représenté, il est temps de nous [soumettre votre proposition][soumettre].
+Si ces premières tendances vous inspirent, ou au contraire vous pensez à un thème non représenté, il est temps de nous [soumettre votre proposition][1].
 
 Mais quelle est l'identité de ceux qui ont jusque là soumis ?
 Sont représentés (par ordre décroissant) :
@@ -54,7 +54,7 @@ Pour finir, les tendances sur les formats :
 - les interviews
 
 Enfin, vous voulez peut-être des noms ?
-Voici déjà ceux qui étaient listés dans les [suggestions][suggestions] et qui ont répondu à l'appel (en espérant ne pas en avoir oublié) :
+Voici déjà ceux qui étaient listés dans les [suggestions][2] et qui ont répondu à l'appel (en espérant ne pas en avoir oublié) :
 
 - Alexis Monville
 - Bertrand Dour
@@ -73,8 +73,8 @@ Soit dit en passant, nous avons contacté, de manière directe ou indirecte, qua
 
 Pour connaître les noms des autres orateurs ayant soumis une session, il faudra attendre encore un peu ...
 
-A propos : il ne vous reste que jusqu'au 28 février pour profiter de l'[inscription au tarif early bird][sinscrire].
+A propos : il ne vous reste que jusqu'au 28 février pour profiter de l'[inscription au tarif early bird][3].
 
-[soumettre]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ "soumettre une proposition"
-[sinscrire]: http://www.conference-agile.fr/ "s'inscrire à la conférence"
-[suggestions]: http://www.conference-agile.fr/suggestions.html "suggestions d'orateurs"
+[1]: https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ "soumettre une proposition"
+[2]: /suggestions.html "suggestions d'orateurs"
+[3]: / "s'inscrire à la conférence"

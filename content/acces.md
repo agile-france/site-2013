@@ -7,34 +7,26 @@ Author: l'Équipe d'organisation
 Summary: Venir à la conférence.
 
 
-<p class="soon-small">
-	Cette année encore la conférence aura lieu au Châlet de la Porte Jaune à Paris.
-</p>
-<p class="soon-med">
-Adresse : Avenue de Nogent, Bois de Vincennes, 75012 Paris, France
-</p>
-<p class="soon-med">
-	<span class="color">En transport en commun</span>
-</p>
-<p class="soon-small">
-	Métro 1, Arrêt "Chateau de Vincennes", puis Bus 114 ou 210 arrêt "Porte Jaune".
-</p>
-<p class="soon-small">
-	RER A, Arrêt Fontenay-sous-Bois (direction Boissy-Saint-Léger), puis accessible à pied en 5 minutes.
-</p>
-<p class="soon-small">
-	Quelques sites pour vous aider à planifier votre itinéraire dans les transports en commun :
-	<a href="http://www.ratp.fr">RATP : Infos sur les BUS</a>
-    <a href="http://www.transilien.com">Transilien.com : RER et Métro</a>
-</p>
+Cette année encore la conférence aura lieu au Châlet de la Porte Jaune à Paris.
 
-<p class="soon-med">
-	<span class="color">En voiture</span>
-</p>
-<p class="soon-small">
+<span class="soon-med">Adresse : Avenue de Nogent, Bois de Vincennes, 75012 Paris, France</span>
+
+<span class="soon-med color">En transport en commun</span>
+
+Métro 1, Arrêt "Chateau de Vincennes", puis Bus 114 ou 210 arrêt "Porte Jaune".
+
+RER A, Arrêt Fontenay-sous-Bois (direction Boissy-Saint-Léger), puis accessible à pied en 5 minutes.
+
+Quelques sites pour vous aider à planifier votre itinéraire dans les transports en commun :
+[RATP : Infos sur les BUS][1]
+[Transilien.com : RER et Métro][2]
+
+<span class="soon-med color">En voiture</span>
+
 Un parking gratuit se trouve à côté du lieu de la conférence.
-</p>
 
-<p class="soon-med">
-	<a href="http://www.chaletportejaune.com/fr/index.php#situation-et-plan-d-acces.php">Plus d'informations sur le site du Châlet de la Porte Jaune</a>
-</p>
+<span class="soon-med">[Plus d'informations sur le site du Châlet de la Porte Jaune][3]</span>
+
+[1]: http://www.ratp.fr
+[2]: http://www.transilien.com
+[3]: http://www.chaletportejaune.com/fr/index.php#situation-et-plan-d-acces.php

@@ -15,10 +15,13 @@ D'un autre côté, nous voulons traiter tout le monde à la même enseigne.
 
 C'est pourquoi nous <span class='color'>rallongeons l'appel à orateurs</span> d'une semaine, jusqu'au <span class='color'>dimanche 10 mars à minuit</span>.
 
-<a href="https://docs.google.com/a/clt-services.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ&ifq">Le formulaire pour déposer une proposition c'est ici.</a>
-<hr/>
+[Le formulaire pour déposer une proposition c'est ici.][1]
+
+---
 
 Cet ami qui a promis de soumettre un sujet, mais n'a pas eu le temps ? Il lui reste une semaine pour passer à l'action.  
 Vous-même avez un regret de dernière minute ? Ce sujet qui vous tient à coeur mais que vous n'avez pas pu présenter ? Il vous reste une semaine.
 
 Mesdames, messieurs, à vos crayons.
+
+[1]: https://docs.google.com/a/clt-services.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ&ifq

@@ -18,8 +18,8 @@ Au programme des 23 et 24 mai...
 - une conférence ouverte aux pratiques agiles novatrices (voire iconoclastes), dans tous les métiers y compris hors IT
 
 Enfin un grand défi : rendre cette conférence - votre conférence - la plus accessible à tous, et notamment aux sourds et malentendants.
-Pour tout ceci, et plus encore, nous avons besoin de vous : faites de la pub, [proposez des sessions][appel orateurs], [achetez vos billets][achat], [suggérez des orateurs][suggestion orateurs] ... c'est à vous!
+Pour tout ceci, et plus encore, nous avons besoin de vous : faites de la pub, [proposez des sessions][1], [achetez vos billets][2], [suggérez des orateurs][3] ... c'est à vous!
 
-[appel orateurs]: http://www.conference-agile.fr/orateur.html "appel à orateurs"
-[achat]: http://www.conference-agile.fr/index.html "réservations"
-[suggestion orateurs]: http://www.conference-agile.fr/suggestions.html "orateurs souhaités"
+[1]: /orateur.html "appel à orateurs"
+[2]: /index.html "réservations"
+[3]: /suggestions.html "orateurs souhaités"
