@@ -4,6 +4,9 @@ Duration: 120 minutes
 Format: Atelier
 Tags: Changement à grande échelle
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
+
+
 Et si on appliquait les principes agiles au pilotage d'entreprise ?
 
 Cette session est à deux étages : nous vous proposons à la fois de travailler sur cette question et, en le faisant, d'expérimenter un outil de facilitation très puissant : le "consensus workshop".
