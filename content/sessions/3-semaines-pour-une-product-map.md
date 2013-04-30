@@ -4,13 +4,15 @@ Duration: 60 minutes
 Format: Conférence
 Tags: Retour d'expérience
 
-Si les cadres de travail agiles dont nous disposons traitent très bien la réalisation de produits, il en est tout autrement du développement de la vision, de la stratégie produit, et de l'initialisation du backlog: La Product Map.
 
-Nous vous invitons à partager nos expériences lors de la mise en œuvre de produits statégiques et de grandes envergure et soumis à de fortes contraintes de temps.
+Si nous disposons aujourd'hui de nombreux cadres de travail et pratiques agiles bien établis pour la réalisation de produits (Lean, Kanban, Scrum, XP,…), les outils au service de la vision, de la stratégie et de la préparation du backlog son encore jeunes et les retours d'expériences plutôt rares.
 
-- Comment tirer le meilleur des innovation games, comment les choisir, les combiner, et pour qui?
-- Quels artéfacts utiliser, physiques ou numériques?
-- Quelle place pour l'UX?
+Je vous propose de venir partager nos expériences lors de la mise en œuvre de projets stratégiques de grande envergure soumis à de fortes contraintes de dates ou de périmètre.
 
-Nous avons été confrontés à ces challenges et avons eu l'opportunité de mettre en place avec succès des démarches innovantes dans ce contexte.
-Ce sont ces aventures passionnantes que nous vous proposons de découvrir!
+Vous retrouverez notre groupe de rock Agile qui a fait sa première apparition en public lors du Scrum Day. Son dernier album (la dernière version de son produit) n'a pas très bien fonctionné et nous vous invitons à venir jouer les producteurs (Clients) et managers (Product Owners) afin de définir la stratégie qui permettra de relancer sa carrière (la refonte).
+
+Lors de cet atelier fortement interactif, je vous propose d'aborder les sujets suivants:
+- Comment utiliser les innovation games, les sélectionner, les combiner et en tirer le meilleur (vous allez jouer!)
+- Quels outils choisir et pourquoi? Physique vs. Numérique (Battle ou Duo?)
+- Quelle place pour l'UX? Comment l'intégrer?
+Si vous aimez le rock, les jeux, les sujets complexes et surtout l'agilité, rejoignez-nous pour participer à cette expérience à la fois ludique mais aussi pragmatique et réutilisable dans votre contexte.
