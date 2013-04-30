@@ -15,4 +15,5 @@ Lors de cet atelier fortement interactif, je vous propose d'aborder les sujets s
 - Comment utiliser les innovation games, les sélectionner, les combiner et en tirer le meilleur (vous allez jouer!)
 - Quels outils choisir et pourquoi? Physique vs. Numérique (Battle ou Duo?)
 - Quelle place pour l'UX? Comment l'intégrer?
+
 Si vous aimez le rock, les jeux, les sujets complexes et surtout l'agilité, rejoignez-nous pour participer à cette expérience à la fois ludique mais aussi pragmatique et réutilisable dans votre contexte.
