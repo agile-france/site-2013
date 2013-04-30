@@ -31,7 +31,10 @@ def MENUITEMS(session_info):
 		(u'Programme', '/static/programme/programme-agile-france-2013-draft-3.pdf'),
 		(u'Sessions', [
 			(u'Toutes', session_list_menu(session_info.sessions))] + sessions_by_tag(session_info.tags) ),
-		(u'Accès', '/acces.html'),
+		(u'Informations', [
+			(u'Accès', '/acces.html'),
+			(u'Entre vous', 'http://lite.framapad.org/p/Agile_France_2013')
+		]),
 		(u'Blog', '/archives.html'),
 		(u'Éditions précédentes', [
 			(u'2006 - restauration en cours', '#'),
