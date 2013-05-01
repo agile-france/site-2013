@@ -21,7 +21,7 @@ Que vous soyez orateur ou que vous souhaitiez hoster une répétition, tout le m
 #### Enrichissez votre conférence
 
 Nous vous proposons une **[page Framapad][2]** pour coordonner vos activités pendant la conférence.
-Cette pages vous appartient, voici quelques idées de ce que vous pouvez en faire - et n'hésitez pas à aller au delà.
+Cette page vous appartient, voici quelques idées de ce que vous pouvez en faire - et n'hésitez pas à aller au delà.
 
 
 ##### Préparer une activité pour l'espace communautaire
@@ -31,13 +31,13 @@ Pendant la journée, nous laissons la salle petit déjeuner à la disposition de
 Utilisez le framapad pour préparer des activités et rassembler des personnes intéressées.
 
 
-##### Organisez votre séjour et transport
+##### Organiser votre séjour et transport
 
 Vous n'êtes pas parisien ? C'est l'occasion rêvée de parler d'agilité dans le train, et pourquoi pas faire du couchsurfing ?
 Trouvez des comparses agilistes grâce au framapad.
 
 
-##### Trouvez des accolytes
+##### Trouver des acolytes
 
 Vous voulez parler de Crystal, de TDD en Prolog, échanger avec une personne travaillant dans une équipe XP ?
 Vous êtes passionné de danse contemporaine, de photographie ou d'ikebana ?
