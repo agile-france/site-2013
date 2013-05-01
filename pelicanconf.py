@@ -79,7 +79,7 @@ BIO_DIR = 'bios'
 BIO_EXCLUDES = ''
 BIO_SAVE_AS = 'bios/{slug}.html'
 BIO_URL = 'bios/{slug}.html'
-
+BIO_PIC_PATH = 'trombines'
 
 def apostrophe(article, nom):
 	if nom[0].lower() in "aeiouy":

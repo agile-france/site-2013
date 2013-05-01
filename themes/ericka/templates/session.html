@@ -13,7 +13,7 @@
               <div class="span8">
                  <div class="posts">
                  
-                    {% call post(session) %}
+                    {% call post(session, CONFERENCE.all_bios) %}
                       {{ session.content }}
                     {% endcall %}
                     
@@ -56,7 +56,7 @@
               {% endif %}
               {% call sidebar() %}
                 {% for tag in session.tags %}
-                  {{ recent_posts.tall(tag.name, sessions.tags[tag.name]|sessions_after(session), max_sessions) }}
+                  {{ recent_posts.tall(tag.name, CONFERENCE.tags[tag.name]|sessions_after(session), max_sessions) }}
                 {% endfor %}
               {% endcall %}
            </div>

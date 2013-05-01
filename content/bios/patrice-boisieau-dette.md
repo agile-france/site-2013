@@ -1,5 +1,6 @@
 Title: Patrice Boisieau
 Slug: patrice-boisieau-dette
+Roles: aux
 
 Patrice Boisieau est coach agile indépendant depuis bientôt 3 ans.
 A ce jour, il a accompagné plus d'une dizaine d'équipes agiles, principalement chez Orange.

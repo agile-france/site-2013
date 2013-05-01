@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="about">
+     <div class="row">
+        <div class="span12">
+           <div class="hero">
+              <h3><span>{{ page.title }}</span></h3>
+              {{ page.content }}
+           </div>
+           
+           <div class="teams">
+              {% for row in CONFERENCE.bios[page.role] | dictsort | batch(4) %}
+                <div class="row">
+                   {% for slug, bio in row %}
+                     <div class="span3">
+                        <div class="staff">
+                           <div class="pic">
+                              <img src="/{% if bio.slug in CONFERENCE.bio_pics %}{{CONFERENCE.bio_pics[bio.slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
+                           </div>
+                           <div class="details">
+                              <div class="desig pull-left">
+                                 <p class="name">{{ bio.title }}</p>
+                                 {# <em>CEO of Erica</em> #}
+                              </div>
+                              {#
+                              <div class="asocial pull-right">
+                                 <a href="#"><i class="icon-facebook"></i></a>
+                                 <a href="#"><i class="icon-twitter"></i></a>
+                                 <a href="#"><i class="icon-linkedin"></i></a>
+                              </div>
+                              #}
+                              <div class="clearfix"></div>
+                           </div>
+                           <hr />
+                        </div>
+                     </div>
+                  {% endfor %}
+                </div>
+              {% endfor %}
+           </div>
+        </div>
+     </div>
+  </div>
+  {% include "widgets/cta.html" %}
+{% endblock content %}
