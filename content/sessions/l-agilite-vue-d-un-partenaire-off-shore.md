@@ -23,11 +23,10 @@ Ces acquis sont la base solide nécessaire pour les prochaines étapes de notre 
 
 #### Compléments
 
-D'origine vietnamienne, j'ai rejoint Officience au Vietnam en 2010 pour mettre en place l'agilité dans l'équipe d'outsourcing de développement logiciel.
-
 Quand je me suis installée au Vietnam  il y a 3 ans, mon but était clair: prendre en charge l’activité outsourcing IT offshore d’Officience et la rendre agile.
 
 Les contraintes étaient les suivantes:
+
 1. il n’y avait pas de coach/experts pour accompagner nos équipes au Vietnam
 2. nos clients n’étaient pas forcément demandeurs d’une telle transformation
 3. notre présence en France était limitée opérationnellement (Officience est au départ une boite basée au Vietnam!)

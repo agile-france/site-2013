@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% from "widgets/bio.html" import list_roles %}
+
+{% block content %}
+  <div class="resume">
+     <div class="row">
+        <div class="span12">
+           <h2>{{ bio.title }} <span class="rsmall"><span class="color">@</span> {{ list_roles(bio.roles, bio.sexe | default('M'), ROLE_NAMES) }}</span></h2>
+           {# <p>Duis a risus sed dolor placerat semper quis in urna. Nam risus magna, fringilla sit amet blandit viverra, dignissim eget est. Ut commodo ullamcorper risus nec mattis. Donec aliquet convallis tortor, et placerat quam posuere posuere. Morbi tincidunt posuere turpis eu laoreet. Nulla facilisi. Aenean at massa leo. Vestibulum in varius arcu.</p> #}
+           <hr />
+           <!-- Resume -->
+           
+           <div class="row">
+              <div class="span12">
+                 {% if bio.content | trim %}
+                   <div class="rblock">
+                      <div class="row">
+                         <div class="span3">
+                            <h4>À propos</h4>                            
+                         </div>
+                         <div class="span9">
+                            <div class="rinfo">
+                               <h5>{{ bio.title }}</h5>
+                               <div class="rmeta">{{ list_roles(bio.roles, bio.sexe | default('M'), ROLE_NAMES) }}</div>
+                               {{ bio.content }}
+                               {#   <!-- Social media icons -->
+                                         <div class="social">
+                                              <a href="#"><i class="icon-facebook"></i></a>
+                                              <a href="#"><i class="icon-twitter"></i></a>
+                                              <a href="#"><i class="icon-linkedin"></i></a>
+                                              <a href="#"><i class="icon-google-plus"></i></a>
+                                              <a href="#"><i class="icon-pinterest"></i></a>
+                                         </div>  
+                               #}
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                 {% endif %}
+                 {% set sessions = CONFERENCE.sessions_by_speaker[bio.slug] %}
+                 {% if sessions %}
+                   <div class="rblock">
+                      <div class="row">
+                         <div class="span3">
+                            <h4>Sessions</h4>                            
+                         </div>
+                         <div class="span9">
+                            <div class="rinfo">
+                              <ul>
+                              {% for session in sessions %}
+                                <li><a href="/{{ session.url }}">{{ session.title }}</a></li>
+                              {% endfor %}
+                              </ul>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                 {% endif %}
+
+                 {#<div class="rblock">
+                    <div class="row">
+                       <div class="span3">
+                          <h4>Skills</h4>                            
+                       </div>
+                       <div class="span9">
+                          <div class="rinfo">
+                             <!-- Class "rskills" is important -->
+                             <div class="rskills">
+                                <span>HTML5</span> <span>CSS3</span> <span>jQuery</span> <span>WordPress</span> <span>Twitter Bootstrap</span> <span>Photoshop</span>
+                             </div>
+                          </div>
+                       </div>
+                    </div>
+                 </div>                           #}
+                 
+              </div>
+           </div>
+           
+        </div>
+     </div>
+  </div>
+  {% include "widgets/cta.html" %}
+{% endblock content %}

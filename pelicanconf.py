@@ -5,6 +5,7 @@ from jinja2.ext import loopcontrols
 
 from os.path import dirname
 import sys
+from pelican.utils import slugify
 
 sys.path.insert(0, dirname(__file__))
 
@@ -33,7 +34,10 @@ def MENUITEMS(session_info):
 			(u'Toutes', session_list_menu(session_info.sessions))] + sessions_by_tag(session_info.tags) ),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
-			(u'Entre vous', 'http://lite.framapad.org/p/Agile_France_2013')
+			(u'Entre vous', 'http://lite.framapad.org/p/Agile_France_2013'),
+			(u'Organisateurs', '/pages/lequipe-dorganisation.html'),
+			(u'Relecteurs', '/pages/les-relecteurs.html'),
+			(u'Orateurs', '/pages/les-orateurs.html')
 		]),
 		(u'Blog', '/archives.html'),
 		(u'Éditions précédentes', [
@@ -81,6 +85,13 @@ BIO_SAVE_AS = 'bios/{slug}.html'
 BIO_URL = 'bios/{slug}.html'
 BIO_PIC_PATH = 'trombines'
 
+ROLE_NAMES = {
+	'perfecter': {'M': 'Relecteur', 'F': 'Relectrice'},
+	'organizer': {'M': 'Organisateur', 'F': 'Organisatrice'},
+	'speaker': {'M': 'Orateur', 'F': 'Oratrice'},
+	'aux': {'M': 'aux', 'F': 'aux'},
+}
+
 def apostrophe(article, nom):
 	if nom[0].lower() in "aeiouy":
 		return article[:-1] + "'" + nom
@@ -93,6 +104,6 @@ def sessions_after(sessions, session):
 	return sessions[i+1:]+sessions[:i]
 
 
-JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after}
+JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'slugify': slugify}
 
 STATIC_PATHS = ['programme']

@@ -1,4 +1,5 @@
 Title: Céline Stauder
+Sexe: F
 
 Après ses études à Oxford en 2006, Céline  découvre l'agilité en tant que membre de l’équipe au travers des pratiques XP et Scrum.
 En intégrant CLT Services, elle a successivement  occupé des rôles de Scrum Master et de Product Owner dans des grands comptes mais aussi en interne au travers sur projets au forfaits.

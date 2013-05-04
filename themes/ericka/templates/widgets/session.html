@@ -7,7 +7,8 @@
         <i class="icon-user"></i>
         {% for speaker in session.speakers %}
           {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
-          {{ speaker }}
+          {% set bio = bios[speaker | slugify] %}
+          <a href="/{{ bio.url }}">{{ speaker }}</a>
         {%- endfor %}
         {#
           <span class="pull-right"><i class="icon-comment"></i> <a href="#">{{ num_comments }} Comments</a></span>

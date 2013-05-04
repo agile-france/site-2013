@@ -1,4 +1,5 @@
 Title: Marielle Bezy
+Sexe: F
 
 Economiste de formation, je danse le tango depuis 16 ans et l’enseigne depuis 9 ans.
 Pendant une quinzaine d’années, j’ai accompagné des étudiants et jeunes professionnels étrangers dans leur intégration en France.

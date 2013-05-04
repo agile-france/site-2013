@@ -1,0 +1,6 @@
+{% macro list_roles(roles, sexe, role_names) %}
+  {% for role in roles %}
+    {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
+    {{ role_names[role][sexe] }}
+  {%- endfor %}
+{% endmacro %}

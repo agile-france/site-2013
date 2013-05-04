@@ -1,2 +1,2 @@
 Title: Jonathan Scher
-Roles: speaker, organizer
+Roles: organizer, speaker

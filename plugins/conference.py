@@ -3,7 +3,7 @@ from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, Static, is_valid_content 
 from pelican.readers import read_file
-from pelican.utils import path_to_url, process_translations, slugify, mkdir_p
+from pelican.utils import path_to_url, slugify, mkdir_p
 from itertools import chain
 
 import logging
@@ -24,8 +24,10 @@ class Session(Page):
 
 
 class Bio(Page):
-    default_template = 'bio'
+    default_template = 'resume'
 
+    def has_page(self):
+        return self.content.strip() or (conference.sessions_by_speaker[self.slug])
 
 class BioPic(Static):
     pass
@@ -40,12 +42,17 @@ class Conference:
         self.bios = defaultdict(dict)
         self.bio_pics = {}
         self.all_bios = {}
-
+        self.sessions_by_speaker = defaultdict(list)
 
     def add_bio(self, bio):
-        conference.all_bios[bio.slug] = bio
+        self.all_bios[bio.slug] = bio
         for role in bio.roles:
-            conference.bios[role][bio.slug] = bio
+            self.bios[role][bio.slug] = bio
+
+    def add_session(self, session):
+        self.sessions.append(session)
+        for speaker in session.speakers:
+            self.sessions_by_speaker[slugify(speaker)].append(session)
 
 conference = Conference()
 
@@ -93,7 +100,7 @@ class SessionGenerator(Generator):
                 if hasattr(session, 'tags'):
                     for tag in session.tags:
                         conference.tags[tag].append(session)
-                all_sessions.append(session)
+                conference.add_session(session)
             elif session.status == "draft":
                 self.drafts.append(session)
             else:
@@ -101,12 +108,10 @@ class SessionGenerator(Generator):
                                (repr(unicode.encode(session.status, 'utf-8')),
                                 repr(f)))
 
-        conference.sessions, self.translations = process_translations(all_sessions)
-
         self.context['CONFERENCE'] = self.conference
 
     def generate_output(self, writer):
-        for session in chain(self.translations, conference.sessions):
+        for session in conference.sessions:
             writer.write_file(session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))

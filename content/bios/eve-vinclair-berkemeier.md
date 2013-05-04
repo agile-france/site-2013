@@ -1,4 +1,5 @@
 Title: Eve Vinclair-Berkemeier
+Sexe: F
 
 En guérilla agile pendant des années dans une SII qui n'en voulait pas, j'ai une expérience débordante et créative du "hidden agile", et j'ai testé toutes les ruses pour agiliser un bon vieux projet en V.
 J'ai trouvé mon bonheur agile chez KnpLabs à Nantes, en innovant le Proxy Product Owner à ma manière.

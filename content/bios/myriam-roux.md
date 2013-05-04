@@ -1,4 +1,5 @@
 Title: Myriam Roux
+Sexe: F
 
 Myriam travaille depuis près de 20 ans dans l’IT pour banques d’investissements ou sociétés de gestion.
 Elle a dé-couvert l’agilité en 2006.
