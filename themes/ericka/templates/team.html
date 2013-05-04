@@ -2,6 +2,10 @@
 
 {% from "widgets/bio.html" import list_roles %}
 
+{% macro bio_pic(slug, pics) %}
+  <img src="/{% if slug in pics %}{{pics[slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
+{% endmacro %}
+
 {% block content %}
   <div class="about">
      <div class="row">
@@ -18,7 +22,11 @@
                      <div class="span3">
                         <div class="staff">
                            <div class="pic">
-                              <img src="/{% if bio.slug in CONFERENCE.bio_pics %}{{CONFERENCE.bio_pics[bio.slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
+                             {%- if bio.has_page() -%}
+                               <a href="/{{ bio.url }}">{{ bio_pic(bio.slug, CONFERENCE.bio_pics) }}</a>
+                             {%- else -%}
+                               {{ bio_pic(bio.slug, CONFERENCE.bio_pics) }}
+                             {%- endif -%}
                            </div>
                            <div class="details">
                               <div class="desig pull-left">
