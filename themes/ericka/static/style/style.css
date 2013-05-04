@@ -2211,3 +2211,7 @@ margin-bottom:10px;
    width:100%;
    }   
 }
+
+.logo img.pull-left {
+   padding-right: 10px;
+}
