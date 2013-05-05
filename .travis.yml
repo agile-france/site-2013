@@ -3,6 +3,8 @@ python:
   - "2.7"
 # command to install dependencies
 install:
+  - "sudo echo 'fr_FR.UTF-8 UTF-8' >> /etc/locale.gen"
+  - "sudo locale-gen"
   - "locale -a"
   - "pip install s3vcp markdown pelican --use-mirrors"
 # command to run tests
