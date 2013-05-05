@@ -24,7 +24,17 @@ class Session(Page):
 
 
 class Bio(Page):
+    mandatory_properties = ('title',)
     default_template = 'resume'
+
+    def __init__(self, *args, **kwargs):
+        super(Bio, self).__init__(*args, **kwargs)
+
+        if not hasattr(self, 'roles'):
+            self.roles = ['speaker']
+
+        if not hasattr(self, 'surname'):
+            self.surname = self.title.split(' ')[0]
 
     def has_page(self):
         return self.content.strip() or (conference.sessions_by_speaker[self.slug])
@@ -92,7 +102,7 @@ class SessionGenerator(Generator):
                     slug = slugify(speaker)
                     session.bios.append(slug)
                     if slug not in bios:
-                        bio = Bio("", {'title': speaker, 'roles': ["speaker"]}, settings=self.settings,
+                        bio = Bio("", {'title': speaker}, settings=self.settings,
                                     source_path="", context=self.context)
                         conference.add_bio(bio)
 
@@ -143,8 +153,6 @@ class BioGenerator(Generator):
             if not is_valid_content(bio, f):
                 continue
 
-            if not hasattr(bio, 'roles'):
-                bio.roles = ['speaker']
             self.add_source_path(bio)
 
             conference.add_bio(bio)

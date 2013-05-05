@@ -1,4 +1,6 @@
 Title: Tugdual Grall
+Twitter: tgrall
+Blog: http://tugdualgrall.blogspot.com
 
 Tugdual Grall is a Technical Evangelist at Couchbase, an open source advocate and a passionate developer.
 He currently works with the European developer communities to ease the NoSQL adoption.

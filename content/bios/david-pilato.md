@@ -1,4 +1,5 @@
 Title: David Pilato
+Twitter: dadoonet
 
 David Pilato est technical advocate chez Elasticsearch.
 Il anime la communauté française depuis un an.

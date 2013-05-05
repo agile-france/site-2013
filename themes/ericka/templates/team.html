@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% from "widgets/bio.html" import list_roles %}
+{% from "widgets/bio.html" import list_roles, social_icons %}
 
 {% macro bio_pic(slug, pics) %}
   <img src="/{% if slug in pics %}{{pics[slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
@@ -39,13 +39,9 @@
                                  </p>
                                  <em>{{ list_roles(bio.roles, bio.sexe | default('M'),ROLE_NAMES) }}</em>
                               </div>
-                              {#
                               <div class="asocial pull-right">
-                                 <a href="#"><i class="icon-facebook"></i></a>
-                                 <a href="#"><i class="icon-twitter"></i></a>
-                                 <a href="#"><i class="icon-linkedin"></i></a>
+                                 {{ social_icons(bio, false) }}
                               </div>
-                              #}
                               <div class="clearfix"></div>
                            </div>
                            <hr />

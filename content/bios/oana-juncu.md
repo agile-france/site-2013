@@ -1,5 +1,6 @@
 Title: Oana Juncu
 Sexe: F
+Blog: http://oanasagile.blogspot.fr/
 
 Oana Juncu est un enthousiaste soutenant l'Agilité des organisations depuis plusieurs années.
 Fondateur de cOemerge , elle aide les organisation pour créer l'histoire de leurs produits via Lean Startup et libérer le potentiel de créativité de toutes les équipes.

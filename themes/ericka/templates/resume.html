@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% from "widgets/bio.html" import list_roles %}
+{% from "widgets/bio.html" import list_roles, social_icons %}
 
 {% block content %}
   <div class="resume">
@@ -24,15 +24,9 @@
                                <h5>{{ bio.title }}</h5>
                                <div class="rmeta">{{ list_roles(bio.roles, bio.sexe | default('M'), ROLE_NAMES) }}</div>
                                {{ bio.content }}
-                               {#   <!-- Social media icons -->
-                                         <div class="social">
-                                              <a href="#"><i class="icon-facebook"></i></a>
-                                              <a href="#"><i class="icon-twitter"></i></a>
-                                              <a href="#"><i class="icon-linkedin"></i></a>
-                                              <a href="#"><i class="icon-google-plus"></i></a>
-                                              <a href="#"><i class="icon-pinterest"></i></a>
-                                         </div>  
-                               #}
+                               <div class="social">
+                                 {{ social_icons(bio) }}
+                               </div>  
                             </div>
                          </div>
                       </div>
