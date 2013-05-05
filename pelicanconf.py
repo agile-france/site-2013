@@ -19,6 +19,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
+LOCALE = ['fr_FR', 'fra_fra']
+
 def MENUITEMS(session_info):
 	def session_list_menu(sessions):
 		return [(s.title, '/' + s.url) for s in sessions]
