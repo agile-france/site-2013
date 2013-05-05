@@ -1,7 +1,9 @@
 Speakers: Laurent Bossavit
 Title: L'art d'avoir tort
-Duration: 60 minutes
 Format: Talk avec exercices et démos
+Room: 1
+Start_date: 2013-05-24 14:30
+Duration: 60 minutes
 Tags: Ouverture
 
 Vous détestez avoir tort?

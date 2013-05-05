@@ -1,7 +1,9 @@
 Speakers: Olivier Azeau
 Title: Deux ans dans le flux
-Duration: 60 minutes
 Format: Conférence
+Room: 5
+Start_date: 2013-05-23 14:30
+Duration: 60 minutes
 Tags: Retour d'expérience, Lean
 
 C'est l'histoire de développeurs qui viennent de passer deux ans dans le flux... (c'est aussi celle d'un Scrum qui a mal tourné)

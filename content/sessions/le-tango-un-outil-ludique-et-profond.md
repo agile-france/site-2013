@@ -1,7 +1,9 @@
 Speakers: Marielle Bezy, Jérémie Girault
 Title: Le tango : un outil ludique et profond pour revisiter le travail d'équipe, son leadership et son followership
-Duration: 90 minutes
 Format: Conférence-atelier
+Room: 6
+Start_date: 2013-05-24 11:30
+Duration: 90 minutes
 Tags: Soft skills, Jeu, Équipe
 
 On dit que "ce qu'on fait dans un domaine, on le fait souvent dans bien d'autres" et que "le corps ne ment pas". 

@@ -1,7 +1,9 @@
 Speakers: Katia Aresti, Éric le Merdy
 Title: Merci, j’ai vu la lumière du TDD...
-Duration: 60 minutes
 Format: Retour d’expérience
+Room: 4
+Start_date: 2013-05-24 10:00
+Duration: 60 minutes
 Tags: Technique, Outils de coaching
 
 Marre de prêcher le TDD dans le vide ?

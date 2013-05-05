@@ -1,7 +1,9 @@
 Speakers: Dov Tsal Sela, Cédric Chevalérias
 Title: Penny-game on acid
-Duration: 120 minutes
 Format: Atelier
+Room: 6
+Start_date: 2013-05-23 17:00
+Duration: 120 minutes
 Tags: Jeu, Ouverture
 
 La plupart des jeux Agile ont un cadre rigide destiné à mettre en exergue un principe ou une idée bien déterminés.

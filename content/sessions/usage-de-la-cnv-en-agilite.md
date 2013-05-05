@@ -1,7 +1,9 @@
 Speakers: Patrice Boisieau
 Title: Usages de la CNV en Agilité
-Duration: 60 minutes
 Format: Conférence
+Room: 3
+Start_date: 2013-05-24 14:30
+Duration: 60 minutes
 Tags: Outils de coaching
 
 La communication est une des valeurs fondamentales de l'Agilité.

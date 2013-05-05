@@ -1,7 +1,9 @@
 Speakers: Michel Herve
 Title: Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?
-Duration: 40 minutes
 Format: Conférence
+Room: 4
+Start_date: 2013-05-23 11:30
+Duration: 40 minutes
 Tags: Changement à grande échelle
 
 Comment éduquer à l’agilité par l’intra-entrepreneuriat ?

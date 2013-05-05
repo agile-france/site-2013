@@ -1,7 +1,9 @@
 Speakers: Christophe Keromen
 Title: Kai-Scène ou ce que j'ai appris de l'agilité au théâtre
-Duration: 15 minutes
 Format: Quickie
+Room: 4
+Start_date: 2013-05-23 12:30
+Duration: 15 minutes
 Tags: Ouverture
 
 La pratique artistique comme source d'inspiration de l'amélioration continue.

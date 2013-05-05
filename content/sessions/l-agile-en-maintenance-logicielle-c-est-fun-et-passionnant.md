@@ -1,7 +1,9 @@
 Speakers: Sébastien Delest
 Title: L’agile en maintenance logicielle, c'est fun et passionnant!
-Duration: 30 minutes
 Format: Conférence
+Room: 1
+Start_date: 2013-05-24 09:30
+Duration: 30 minutes
 Tags: Retour d'expérience, Agile aux limites
 
 Les pratiques agiles peuvent très bien s’appliquer dans un contexte de maintenance logicielle.

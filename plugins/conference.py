@@ -3,7 +3,7 @@ from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, Static, is_valid_content 
 from pelican.readers import read_file
-from pelican.utils import path_to_url, slugify, mkdir_p
+from pelican.utils import path_to_url, slugify, mkdir_p, strftime, get_date
 from itertools import chain
 
 import logging
@@ -22,6 +22,25 @@ class Session(Page):
     mandatory_properties = ('title', 'duration', 'format', 'speakers')
     default_template = 'session'
 
+
+    def __init__(self, *args, **kwargs):
+        super(Session, self).__init__(*args, **kwargs)
+
+        if hasattr(self, 'start_date'):
+            self.start_date = get_date(self.start_date)
+            self.locale_start_date = strftime(self.start_date, "%A %d")
+            self.locale_start_time = strftime(self.start_date, "%H:%M")
+
+        if not hasattr(self, 'bios'):
+            bios = conference.bios['speaker']
+            self.bios = []
+            for speaker in self.speakers:
+                slug = slugify(speaker)
+                self.bios.append(slug)
+                if slug not in bios:
+                    bio = Bio("", {'title': speaker}, settings=self.settings,
+                                source_path="", context=self._context)
+                    conference.add_bio(bio)
 
 class Bio(Page):
     mandatory_properties = ('title',)
@@ -78,7 +97,6 @@ class SessionGenerator(Generator):
 
     def generate_context(self):
         all_sessions = []
-        bios = conference.bios['speaker']
         for f in self.get_files(
                 os.path.join(self.path, self.settings['SESSION_DIR']),
                 exclude=self.settings['SESSION_EXCLUDES']):
@@ -95,16 +113,6 @@ class SessionGenerator(Generator):
                 continue
 
             self.add_source_path(session)
-
-            if not hasattr(session, 'bios'):
-                session.bios = []
-                for speaker in session.speakers:
-                    slug = slugify(speaker)
-                    session.bios.append(slug)
-                    if slug not in bios:
-                        bio = Bio("", {'title': speaker}, settings=self.settings,
-                                    source_path="", context=self.context)
-                        conference.add_bio(bio)
 
             if session.status == "published":
                 if hasattr(session, 'tags'):

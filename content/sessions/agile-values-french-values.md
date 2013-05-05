@@ -1,7 +1,9 @@
 Speakers: Peter Stevens
 Title: Agile Values, French Values
-Duration: 90 minutes
 Format: Workshop
+Room: 5
+Start_date: 2013-05-24 11:30
+Duration: 90 minutes
 Tags: Déconstruire l'agilité
 
 "Scrum won't work here! It might work in &lt;some other place&gt;, but our values are different."

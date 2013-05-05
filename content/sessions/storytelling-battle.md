@@ -1,7 +1,9 @@
 Speakers: Oana Juncu, Pablo Pernot
 Title: Storytelling Battle - pour enclencher le changement, créer son histoire
-Duration: 90 minutes
 Format: Atelier
+Room: 2
+Start_date: 2013-05-24 11:30
+Duration: 90 minutes
 Tags: Outils de coaching
 
 Cette session sous format atelier propose de faire découvrir la puissance de la “représentation narrative” pour faire passer simplement et avec puissance les messages qui vous tiennent au coeur.

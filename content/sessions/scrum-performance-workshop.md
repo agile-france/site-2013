@@ -1,7 +1,9 @@
 Speakers: Peter Stevens
 Title: Scrum Performance Workshop
-Duration: 90 minutes
 Format: Workshop
+Room: 2
+Start_date: 2013-05-23 11:30
+Duration: 90 minutes
 Tags: Outils de coaching
 
 Many organizations use Scrum, Agile, Lean or Kanban software development frameworks to develop software and create products.

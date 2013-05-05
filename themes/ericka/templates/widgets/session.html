@@ -1,8 +1,8 @@
 {% from "widgets/bio.html" import list_roles, social_icons %}
 
-{% macro post(session, bios, more=False) -%}
+{% macro post(session, bios, room_names, more=False) -%}
   <div class="entry">
-     <h2><a href="/{{ session.url }}" rel="bookmark">{{ session.title }}</a></h2>
+     <h2><a href="/{{ session.url }}" rel="bookmark">{{ session.title|escape }}</a></h2>
      
      <!-- Meta details -->
      <div class="meta">
@@ -12,9 +12,13 @@
           {% set bio = bios[speaker | slugify] %}
           <a href="/{{ bio.url }}">{{ speaker }}</a>
         {%- endfor %}
-        {#
-          <span class="pull-right"><i class="icon-comment"></i> <a href="#">{{ num_comments }} Comments</a></span>
-        #}
+        {% if session.room is defined%}
+           <i class="icon-home"></i> {{ room_names[session.room] }}
+        {% endif %}
+        {% if session.start_date is defined %}
+          <i class="icon-calendar"></i> {{ session.locale_start_date }}
+          <i class="icon-time"></i> {{ session.locale_start_time }}
+        {% endif %}
      </div>
      {% if session.img %}
        <div class="bthumb">

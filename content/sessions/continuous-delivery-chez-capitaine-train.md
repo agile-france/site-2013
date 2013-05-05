@@ -1,7 +1,9 @@
 Speakers: Frédéric Menou, Valentin Surrel
 Title: Continuous Delivery chez capitainetrain.com
-Duration: 60 minutes
 Format: Conférence
+Room: 1
+Start_date: 2013-05-24 10:00
+Duration: 60 minutes
 Tags: Retour d'expérience, Technique
 
 Nous souhaitons vous montrer comment nous sommes passé de livraisons rares et douloureuses à des livraisons banales et fréquentes.

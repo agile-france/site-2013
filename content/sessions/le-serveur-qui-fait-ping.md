@@ -1,7 +1,9 @@
 Speakers: Jonathan Perret, Emmanuel Gaillot
 Title: Le serveur qui fait ping
-Duration: 60 minutes
 Format: Programmation live
+Room: 1
+Start_date: 2013-05-23 10:00
+Duration: 60 minutes
 Tags: Technique
 
 La popularité de Node.js est en hausse constante chez les développeurs de serveurs HTTP.

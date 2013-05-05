@@ -1,7 +1,9 @@
 Speakers: Sébastien Fauvel
 Title: Osez le pair programming, découvrez les vertus cachées
-Duration: 90 minutes
 Format: Atelier
+Room: 2
+Start_date: 2013-05-24 09:30
+Duration: 90 minutes
 Tags: Technique, Équipe
 
 Travailler à deux sur une machine pourrait bien s’avérer plus rentable qu'on ne le pense.

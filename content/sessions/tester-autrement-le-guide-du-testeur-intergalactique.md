@@ -1,7 +1,9 @@
 Speakers: Rémy-Christophe Schermesser
 Title: Tester autrement : Le Guide du Testeur Intergalactique
-Duration: 45 minutes
 Format: Conférence
+Room: 6
+Start_date: 2013-05-24 17:00
+Duration: 45 minutes
 Tags: Technique
 
 Vous connaissez déjà TDD, votre couverture de code frise les 80 %, jUnit n'a plus de secret pour vous ?

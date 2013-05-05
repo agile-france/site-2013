@@ -1,7 +1,9 @@
 Speakers: Christophe Keromen
 Title: Ce que le sport m'a appris d'agile
-Duration: 30 minutes
 Format: Quickie + Atelier
+Room: 5
+Start_date: 2013-05-24 09:30
+Duration: 30 minutes
 Tags: Ouverture
 
 Le sport comme métaphore ou source d'inspiration de l'amélioration continue.

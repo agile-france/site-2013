@@ -86,10 +86,19 @@ BIO_URL = 'bios/{slug}.html'
 BIO_PIC_PATH = 'trombines'
 
 ROLE_NAMES = {
-	'perfecter': {'M': 'Relecteur', 'F': 'Relectrice'},
-	'organizer': {'M': 'Organisateur', 'F': 'Organisatrice'},
-	'speaker': {'M': 'Orateur', 'F': 'Oratrice'},
-	'aux': {'M': 'aux', 'F': 'aux'},
+	'perfecter': {'M': u'Relecteur', 'F': u'Relectrice'},
+	'organizer': {'M': u'Organisateur', 'F': u'Organisatrice'},
+	'speaker': {'M': u'Orateur', 'F': u'Oratrice'},
+	'aux': {'M': u'aux', 'F': u'aux'},
+}
+
+ROOM_NAMES = {
+	'1': u'1 - Belvédère',
+	'2': u'2 - Chalet RdC',
+	'3': u'3 - Chalet 1er étage',
+	'4': u'4 - Chalet 1er étage',
+	'5': u'5 - Chalet 1er étage',
+	'6': u'6 - Fermette',
 }
 
 def apostrophe(article, nom):

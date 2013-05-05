@@ -1,7 +1,9 @@
 Speakers: Vincent Daviet
 Title: Collaborer, et si on improvisait ?
-Duration: 60 minutes
 Format: Atelier
+Room: 4
+Start_date: 2013-05-23 14:30
+Duration: 60 minutes
 Tags: Soft skills
 
 Public : ouvert à tous, même aux plus timides !

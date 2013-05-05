@@ -1,7 +1,9 @@
 Speakers: Géry Derbier
 Title: Le tuteur
-Duration: 30 minutes
 Format: Jeu
+Room: 6
+Start_date: 2013-05-23 12:30
+Duration: 30 minutes
 Tags: Jeu, Équipe
 
 Parmi les jeux que j'utilise afin d'éveiller les consciences, j'en ai trouvé un remarquablement simple, efficace et très surprenant pour commencer à parler de propriétés émergentes, de dynamique d'auto-organisation (ou de son absence), de système décentralisé, de prise de décision en groupe, de la nature contre-intuitive de systèmes complexes...

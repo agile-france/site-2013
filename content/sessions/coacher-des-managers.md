@@ -1,7 +1,9 @@
 Speakers: Antoine Contal
 Title: Coacher des managers
-Duration: 60 minutes
 Format: Conférence
+Room: 1
+Start_date: 2013-05-23 16:00
+Duration: 60 minutes
 Tags: Changement à grande échelle, Outils de coaching
 
 Si vous êtes un coach agile expérimenté, vous êtes à l'aise pour accompagner des équipes, des scrum masters et des product owners.

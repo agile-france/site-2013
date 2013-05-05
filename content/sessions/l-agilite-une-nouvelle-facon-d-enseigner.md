@@ -1,7 +1,9 @@
 Speakers: Jean-Luc Lambert
 Title: L'agilité: une nouvelle façon d'enseigner ?
-Duration: 60 minutes
 Format: Conférence
+Room: 5
+Start_date: 2013-05-24 17:00
+Duration: 60 minutes
 Tags: Ouverture
 
 La conférence abordera deux sujets:

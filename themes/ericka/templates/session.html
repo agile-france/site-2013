@@ -13,7 +13,7 @@
               <div class="span8">
                  <div class="posts">
                  
-                    {% call post(session, CONFERENCE.all_bios) %}
+                    {% call post(session, CONFERENCE.all_bios, ROOM_NAMES) %}
                       {{ session.content }}
                     {% endcall %}
                     

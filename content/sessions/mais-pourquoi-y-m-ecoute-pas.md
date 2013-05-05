@@ -1,7 +1,9 @@
 Speakers: Florence Chabanois
 Title: Mais pourquoi y m'écoute pas ?
-Duration: 30 minutes (possible en 15 également selon calendrier AF)
-Format: Conférence/Quickie
+Format: Conférence
+Room: 6
+Start_date: 2013-05-24 09:30
+Duration: 30 minutes
 Tags: Outils de coaching
 
 "Les individus et leurs interactions", "La collaboration avec les clients"... Sur le papier, le manifeste agile est beau.

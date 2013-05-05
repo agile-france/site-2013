@@ -1,7 +1,9 @@
 Speakers: Géry Derbier
 Title: Leader en tant qu'hôte
-Duration: 45 minutes
 Format: Conférence interactive
+Room: 5
+Start_date: 2013-05-23 09:30
+Duration: 45 minutes
 Tags: Soft skills, Équipe
 
 La métaphore du leader comme héros ne me satisfait bien évidemment pas.

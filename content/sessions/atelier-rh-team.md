@@ -1,7 +1,9 @@
 Speakers: Yannick Ameur
 Title: Atelier RH Team
-Duration: 90 minutes
 Format: Atelier
+Room: 2
+Start_date: 2013-05-23 09:30
+Duration: 90 minutes
 Tags: Soft skills
 
 Je vous propose de vous exercer à passer des entretiens Agile.

@@ -1,7 +1,9 @@
 Speakers: Thomas Lissajoux, Marc Cherfi
 Title: Les paradoxes du leadership
-Duration: 90 minutes
 Format:  Conférence
+Room: 1
+Start_date: 2013-05-24 11:30
+Duration: 90 minutes
 Tags: Changement à grande échelle
 Bios: marc-cherfi, thomas-lissajoux
 

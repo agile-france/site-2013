@@ -1,7 +1,9 @@
 Speakers: Régis Medina
 Title: Encore plus d'agilité avec le lean : trois pratiques pour commencer
-Duration: 60 minutes
 Format: Conférence
+Room: 6
+Start_date: 2013-05-24 10:00
+Duration: 60 minutes
 Tags: Lean
 
 Voilà, vous avez mis en oeuvre les principales pratiques agiles dans votre équipe.

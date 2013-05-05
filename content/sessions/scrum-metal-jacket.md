@@ -1,7 +1,9 @@
 Speakers: Jean-Louis Rigau, Nicolas Jozwiak
 Title: Scrum Metal Jacket
-Duration: 60 minutes
 Format: REX
+Room: 3
+Start_date: 2013-05-23 16:00
+Duration: 60 minutes
 Tags: Retour d'expérience, Kanban
 
 Cette présentation sera un retour d’expérience sur la mise en place de l’agilité sur le projet SPark démarré en Octobre 2011 à la Société Générale.

@@ -1,7 +1,9 @@
 Speakers: Pierre Pezziardi
 Title: Agilité : do the wrong thing faster ?
-Duration: 30 minutes
 Format: Conférence - Débat
+Room: 1
+Start_date: 2013-05-23 12:30
+Duration: 30 minutes
 Tags: Déconstruire l'agilité
 
 Peut-on être fier d'être informaticien ?

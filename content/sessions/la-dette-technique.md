@@ -1,7 +1,9 @@
 Speakers: Francois Wauquier, Aurelien Pelletier
 Title: La Dette Technique
-Duration: 60 minutes
 Format: Conférence
+Room: 6
+Start_date: 2013-05-23 11:30
+Duration: 60 minutes
 Tags: Technique
 
 Tenir un engagement et s’endetter techniquement ou ne pas transiger sur la qualité. Qui n’a jamais été confronté à ce dilemne ?

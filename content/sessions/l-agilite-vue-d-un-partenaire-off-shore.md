@@ -1,7 +1,9 @@
 Speakers: Hoang-Anh Phan
 Title: L'agilité vue d'un partenaire off-shore
-Duration: 30 minutes
 Format: Conférence
+Room: 4
+Start_date: 2013-05-23 09:30
+Duration: 30 minutes
 Tags: Agile aux limites, Retour d'expérience
 
 Nous entendons souvent parler des limites de l’agile en offshore, essentiellement par des clients déçus de leur prestataire.

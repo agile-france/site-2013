@@ -1,7 +1,9 @@
 Speakers: Cyrille Martraire
 Title: Code Legacy: faire évoluer ou ré-écrire ?
-Duration: 45 minutes
 Format: Conférence
+Room: 5
+Start_date: 2013-05-23 10:15
+Duration: 45 minutes
 Tags: Technique
 
 Vous devez livrer des nouvelles fonctionnalités ambitieuses alors que votre code existant est un énorme mille-feuille de technologies héritées, sans aucun test ?

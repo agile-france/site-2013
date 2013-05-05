@@ -1,7 +1,9 @@
 Speakers: Pascal Van Cauwenberghe
 Title: Real Options: quand et comment (ne pas) prendre des décisions
-Duration: 60 minutes
 Format: Conférence
+Room: 1
+Start_date: 2013-05-23 11:30
+Duration: 60 minutes
 Tags: Ouverture
 
 L'analyse par les [Options Réelles][] est une technique qui permet de prendre des décisions sur les décisions. C'est cool, c'est meta.
