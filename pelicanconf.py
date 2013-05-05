@@ -19,7 +19,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-LOCALE = ['fr_FR', 'fra_fra']
+LOCALE = ['fr_FR.utf8', 'fra_fra']
 
 def MENUITEMS(session_info):
 	def session_list_menu(sessions):
