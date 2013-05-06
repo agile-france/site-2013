@@ -1,7 +1,7 @@
 Title: Frederic Merizen
 Roles: organizer
 Twitter: fredZen
-Linkedin: fredericmerizen
+Linkedin: in/fredericmerizen
 Viadeo: frederic.merizen
 
 Je suis consultant chez OCTO Technology depuis 2011. 

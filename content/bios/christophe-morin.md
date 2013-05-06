@@ -1,4 +1,8 @@
 Title: Christophe Morin
+Twitter: KaouannChris
+Linkedin: pub/christophe-morin/57/a43/90b/
+Viadeo: christophe.morin8
+Blog: http://www.leblogdekaouann.com/
 
 D'après William Schutz, psychologue américain auteur de L’élément humain, « une bonne équipe est une équipe dans laquelle quelqu’un peut dire « Ça ne va pas! » sans se faire écrabouiller ». 
 

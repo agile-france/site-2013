@@ -1,5 +1,5 @@
 Title: Christian Fauré
-Linkedin: christianfaure
+Linkedin: in/christianfaure
 Blog: http://www.christian-faure.net
 
 Mon nom est Christian Fauré, je suis consultant indépendant, mais plus connu dans le cadre de mes activités au sein de l'association Ars Industrialis, fondée par le philosophe Bernard Stiegler (dont je reprendrai les thèses et les concepts dans mon propos).
