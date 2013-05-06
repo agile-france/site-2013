@@ -2,8 +2,8 @@ Speakers: Thierry Cros
 Title: Le Développeur, la machine-outil et le syndrome kiski
 Format: Conférence
 Room: 2
-Start_date: 2013-05-24 17:30
-Duration: 30 minutes
+Start_date: 2013-05-24 17:00
+Duration: 45 minutes
 Tags: Technique, Déconstruire l'agilité
 Summary: #### Compléments
 Summary: 
