@@ -17,11 +17,11 @@ Quelques critères qui peuvent vous aider...
 
 Les slides de la session <a href="http://www.conference-agile.fr/sessions/rex-comment-diffuser-massivement-une-approche-kanban.html">"REX : Comment diffuser massivement une approche Kanban"</a>, de <a href="http://www.conference-agile.fr/bios/samuel-retiere.html">Samuel Retiere</a> sont en ligne !
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/20426286" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/20426286" width="560" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
 Vous pouvez également commencer à consulter les pitch vidéos. Voici celui de <a href="http://www.conference-agile.fr/bios/pierre-pezziardi.html">Pierre Pezziardi</a>, pour sa session <a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html">"Agilité : do the wrong thing faster ?"</a>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
 
 Voilà également celles de <a href="http://www.conference-agile.fr/bios/damien-thouvenin.html">Damien Touvenin</a>. Voici <a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html">"Ma PME Agile (work in progress)"</a>
 
