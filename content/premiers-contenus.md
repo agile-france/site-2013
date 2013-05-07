@@ -6,7 +6,7 @@ Author: Jonathan Scher
 status: draft
 Summary: Les contenus que nous avons à ce jour
 
-Quel beau programme ! Vous avez du mal à choisir les sessions que vous souhaitez voir ? C'est normal !
+<a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013-draft-3.pdf">Quel beau programme !</a> Vous avez du mal à choisir les sessions que vous souhaitez voir ? C'est normal !
 
 Quelques critères qui peuvent vous aider...
 - Certaines session ont publié du contenu en ligne !
@@ -23,4 +23,33 @@ Vous pouvez également commencer à consulter les pitch vidéos. Voici celui de 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
 
-Ceux de ...
+Voilà également celles de <a href="http://www.conference-agile.fr/bios/damien-thouvenin.html">Damien Touvenin</a>. Voici <a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html">"Ma PME Agile (work in progress)"</a>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen></iframe>
+
+Et également, en duo avec <a href="http://www.conference-agile.fr/bios/lan-levy.html">Lan Levy</a>, <a href="http://www.conference-agile.fr/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
+
+<h2>Session attrape-curieux</h2>
+Nous avons des statistiques très avancées sur les descriptions détaillées des sessions. Voici, par ordre de nombre de visiteurs, les descriptions des sessions qui ont attiré le plus de personnes jusqu'à ce matin...
+- <a href="/sessions/agilistes-noubliez-pas-la-technique.html">Agilistes : n'oubliez pas la technique !</a> - 128 affichages
+- <a href="/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html">Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?</a> - 87 affichages
+- <a href="/sessions/coacher-des-managers.html">Coacher des managers</a> - 81 affichages
+- <a href="/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a> - 80 affichages
+- <a href="/sessions/ma-pme-agile-work-in-progress.html">Ma PME Agile (work in progress)</a> - 64 affichages
+- <a href="/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html">Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas !</a> - 58 affichages
+- <a href="/sessions/le-serveur-qui-fait-ping.html">Le serveur qui fait ping</a> - 57 affichages
+- <a href="/sessions/collaborer-et-si-on-improvisait.html">Collaborer, et si on improvisait ?</a> - 52 affichages
+- <a href="/sessions/atelier-rh-team.html">Atelier RH Team</a> - 49 affichages
+- <a href="/sessions/code-legacy-faire-evoluer-ou-re-ecrire.html">Code Legacy: faire évoluer ou ré-écrire ?</a> - 47 affichages
+
+<h2>Choix des relecteurs</h2>
+
+Nous avions également mis en avant <a href="http://www.conference-agile.fr/nos-favoris.htm">le choix de nos relecteurs</a> de session !
+
+Vous voulez en savoir plus sur une session en particulière ? N'hésitez pas à nous demander, nous relaieront votre question à l'orateur.
+
+A bientôt,
+
+Jonathan Scher pour l'équipe d'organisation d'Agile France
