@@ -16,19 +16,19 @@ Quelques critères qui peuvent vous aider...
 
 <h2>Contenus en ligne</h2>
 
-<g> Voici les slides de la session <a href="http://www.conference-agile.fr/sessions/rex-comment-diffuser-massivement-une-approche-kanban.html">"REX : Comment diffuser massivement une approche Kanban"</a>, de <a href="http://www.conference-agile.fr/bios/samuel-retiere.html">Samuel Retiere</a></g>
+<b> Voici les slides de la session <a href="http://www.conference-agile.fr/sessions/rex-comment-diffuser-massivement-une-approche-kanban.html">"REX : Comment diffuser massivement une approche Kanban"</a>, de <a href="http://www.conference-agile.fr/bios/samuel-retiere.html">Samuel Retiere</a></b>
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/20426286" width="560" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
-<g>Le pitch vidéo de <a href="http://www.conference-agile.fr/bios/pierre-pezziardi.html">Pierre Pezziardi</a>, pour sa session <a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html">"Agilité : do the wrong thing faster ?"</a></g>
+<b>Le pitch vidéo de <a href="http://www.conference-agile.fr/bios/pierre-pezziardi.html">Pierre Pezziardi</a>, pour sa session <a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html">"Agilité : do the wrong thing faster ?"</a></b>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
 
-<g>Celles de <a href="http://www.conference-agile.fr/bios/damien-thouvenin.html">Damien Touvenin</a>. Voici <a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html">"Ma PME Agile (work in progress)"</a></g>
+<b>Celles de <a href="http://www.conference-agile.fr/bios/damien-thouvenin.html">Damien Touvenin</a>. Voici <a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html">"Ma PME Agile (work in progress)"</a></b>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen></iframe>
 
-<g>En duo avec <a href="http://www.conference-agile.fr/bios/lan-levy.html">Lan Levy</a>, <a href="http://www.conference-agile.fr/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a></g>
+<b>En duo avec <a href="http://www.conference-agile.fr/bios/lan-levy.html">Lan Levy</a>, <a href="http://www.conference-agile.fr/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a></b>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
 
