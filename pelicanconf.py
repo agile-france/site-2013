@@ -33,7 +33,7 @@ def MENUITEMS(session_info):
 		(u'Appel à Orateurs', '/orateur.html'),
 		(u'Programme', '/static/programme/programme-agile-france-2013-draft-3.pdf'),
 		(u'Sessions', [
-			(u'Toutes', session_list_menu(session_info.sessions))] + sessions_by_tag(session_info.tags) ),
+			(u'Toutes', session_list_menu(session_info.sessions.all))] + sessions_by_tag(session_info.sessions.by_tag) ),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
 			(u'Entre vous', 'http://lite.framapad.org/p/Agile_France_2013'),

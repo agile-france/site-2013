@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import defaultdict, namedtuple
 from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, Static, is_valid_content 
@@ -32,7 +32,7 @@ class Session(Page):
             self.locale_start_time = strftime(self.start_date, "%H:%M")
 
         if not hasattr(self, 'bios'):
-            bios = conference.bios['speaker']
+            bios = conference.bios.by_role_and_slug['speaker']
             self.bios = []
             for speaker in self.speakers:
                 slug = slugify(speaker)
@@ -56,32 +56,38 @@ class Bio(Page):
             self.surname = self.title.split(' ')[0]
 
     def has_page(self):
-        return self.content.strip() or (conference.sessions_by_speaker[self.slug])
+        return self.content.strip() or (conference.sessions.by_speaker[self.slug])
 
 class BioPic(Static):
     pass
+
+
+def obj(name, **kwargs):
+    return namedtuple(name, kwargs)(**kwargs)
 
 
 class Conference:
     """All informations about sessions"""
 
     def __init__(self, *args, **kwargs):
-        self.sessions = []
-        self.tags = defaultdict(list)
-        self.bios = defaultdict(dict)
+        self.sessions = obj('sessions',
+            all = [],
+            by_speaker = defaultdict(list),
+            by_tag = defaultdict(list))
+        self.bios = obj('bios',
+            by_role_and_slug = defaultdict(dict),
+            by_slug = {})
         self.bio_pics = {}
-        self.all_bios = {}
-        self.sessions_by_speaker = defaultdict(list)
 
     def add_bio(self, bio):
-        self.all_bios[bio.slug] = bio
+        self.bios.by_slug[bio.slug] = bio
         for role in bio.roles:
-            self.bios[role][bio.slug] = bio
+            self.bios.by_role_and_slug[role][bio.slug] = bio
 
     def add_session(self, session):
-        self.sessions.append(session)
+        self.sessions.all.append(session)
         for speaker in session.speakers:
-            self.sessions_by_speaker[slugify(speaker)].append(session)
+            self.sessions.by_speaker[slugify(speaker)].append(session)
 
 conference = Conference()
 
@@ -117,7 +123,7 @@ class SessionGenerator(Generator):
             if session.status == "published":
                 if hasattr(session, 'tags'):
                     for tag in session.tags:
-                        conference.tags[tag].append(session)
+                        conference.sessions.by_tag[tag].append(session)
                 conference.add_session(session)
             elif session.status == "draft":
                 self.drafts.append(session)
@@ -129,7 +135,7 @@ class SessionGenerator(Generator):
         self.context['CONFERENCE'] = self.conference
 
     def generate_output(self, writer):
-        for session in conference.sessions:
+        for session in conference.sessions.all:
             writer.write_file(session.save_as, self.get_template(session.template),
                     self.context, session=session,
                     relative_urls=self.settings.get('RELATIVE_URLS'))
@@ -166,7 +172,7 @@ class BioGenerator(Generator):
             conference.add_bio(bio)
 
     def generate_output(self, writer):
-        for bio in conference.all_bios.values():
+        for bio in conference.bios.by_slug.values():
             writer.write_file(bio.save_as, self.get_template(bio.template),
                     self.context, bio=bio,
                     relative_urls=self.settings.get('RELATIVE_URLS'))

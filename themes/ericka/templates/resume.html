@@ -32,7 +32,7 @@
                       </div>
                    </div>
                  {% endif %}
-                 {% set sessions = CONFERENCE.sessions_by_speaker[bio.slug] %}
+                 {% set sessions = CONFERENCE.sessions.by_speaker[bio.slug] %}
                  {% if sessions %}
                    <div class="rblock">
                       <div class="row">
