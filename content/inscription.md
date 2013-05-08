@@ -17,6 +17,14 @@ Notre but : permettre aux <span class="color">praticiens avancés</span> de se r
   Achetez vos <span class="color">billets</span> dès maintenant !
 </span>
 
+Votre cas de figure n'est pas couvert par le formulaire ci-dessous ?  
+Contactez-nous pour en parler - [contact@conference-agile.fr][2].
+
+- Règlements possibles par <span class="color">chèque, virement ou paypal</span>
+- Émission de <span class="color">factures</span>
+- Prix négociés pour <span class="color">achats groupés</span>
+
 <iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=28341&amp;code=7362&amp;cas=1" width="650" height="340" scrolling="auto" frameborder="0"></iframe>
 
 [1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
+[2]: mailto:contact@conference-agile.fr
