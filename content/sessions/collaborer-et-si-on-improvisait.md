@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Soft skills
+Summary:
 
 Public : ouvert à tous, même aux plus timides !
 A la manière des jeux agiles, tout le monde peut participer sans compétence particulière.

@@ -5,6 +5,7 @@ Room: 1
 Start_date: 2013-05-23 16:00
 Duration: 60 minutes
 Tags: Changement à grande échelle, Outils de coaching
+Summary:
 
 Si vous êtes un coach agile expérimenté, vous êtes à l'aise pour accompagner des équipes, des scrum masters et des product owners.
 Mais lorsque l'agilité se diffuse dans une organisation, il arrive un moment où ça coince avec le management.

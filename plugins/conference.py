@@ -1,4 +1,5 @@
 from collections import defaultdict, namedtuple
+from datetime import timedelta
 from pelican import signals
 from pelican.generators import Generator
 from pelican.contents import Page, Static, is_valid_content 
@@ -26,10 +27,24 @@ class Session(Page):
     def __init__(self, *args, **kwargs):
         super(Session, self).__init__(*args, **kwargs)
 
-        if hasattr(self, 'start_date'):
+        has_duration = hasattr(self, 'duration')
+        has_start_date = hasattr(self, 'start_date')
+
+        if has_duration:
+            d = self.duration.split(' ')
+            if len(d) <> 2 or d[1] <> "minutes":
+                logger.error("Unknown duration format: %s", self.duration)
+            self.duration = timedelta(minutes=int(d[0]))
+
+        if has_start_date:
             self.start_date = get_date(self.start_date)
             self.locale_start_date = strftime(self.start_date, "%A %d")
             self.locale_start_time = strftime(self.start_date, "%H:%M")
+
+        if has_duration and has_start_date:
+            self.end_date = self.start_date + self.duration
+            self.locale_end_time = strftime(self.end_date, "%H:%M")
+
 
         if not hasattr(self, 'bios'):
             bios = conference.bios.by_role_and_slug['speaker']
@@ -86,6 +101,7 @@ class Conference:
 
     def add_session(self, session):
         self.sessions.all.append(session)
+
         for speaker in session.speakers:
             self.sessions.by_speaker[slugify(speaker)].append(session)
 

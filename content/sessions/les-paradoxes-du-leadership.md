@@ -6,6 +6,7 @@ Start_date: 2013-05-24 11:30
 Duration: 90 minutes
 Tags: Changement à grande échelle
 Bios: marc-cherfi, thomas-lissajoux
+Summary:
 
 Vous êtes un manager, un coach ou un leader anonyme.
 En tout cas vous êtes un agent de changement et vous faites de votre mieux.

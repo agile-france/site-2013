@@ -5,6 +5,23 @@ Room: 3
 Start_date: 2013-05-23 17:00
 Duration: 90 minutes
 Tags: Lean, Changement à grande échelle
+Summary: #### Compléments
+Summary: 
+Summary: Quelques références:
+Summary: 
+Summary: Beyond budgeting (How Managers Can Break Free from the Annual Performance Trap) - Jeremy Hope / Robin Fraser
+Summary: 
+Summary: Practical Lean Accounting - Maskell / Baggaley
+Summary: 
+Summary: Management Dynamics - Caspari / Caspari
+Summary: 
+Summary: Throughput Accounting - Corbett
+Summary: 
+Summary: Principles of Product Development Flow - Reinertsen
+Summary: 
+Summary: [how do you explain radical management or agile to a cfo][] - Steve Denning
+Summary: 
+Summary: [how do you explain radical management or agile to a cfo]: http://www.forbes.com/sites/stevedenning/2011/08/16/how-do-you-explain-radical-management-or-agile-to-a-cfo
 
 L’agilité est de plus en plus présente dans le développement de logiciel, et dans d’autres services de l’entreprise comme le marketing (si, si)
 
@@ -29,20 +46,3 @@ Le pessimiste le voit à moitié vide,
 Le controleur de gestion voit qu’il y a 50% de trop de verre.  
 Le consultant belge y voit une opportunité d’optimiser la consommation d’alcool et commande encore une tournée.
 
-#### Compléments
-
-Quelques références:
-
-Beyond budgeting (How Managers Can Break Free from the Annual Performance Trap) - Jeremy Hope / Robin Fraser
-
-Practical Lean Accounting - Maskell / Baggaley
-
-Management Dynamics - Caspari / Caspari
-
-Throughput Accounting - Corbett
-
-Principles of Product Development Flow - Reinertsen
-
-[how do you explain radical management or agile to a cfo][] - Steve Denning
-
-[how do you explain radical management or agile to a cfo]: http://www.forbes.com/sites/stevedenning/2011/08/16/how-do-you-explain-radical-management-or-agile-to-a-cfo

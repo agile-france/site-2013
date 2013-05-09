@@ -5,6 +5,7 @@ Room: 1
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
 Tags: Ouverture
+Summary:
 
 Vous détestez avoir tort?
 Vous n'etes pas seul, c'est une sensation horrible!

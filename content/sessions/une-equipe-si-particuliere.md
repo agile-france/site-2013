@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-24 10:00
 Duration: 60 minutes
 Tags: Équipe
+Summary:
 
 Quoi de plus simple et de plus élémentaire que la vie en équipe ?
 Nous chassions ensemble et nous vivions ensemble.

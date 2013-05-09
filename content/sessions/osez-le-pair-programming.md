@@ -5,6 +5,7 @@ Room: 2
 Start_date: 2013-05-24 09:30
 Duration: 90 minutes
 Tags: Technique, Équipe
+Summary:
 
 Travailler à deux sur une machine pourrait bien s’avérer plus rentable qu'on ne le pense.
 A travers une activité sans codage, je vous propose de découvrir toute la richesse que cette activité peut apporter à votre service informatique.

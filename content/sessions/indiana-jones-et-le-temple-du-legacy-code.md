@@ -5,6 +5,7 @@ Room: 6
 Start_date: 2013-05-23 14:30
 Duration: 45 minutes
 Tags: Technique
+Summary:
 
 Selon The Economics Of Software Maintenance In The 21 Century, nous passons 80% de notre temps à maintenir du code existant et pénible à modifier.
 Dans cette situation nous devenons des archéologues du code, tandis que les contraintes de temps se font plus fortes.

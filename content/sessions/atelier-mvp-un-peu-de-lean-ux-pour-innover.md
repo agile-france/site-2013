@@ -5,6 +5,17 @@ Room: 5
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
 Tags: Lean
+Summary: #### Compléments
+Summary: 
+Summary: L'atelier a déjà été joué dans plusieurs villes dans le monde (par sa créatrice), et plus récemment à Lyon et Avignon.
+Summary: Il est décrit [ici][]
+Summary: 
+Summary: Les participants travaillent en groupe de 3 à 5 personnes.
+Summary: Pour que l’atelier fonctionne, il faut au minimum 2 groupes, donc minimum 6 personnes.
+Summary: Pour 1 animateur(-trice), il est conseillé de ne pas dépasser 3 groupes (plus simple pour les questions/réponses et le suivi des étapes), donc maximum 15 personnes.
+Summary: Au delà, il est préférable d’être aidé par d’autres animateurs et d’avoir de la place sur les murs (1 feuille de paperboard par groupe en paysage scotchée au mur).
+Summary: 
+Summary: [ici]: http://lyon.clubagilerhonealpes.org/saison-2012-2013/atelier/atelier-creer-unbuilding-an-mvp-that-works-for-users
 
 Proposer une solution innovante et avoir un feedback rapide : le tout en moins de 2h !
 Quelle entreprise peut se permettre le luxe d'ignorer une technique aussi rentable ?
@@ -24,14 +35,3 @@ Cet atelier pourra vous servir tel quel dans votre quotidien, que vous ayez beso
 Tout le monde peut y jouer, quelque soit son profil, ses compétences et son niveau d’expérience.
 Il est particulièrement pertinent pour les PO (responsables produit), les analystes fonctionnel, les entrepreneurs et les intrapreneurs.
 
-#### Compléments
-
-L'atelier a déjà été joué dans plusieurs villes dans le monde (par sa créatrice), et plus récemment à Lyon et Avignon.
-Il est décrit [ici][]
-
-Les participants travaillent en groupe de 3 à 5 personnes.
-Pour que l’atelier fonctionne, il faut au minimum 2 groupes, donc minimum 6 personnes.
-Pour 1 animateur(-trice), il est conseillé de ne pas dépasser 3 groupes (plus simple pour les questions/réponses et le suivi des étapes), donc maximum 15 personnes.
-Au delà, il est préférable d’être aidé par d’autres animateurs et d’avoir de la place sur les murs (1 feuille de paperboard par groupe en paysage scotchée au mur).
-
-[ici]: http://lyon.clubagilerhonealpes.org/saison-2012-2013/atelier/atelier-creer-unbuilding-an-mvp-that-works-for-users

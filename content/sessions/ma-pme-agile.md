@@ -5,8 +5,8 @@ Room: 3
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
 Tags: Ouverture, Retour d'expérience
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen></iframe>
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen></iframe>
+Summary:
 
 Comment appliquer l'agilité à son management quand on est patron d'une PME qui vend de l'agilité à ses clients ?
 

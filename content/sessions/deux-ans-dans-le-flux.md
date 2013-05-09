@@ -5,6 +5,9 @@ Room: 5
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Retour d'expérience, Lean
+Summary: #### Compléments
+Summary: La session a été présentée à l'automne 2012 à Agile Tour Toulouse et Agile Tour Montpellier.
+Summary: A ces occasions, les retours ont montré qu'une une réelle pratique de l'agilité permet de mieux apprécier le contenu de la session car on n'y parle pas d'une transition vers l'agilité mais d'une possibilité (parmi d'autres) d'un "après Scrum".
 
 C'est l'histoire de développeurs qui viennent de passer deux ans dans le flux... (c'est aussi celle d'un Scrum qui a mal tourné)
 
@@ -22,6 +25,3 @@ La session porte principalement sur les deux dernières années et une sélectio
 - les spécifications exécutables
 - le client dans un rôle d'explorateur
 
-#### Compléments
-La session a été présentée à l'automne 2012 à Agile Tour Toulouse et Agile Tour Montpellier.
-A ces occasions, les retours ont montré qu'une une réelle pratique de l'agilité permet de mieux apprécier le contenu de la session car on n'y parle pas d'une transition vers l'agilité mais d'une possibilité (parmi d'autres) d'un "après Scrum".

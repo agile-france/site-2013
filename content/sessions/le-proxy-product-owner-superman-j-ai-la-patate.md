@@ -5,6 +5,7 @@ Room: 2
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
 Tags: Retour d'expérience, Agile aux limites
+Summary:
 
 Inexistant en théorie, on parle concrètement du Proxy Product Owner lors de la mise en place de certains projets informatiques. Nombreux sont les facteurs qui ont fait naître l’intermédiaire entre le(s) Product Owner(s) et l'équipe.
 Ces facteurs sont évoqués et discutés lors de la table ronde afin de faire émerger au fur et à mesure le rôle du PPO.
@@ -17,7 +18,5 @@ J’adore échanger et discuter des projets agiles, en particulier les projets q
 Max 10 personnes autour d’une table ronde :
 
 - chefs de projets avec l'expérience d’un projet agile
-
 - chefs de projets qui ont envie d’agiliser leur projets traditionnels
-
 - curieux d’agilité, avec une connaissance des théories d’agilité

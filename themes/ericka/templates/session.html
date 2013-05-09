@@ -1,6 +1,7 @@
 {% extends "base.html" %}
-{% from "widgets/session.html" import post %}
+{% from "widgets/session.html" import session_meta %}
 {% from "widgets/sidebar.html" import sidebar %}
+{% from "widgets/bio.html" import social_icons %}
 {% import "widgets/recent_posts.html" as recent_posts %}
 
 {% block content %}
@@ -13,9 +14,22 @@
               <div class="span8">
                  <div class="posts">
                  
-                    {% call post(session, CONFERENCE.bios.by_slug, ROOM_NAMES) %}
-                      {{ session.content }}
-                    {% endcall %}
+                    <div class="entry">
+                       {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
+                       {{ session.promo }}
+                       {{ session.content }}
+                       {{ session.summary }}
+                       {% for speaker in session.bios %}
+                           {% set bio = CONFERENCE.bios.by_slug[speaker] %}
+                           {% if bio.content | trim %}
+                             <h4>{{ 'A propos de'|apostrophe(bio.title) }}</h4>
+                             {{ bio.content }}
+                             <div class="social">
+                               {{ social_icons(bio) }}
+                             </div>  
+                           {% endif %}
+                       {% endfor %}
+                    </div>
                     
                     <div class="well">
                        {% if session.tags %}

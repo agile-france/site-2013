@@ -5,9 +5,8 @@ Room: 3
 Start_date: 2013-05-24 16:00
 Duration: 120 minutes
 Tags: Changement à grande échelle
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
-
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
+Summary:
 
 Et si on appliquait les principes agiles au pilotage d'entreprise ?
 

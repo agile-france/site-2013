@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-23 16:00
 Duration: 45 minutes
 Tags: Technique
+Summary:
 
 Dans ce live coding d'environ 30 minutes vous verrez comment combiner l'écriture de tests expressifs avec une application utilisant les technologies web derniers cris.
 

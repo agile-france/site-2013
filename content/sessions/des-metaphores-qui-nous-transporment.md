@@ -5,6 +5,7 @@ Room: 6
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
 Tags: Outils de coaching
+Summary:
 
 Dans notre domaine il semble qu'il y ait un process pour tout, et même l'agile, en dépit des proclamations, est l'occasion d'un retour sempiternel au process, aux outils, aux recettes.
 Avec autant de prescriptions, il semble incroyable de pouvoir encore échouer dans nos projets..

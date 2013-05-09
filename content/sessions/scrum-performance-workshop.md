@@ -5,6 +5,11 @@ Room: 2
 Start_date: 2013-05-23 11:30
 Duration: 90 minutes
 Tags: Outils de coaching
+Summary: #### Options
+Summary: 
+Summary: This workshop can be held in French or English.
+Summary: We can defer the decision to session participants.
+Summary: My (quite minimal) written materials are in English.
 
 Many organizations use Scrum, Agile, Lean or Kanban software development frameworks to develop software and create products.
 The gap between Scrum by the book and Scrum in the real world can be huge!
@@ -17,8 +22,3 @@ Without being judgmental, we will reflect on whether those differences are healt
 What should you change and what can leave the way it is?
 Every participant will leave this workshop with new inspiration for improving their own organization, starting on Monday morning!
 
-#### Options
-
-This workshop can be held in French or English.
-We can defer the decision to session participants.
-My (quite minimal) written materials are in English.

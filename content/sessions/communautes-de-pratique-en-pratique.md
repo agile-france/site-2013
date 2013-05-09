@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-24 09:30
 Duration: 30 minutes
 Tags: Équipe, Retour d'expérience
+Summary:
 
 Vous rêvez d'avoir des réunions où les développeurs échangent leurs techniques, présentent leurs dernières trouvailles,  les derniers frameworks utilisés, où les testeurs partagent leurs douleurs et leurs solutions, où des personnes échangent autour de différentes problématiques ? 
 

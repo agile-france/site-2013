@@ -5,6 +5,7 @@ Room: 6
 Start_date: 2013-05-24 17:00
 Duration: 45 minutes
 Tags: Technique
+Summary:
 
 Vous connaissez déjà TDD, votre couverture de code frise les 80 %, jUnit n'a plus de secret pour vous ?
 Mais vous sentez que vous pourriez faire plus de vos tests, que les outils que vous utilisez ont des limites.

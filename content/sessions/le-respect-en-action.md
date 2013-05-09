@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-23 10:00
 Duration: 60 minutes
 Tags: Équipe
+Summary:
 
 Curieusement, dans le Lean, la littérature est orientée Kaizen.
 Nous n’avons trouvé que peu d’informations pratiques sur l'autre pilier - le Respect.

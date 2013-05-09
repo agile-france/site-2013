@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
 Tags: Équipe, Retour d'expérience
+Summary:
 
 Dans le déploiement de l’Agilité en entreprise, les résistances aux changements peuvent prendre différentes formes et ne viennent pas forcément de la plus haute hiérarchie.
 

@@ -5,6 +5,11 @@ Room: 2
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
 Tags: Outils de coaching
+Summary: #### Compléments
+Summary: 
+Summary: Oana et Pablo ont crée ensemble un [espace de collaboration et convergence des idées et initiatives][1] 
+Summary: 
+Summary: [1]: http://convergenc.es
 
 Cette session sous format atelier propose de faire découvrir la puissance de la “représentation narrative” pour faire passer simplement et avec puissance les messages qui vous tiennent au coeur.
 
@@ -42,8 +47,3 @@ Cet atelier vous aidera à
 - utiliser les techniques narratives comme outil pédagogique,
 - Expérimenter la capacité de la narration de créer des ponts de communication et de transmettre des messages persistants.
 
-#### Compléments
-
-Oana et Pablo ont crée ensemble un [espace de collaboration et convergence des idées et initiatives][] 
-
-[espace de collaboration et convergence des idées et initiatives]: convergenc.es

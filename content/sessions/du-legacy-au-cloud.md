@@ -5,6 +5,7 @@ Room: 3
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
 Tags: Technique
+Summary:
 
 Il est de plus en plus simple de développer une application web, en partant de zéro, et de l’héberger sur le Cloud.
 Est-ce aussi simple quand on part de code existant ?

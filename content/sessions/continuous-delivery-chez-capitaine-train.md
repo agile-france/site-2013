@@ -5,6 +5,7 @@ Room: 1
 Start_date: 2013-05-24 10:00
 Duration: 60 minutes
 Tags: Retour d'expérience, Technique
+Summary:
 
 Nous souhaitons vous montrer comment nous sommes passé de livraisons rares et douloureuses à des livraisons banales et fréquentes.
 Livrer son logiciel en production c'est un chemin parsemé d'embûches, donc il sera souvent question de ce qui ne marche pas !

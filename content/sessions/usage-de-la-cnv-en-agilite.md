@@ -5,6 +5,7 @@ Room: 3
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
 Tags: Outils de coaching
+Summary:
 
 La communication est une des valeurs fondamentales de l'Agilité.
 Mais savons-nous vraiment communiquer ?

@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
 Tags: Outils de coaching
+Summary:
 
 “Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie." - Confucius . 
 

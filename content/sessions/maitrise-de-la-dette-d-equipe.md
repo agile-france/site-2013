@@ -6,6 +6,7 @@ Room: 3
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Équipe
+Summary:
 
 Votre équipe est agile mais elle connaît des difficultés majeures, notamment sur la collaboration.
 Parfois, ces difficultés s'accumulent et mettent sérieusement en péril le projet.

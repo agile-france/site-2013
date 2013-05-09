@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-23 11:30
 Duration: 45 minutes
 Tags: Retour d'expérience, Changement à grande échelle
+Summary:
 
 Un département IT d'une centaine de personnes a entamé il y a 18 mois une transformation agile. Or, déployer l'agilité dans une contre-culture agile n'est pas de tout repos et réserve bien des surprises !
 Passés les premiers mois de développement agile, les murs de l'organisation peuvent paraître bien étroits, voire hostiles au plein épanouissement agile.

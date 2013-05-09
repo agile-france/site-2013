@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-24 16:00
 Duration: 120 minutes
 Tags: Équipe, Jeu
+Summary:
 
 Venez découvrir cette seconde version du jeu Objectif Mars.
 

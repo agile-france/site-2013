@@ -5,6 +5,17 @@ Room: 6
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
 Tags: Soft skills, Jeu, Équipe
+Summary: #### Compléments
+Summary: 
+Summary: Ce qui nous importe, c'est que le processus se fasse dans la bonne humeur, le partage et la bienveillance et que le résultat soit concret et palpable pour les participants dans leur vie professionnelle et parfois personnelle.
+Summary: 
+Summary: Nous parlons de conférence-atelier car ce type d'interventions peut se faire à partir de 6 personnes et jusqu’à plusieurs centaines de personnes et implique une participation des personnes présentes.
+Summary: 
+Summary: Notre travail est fondé sur trois axes :
+Summary: 
+Summary: - des exercices ludiques, à deux ou à plus en changeant régulièrement de partenaire suivis de moments de partage en bînomes autour de ce qui a été vécu
+Summary: - un moment d’introspection sur ce qui a été vécu et pour se projeter dans une utilisation concrête de ce qui a été decouvert
+Summary: - un partage collectif où les participants échangent sur ce qu'ils ont pu observer et comprendre, ce qu'ils souhaitent mettre en place dans leur pratique professionnelle pour favoriser le travail d’équipe, et des pratiques telles que l'intelligence collective. 
 
 On dit que "ce qu'on fait dans un domaine, on le fait souvent dans bien d'autres" et que "le corps ne ment pas". 
 
@@ -22,14 +33,3 @@ Des exercices à deux ou à plusieurs, des moments pour intérioriser et des tem
 Tout le monde, avec un peu de curiosité et une envie de partager et de s’amuser, peut participer à cet atelier ;)
 Venez avec un stylo !
 
-#### Compléments
-
-Ce qui nous importe, c'est que le processus se fasse dans la bonne humeur, le partage et la bienveillance et que le résultat soit concret et palpable pour les participants dans leur vie professionnelle et parfois personnelle.
-
-Nous parlons de conférence-atelier car ce type d'interventions peut se faire à partir de 6 personnes et jusqu’à plusieurs centaines de personnes et implique une participation des personnes présentes.
-
-Notre travail est fondé sur trois axes :
-
-- des exercices ludiques, à deux ou à plus en changeant régulièrement de partenaire suivis de moments de partage en bînomes autour de ce qui a été vécu
-- un moment d’introspection sur ce qui a été vécu et pour se projeter dans une utilisation concrête de ce qui a été decouvert
-- un partage collectif où les participants échangent sur ce qu'ils ont pu observer et comprendre, ce qu'ils souhaitent mettre en place dans leur pratique professionnelle pour favoriser le travail d’équipe, et des pratiques telles que l'intelligence collective. 

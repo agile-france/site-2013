@@ -5,6 +5,9 @@ Room: 1
 Start_date: 2013-05-23 11:30
 Duration: 60 minutes
 Tags: Ouverture
+Summary: #### Compléments
+Summary: 
+Summary: Cette conférence a été présentée à Devoxx France, fin mars. Entre mars et mai, la présentation aura surement changé ;-)
 
 L'analyse par les [Options Réelles][] est une technique qui permet de prendre des décisions sur les décisions. C'est cool, c'est meta.
 
@@ -22,9 +25,5 @@ Découvrez une autre façon de voir les décisions, des techniques simples pour 
 Vous découvrirez peut-être que vous aussi croyez des choses qui sont fausses.
 
 Au minimum vous entendrez quelques histoires belges... :-)
-
-#### Compléments
-
-Cette conférence a été présentée à Devoxx France, fin mars. Entre mars et mai, la présentation aura surement changé ;-)
 
 [Options Réelles]: http://fr.wikipedia.org/wiki/Analyse_par_les_options_r%C3%A9elles

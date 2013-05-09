@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-24 10:00
 Duration: 60 minutes
 Tags: Technique, Outils de coaching
+Summary:
 
 Marre de prêcher le TDD dans le vide ?
 A travers un jeu de rôle, venez apprendre comment intéresser différents types de développeurs réfractaires :

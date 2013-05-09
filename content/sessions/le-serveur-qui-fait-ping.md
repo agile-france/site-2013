@@ -5,6 +5,11 @@ Room: 1
 Start_date: 2013-05-23 10:00
 Duration: 60 minutes
 Tags: Technique
+Summary: #### Compléments
+Summary: 
+Summary: Jonathan Perret et Emmanuel Gaillot sont connus et reconnus pour leurs sessions de programmation en public, dans lesquelles ils montrent depuis plus de trois ans non seulement du code mais l'action de coder elle-même.
+Summary: Plutôt que d'enjoindre les foules à programmer mieux, ils préfèrent montrer par l'exemple que c'est possible, même dans des circonstances extrêmes.
+Summary: Ils espèrent enfin par la célébration d'une pratique réveiller les ambitions éteintes chez les consommateurs blasés de conférences, pour qu'eux aussi se disent "voilà ce que je veux faire plus tard".
 
 La popularité de Node.js est en hausse constante chez les développeurs de serveurs HTTP.
 Toutefois, son modèle de gestion "single thread" sous-jacent fait de la programmation en Node.js une expérience assez inhabituelle, ce qui donne aux codeurs un prétexte supplémentaire pour ne pas piloter leurs développements par les tests.
@@ -16,8 +21,3 @@ Quelques notions préalables en programmation (en particulier en Node.js) seront
 
 Les participants auront l'occasion d'apprendre comment utiliser les tests dans un langage reposant sur un paradigme mono-thread, comment composer avec un protocole de communication exotique, et comment justifier à son manager le fait de jouer à Minecraft pendant les heures de travail.
 
-#### Compléments
-
-Jonathan Perret et Emmanuel Gaillot sont connus et reconnus pour leurs sessions de programmation en public, dans lesquelles ils montrent depuis plus de trois ans non seulement du code mais l'action de coder elle-même.
-Plutôt que d'enjoindre les foules à programmer mieux, ils préfèrent montrer par l'exemple que c'est possible, même dans des circonstances extrêmes.
-Ils espèrent enfin par la célébration d'une pratique réveiller les ambitions éteintes chez les consommateurs blasés de conférences, pour qu'eux aussi se disent "voilà ce que je veux faire plus tard".

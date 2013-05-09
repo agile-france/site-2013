@@ -5,6 +5,7 @@ Room: 2
 Start_date: 2013-05-23 16:00
 Duration: 180 minutes
 Tags: Lean
+Summary:
 
 Vous avez une super idée en tête et vous vous posez plein de questions sur comment la concrétiser.
 Ou peut-être même mieux, vous l'avez déjà développé et mis à disposition, mais votre produit ne décolle pas aussi rapidement que vous l'auriez imaginé!

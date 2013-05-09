@@ -5,6 +5,16 @@ Room: 2
 Start_date: 2013-05-24 16:00
 Duration: 90 minutes
 Tags: Ouverture
+Summary: #### Compléments
+Summary: 
+Summary: Voir :
+Summary: 
+Summary: - http://www.vialaventure.fr/expertise/agile/
+Summary: - http://www.vialaventure.fr/les-interventions/conferences/
+Summary: 
+Summary: [Quelques matériels][] pour présenter la conférence.
+Summary: 
+Summary: [Quelques matériels]: http://www.vialaventure.fr/telecharger-photos-et-videos/
 
 Transformer perturbations, instabilité permanente et incertitudes en avantages concurrentiels
 
@@ -33,13 +43,3 @@ Permettre à leurs organisations d’atteindre leurs objectifs en avançant touj
     - Privilégier la logique de l’approximation constante et l'action rapide à la qualité de l'information et la précision, pour s'approcher et atteindre les cibles malgré le manque d'information fiable
 - Insuffler la culture et mettre en place les outils qui  permettent de conserver la perception du sens et donc la motivation des hommes dans ces contextes
 
-#### Compléments
-
-Voir :
-
-- http://www.vialaventure.fr/expertise/agile/
-- http://www.vialaventure.fr/les-interventions/conferences/
-
-[Quelques matériels][] pour présenter la conférence.
-
-[Quelques matériels]: http://www.vialaventure.fr/telecharger-photos-et-videos/

@@ -5,6 +5,9 @@ Room: 2
 Start_date: 2013-05-24 17:30
 Duration: 30 minutes
 Tags: Technique, Déconstruire l'agilité
+Summary: #### Compléments
+Summary: 
+Summary: C'est une dérive que je constate tous les jours : on fait comme si le dev "allait de soi", le peu de considération du développement (sans parler du Développeur) face à l'importance accordée au pilotage est hallucinant de mon point de vue.
 
 Au départ, l'agilité c'est un Développeur qui aime développer, qui du coup dialogue directement avec le représentant des Utilisateurs pour créer un logiciel qui offre de la valeur.
 Avec une prise de conscience : le développement est une activité difficile.
@@ -25,6 +28,3 @@ Cette présentation, au-delà du "coup de gueule", a un objectif : aider à la p
 Cette prise de conscience étant la première étape du changement.
 Et pour terminer quelques pistes pour agir concrètement.
 
-#### Compléments
-
-C'est une dérive que je constate tous les jours : on fait comme si le dev "allait de soi", le peu de considération du développement (sans parler du Développeur) face à l'importance accordée au pilotage est hallucinant de mon point de vue.

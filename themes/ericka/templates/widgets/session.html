@@ -1,45 +1,26 @@
-{% from "widgets/bio.html" import list_roles, social_icons %}
+{% from "widgets/bio.html" import list_roles %}
 
-{% macro post(session, bios, room_names, more=False) -%}
-  <div class="entry">
-     <h2><a href="/{{ session.url }}" rel="bookmark">{{ session.title|escape }}</a></h2>
-     
-     <!-- Meta details -->
-     <div class="meta">
-        <i class="icon-user"></i>
-        {% for speaker in session.speakers %}
-          {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
-          {% set bio = bios[speaker | slugify] %}
-          <a href="/{{ bio.url }}">{{ speaker }}</a>
-        {%- endfor %}
-        {% if session.room is defined%}
-           <i class="icon-home"></i> {{ room_names[session.room] }}
-        {% endif %}
-        {% if session.start_date is defined %}
-          <i class="icon-calendar"></i> {{ session.locale_start_date }}
-          <i class="icon-time"></i> {{ session.locale_start_time }}
-        {% endif %}
-     </div>
-     {% if session.img %}
-       <div class="bthumb">
-         <a href="#"><img src="{{ session.img }}" alt="" /></a>
-       </div>
-     {% endif %}
+{% macro list_speakers(speakers, bios) %}
+  {% for speaker in speakers %}
+    {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
+    {% set bio = bios[speaker | slugify] %}
+    <a href="/{{ bio.url }}">{{ speaker }}</a>
+  {%- endfor %}
+{% endmacro %}
 
-     {{ caller() }}
-     {% for speaker in session.bios %}
-         {% set bio = bios[speaker] %}
-         {% if bio.content | trim %}
-           <h4>{{ 'A propos de'|apostrophe(bio.title) }}</h4>
-           {{ bio.content }}
-           <div class="social">
-             {{ social_icons(bio) }}
-           </div>  
-         {% endif %}
-     {% endfor %}
-     {% if more %}
-        <div class="button"><a href="{{ more_url }}">Read More...</a></div>
-     {% else %}
-     {% endif %}
-  </div>
+{% macro session_meta(session, bios, room_names) -%}
+   <div class="meta">
+      <i class="icon-user"></i>
+      {{ list_speakers(session.speakers, bios) }}
+      {% if session.room is defined%}
+         <i class="icon-home"></i> {{ room_names[session.room] }}
+      {% endif %}
+      {% if session.start_date is defined %}
+        <i class="icon-calendar"></i> {{ session.locale_start_date }}
+        <i class="icon-time"></i> {{ session.locale_start_time }}
+        {% if session.locale_end_time is defined %}
+        - {{ session.locale_end_time }}
+        {% endif %}
+      {% endif %}
+   </div>
 {%- endmacro %}

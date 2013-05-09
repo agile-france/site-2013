@@ -5,6 +5,10 @@ Room: 6
 Start_date: 2013-05-23 16:00
 Duration: 60 minutes
 Tags: Technique, Déconstruire l'agilité
+Summary: #### Compléments
+Summary: 
+Summary: J'ai présenté cette session à l'Agile Tour Marseille 2012, Agile Grenoble 2012 et lors des journées #iutagile 2013.
+Summary: Je la présenterai également lors de Mix-IT 2013.
 
 Présentation d'outils et méthodes pour ne pas oublier que la technique est indispensable au succès d'une transition agile.
 
@@ -19,7 +23,3 @@ L’agilité entraîne de nombreux changements, c’est nouveau, c’est diffici
 Ensemble, nous évoquerons une dizaine de besoin pour lesquels je proposerai des solutions, en précisant les efforts nécessaire et les impacts sur l’équipe.
 Nous établierons une feuille de route technique pour aider une équipe a réussir sa transition vers l’agilité : tests unitaires, TDD, refactoring, industrialisation, intégration continue, pair-programming, etc ....
 
-#### Compléments
-
-J'ai présenté cette session à l'Agile Tour Marseille 2012, Agile Grenoble 2012 et lors des journées #iutagile 2013.
-Je la présenterai également lors de Mix-IT 2013.

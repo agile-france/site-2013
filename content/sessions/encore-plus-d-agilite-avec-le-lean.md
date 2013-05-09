@@ -5,6 +5,7 @@ Room: 6
 Start_date: 2013-05-24 10:00
 Duration: 60 minutes
 Tags: Lean
+Summary:
 
 Voilà, vous avez mis en oeuvre les principales pratiques agiles dans votre équipe.
 Bravo !

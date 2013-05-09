@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-24 17:00
 Duration: 60 minutes
 Tags: Ouverture
+Summary:
 
 La conférence abordera deux sujets:
 

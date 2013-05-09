@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% from "widgets/session.html" import list_speakers %}
+{% from "widgets/session.html" import session_meta %}
+
+{% block content %}
+<div class="full-width">
+   <div class="row">
+      <div class="span12">
+        {% for start_date, sessions in CONFERENCE.sessions.all|sort(attribute='start_date')|groupby('locale_start_date') %}
+           <div class="row">
+              <h1>{{ start_date }}</h1>
+              {% for start_time, sessions_starting in sessions|groupby('locale_start_time') %}
+                <h2>{{ start_time }}</h2>
+                {% for session in sessions_starting|sort(attribute='room') %}
+                   <h3>{{ session.title|escape }}</h3>
+                   {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
+                   {{ session.content }}
+                {% endfor %}
+              {% endfor %}
+         </div>
+        {% endfor %}
+      </div>
+   </div>
+</div>
+{% endblock content %}

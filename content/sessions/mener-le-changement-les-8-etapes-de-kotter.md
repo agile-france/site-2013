@@ -5,6 +5,16 @@ Room: 1
 Start_date: 2013-05-23 17:00
 Duration: 120 minutes
 Tags: Changement à grande échelle
+Summary: #### Compléments
+Summary: 
+Summary: Pour moi, cette session aborde le coeur de mon ambition de coach : j'aime coacher de ""grosses"" situations.
+Summary: Coacher vite, fort, difficile, sous un fort enjeu, en un mot : coacher lorsqu'il y a du sens. 
+Summary: 
+Summary: Dans ce type d'accompagnement, on ne peut plus rester attentiste, en simple résonance, et on doit s'engager plus.
+Summary: Je pense que ce type de discours trouvera un écho parmi certains coachés qui aimeraient qu'on se mouillent un peu plus à leurs côtés.
+Summary: Je les rejoins sur cette nécessité, et j'espère qu'à l'occasion de cette session je pourrais être rejoins par d'autres coachs pour approfondir ces approches du changement.
+Summary: 
+Summary: Je parle surtout des coachs, mais tout évangéliste/manager/directeur diffusant l'agile dans son entreprise se trouve dans une situation où il doit gérer l'onde de choc de l'agile, et je pense que cette session les intéressera.
 
 Aujourd'hui des entreprises se lancent dans une transition massive vers l’agile ; la phase des essais timides est terminée.
 C'est difficile pour elles, et c'est souvent risqué.
@@ -23,13 +33,3 @@ Je pense que tout évangéliste / manager / directeur diffusant l'agile dans son
 
 J’ai prévu 2 heures pour cette session : je pense qu’1 heure suffira pour décrire Kotter, mais j’aimerai garder du temps pour échanger et avoir les retours des participants, à la fois sur les approches de changement, mais aussi sur la posture du coach dans ce type de situation.
 
-#### Compléments
-
-Pour moi, cette session aborde le coeur de mon ambition de coach : j'aime coacher de ""grosses"" situations.
-Coacher vite, fort, difficile, sous un fort enjeu, en un mot : coacher lorsqu'il y a du sens. 
-
-Dans ce type d'accompagnement, on ne peut plus rester attentiste, en simple résonance, et on doit s'engager plus.
-Je pense que ce type de discours trouvera un écho parmi certains coachés qui aimeraient qu'on se mouillent un peu plus à leurs côtés.
-Je les rejoins sur cette nécessité, et j'espère qu'à l'occasion de cette session je pourrais être rejoins par d'autres coachs pour approfondir ces approches du changement.
-
-Je parle surtout des coachs, mais tout évangéliste/manager/directeur diffusant l'agile dans son entreprise se trouve dans une situation où il doit gérer l'onde de choc de l'agile, et je pense que cette session les intéressera.

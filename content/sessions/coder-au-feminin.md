@@ -5,6 +5,11 @@ Room: 1
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
 Tags: Ouverture
+Summary: #### Compléments
+Summary: 
+Summary: Pour vous donner la teneur de mon discours, une version de 5' en lightning talk a été [filmée][] à AT Montpellier.
+Summary: 
+Summary: [filmée]: http://www.youtube.com/watch?v=Ficfk9exTuI
 
 Dans le milieu de l’informatique, on rencontre des femmes directrice, manageure, ergonome, responsable produit, chef de projet : les femmes sont là.
 Pourtant, une catégorie se fait rare : les codeuses.
@@ -19,8 +24,3 @@ J’ai aussi commis pas mal de gaffes, car le sujet passionne mais est pollué d
 Aujourd’hui j’aimerai aborder le sujet de manière neutre et en tout cas plus subtile -car je pense qu’il le mérite.
 J’aimerai partager avec vous les découvertes qui m’ont marqué et la vue générale qui s’en est dégagée.
 
-#### Compléments
-
-Pour vous donner la teneur de mon discours, une version de 5' en lightning talk a été [filmée][] à AT Montpellier.
-
-[filmée]: http://www.youtube.com/watch?v=Ficfk9exTuI

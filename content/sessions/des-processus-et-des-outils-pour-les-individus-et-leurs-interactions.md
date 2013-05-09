@@ -5,6 +5,7 @@ Room: 2
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Équipe, Outils de coaching
+Summary:
 
 Pour la plupart d’entre nous, le premier principe de l’agilité (Les individus et leurs interactions, plus que les processus et les outils) est une conviction profonde pour ne pas dire plus… (une philosophie de travail ?)
 Mais lorsque nous accompagnons des équipes pour développer l’agilité et l’humain au cœur de l’entreprise, une question se pose rapidement : « Développer l’humain, c’est très bien!... mais concrètement, comment on fait ? »

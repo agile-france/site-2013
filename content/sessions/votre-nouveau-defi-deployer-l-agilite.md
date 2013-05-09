@@ -5,6 +5,7 @@ Room: 1
 Start_date: 2013-05-23 14:30
 Duration: 45 minutes
 Tags: Changement à grande échelle
+Summary:
 
 Depuis 3/5 ans en France, beaucoup d'entreprises ont expérimenté sur leur projets de développement les méthodes agiles.
 Il faut croire que c'est avec succès, car maintenant elles vont plus loin, elles veulent déployer l'agilité dans leur organisation !
