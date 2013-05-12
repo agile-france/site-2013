@@ -1,11 +1,11 @@
 Speakers: Thomas Lissajoux
 Title: Les paradoxes du leadership
 Format:  Conférence
-Room: 1
-Start_date: 2013-05-24 11:30
-Duration: 90 minutes
+Room: 5
+Start_date: 2013-05-24 14:30
+Duration: 60 minutes
 Tags: Changement à grande échelle
-Bios: marc-cherfi, thomas-lissajoux
+Bios: thomas-lissajoux
 Summary:
 
 Vous êtes un manager, un coach ou un leader anonyme.
