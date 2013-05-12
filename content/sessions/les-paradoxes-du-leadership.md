@@ -1,4 +1,4 @@
-Speakers: Thomas Lissajoux, Marc Cherfi
+Speakers: Thomas Lissajoux
 Title: Les paradoxes du leadership
 Format:  Conférence
 Room: 1
