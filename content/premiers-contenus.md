@@ -3,7 +3,6 @@ Date: 2013-03-27 08:30
 Tags: sessions
 Category: general
 Author: Jonathan Scher
-status: draft
 Summary: Les contenus que nous avons à ce jour
 
 <a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013-draft-3.pdf">Quel beau programme !</a> Vous avez du mal à choisir les sessions que vous souhaitez voir ? C'est normal !
@@ -32,22 +31,24 @@ Quelques critères qui peuvent vous aider...
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen></iframe>
 
+<b>Et le pitch de <a href="/sessions/lagilite-vue-dun-partenaire-off-shore.html">L'agilité vue d'un partenaire off-shore</a>, par  <a href="http://www.conference-agile.fr/bios/hoang-anh-phan.html">Hoang-Anh Phan</a></b>
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/b2SEiAq4KVA" frameborder="0" allowfullscreen></iframe>
 
 
 <h2>Session attrape-curieux</h2>
 Nous avons des statistiques très avancées sur les descriptions détaillées des sessions. Voici, par ordre de nombre de visiteurs, les descriptions des sessions qui ont attiré le plus de personnes jusqu'à ce matin...
 
-- <a href="/sessions/agilistes-noubliez-pas-la-technique.html">Agilistes : n'oubliez pas la technique !</a> - 128 affichages
+- <a href="/sessions/agilistes-noubliez-pas-la-technique.html">Agilistes : n'oubliez pas la technique !</a> - 137 affichages
 - <a href="/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html">Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?</a> - 87 affichages
-- <a href="/sessions/coacher-des-managers.html">Coacher des managers</a> - 81 affichages
-- <a href="/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a> - 80 affichages
-- <a href="/sessions/ma-pme-agile-work-in-progress.html">Ma PME Agile (work in progress)</a> - 64 affichages
-- <a href="/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html">Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas !</a> - 58 affichages
-- <a href="/sessions/le-serveur-qui-fait-ping.html">Le serveur qui fait ping</a> - 57 affichages
-- <a href="/sessions/collaborer-et-si-on-improvisait.html">Collaborer, et si on improvisait ?</a> - 52 affichages
-- <a href="/sessions/atelier-rh-team.html">Atelier RH Team</a> - 49 affichages
-- <a href="/sessions/code-legacy-faire-evoluer-ou-re-ecrire.html">Code Legacy: faire évoluer ou ré-écrire ?</a> - 47 affichages
+- <a href="/sessions/lagilite-vue-dun-partenaire-off-shore.html"> L'agilité vue d'un partenaire off-shore</a> - 90 affichages
+- <a href="/sessions/coacher-des-managers.html">Coacher des managers</a> - 88 affichages
+- <a href="/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html">Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes</a> - 88 affichages
+- <a href="/sessions/ma-pme-agile-work-in-progress.html">Ma PME Agile (work in progress)</a> - 73 affichages
+- <a href="/sessions/communautes-de-pratique-en-pratique.html">Communautés de pratique en pratique</a> - 67 affichages
+- <a href="/sessions/le-serveur-qui-fait-ping.html">Le serveur qui fait ping</a> - 66 affichages
+- <a href="/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html">Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas !</a> - 64 affichages
+- <a href="/sessions/atelier-rh-team.html">Atelier RH Team</a> - 61 affichages
 
 <h2>Choix des relecteurs</h2>
 
