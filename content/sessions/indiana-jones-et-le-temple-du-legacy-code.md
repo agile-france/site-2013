@@ -3,7 +3,7 @@ Title: Indiana Jones et le temple du Legacy Code
 Format: Conférence
 Room: 6
 Start_date: 2013-05-23 14:30
-Duration: 45 minutes
+Duration: 60 minutes
 Tags: Technique
 Summary:
 
