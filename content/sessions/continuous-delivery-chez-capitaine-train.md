@@ -1,4 +1,4 @@
-Speakers: Frédéric Menou, Valentin Surrel
+Speakers: Frédéric Menou
 Title: Continuous Delivery chez capitainetrain.com
 Format: Conférence
 Room: 1
