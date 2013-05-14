@@ -15,6 +15,7 @@
                  <div class="posts">
                  
                     <div class="entry">
+                       <h2><a href="/{{ session.url }}" rel="bookmark">{{ session.title|escape }}</a></h2>
                        {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
                        {{ session.promo }}
                        {{ session.content }}
