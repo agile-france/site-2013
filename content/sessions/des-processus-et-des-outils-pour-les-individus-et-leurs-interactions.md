@@ -7,8 +7,6 @@ Duration: 60 minutes
 Tags: Équipe, Outils de coaching
 Summary:
 
-<b>Des processus et des outils pour les individus et leurs interactions</b>
-
 Pour la plupart d’entre nous, le premier principe de l’agilité (<i>Les individus et leurs interactions, plus que les processus et les outils</i>) est une conviction profonde pour ne pas dire plus… (une philosophie de travail ?).
 Mais lorsque nous accompagnons des managers et leurs équipes pour développer l’agilité et l’humain au cœur de l’entreprise, une question se pose rapidement : « Développer l’humain, très bien, mais concrètement, comment on fait ? ».
 Cette conférence propose de répondre à cette question.
