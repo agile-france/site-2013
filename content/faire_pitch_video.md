@@ -14,6 +14,7 @@ Certains l'ont déjà fait, regardez
 - [Agilité : do the wrong thing faster ?][3]
 
 Le retour de Damien pour réaliser sa vidéo
+
 1. J'ai pris 5-10 minutes pour poser ce que je voulais dire et je l'ai raffiné jusqu'à le ramener à 3 ou 4 points que j'ai résumés chacun par un seul mot. 
 2. J'ai écrit les 4 mots en gros sur un paper board puis j'ai mis mon appareil photo sur un pied et je me suis planté devant.
 3. 2 à 4 prises selon mes bafouillages et c'était dans la boite. 
