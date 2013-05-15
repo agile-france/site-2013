@@ -1,6 +1,6 @@
 Speakers: Peter Stevens
 Title: From Value to Values - Why Management has to change and how IT is inspiring the solution
-Format: Keynote
+Format: Conférence
 Room: 1
 Start_date: 2013-05-23 9:00
 Duration: 20 minutes
