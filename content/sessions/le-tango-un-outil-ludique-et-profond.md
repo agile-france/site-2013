@@ -4,7 +4,7 @@ Format: Conférence-atelier
 Room: 6
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
-Tags: Soft skills, Jeu, Équipe
+Tags: Soft skills, Jeu, Équipe, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Ce qui nous importe, c'est que le processus se fasse dans la bonne humeur, le partage et la bienveillance et que le résultat soit concret et palpable pour les participants dans leur vie professionnelle et parfois personnelle.
