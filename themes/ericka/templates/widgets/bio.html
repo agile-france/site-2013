@@ -12,3 +12,17 @@
   {% if bio.viadeo %}<a href="http://fr.viadeo.com/fr/profile/{{ bio.viadeo }}" target="_blank"><span class="at16nc at16t_viadeo"></span></a>{% endif %}
   {% if bio.blog %}<a href="{{ bio.blog }}"><span class="at16nc at16t_blogger" target="_blank"></span></a>{% endif %}
 {% endmacro %}
+
+{% macro bio_thumb(bio, pics) %}
+   {% if bio.slug in pics %}
+     <div class="teams">
+       <div class="pic span2 pull-right">
+          <a href="/{{ bio.url }}"><img src="/{{pics[bio.slug]}}" alt="" /></a>
+       </div>
+     </div>
+   {% endif %}
+{% endmacro %}
+
+{% macro bio_pic(slug, pics) %}
+  <img src="/{% if slug in pics %}{{pics[slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
+{% endmacro %}

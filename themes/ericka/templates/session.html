@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% from "widgets/session.html" import session_meta %}
 {% from "widgets/sidebar.html" import sidebar %}
-{% from "widgets/bio.html" import social_icons %}
+{% from "widgets/bio.html" import social_icons, bio_thumb %}
 {% import "widgets/recent_posts.html" as recent_posts %}
 
 {% block content %}
@@ -23,6 +23,7 @@
                        {% for speaker in session.bios %}
                            {% set bio = CONFERENCE.bios.by_slug[speaker] %}
                            {% if bio.content | trim %}
+                             {{ bio_thumb(bio, CONFERENCE.bio_pics)}}
                              <h4>{{ 'A propos de'|apostrophe(bio.title) }}</h4>
                              {{ bio.content }}
                              <div class="social">

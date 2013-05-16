@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% from "widgets/bio.html" import list_roles, social_icons %}
+{% from "widgets/bio.html" import list_roles, social_icons, bio_thumb %}
 
 {% block content %}
   <div class="resume">
@@ -21,6 +21,7 @@
                          </div>
                          <div class="span9">
                             <div class="rinfo">
+                               {{ bio_thumb(bio, CONFERENCE.bio_pics)}}
                                <h5>{{ bio.title }}</h5>
                                <div class="rmeta">{{ list_roles(bio.roles, bio.sexe | default('M'), ROLE_NAMES) }}</div>
                                {{ bio.content }}

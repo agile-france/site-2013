@@ -1,10 +1,6 @@
 {% extends "base.html" %}
 
-{% from "widgets/bio.html" import list_roles, social_icons %}
-
-{% macro bio_pic(slug, pics) %}
-  <img src="/{% if slug in pics %}{{pics[slug]}}{% else %}theme/img/silhouette.png{% endif %}" alt="" />
-{% endmacro %}
+{% from "widgets/bio.html" import list_roles, social_icons, bio_pic %}
 
 {% block content %}
   <div class="about">
