@@ -4,7 +4,7 @@ Format:  Atelier
 Room: 4
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
-Tags: Ouverture, Jeu
+Tags: Ouverture, Jeu, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Cet atelier est à la fois ludique et riche en enseignements. Il a déjà été joué deux fois et est maintenant bien rodé.
