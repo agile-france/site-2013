@@ -5,6 +5,7 @@ Room: 1
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
 Tags: Ouverture
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/Fd-7nOd-5-s" frameborder="0" allowfullscreen></iframe>
 Summary: #### Compléments
 Summary: 
 Summary: Voir :
