@@ -4,7 +4,7 @@ Format: Conférence
 Room: 1
 Start_date: 2013-05-23 15:15
 Duration: 15 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary:
 
 Comment la bonne infoviz peut-elle ouvrir les yeux des membres d'équipe et du management ?
