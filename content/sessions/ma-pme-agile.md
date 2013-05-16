@@ -4,7 +4,7 @@ Format: Conférence
 Room: 3
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
-Tags: Ouverture, Retour d'expérience
+Tags: Ouverture, Retour d'expérience, Agilité hors informatique
 Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen></iframe>
 Summary:
 
