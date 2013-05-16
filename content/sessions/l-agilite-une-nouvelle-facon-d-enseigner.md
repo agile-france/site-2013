@@ -4,7 +4,7 @@ Format: Conférence
 Room: 5
 Start_date: 2013-05-24 17:00
 Duration: 60 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary:
 
 La conférence abordera deux sujets:
