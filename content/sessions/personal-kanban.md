@@ -4,7 +4,7 @@ Format: Conférence
 Room: 3
 Start_date: 2013-05-23 11:30
 Duration: 50 minutes
-Tags: Kanban
+Tags: Kanban, Parcours non-informatique
 Summary:
 
 Vous n'arrivez pas à être productif dans votre travail quotidien ?
