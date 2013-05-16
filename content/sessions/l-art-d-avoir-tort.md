@@ -4,7 +4,7 @@ Format: Talk avec exercices et démos
 Room: 1
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary:
 
 Vous détestez avoir tort?
