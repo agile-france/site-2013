@@ -5,7 +5,7 @@ Author: Damien
 
 Coup de fil d'un ami chef d'entreprise ce week-end: "Je viens à Agile France mais je ne suis pas informaticien, je ne comprends rien à la technique. Tu peux me conseiller des sessions ?"
 
-C'est chose faite ! J'ai sélectionné, de manière totalement subjective et arbitraire, xxx sessions qui plairont aussi aux non-informaticiens: 
+C'est chose faite ! J'ai sélectionné, de manière totalement subjective et arbitraire, 29 sessions qui plairont aussi aux non-informaticiens: 
 
 d'abord la [Keynote, de Peter Stevens, sur le mouvement Stoos][0] (en anglais par contre).
 
@@ -33,6 +33,13 @@ Ensuite :
 - [Travailler ? Oui avec plaisir !][20]
 - [Quand l'agilité s'essouffle][21]
 - [Kai-Scène ou ce que j'ai appris de l'agilité au théâtre][22]
+- [Les paradoxes du Leadership][23]
+- [L'art d'avoir tort][24]
+- [A²GI²LE pour avancer dans un monde incertain][25]
+- [Usages de la CNV en Agilité][26]
+- [][27]
+- [][28]
+- [][29]
 
 
 [0]: http://www.conference-agile.fr/sessions/from-value-to-values-why-management-has-to-change-and-how-it-is-inspiring-the-solution.html
@@ -58,6 +65,14 @@ Ensuite :
 [20]: http://www.conference-agile.fr/sessions/travailler-oui-avec-plaisir.html
 [21]: http://www.conference-agile.fr/sessions/quand-lagilite-sessouffle.html
 [22]: http://www.conference-agile.fr/sessions/kai-scene-ou-ce-que-jai-appris-de-lagilite-au-theatre.html
+[23]: http://www.conference-agile.fr/sessions/les-paradoxes-du-leadership.html
+[24]: http://www.conference-agile.fr/sessions/lart-davoir-tort.html
+[25]: http://www.conference-agile.fr/sessions/a2gi2le-pour-avancer-dans-un-monde-incertain.html
+[26]: http://www.conference-agile.fr/sessions/usages-de-la-cnv-en-agilite.html
+[27]: 
+[28]: 
+[29]: 
+
 
 
 
