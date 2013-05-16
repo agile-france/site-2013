@@ -4,7 +4,7 @@ Format: Quickie
 Room: 4
 Start_date: 2013-05-23 12:30
 Duration: 15 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary:
 
 La pratique artistique comme source d'inspiration de l'amélioration continue.
