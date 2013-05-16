@@ -1,5 +1,5 @@
 Title: Parcours non-informatique
-Date: 2013-05-15 18:00
+Date: 2013-05-16 20:00
 Category: general
 Author: Damien
 
