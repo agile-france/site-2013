@@ -4,7 +4,7 @@ Format: Conférence
 Room: 4
 Start_date: 2013-05-23 11:30
 Duration: 40 minutes
-Tags: Changement à grande échelle, Agilité hors informatique
+Tags: Changement à grande échelle, Parcours non-informatique
 Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/vvIqqE5lrjU" frameborder="0" allowfullscreen></iframe>
 Summary:
 
