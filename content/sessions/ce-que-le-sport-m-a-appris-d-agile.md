@@ -4,7 +4,7 @@ Format: Quickie + Atelier
 Room: 5
 Start_date: 2013-05-24 09:30
 Duration: 30 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary:
 
 Le sport comme métaphore ou source d'inspiration de l'amélioration continue.
