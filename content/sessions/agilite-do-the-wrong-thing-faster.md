@@ -4,7 +4,7 @@ Format: Conférence - Débat
 Room: 1
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
-Tags: Déconstruire l'agilité
+Tags: Déconstruire l'agilité, Agilité hors informatique
 Promo: <iframe width="420" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
 Summary:
 
