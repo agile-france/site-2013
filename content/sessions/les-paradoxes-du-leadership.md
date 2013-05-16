@@ -4,7 +4,7 @@ Format:  Conférence
 Room: 5
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
-Tags: Changement à grande échelle
+Tags: Changement à grande échelle, Parcours non-informatique
 Bios: thomas-lissajoux
 Summary:
 
