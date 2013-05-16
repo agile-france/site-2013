@@ -4,7 +4,7 @@ Format: Jeu
 Room: 6
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
-Tags: Jeu, Équipe
+Tags: Jeu, Équipe, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: L'autre titre c'est "Le bâton d'hélium", mais il en dit en fait déjà trop et comme je le faisais à l'origine avec un tuteur pour plante...
