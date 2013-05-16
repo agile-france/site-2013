@@ -4,7 +4,7 @@ Format: Conférence
 Room: 2
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
-Tags: Outils de coaching
+Tags: Outils de coaching, Parcours non-informatique
 Summary:
 
 “Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie." - Confucius . 
