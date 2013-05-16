@@ -4,7 +4,7 @@ Format: Atelier
 Room: 2
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
-Tags: Outils de coaching
+Tags: Outils de coaching, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Oana et Pablo ont crée ensemble un [espace de collaboration et convergence des idées et initiatives][1] 
