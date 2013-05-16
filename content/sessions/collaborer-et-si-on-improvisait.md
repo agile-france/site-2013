@@ -4,7 +4,7 @@ Format: Atelier
 Room: 4
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
-Tags: Soft skills
+Tags: Soft skills, Parcours non-informatique
 Summary:
 
 Public : ouvert à tous, même aux plus timides !
