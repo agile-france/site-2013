@@ -23,13 +23,14 @@
                        {% for speaker in session.bios %}
                            {% set bio = CONFERENCE.bios.by_slug[speaker] %}
                            {% if bio.content | trim %}
-                             {{ bio_thumb(bio, CONFERENCE.bio_pics)}}
+                             {{ bio_thumb(CONFERENCE.bios.by_slug[bio.title|slugify], CONFERENCE.bio_pics)}}
                              <h4>{{ 'A propos de'|apostrophe(bio.title) }}</h4>
                              {{ bio.content }}
                              <div class="social">
                                {{ social_icons(bio) }}
                              </div>  
                            {% endif %}
+                           <div class="teams" />
                        {% endfor %}
                     </div>
                     
