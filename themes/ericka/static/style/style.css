@@ -2219,3 +2219,7 @@ margin-bottom:10px;
 .asocial .at16nc, .social .at16nc {
 	display: inline-block;
 }
+
+.entry .teams {
+	clear: both;
+}
