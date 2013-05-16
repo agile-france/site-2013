@@ -34,14 +34,14 @@ Des entreprises agiles et des réflexions sur le rôle du chef
 
 De la prise de hauteur 
 - [Anthropologie de l'Agile][16]
+- [L'art d'avoir tort][24]
+- [Quand l'agilité s'essouffle][21]
 - [Agilité : do the wrong thing faster ?][3]
 - [Le Respect en action][11]
 - [Real Options: quand et comment (ne pas) prendre des décisions][14]
-- [Quand l'agilité s'essouffle][21]
-- [L'art d'avoir tort][24]
+- [Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!][15]
 
 Des transpositions à d'autres domaines
-- [Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!][15]
 - [Le tango : un outil ludique et profond pour revisiter le travail d'équipe, son leadership et son followership][9]
 - [Kai-Scène ou ce que j'ai appris de l'agilité au théâtre][22]
 - [A²GI²LE pour avancer dans un monde incertain][25]
