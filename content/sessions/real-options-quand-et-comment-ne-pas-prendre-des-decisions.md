@@ -4,7 +4,7 @@ Format: Conférence
 Room: 1
 Start_date: 2013-05-23 11:30
 Duration: 60 minutes
-Tags: Ouverture
+Tags: Ouverture, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Cette conférence a été présentée à Devoxx France, fin mars. Entre mars et mai, la présentation aura surement changé ;-)
