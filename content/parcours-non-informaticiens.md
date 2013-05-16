@@ -35,6 +35,7 @@ Des entreprises agiles et des réflexions sur le rôle du chef
 De la prise de hauteur 
 - [Anthropologie de l'Agile][16]
 - [L'art d'avoir tort][24]
+- [Je vois !][29]
 - [Quand l'agilité s'essouffle][21]
 - [Agilité : do the wrong thing faster ?][3]
 - [Le Respect en action][11]
@@ -79,3 +80,4 @@ Des transpositions à d'autres domaines
 [26]: http://www.conference-agile.fr/sessions/usages-de-la-cnv-en-agilite.html
 [27]: http://www.conference-agile.fr/sessions/ce-que-le-sport-ma-appris-dagile.html
 [28]: http://www.conference-agile.fr/sessions/votre-nouveau-defi-deployer-lagilite-dans-votre-organisation.html
+[29]: http://www.conference-agile.fr/sessions/je-vois-ou-comment-la-visualisation-non-conventionnelle-contribue-a-des-projets-agiles.html
