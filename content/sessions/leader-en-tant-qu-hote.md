@@ -4,7 +4,7 @@ Format: Conférence interactive
 Room: 5
 Start_date: 2013-05-23 09:30
 Duration: 45 minutes
-Tags: Soft skills, Équipe
+Tags: Soft skills, Équipe, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Je n'ai encore jamais fait cette session, c'est donc expérimental.
