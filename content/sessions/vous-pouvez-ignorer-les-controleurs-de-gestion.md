@@ -4,7 +4,7 @@ Format: Conférence + Atelier
 Room: 3
 Start_date: 2013-05-23 17:00
 Duration: 90 minutes
-Tags: Lean, Changement à grande échelle, Agilité hors informatique
+Tags: Lean, Changement à grande échelle, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: Quelques références:
