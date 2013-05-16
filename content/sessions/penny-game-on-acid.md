@@ -6,6 +6,7 @@ Start_date: 2013-05-23 17:00
 Duration: 120 minutes
 Tags: Jeu, Ouverture
 Summary:
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/acMHky3pRp8" frameborder="0" allowfullscreen></iframe>
 
 La plupart des jeux Agile ont un cadre rigide destiné à mettre en exergue un principe ou une idée bien déterminés.
 
