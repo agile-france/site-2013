@@ -6,6 +6,7 @@ Start_date: 2013-05-23 12:30
 Duration: 30 minutes
 Tags: Déconstruire l'agilité
 Promo: <iframe width="420" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen></iframe>
+Summary:
 
 Peut-on être fier d'être informaticien ?
 Affrontons la sévère réalité, combien d'entre nous peuvent dire avec certitude "J'ai fourni des outils informatiques à des usagers qui s'en réjouissent ? A qui je facilite le quotidien ?", comme peuvent se le dire le quidam chez Google, Kickstarter ou Wikipedia ?
