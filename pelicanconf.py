@@ -31,7 +31,7 @@ def MENUITEMS(session_info):
 	return [
 		(u'Inscription', '/index.html'),
 		(u'Appel à Orateurs', '/orateur.html'),
-		(u'Programme', '/static/programme/programme-agile-france-2013-draft-3.pdf'),
+		(u'Programme', '/static/programme/programme-agile-france-2013-draft-4.pdf'),
 		(u'Sessions', [
 			(u'Toutes', session_list_menu(session_info.sessions.all))] + sessions_by_tag(session_info.sessions.by_tag) ),
 		(u'Informations', [
