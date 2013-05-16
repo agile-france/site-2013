@@ -4,7 +4,7 @@ Format: Conférence
 Room: 5
 Start_date: 2013-05-23 16:00
 Duration: 60 minutes
-Tags: Outils de coaching
+Tags: Outils de coaching, Parcours non-informatique
 Summary: #### Compléments
 Summary: 
 Summary: La conférence s’articulera selon la façon suivante:  
