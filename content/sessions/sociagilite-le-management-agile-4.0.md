@@ -4,7 +4,7 @@ Format: Atelier
 Room: 3
 Start_date: 2013-05-24 09:30
 Duration: 120 minutes
-Tags: Équipe
+Tags: Équipe, Parcours non-informatique
 
 En deux mots : à  partir d’une expérimentation concrète dont le but est de montrer l’intérêt de l’intelligence collective, cet atelier est une porte ouverte sur le rôle de management agile.
 
