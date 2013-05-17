@@ -10,8 +10,8 @@ Summary: #### Compléments
 Summary: 
 Summary: Voir :
 Summary: 
-Summary: - http://www.vialaventure.fr/expertise/agile/
-Summary: - http://www.vialaventure.fr/les-interventions/conferences/
+Summary: - <a href="http://www.vialaventure.fr/expertise/agile/">http://www.vialaventure.fr/expertise/agile/</a>
+Summary: - <a href="http://www.vialaventure.fr/les-interventions/conferences/">http://www.vialaventure.fr/les-interventions/conferences/</a>
 Summary: 
 Summary: [Quelques matériels][] pour présenter la conférence.
 Summary: 
