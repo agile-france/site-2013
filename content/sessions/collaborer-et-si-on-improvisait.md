@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Soft skills, Parcours non-informatique
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/XFu5FiIOne0" frameborder="0" allowfullscreen></iframe>
 Summary:
 
 Public : ouvert à tous, même aux plus timides !
