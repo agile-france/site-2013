@@ -5,7 +5,8 @@ Format: Conférence
 Room: 3
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
-Tags: Équipe, Parcours non-informatique
+Tags: Équipe, Parcours non-informatique, Retour d'expérience
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/i_gfVRq5lhI" frameborder="0" allowfullscreen></iframe>
 Summary:
 
 Votre équipe est agile mais elle connaît des difficultés majeures, notamment sur la collaboration.
