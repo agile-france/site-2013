@@ -3,7 +3,7 @@ Title: Kai-Scène ou ce que j'ai appris de l'agilité au théâtre
 Format: Quickie
 Room: 4
 Start_date: 2013-05-23 12:30
-Duration: 15 minutes
+Duration: 30 minutes
 Tags: Ouverture, Parcours non-informatique
 Summary:
 
