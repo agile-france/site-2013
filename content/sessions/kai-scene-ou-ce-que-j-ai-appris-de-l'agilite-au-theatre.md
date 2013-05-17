@@ -5,6 +5,7 @@ Room: 4
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
 Tags: Ouverture, Parcours non-informatique
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/e4L-QF5Ogyo" frameborder="0" allowfullscreen></iframe>
 Summary:
 
 La pratique artistique comme source d'inspiration de l'amélioration continue.
