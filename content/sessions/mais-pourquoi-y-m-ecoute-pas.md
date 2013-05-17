@@ -5,6 +5,7 @@ Room: 6
 Start_date: 2013-05-24 09:30
 Duration: 30 minutes
 Tags: Outils de coaching
+Promo: <iframe width="560" height="315" src="http://www.youtube.com/embed/v4cqc3f_FUw" frameborder="0" allowfullscreen></iframe>
 Summary:
 
 "Les individus et leurs interactions", "La collaboration avec les clients"... Sur le papier, le manifeste agile est beau.
