@@ -5,6 +5,7 @@ Room: 5
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
 Tags: Retour d'expérience, Lean
+Promo: <iframe src="http://player.vimeo.com/video/66366998" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/66366998">Deux ans dans le flux</a> from <a href="http://vimeo.com/oaz">Olivier Azeau</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 Summary: #### Compléments
 Summary: La session a été présentée à l'automne 2012 à Agile Tour Toulouse et Agile Tour Montpellier.
 Summary: A ces occasions, les retours ont montré qu'une une réelle pratique de l'agilité permet de mieux apprécier le contenu de la session car on n'y parle pas d'une transition vers l'agilité mais d'une possibilité (parmi d'autres) d'un "après Scrum".
