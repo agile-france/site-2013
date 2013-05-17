@@ -20,6 +20,13 @@ Le retour de Damien pour réaliser sa vidéo
 3. 2 à 4 prises selon mes bafouillages et c'était dans la boite. 
 4. J'ai recoupé avec Windows Movie Maker puis YouTube.
 
+Et celui de Patrice :
+
+1. j'ai choisi la solution technique la plus simple : assis dans mon fauteuil devant ma webcam, avec la page d'accueil de la session dans mon dos
+2. j'ai préparé une page A4 avec la trame du discours, trame inspirée du modèle QQOQCP (Qui, Quoi, Où, Quand, Comment, Pourquoi)
+3. j'ai répété plusieurs fois le discours jusqu'à ce qu'il soit fluide. 
+4. je me suis enregistré jusqu'à obtenir un discours fluide et clair, avec la trame sous les yeux
+
 Vous pouvez réaliser vous même toute l’opération et nous transmettre le lien vers la vidéo en ligne pour mise à jour de la page descriptive de votre session.
 Nous pouvons aussi essayer d'organiser quelque chose pour vous aider le cas échéant.
 Contactez-nous ! 
