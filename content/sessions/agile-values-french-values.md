@@ -10,8 +10,8 @@ Summary:
 Summary: Ce worshop se fera en anglais
 Summary: Mon support (léger) est rédigé en anglais.
 
-"Scrum ne fonctionnera pas ici ! Il fonctionne peut-être &lt;ailleurs&gt;, mais nos valeurs sont différent."
-Combien de personne ont eu cette réaction face à une nouvelle idée ou une idée venant d'ailleurs : Cela ne fonctionnera pas car "notre situation est différente" ?
+"Scrum ne fonctionnera pas ici ! Il fonctionne peut-être &lt;ailleurs&gt;, mais nos valeurs sont différentes."
+Combien de personnes ont eu cette réaction face à une nouvelle idée ou une idée venant d'ailleurs : Cela ne fonctionnera pas car "notre situation est différente" ?
 Cette session interactive va explorer les valeurs agiles et comment les appliquer dans n'importe quel contexte.
 
 Dans cet atelier interactif, nous explorerons 
