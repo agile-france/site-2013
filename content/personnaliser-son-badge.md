@@ -2,6 +2,8 @@ Title: Personnalisez votre badge !
 Date: 2013-05-19 13:00
 Author: Ellène
 Category: general
+Slug: personnaliser-son-badge
+Summary: Personnalisez votre badge pour les 2 journées de conférence
 
 Nous vous proposons des <strong>badges personnalisés</strong> lors de la conférence, afin de favoriser les interactions.
 Vous trouverez sur le lien suivant quelques exemples d'un [premier draft][1].
