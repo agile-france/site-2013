@@ -1,7 +1,7 @@
 Speakers: Guillaume Duquesnay
 Title: Coder au féminin : mythe ou perspective ?
 Format: Conférence
-Room: 1
+Room: 2
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
 Tags: Ouverture

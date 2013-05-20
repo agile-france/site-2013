@@ -2,7 +2,7 @@ Speakers: Pierrick Thibault
 Title: Travailler ? Oui avec plaisir !
 Format: Conférence
 Audio: Oui
-Room: 2
+Room: 1
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
 Tags: Outils de coaching, Parcours non-informatique
