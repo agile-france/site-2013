@@ -1,6 +1,9 @@
 Speakers: Pierre Hervouet, Pascal Van Cauwenberghe
 Title: Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!
 Format: Conférence + Atelier
+NbMinActifs: 1
+NbMaxActifs: 30
+NbMax: 30
 Room: 3
 Start_date: 2013-05-23 17:00
 Duration: 90 minutes
