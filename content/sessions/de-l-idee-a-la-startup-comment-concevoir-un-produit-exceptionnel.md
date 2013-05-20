@@ -1,6 +1,9 @@
 Speakers: Nathaniel Richand, Yannick Grenzinger
 Title: De l'idée à la startup, comment concevoir un produit exceptionnel
 Format: Atelier
+NbMinActifs: 1
+NbMaxActifs: 30
+NbMax: 30
 Room: 2
 Start_date: 2013-05-23 16:00
 Duration: 180 minutes
