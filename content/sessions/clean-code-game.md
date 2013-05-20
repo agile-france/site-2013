@@ -1,6 +1,7 @@
 Speakers: Mathieu Gandin, Michel Domenjoud
 Title: Clean Code Game
 Format: Atelier
+Prerequis: Laptop
 Room: 5
 Start_date: 2013-05-23 17:00
 Duration: 120 minutes
