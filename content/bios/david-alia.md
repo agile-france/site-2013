@@ -1,4 +1,6 @@
 Title: David Alia
+Twitter: davidalia
+Blog: http://blog.octo.com/author/dal/
 
 Je suis Directeur Associé chez OCTO, et j'encadre une équipe d'une trentaine de personnes. J'accompagne mes clients sur du contenu (architecture, agilité, lean, innovation) mais également pour du coaching de management.
 

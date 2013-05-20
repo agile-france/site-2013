@@ -1,4 +1,6 @@
 Title: Mathieu Gandin
+Twitter: octomga
+Blog: http://blog.octo.com/author/mga/
 
 Je m'appelle Mathieu Gandin et je suis tech-lead, architecte et coach agile chez Octo Technology.
 

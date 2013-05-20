@@ -1,4 +1,5 @@
 Title: Cyrille Deruel
+Twitter: CyrilleDeruel
 
 Cyrille est Delivery Manager dans le secteur Banque & Assurance chez OCTO Technology.
 Après avoir débuté sa carrière en tant que directeur de mission en mode cascade, il s'est fortement investi depuis 2008 dans les méthodologies Agiles.
