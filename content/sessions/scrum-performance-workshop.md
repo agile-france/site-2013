@@ -1,6 +1,9 @@
 Speakers: Peter Stevens
 Title: Scrum Performance Workshop
 Format: Workshop
+NbMinActifs: 3
+NbMaxActifs: 18
+NbMax: pas de limite
 Room: 2
 Start_date: 2013-05-23 11:30
 Duration: 90 minutes
