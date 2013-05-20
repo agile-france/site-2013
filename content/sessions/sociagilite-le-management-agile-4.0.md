@@ -1,6 +1,9 @@
 Speakers: Thierry Cros
 Title: Sociagilité : le Management agile 4.0
 Format: Atelier
+NbMinActifs: 5
+NbMaxActifs: 5
+NbMax: 30
 Room: 3
 Start_date: 2013-05-24 09:30
 Duration: 120 minutes
