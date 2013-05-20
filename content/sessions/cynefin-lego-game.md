@@ -1,4 +1,4 @@
-Speakers: Nathaniel Richand, Ellene Dijoux
+Speakers: Nathaniel Richand, Ellène Siber Dijoux
 Title: Cynefin lego game : quelle est la complexité de votre système?
 Format:  Atelier
 NbMinActifs: 5
