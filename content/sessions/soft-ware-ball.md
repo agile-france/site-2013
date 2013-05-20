@@ -1,6 +1,9 @@
 Speakers: Olivier Azeau
 Title: Soft(ware)ball
 Format: Jeu
+NbMinActifs: 8
+NbMaxActifs: 60
+NbMax: la seule limite est l'espace disponible dans la salle
 Room: 6
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
