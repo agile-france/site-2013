@@ -1,6 +1,7 @@
 Speakers: Yannick Ameur
 Title: Atelier RH Team
 Format: Atelier
+NbMinActifs: 10
 Room: 2
 Start_date: 2013-05-23 09:30
 Duration: 90 minutes
