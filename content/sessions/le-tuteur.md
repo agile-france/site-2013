@@ -1,6 +1,9 @@
 Speakers: Géry Derbier
 Title: Le tuteur
 Format: Jeu
+NbMinActifs: 4
+NbMaxActifs: 24
+NbMax: pas de limite
 Room: 6
 Start_date: 2013-05-23 12:30
 Duration: 30 minutes
