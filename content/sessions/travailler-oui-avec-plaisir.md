@@ -1,6 +1,7 @@
 Speakers: Pierrick Thibault
 Title: Travailler ? Oui avec plaisir !
 Format: Conférence
+Audio: Oui
 Room: 2
 Start_date: 2013-05-24 16:00
 Duration: 60 minutes
