@@ -1,6 +1,7 @@
 Speakers: Bertrand Dour
 Title: 3 semaines pour une Product Map
 Format: Conférence
+Audio: Oui
 Room: 4
 Start_date: 2013-05-23 17:00
 Duration: 60 minutes
