@@ -1,6 +1,10 @@
 Speakers: Olivier Lafontan
 Title: Soutenez vos transitions avec le BDT et Pick A Deck
 Format: Atelier
+Prerequis: Laptop (simple navigateur), accès Internet
+NbMinActifs: 5
+NbMaxActifs: 20
+NbMax: 30
 Room: 3
 Start_date: 2013-05-23 09:30
 Duration: 90 minutes
