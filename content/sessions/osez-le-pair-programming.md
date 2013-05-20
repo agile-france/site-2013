@@ -1,6 +1,9 @@
 Speakers: Sébastien Fauvel
 Title: Osez le pair programming, découvrez les vertus cachées
 Format: Atelier
+NbMinActifs: 4
+NbMaxActifs: 40
+NbMax: 40
 Room: 2
 Start_date: 2013-05-24 09:30
 Duration: 90 minutes
