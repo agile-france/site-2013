@@ -1,6 +1,9 @@
 Speakers: Peter Stevens
 Title: Agile Values, French Values
 Format: Workshop
+NbMinActifs: 5
+NbMaxActifs: pas de limite
+NbMax: pas de limite
 Room: 5
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
