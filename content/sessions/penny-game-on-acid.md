@@ -4,7 +4,7 @@ Format: Atelier
 NbMinActifs: 14
 NbMaxActifs: 40
 NbMax: 40
-Room: 6
+Room: 4
 Start_date: 2013-05-23 17:00
 Duration: 120 minutes
 Tags: Jeu, Ouverture
