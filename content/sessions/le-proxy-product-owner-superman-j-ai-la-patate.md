@@ -1,6 +1,7 @@
 Speakers: Eve Vinclair-Berkemeier
 Title: Le Proxy Product Owner - Superman, j'ai la Patate
 Format: Atelier
+NbMaxActifs: 10
 Room: 2
 Start_date: 2013-05-24 14:30
 Duration: 60 minutes
