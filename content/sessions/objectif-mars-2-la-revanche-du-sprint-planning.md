@@ -1,6 +1,9 @@
 Speakers: Pierrick Revol
 Title: Objectif Mars 2 : La revanche du Sprint Planning
 Format: Atelier / Game
+NbMinActifs: 5
+NbMaxActifs: 20
+NbMax: 24
 Room: 4
 Start_date: 2013-05-24 16:00
 Duration: 120 minutes
