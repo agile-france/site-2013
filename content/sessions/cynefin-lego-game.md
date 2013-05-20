@@ -1,6 +1,9 @@
 Speakers: Nathaniel Richand, Ellene Dijoux
 Title: Cynefin lego game : quelle est la complexité de votre système?
 Format:  Atelier
+NbMinActifs: 5
+NbMaxActifs: 20
+NbMax: 20
 Room: 4
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
