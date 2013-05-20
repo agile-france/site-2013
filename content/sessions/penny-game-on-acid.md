@@ -1,6 +1,9 @@
 Speakers: Dov Tsal Sela, Cédric Chevalérias
 Title: Penny-game on acid
 Format: Atelier
+NbMinActifs: 14
+NbMaxActifs: 40
+NbMax: 40
 Room: 6
 Start_date: 2013-05-23 17:00
 Duration: 120 minutes
