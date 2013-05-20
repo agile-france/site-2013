@@ -1,6 +1,9 @@
 Speakers: Vincent Daviet
 Title: Collaborer, et si on improvisait ?
 Format: Atelier
+NbMinActifs: 6
+NbMaxActifs: 18
+NbMax: 30
 Room: 4
 Start_date: 2013-05-23 14:30
 Duration: 60 minutes
