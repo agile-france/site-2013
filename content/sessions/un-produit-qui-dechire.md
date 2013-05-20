@@ -1,6 +1,7 @@
 Speakers: David Alia
 Title: Un produit qui déchire, une équipe qui déchire... un leader qui déchire
 Format: Conférence participative
+Audio: Oui
 Room: 6
 Start_date: 2013-05-23 09:30
 Duration: 45 minutes
