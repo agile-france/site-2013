@@ -1,26 +1,24 @@
 {% from "widgets/bio.html" import list_roles %}
 
-{% macro list_speakers(speakers, bios) %}
+{% macro list_speakers(speakers, bios, url=true) %}
   {% for speaker in speakers %}
     {%- if loop.first %}{% elif loop.last %} et {% else %}, {% endif -%}
-    {% set bio = bios[speaker | slugify] %}
-    <a href="/{{ bio.url }}">{{ speaker }}</a>
+    {%- set bio = bios[speaker | slugify] -%}
+    {%- if url -%}<a href="/{{ bio.url }}">{%- endif -%}{{ speaker }}{%- if url -%}</a>{%- endif -%}
   {%- endfor %}
 {% endmacro %}
 
-{% macro session_meta(session, bios, room_names) -%}
-   <div class="meta">
-      <i class="icon-user"></i>
-      {{ list_speakers(session.speakers, bios) }}
-      {% if session.room is defined%}
-         <i class="icon-home"></i> {{ room_names[session.room] }}
+{% macro session_meta(session, bios, room_names, url=true) -%}
+    <i class="icon-user"></i>
+    {{ list_speakers(session.speakers, bios, url) }}
+    {% if session.room is defined%}
+       <i class="icon-home"></i> {{ room_names[session.room] }}
+    {% endif %}
+    {% if session.start_date is defined %}
+      <i class="icon-calendar"></i> {{ session.locale_start_date }}
+      <i class="icon-time"></i> {{ session.locale_start_time }}
+      {% if session.locale_end_time is defined %}
+      - {{ session.locale_end_time }}
       {% endif %}
-      {% if session.start_date is defined %}
-        <i class="icon-calendar"></i> {{ session.locale_start_date }}
-        <i class="icon-time"></i> {{ session.locale_start_time }}
-        {% if session.locale_end_time is defined %}
-        - {{ session.locale_end_time }}
-        {% endif %}
-      {% endif %}
-   </div>
+    {% endif %}
 {%- endmacro %}

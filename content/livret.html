@@ -1,20 +1,52 @@
-{% extends "base.html" %}
 {% from "widgets/session.html" import list_speakers %}
 {% from "widgets/session.html" import session_meta %}
 
-{% block content %}
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/theme/style/normalize.css">
+        <link rel="stylesheet" href="/theme/style/main.css">
+        <link rel="stylesheet" href="/theme/style/font-awesome.css">
+        <style type="text/css">
+          .meta {border: 1px solid #ddd; background-color: #eee; -webkit-print-color-adjust: exact;}
+          .row .session {page-break-inside: avoid;}
+          .break {page-break-before: always;}
+          .row {page-break-after: always;}
+          h3 {margin: 0}
+          .logo {float: right;}
+          hr {clear: both;}
+          .center {text-align: center;}
+        </style>
+    </head>
+    <body>
+<img class="logo" src="/theme/img/logo.png" class="pull-left" height="140" width="140">
+<h1>Conférence Agile France 2013</h1>
+<h2>Textes des sessions</h2>
+<div class="center">
+  <object data="static/programme/plan.svg" type="image/svg+xml" width="421" height="236"></object>
+</div>
+<hr/>
 <div class="full-width">
    <div class="row">
       <div class="span12">
         {% for start_date, sessions in CONFERENCE.sessions.all|sort(attribute='start_date')|groupby('locale_start_date') %}
            <div class="row">
-              <h1>{{ start_date }}</h1>
               {% for start_time, sessions_starting in sessions|groupby('locale_start_time') %}
-                <h2>{{ start_time }}</h2>
+                <div class="session">
+                <h2>{{ start_date }} &mdash; {{ start_time }}</h2>
                 {% for session in sessions_starting|sort(attribute='room') %}
-                   <h3>{{ session.title|escape }}</h3>
-                   {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
+                   {% if not loop.first %}<div class="session{% if "Oana Juncu" in session.speakers%} break{% endif %}">{% endif %}
+                   <div class="meta">
+                     <h3>{{ session.title|escape }}</h3>
+                     {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES, url=false) }}
+                   </div>
                    {{ session.content }}
+                  </div>
                 {% endfor %}
               {% endfor %}
          </div>
@@ -22,4 +54,5 @@
       </div>
    </div>
 </div>
-{% endblock content %}
+    </body>
+</html>

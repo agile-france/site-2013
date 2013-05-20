@@ -1,0 +1,45 @@
+{% from "widgets/session.html" import list_speakers %}
+{% from "widgets/session.html" import session_meta %}
+
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/theme/style/normalize.css">
+        <link rel="stylesheet" href="/theme/style/main.css">
+        <link rel="stylesheet" href="/theme/style/font-awesome.css">
+        <style type="text/css">
+          .meta {border: 1px solid #ddd; background-color: #eee; -webkit-print-color-adjust: exact;}
+          .session {page-break-after: always;}
+          .logo {float: right;}
+        </style>
+    </head>
+    <body>
+<div class="full-width">
+   <div class="row">
+      <div class="span12">
+        {% for start_date, sessions in CONFERENCE.sessions.all|sort(attribute='start_date')|groupby('locale_start_date') %}
+           <div class="row">
+              {% for start_time, sessions_starting in sessions|groupby('locale_start_time') %}
+                {% for session in sessions_starting|sort(attribute='room') %}
+                 <div class="session">
+                   <img class="logo" src="/theme/img/logo.png" class="pull-left" height="140" width="140">
+                   <h3>{{ session.title|escape }}</h3>
+                   <div class="meta">
+                     {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES, url=false) }}
+                   </div>
+                   {{ session.content }}
+                 </div>
+                {% endfor %}
+              {% endfor %}
+         </div>
+        {% endfor %}
+      </div>
+   </div>
+</div>
+    </body>
+</html>

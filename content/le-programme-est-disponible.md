@@ -4,7 +4,7 @@ Author: comité de sélection
 Category: general
 
 Nous avons mis en ligne une
-<del>[première][1]</del> <del>[seconde][2]</del> <del>[troisième][3]</del> [quatrième version du programme 2013][4].
+<del>[première][1]</del> <del>[seconde][2]</del> <del>[troisième][3]</del> <del>[quatrième][4]</del> [version finale du programme 2013][5].
 N'hésitez pas à le consulter pour vous faire une idée des sessions à venir !
 
 Nous travaillons d'arrache-pied avec les orateurs pour finaliser le planning et mettre en ligne les descriptifs des sessions.
@@ -13,3 +13,4 @@ Nous travaillons d'arrache-pied avec les orateurs pour finaliser le planning et 
 [2]: /static/programme/programme-agile-france-2013-draft-2.pdf
 [3]: /static/programme/programme-agile-france-2013-draft-3.pdf
 [4]: /static/programme/programme-agile-france-2013-draft-4.pdf
+[5]: /static/programme/programme-agile-france-2013.pdf
