@@ -1,6 +1,7 @@
 Speakers: Olivier Soudieux
 Title: A²GI²LE pour avancer dans un monde incertain
 Format: Conférence
+Audio: Oui
 Room: 1
 Start_date: 2013-05-24 11:30
 Duration: 90 minutes
