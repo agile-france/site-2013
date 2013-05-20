@@ -25,6 +25,8 @@ Summary: Cette session permettra aux participants de découvrir et expérimenter
 Summary: 
 Summary: Pick A Deck est aujourd'hui utilisé par environ 50 sociétés à travers le monde, principalement dans le cadre de mise en place de Scrum. La plateforme evolue toujours en mode startup.
 
+**Apportez votre ordinateur** pour profiter pleinement de cette session.
+
 Pick A Deck est une application GRATUITE dédiées au support des transitions vers de nouveaux comportements.
 
 Cette session permettra aux participants de découvrir et expérimenter la plateforme, et peut être de la mettre en place dans le cadre de leur propre transition.

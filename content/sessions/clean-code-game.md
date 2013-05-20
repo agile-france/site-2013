@@ -8,6 +8,8 @@ Duration: 120 minutes
 Tags: Technique
 Summary:
 
+**Apportez votre ordinateur** pour profiter pleinement de cette session.
+
 Maintenir une base de code propre et bien testé est un facteur clé de succès de la réalisation d’un produit. Mais avant d’en arriver là, il convient, en tant que développeur, d’adopter une certaine discipline en terme de refactoring de code.
 
 Qu’est-ce que du code propre ? Quelles pratiques de développement dois-je mettre en œuvre avec mon équipe ? Et comment je fais avec ma base de code qui date de 8 ans ?
