@@ -2,7 +2,7 @@ Title: Le livret
 Date: 2013-05-19 13:00
 Author: Eric
 Category: general
-Slug: livret
+Slug: livret-disponible-pour-impression
 Summary: Préparez votre venue en imprimant le livret de la conférence
 
 Nous venons d'arrêter le <a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013.pdf">programme définitif</a> (quelques ajustements sur les créneaux et affectations de salle ont été faits) et nous vous proposons également un outil pour préparer vos 2 jours de conférence.
