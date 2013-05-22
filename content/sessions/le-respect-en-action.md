@@ -22,7 +22,7 @@ Nous y avons remis en place les bases du respect.
 En moins de 6 semaines, l'équipe est à nouveau pleine d’espoir, productive.
 
 Cette histoire s'est répétée plusieurs fois.
-Nous avons maintenant une méthode que nous appliquons pour tout débuvicieuset de projet.
+Nous avons maintenant une méthode que nous appliquons pour tout début de projet.
 
 Vous souhaitez mettre en avant le respect dans vos équipes ?
 
