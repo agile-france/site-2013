@@ -12,7 +12,7 @@ sys.path.insert(0, dirname(__file__))
 from plugins import conference
 
 AUTHOR = u"L'équipe d'organisation"
-SITENAME = u'Agile France 2013'
+SITENAME = u'Agile France 2014'
 SITEURL = ''
 TWITTER_USERNAME = "AgileFrance"
 TIMEZONE = 'Europe/Paris'
@@ -29,18 +29,10 @@ def MENUITEMS(session_info):
 		return [(tag.name, session_list_menu(sessions)) for tag, sessions in tags.items()]
 
 	return [
-		(u'Inscription', '/index.html'),
-		(u'Appel à Orateurs', '/orateur.html'),
-		(u'Programme', '/static/programme/programme-agile-france-2013.pdf'),
-		(u'Livret', '/static/programme/livret-agile-france-2013.pdf'),
-		(u'Sessions', [
-			(u'Toutes', session_list_menu(session_info.sessions.all))] + sessions_by_tag(session_info.sessions.by_tag) ),
+		(u'Accueil', '/index.html'),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
-			(u'Entre vous', 'http://lite.framapad.org/p/Agile_France_2013'),
-			(u'Organisateurs', '/pages/lequipe-dorganisation.html'),
-			(u'Relecteurs', '/pages/les-relecteurs.html'),
-			(u'Orateurs', '/pages/les-orateurs.html')
+			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
 		(u'Blog', '/archives.html'),
 		(u'Éditions précédentes', [
