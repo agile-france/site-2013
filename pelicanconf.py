@@ -12,7 +12,7 @@ sys.path.insert(0, dirname(__file__))
 from plugins import conference
 
 AUTHOR = u"L'équipe d'organisation"
-SITENAME = u'Agile France 2014'
+SITENAME = u'Conférence Agile France 2014'
 SITEURL = ''
 TWITTER_USERNAME = "AgileFrance"
 TIMEZONE = 'Europe/Paris'
