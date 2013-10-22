@@ -13,4 +13,6 @@ Summary: Agile France 2014
 Notre but : permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger
 <span class="color">pour apprendre</span> en dehors des sentiers battus.
 
+<iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=48375&amp;code=21772&amp;cas=1&amp;resize=0&amp;multi=0" width="650" height="600" scrolling="auto" frameborder="0" id="weezuniq48375"></iframe>
+
 [1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
