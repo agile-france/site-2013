@@ -13,7 +13,7 @@ Summary: Agile France 2014
 Notre but : permettre aux **praticiens avancés** de se réunir et d'échanger
 pour **apprendre** en dehors des sentiers battus. A ce stade, vous avez 2 options : 
 <ol>
-<li>Vous êtes fan, sûr(e) de venir ? Prenez dès maintenant votre billet à prix ultra promotionnel (cf. [Billeterie][4]).</li>
+<li>Vous êtes fan, sûr(e) de venir ? Prenez dès maintenant votre billet à prix ultra promotionnel (cf. ci-après).</li>
 <li>Vous avez envie de monter sur scène ? [Déposez un sujet][2]. Un titre et quelques lignes suffisent pour commencer. Pour en savoir plus, consultez [l'appel à orateurs][3].</li>
 </ol>
 
@@ -23,4 +23,3 @@ pour **apprendre** en dehors des sentiers battus. A ce stade, vous avez 2 option
 [1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 [2]: http://call4paper-agileconf.herokuapp.com/
 [3]: http://www.conference-agile.fr/call4papers.html
-[4]: #billeterie
