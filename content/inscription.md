@@ -7,11 +7,11 @@ Author: l'Équipe d'organisation
 Summary: Agile France 2014
 
 <span class="soon-med">
-  Agile France aura lieu les <span class="color">jeudi 22</span> et <span class="color">vendredi 23 mai</span> 2014 au [Chalet de la Porte Jaune][1]
+  Agile France aura lieu les **jeudi 22** et **vendredi 23 mai** 2014 au [Chalet de la Porte Jaune][1]
 </span>
 
-Notre but : permettre aux <span class="color">praticiens avancés</span> de se réunir et d'échanger
-<span class="color">pour apprendre</span> en dehors des sentiers battus. A ce stade, vous avez 2 options : 
+Notre but : permettre aux **praticiens avancés** de se réunir et d'échanger
+pour **apprendre** en dehors des sentiers battus. A ce stade, vous avez 2 options : 
 <ol>
 <li>Vous êtes fan, sûr(e) de venir ? Prenez dès maintenant votre billet à prix ultra promotionnel (cf. [Billeterie][#billeterie]).</li>
 <li>Vous avez envie de monter sur scène ? [Déposez un sujet][2]. Un titre et quelques lignes suffisent pour commencer. Pour en savoir plus, consultez [l'appel à orateurs][3].</li>
