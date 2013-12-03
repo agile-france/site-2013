@@ -22,8 +22,9 @@ attention les prix augmentent avec le temps qui passe.
 
 # Où la conférence se déroule-t-elle ?
 
-Au “Chalet de la porte Jaune”, accessible par le RER A Fontenay-sous-Bois.
+Au “[Chalet de la Porte Jaune][1]”, accessible par le RER A Fontenay-sous-Bois.
 
+[1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 
 # Y a-t-il des exposants ?
 
