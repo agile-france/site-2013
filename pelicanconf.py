@@ -34,6 +34,7 @@ def MENUITEMS(session_info):
 			(u'Accès', '/acces.html'),
 			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
+		(u'FAQ', '/pages/faq.html'),
 		(u'Blog', '/archives.html'),
 		(u'Éditions précédentes', [
 			(u'2006 - restauration en cours', '#'),
