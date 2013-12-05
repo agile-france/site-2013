@@ -30,12 +30,13 @@ def MENUITEMS(session_info):
 
 	return [
 		(u'Accueil', '/index.html'),
+		(u'Appel à Orateurs', '/pages/call4papers.html'),
+		(u'FAQ', '/pages/faq.html'),
+		(u'Blog', '/archives.html'),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
 			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
-		(u'FAQ', '/pages/faq.html'),
-		(u'Blog', '/archives.html'),
 		(u'Éditions précédentes', [
 			(u'2006 - restauration en cours', '#'),
 			(u'2007 - restauration en cours', '#'),
