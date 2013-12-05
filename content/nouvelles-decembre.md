@@ -9,14 +9,18 @@ Summary: quelques nouvelles de l'édition 2014
 Pour ceux qui n'ont qu'une minute, ce que vous devez savoir sur Agile France 2014
 
 Dans quelques jours le tarif passera de 155€ à 180€
+
 L'agenda :
-- des keynotes d'ouverture et de clôture
-- des présentations jeudi et vendredi matin
-- un open-space le jeudi après-midi
-- des ateliers le vendredi après-midi
-- un dîner le jeudi soir
-- une activité physique mais zen vendredi matin
+
+* des keynotes d'ouverture et de clôture
+* des présentations jeudi et vendredi matin
+* un open-space le jeudi après-midi
+* des ateliers le vendredi après-midi
+* un dîner le jeudi soir
+* une activité physique mais zen vendredi matin
+
 Un plus grand nombre de sessions en anglais
+
 Toujours des sessions qui apportent de l'air frais dans la communauté agile et permettent aux praticiens avancés d'échanger et avancer
 
 
