@@ -111,6 +111,6 @@ def sessions_after(sessions, session):
 
 JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'slugify': slugify}
 
-STATIC_PATHS = ['programme']
+STATIC_PATHS = ['programme', 'images']
 
 TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
