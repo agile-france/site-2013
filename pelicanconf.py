@@ -30,7 +30,7 @@ def MENUITEMS(session_info):
 
 	return [
 		(u'Accueil', '/index.html'),
-		(u'Appel à Orateurs', '/pages/appel-orateurs.html'),
+		(u'Appel à Orateurs', '/pages/appel-a-orateurs.html'),
 		(u'FAQ', '/pages/faq.html'),
 		(u'Blog', '/archives.html'),
 		(u'Informations', [
