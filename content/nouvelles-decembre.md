@@ -24,6 +24,7 @@ Summary: quelques nouvelles de l'édition 2014
 ####Pour ceux qui ont plus de temps, un peu de littérature ci-après !####
 
   
+  
 **Agile France 2014 se prépare !** L’[appel à orateur] [1] est ouvert et la [billetterie] [2] aussi. Attention, le tarif ultra-promotionnel va bientôt augmenter. Il reste à 155 euros pour quelques jours encore puis il passera à 180€ pour les fans qui prennent leur place avant même de connaitre le programme : dépêchez-vous.
 
 Justement, le **programme**, nous y travaillons. En attendant les magnifiques sessions que [va nous proposer] [1] la communauté (c’est de vous qu’il s’agit !), voici déjà quelques éléments de structure : cette année nous voulons renforcer les points forts d’Agile France, l’échange et le partage entre praticiens expérimentés.
@@ -38,7 +39,7 @@ Pas de thème imposé pour les orateurs, simplement une demande : apporter de l�
 
 **Ce qui ne change pas** : les pauses longues et fréquentes, le déjeuner assis et le dîner du jeudi soir : autant d’occasions de vous asseoir avec un participant que vous ne connaissez pas et d’en apprendre toujours plus en l’interrogeant sur les sessions qui lui ont plu !
 
-**Des questions ?** [Consultez notre F.A.Q.] [3] ou envoyez-nous un mail.
+**Des questions ?** [Consultez notre F.A.Q.] [3] ou [envoyez-nous un mail] [4].
 
 Alors, n’oubliez pas de bloquer tout de suite les 22 et 23 mai dans votre agenda, de parler de la conférence, de [réserver votre billet] [2] et de [proposer une session] [1] si vous avez envie de monter sur scène.
 
