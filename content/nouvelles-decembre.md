@@ -7,7 +7,7 @@ Author: Orga
 Summary: quelques nouvelles de l'édition 2014
 
 ####Pour ceux qui n'ont qu'une minute, ce que vous devez savoir sur Agile France 2014####
-
+  
 
 * Dans quelques jours le tarif passera de 155€ à 180€
 * L'agenda :
@@ -20,17 +20,15 @@ Summary: quelques nouvelles de l'édition 2014
 * Un plus grand nombre de sessions en anglais
 * Toujours des sessions qui apportent de l'air frais dans la communauté agile et permettent aux praticiens avancés d'échanger et avancer
 
-
-
+  
 ####Pour ceux qui ont plus de temps, un peu de littérature ci-après !####
 
-
-
+  
 **Agile France 2014 se prépare !** L’[appel à orateur] [1] est ouvert et la [billetterie] [2] aussi. Attention, le tarif ultra-promotionnel va bientôt augmenter. Il reste à 155 euros pour quelques jours encore puis il passera à 180€ pour les fans qui prennent leur place avant même de connaitre le programme : dépêchez-vous.
 
 Justement, le **programme**, nous y travaillons. En attendant les magnifiques sessions que [va nous proposer] [1] la communauté (c’est de vous qu’il s’agit !), voici déjà quelques éléments de structure : cette année nous voulons renforcer les points forts d’Agile France, l’échange et le partage entre praticiens expérimentés.
 
-Nous avons donc choisi de structurer les journées en réservant les matinées aux sessions où l’orateur a le premier rôle et de consacrer les après-midi aux activités collaboratives où les participants pratiquent et co-construisent le résultat.
+Nous avons donc choisi de structurer les journées en réservant les matinées aux sessions où l’orateur a le premier rôle et de consacrer les après-midi aux activités collaboratives où les participants pratiquent et co-construisent le résultat.  
 Ainsi le jeudi après-midi sera réservé à un open-space tandis que le vendredi après-midi sera dédié aux ateliers participatifs. Voici donc à quoi ressemblera donc le programme 2014.
 
 **Quels sujets sont recherchés ?**
