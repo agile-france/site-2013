@@ -32,6 +32,8 @@ Justement, le **programme**, nous y travaillons. En attendant les magnifiques se
 Nous avons donc choisi de structurer les journées en réservant les matinées aux sessions où l’orateur a le premier rôle et de consacrer les après-midi aux activités collaboratives où les participants pratiquent et co-construisent le résultat.  
 Ainsi le jeudi après-midi sera réservé à un open-space tandis que le vendredi après-midi sera dédié aux ateliers participatifs. Voici donc à quoi ressemblera donc le programme 2014.
 
+<img alt="apercu du programme Agile France 2014" src="http://www.conference-agile.fr/static/images/structure-agile-france-2014.png" width="682" height="479" border="0" />  
+
 **Quels sujets sont recherchés ?**
 Pas de thème imposé pour les orateurs, simplement une demande : apporter de l’air frais dans la communauté agile plutôt que de recycler des sujets et des idées éculés. Tout est permis et l’humour ou le décalage sont appréciés. 
 
