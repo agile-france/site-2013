@@ -1,6 +1,6 @@
 Title: Appel à Orateurs
 
-L'appel à orateurs pour Agile France 2014 est ouvert jusqu'à début Janvier.
+L'appel à orateurs pour Agile France 2014 est ouvert jusqu'à fin Janvier.
 
 #### Proposer un sujet pour la conférence Agile France 2014
 
