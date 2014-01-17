@@ -8,18 +8,17 @@ Summary: Appel à la communauté Agile: avez-vous vraiment soumis tous vos sujet
 
 Bonjour et bonne année à tous. L'équipe d'orga d'Agile France continue de travailler pour vous mais ... pas sans vous.
 
-<h1>Call-for-papers Agile France 2014, c'est tout ?</h1>
+L'appel à orateur est ouvert depuis un moment déjà et nous avons reçu une cinquantaines de sujets intéressant mais **vous pouvez faire mieux que ça** !
 
-L'appel à orateur est ouvert depuis un moment déjà et nous avons reçu une cinquantaines de sujets intéressant mais vous pouvez faire mieux que ça !
-
-C'est quoi un bon programme pour Agile France ? C'est d'abord un programme où se mêlent des sujets pointus sur l'agilité, des sujets techniques, des sujets décalés, des sujets hors sujets.
+<h3>C'est quoi un bon programme pour Agile France ?</h3>
+C'est d'abord un programme où se mêlent des sujets pointus sur l'agilité, des sujets techniques, des sujets décalés, des sujets hors sujets.
 C'est un programme où les hommes et les femmes qui travaillent selon les principes du manifeste agile viennent partager leur expérience. Un programme qui est plus centré sur le "pourquoi ça marche (ou pas)" plutôt que sur le "c'est quoi l'agile". 
 
 Nous avons aussi l'ambition d'apporter de la nouveauté, de la fraicheur dans la communauté agile. 
 
 Tout cela signifie des sessions originales, pointues, qui n'ont pas été déjà vues dans 5 autres conférences. Ca signifie des prises de position, du débat, de la contradiction. Cela signifie de la recherhce, de l'expérimentation, de l'ouverture à d'autres disciplines.
 
-Les sujets reçus sont bons, certains sont même excellents, mais avec 6 salles sur 2 jours nous sommes en capacité de proposer 30 sessions. 
+Les sujets reçus sont bons, certains sont même excellents, mais on en veut plus : avec 6 salles sur 2 jours nous sommes en capacité de proposer 30 sessions. 
 
 En tant qu'orga je veux que chacun des 30 sessions et des 6 ateliers que l'on retiendra dans le programme gagne sa place au détriment d'un autre bon sujet. Je veux que ça soit un déchirement de refuser des super propositions afin d'être certain que chacun des sujets que l'on conserve est unique. 
 
