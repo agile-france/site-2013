@@ -1,4 +1,4 @@
-Title: Call-for-papers Agile France 2014, c'est tout ?
+Title: Appel à orateurs Agile France 2014, c'est tout ?
 Date: 2014-01-17 10:30
 Tags: orateurs, 2014
 Category: general
