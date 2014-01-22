@@ -13,8 +13,6 @@ La conférence Agile France est organisée par des bénévoles sous l’égide d
 Les inscriptions à la conférence Agile France sont possibles depuis fin octobre 2013 sur le site 
 [http://www.conference-agile.fr/][1]
 
-[1]: http://www.conference-agile.fr/
-
 #### Jusqu’à quand puis-je m’inscrire ?
 
 Tant qu’il reste des places (250 en tout, orga et orateurs compris) mais…
@@ -24,8 +22,6 @@ attention les prix augmentent avec le temps qui passe.
 #### Où la conférence se déroule-t-elle ?
 
 Au “[Chalet de la Porte Jaune][2]”, accessible par le RER A Fontenay-sous-Bois.
-
-[2]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 
 #### Y a-t-il des exposants ?
 
@@ -81,7 +77,7 @@ Et à partir du 1er Mai, pour les tardifs, qui attendent de savoir s’ils factu
 
 #### Comment s’inscrire et combien cela coûte-t-il ?
 
-Les inscriptions et le paiement se font en ligne, et ça se passe [par ici][1] ou [là][2]. 
+Les inscriptions et le paiement se font en ligne, et ça se passe [par ici][3] ou [là][4]. 
 
 Le prix dépend de la date à laquelle vous achetez votre place: 
 
@@ -92,7 +88,7 @@ Le prix dépend de la date à laquelle vous achetez votre place:
  
 A votre billet - qui couvre les 2 jours de conférence avec petit-déjeuner, pauses et déjeuner - vous pouvez ajouter le diner du jeudi soir. Nous vous proposons aussi (1) d'adhérer à l'association pour soutenir ses activités tout au long de l'année et (2) d'acheter également le polo officiel de la conférence.
 
-Tous les détails vous seront fournis lors de [votre inscription][1].
+Tous les détails vous seront fournis lors de [votre inscription][3].
 
 #### Puis-je faire financer mes entrées par la formation professionnelle ?
 
@@ -197,5 +193,7 @@ Mais également l’ouverture d’esprit, la curiosité, l’échange, la tolér
 - le blog d’Agile France est également un bon moyen pour nous de vous annoncer les nouveautés !
 - et si de l’information vous souhaitez avoir la primeur, alors sans attendre suivez @AgileFrance sur Twitter !
 
-[1] http://www.conference-agile.fr/index.html
-[2] http://www.weezevent.com/agile-france-2014
+[1]: http://www.conference-agile.fr/
+[2]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
+[3]: http://www.conference-agile.fr/index.html
+[4]: http://www.weezevent.com/agile-france-2014
