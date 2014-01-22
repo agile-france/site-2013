@@ -81,15 +81,38 @@ Et à partir du 1er Mai, pour les tardifs, qui attendent de savoir s’ils factu
 
 #### Comment s’inscrire et combien cela coûte-t-il ?
 
-Les inscriptions et le paiement se font en ligne, et ça se passe par ici. 
+Les inscriptions et le paiement se font en ligne, et ça se passe [par ici][1] ou [là][2]. 
 
-Tous les détails vous seront fournis lors de votre inscription.
+Le prix dépend de la date à laquelle vous achetez votre place: 
 
-Si vous ne pouvez régler par carte bancaire, nous vous invitons à contacter l’équipe d’organisation. 
+- le tarif "fan club" (180 €) s'applique tant qu'on n'a pas publié le programme. Il s'adresse à ceux qui nous font confiance pour faire une super conférence et qui, en retour de leur confiance aveugle, bénéficient d'un prix ultra bas.
+- le tarif "early bird" (250 €) est valable entre la fin de l'appel à orateurs et la publication du programme officiel, pendant quelques semaines.
+- le tarif "regular" (300 €) est valable dès que le programme a été officialisé et jusqu'au mois de Mai
+- le tarif "late bird" (600 €) s'applique à partir du 1er mai (les 3 dernières semaines). 
+ 
+A votre billet - qui couvre les 2 jours de conférence avec petit-déjeuner, pauses et déjeuner - vous pouvez ajouter le diner du jeudi soir. Nous vous proposons aussi (1) d'adhérer à l'association pour soutenir ses activités tout au long de l'année et (2) d'acheter également le polo officiel de la conférence.
+
+Tous les détails vous seront fournis lors de [votre inscription][1].
 
 #### Puis-je faire financer mes entrées par la formation professionnelle ?
 
 Malheureusement non, l’association Agile France n’est pas un organisme de formation agréé.
+
+#### Est-ce que je peux réserver ma place et payer plus tard ? 
+
+Oui (la billeterie prévoit le cas du paiement par chèque ou virement) mais sachez que votre place n'est acquise que lorsque vous avez payé. Par ailleurs le tarif applicable est celui en vigueur au moment du paiement, pas au moment de la réservation. Si vous laissez filer le temps et que le prix monte, tant pis pour vous !
+
+#### Si je prends mon billet puis que je ne peux finalement pas venir, est-ce que je peux me faire rembourser ? 
+
+Oui ... et Non !
+
+Si vous achetez votre place et que vous ne pouvez pas venir, nous remboursons le prix payé moins la différence entre le prix public au moment du remboursement et le prix payé. 
+
+Qu'est-ce que ça veut dire ? Ca veut dire que si le prix n'a pas changé, on rembourse tout. En revanche, si le prix a augmenté, on ne rembourse pas l'augmentation. 
+
+Par exemple, si vous achetez votre billet au tarif "fan club" de 180€ et que vous demandez le remboursement quand le prix passe à 250€ on vous rembourse 110€. 
+
+Le but c'est d'éviter que les gens achètent les places à l'avance avec le tarif ultra-promo puis annulent à la dernière minute. Le tarif ultra-promo est justement très bas car les gens s'engagent très à l'avance. Sa contrepartie c'est donc une forme de rigidité (un peu comme les tarifs "Prem's" de notre compagnie nationale des chemins de fer :-)
 
 #### Les présentations sont-elles filmées ?
 
@@ -107,9 +130,10 @@ Consultez le programme pour connaitre le contenu de toutes les présentations.
 
 #### Les présentations sont-elles en anglais ou en français ?
 
-Comme nous souhaitons amener un peu d’air frais dans la communauté agile, nous avons d’ouvrir la porte à nos voisins anglophones, et nous proposerons  donc une track en anglais !
+Comme nous souhaitons amener un peu d’air frais dans la communauté agile, nous avons choisi d’ouvrir la porte à nos voisins anglophones, et nous proposerons donc une track en anglais !
 
-Mais si vous n’êtes pas familiers de la langue de Shakespeare, soyez rassurés, 75% des présentations seront en français. 
+Mais si vous n’êtes pas familiers de la langue de Shakespeare, soyez rassurés, nous veillons à ce que 75% des présentations soient en français. 
+
 #### Quels sont les sujets traités ?
 
 Comme son nom l'indique, Agile France est une conférence construite autour de l'agilité. Votre session doit donc avoir un rapport, même indirect, avec cette approche.
@@ -172,3 +196,6 @@ Mais également l’ouverture d’esprit, la curiosité, l’échange, la tolér
 - C’est la raison d’être de la lettre d’information que l’on essaye d’envoyer régulièrement (mais pas trop pour ne pas atterrir dans votre dossier spam !).
 - le blog d’Agile France est également un bon moyen pour nous de vous annoncer les nouveautés !
 - et si de l’information vous souhaitez avoir la primeur, alors sans attendre suivez @AgileFrance sur Twitter !
+
+[1] http://www.conference-agile.fr/index.html
+[2] http://www.weezevent.com/agile-france-2014
