@@ -50,7 +50,7 @@ L’évènement se tient le jeudi 22 mai et le vendredi 23 mai 2014, et vous y t
 -  un dîner le jeudi soir
 - une activité physique mais zen vendredi matin
 
-Une ébauche non définitive du calendrier est consultable [ici][http://www.conference-agile.fr/pages/appel-a-orateurs.html].
+Une ébauche non définitive du calendrier est consultable [ici][5].
 
 #### Comment l’espace est-il organisé ?
 
@@ -197,3 +197,4 @@ Mais également l’ouverture d’esprit, la curiosité, l’échange, la tolér
 [2]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 [3]: http://www.conference-agile.fr/index.html
 [4]: http://www.weezevent.com/agile-france-2014
+[5]: http://www.conference-agile.fr/pages/appel-a-orateurs.html
