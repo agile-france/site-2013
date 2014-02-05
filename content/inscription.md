@@ -14,7 +14,7 @@ Notre but : permettre aux **praticiens avancés** de se réunir et d'échanger
 pour **apprendre** en dehors des sentiers battus. A ce stade, vous avez 2 options : 
 <ol>
 <li>Vous êtes fan, sûr(e) de venir ? Prenez dès maintenant votre billet à prix ultra promotionnel (cf. ci-après).</li>
-<li>Vous avez envie de monter sur scène ? Pour déposer un sujet, c'est trop tard ! L'appel à orateurs est fermé. Que cela ne vous empêche pas de prendre votre billet : vous pourrez proposer votre sujet lors de [l'open-space du jeudi après-midi][3].</li>
+<li>Vous avez envie de monter sur scène ? Pour déposer un sujet, c'est trop tard ! L'appel à orateurs est fermé. Que cela ne vous empêche pas de prendre votre billet tout de suite : vous pourrez proposer votre sujet lors de [l'open-space du jeudi après-midi][3].</li>
 </ol>
 
 <iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=48375&amp;code=21772&amp;cas=1&amp;resize=0&amp;multi=0" width="650" height="600" scrolling="auto" frameborder="0" id="weezuniq48375"></iframe>
