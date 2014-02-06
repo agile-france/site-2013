@@ -44,12 +44,13 @@ TDD tout terrain, par Emmanuel Gaillot
 
 Paroles d'organisateurs :
 
+- *Agile France c'est un éclectisme choisi de sessions techniques et non-techniques. Ici on aura de la technique !*
 - *Une session improbable qui va certainement nous apporter un regard nouveau sur l'assembleur.*
 - *Un challenge relevé dans un environnement d'apparence hostile où l'inventivité du programmeur est mise à rude épreuve.*
-- *Où d'autre qu'à Agile France peut-on trouver une session aussi folle ?*
+- *Du TDD en assembleur: où d'autre qu'Agile France peut-on trouver une session aussi folle ?*
 
 ## Expérience d'un maître de donjons et dragons sur le management ##
-ou comment trouver son style, par Guillaume Duquesnay
+Comment trouver son style, par Guillaume Duquesnay
 
 > Comment mon style de maître de jeu s'est formé, déformé, puis transcendé au cours de mes années de jeu. Je ne parlerai jamais directement de management, et pourtant je ne parlerai que de ça.
 
@@ -91,7 +92,7 @@ Paroles d'organisateurs :
 - *Un moment de partage pour parler de moments de partage entre deux générations.*
 - *Pour réussir, hier il fallait savoir lire, mais demain il faudra savoir coder ! Mais si la plupart de nos parents nous ont montré "le monde derrière les lettres", peu d'entre nous peuvent se targuer d'avoir eu un aperçu de ce que permet de faire du code dans leur jeunesse... et comme personne ne souhaite reproduire les erreurs de ses parents, y compris les orgas, et bien nous avons choisi cette session  :)*
 
-Ce pré-programme vous inspire ? Dépêchez vous de [vous inscrire][1] car les places au tarif Blind Bird sont limitées.
+**Ce pré-programme vous inspire ? Dépêchez vous de [vous inscrire][1] car les places au tarif Blind Bird sont limitées.**
 
 Au moment où vous lisez ce billet, l'appel à orateur pour Agile France 2014 est désormais fermé.
 Merci à tous ceux qui ont soumis une proposition ! Nous reviendrons dessus plus spécifiquement, mais sachez que les Perfection Games battent leur plein, et que nous travaillons à la tenue du comité de sélection.
