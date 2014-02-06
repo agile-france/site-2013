@@ -34,7 +34,7 @@ Combler, grâce au BDD, le fossé qui existe entre le métier, les développeurs
 
 Paroles d'organisateurs:
 
-- *bla bli bla bla* 
+- *Parce que la construction d'une vraie vision partagée est difficile à mettre en oeuvre, et que la collaboration doit se faire de bout en bout !* 
 - *bla bla bla bla*
 
 ## De l'assembleur et des tests ##
@@ -57,7 +57,7 @@ Comment trouver son style, par Guillaume Duquesnay
 Paroles d'organisateurs :
 
 - *Vous vouliez sortir des sentiers battus ? On y est.* 
-- *"Le jeu est la forme la plus élevée de la recherche" [Albert EINSTEIN]*
+- *Einstein a disait que "le jeu est la forme la plus élevée de la recherche", alors il serait de bon goût d'écouter ce que peut raconter un maître de jeu !*
 
 ## La rétrospective continue ##
 Intégrer l'apprentissage dans le quotidien d'une équipe agile, par Régis Medina et Antoine Contal
