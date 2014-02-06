@@ -22,20 +22,6 @@ Paroles d'organisateurs :
 - *Si simple de faire compliqué.... et si difficile de faire simple... Cette question est fondamentale pour nous tous et mérite notre vigilance de tous les instants. Chouette : une session sur ce sujet !*
 - *Qu'est ce que la simplicité ? Quand est-ce que tout bascule et mon code passe de simple à complexe ? Montrez moi les symptômes que je dois savoir reconnaître et traiter pour éviter de basculer vers la complexité !* 
 
-## Une bonne spécification est une spécification vivante ##
-Combler, grâce au BDD, le fossé qui existe entre le métier, les développeurs et les testeurs, par Arnaud Loyer
-
-> Qu'est ce qu'une spécification, pour qui ? et dans quel but? 
-> Comment s'assurer qu'elles soient comprises et partagées? 
-> Comment les utiliser pour ne plus considérer les équipes de réalisation comme de simple executant mais pour qu'elles se sentent investies? 
-> Comment s'assurer qu'elles sont à jour? 
-> Comment s'assurer qu'elles sont satisfaites par l'application? Que le besoin a été compris et que la fonctionnalité à été "Done!" 
-> Et après... une fois le produit, ou la fonctionnalité, réalisé à quoi servent-elles si ce n'est à devenir obsolète
-
-Paroles d'organisateurs:
-
-- *Parce que la construction d'une vraie vision partagée est difficile à mettre en oeuvre, et que la collaboration doit se faire de bout en bout !* 
-
 ## De l'assembleur et des tests ##
 TDD tout terrain, par Emmanuel Gaillot
 
