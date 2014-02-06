@@ -35,7 +35,6 @@ Combler, grâce au BDD, le fossé qui existe entre le métier, les développeurs
 Paroles d'organisateurs:
 
 - *Parce que la construction d'une vraie vision partagée est difficile à mettre en oeuvre, et que la collaboration doit se faire de bout en bout !* 
-- *bla bla bla bla*
 
 ## De l'assembleur et des tests ##
 TDD tout terrain, par Emmanuel Gaillot
