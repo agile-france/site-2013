@@ -1,4 +1,4 @@
-Title: Une sélection de 7 sessions pour donner le ton pour Agile France 2014
+Title: Une sélection de 6 sessions pour donner le ton pour Agile France 2014
 Date: 2014-02-05 15:00
 Tags: programme, 2014
 Category: general
