@@ -20,11 +20,12 @@
                        <div class="meta">
                           {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
                        </div>
-                       B&eacute;n&eacute;fices attendus pour les participants : {{ session.goal }}
-                       
-                       Teaser : {{ session.summary }}
-                       
-                       R&eacute;sum&eacute; : {{ session.content }}
+                       <h4>B&eacute;n&eacute;fices attendus pour les participants</h4>
+                       {{ session.goal }}
+                       <h4>Teaser</h4>
+                       {{ session.summary }}
+                       <h4>R&eacute;sum&eacute;</h4>
+                       {{ session.content }}
                        
                        {% for speaker in session.bios %}
                            {% set bio = CONFERENCE.bios.by_slug[speaker] %}
