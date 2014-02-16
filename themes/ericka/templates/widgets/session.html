@@ -14,7 +14,7 @@
     {% if session.room is defined%}
        <i class="icon-home"></i> {{ room_names[session.room] }}
     {% endif %}
-    {% if session.start_date is defined %}
+    {% if has_start_date %}
       <i class="icon-calendar"></i> {{ session.locale_start_date }}
       <i class="icon-time"></i> {{ session.locale_start_time }}
       {% if session.locale_end_time is defined %}
