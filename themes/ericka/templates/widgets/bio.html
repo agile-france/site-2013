@@ -8,7 +8,14 @@
 {% macro social_icons(bio, intro=true) %}
   {% if intro and (bio.twitter or bio.linkedin or bio.viadeo or bio.blog) %}<h5>{{bio.surname}} sur le web</h5>{% endif %}
   {% if bio.twitter %}<a href="https://twitter.com/{{ bio.twitter }}" target="_blank"><span class="at16nc at16t_twitter"></span></a>{% endif %}
-  {% if bio.linkedin %}<a href="http://www.linkedin.com/{{ bio.linkedin }}" target="_blank"><span class="at16nc at16t_linkedin"></span></a>{% endif %}
+  {% if bio.linkedin %}
+    {% if bio.linkedin.startswith('in') %}
+      {% set linkedin = 'http://www.linkedin.com/' + bio.linkedin %}
+    {% else %}
+      {% set linkedin = bio.linkedin %}
+    {% endif %}
+    <a href="{{ linkedin }}" target="_blank"><span class="at16nc at16t_linkedin"></span></a>
+  {% endif %}
   {% if bio.viadeo %}<a href="http://fr.viadeo.com/fr/profile/{{ bio.viadeo }}" target="_blank"><span class="at16nc at16t_viadeo"></span></a>{% endif %}
   {% if bio.blog %}<a href="{{ bio.blog }}"><span class="at16nc at16t_blogger" target="_blank"></span></a>{% endif %}
 {% endmacro %}
