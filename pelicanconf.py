@@ -72,12 +72,12 @@ PLUGINS = [conference]
 ARTICLE_EXCLUDES = ['pages', 'bios', 'sessions']
 
 SESSION_DIR = 'sessions'
-SESSION_EXCLUDES = ''
+SESSION_EXCLUDES = '2013/*'
 SESSION_SAVE_AS = 'sessions/{slug}.html'
 SESSION_URL = 'sessions/{slug}.html'
 
 BIO_DIR = 'bios'
-BIO_EXCLUDES = ''
+BIO_EXCLUDES = '2013/*'
 BIO_SAVE_AS = 'bios/{slug}.html'
 BIO_URL = 'bios/{slug}.html'
 BIO_PIC_PATH = 'trombines'
