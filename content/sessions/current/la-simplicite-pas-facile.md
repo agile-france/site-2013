@@ -3,8 +3,10 @@ Title: La simplicité: pas facile!
 Subtitle: Exploration de l'importance de la simplicité
 Goal: Comprendre la simplicité
 Format: Conférence
+<!-- 
 Room: 
 Start_date: 
+-->
 Duration: 50 minutes
 Tags: 
 Summary: Plus je me débat dans du code legacy, et plus je suis convaincu que la pratique fondatrice est la simplicité.
