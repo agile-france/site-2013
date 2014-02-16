@@ -16,12 +16,16 @@
                  
                     <div class="entry">
                        <h2><a href="/{{ session.url }}" rel="bookmark">{{ session.title|escape }}</a></h2>
+                       {{ session.subtitle }
                        <div class="meta">
                           {{ session_meta(session, CONFERENCE.bios.by_slug, ROOM_NAMES) }}
                        </div>
-                       {{ session.promo }}
-                       {{ session.content }}
-                       {{ session.summary }}
+                       B&eacute;n&eacute;fices attendus pour les participants : {{ session.goal }}
+                       
+                       Teaser : {{ session.summary }}
+                       
+                       R&eacute;sum&eacute; : {{ session.content }}
+                       
                        {% for speaker in session.bios %}
                            {% set bio = CONFERENCE.bios.by_slug[speaker] %}
                            {% if bio.content | trim %}
