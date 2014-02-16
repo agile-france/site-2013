@@ -114,4 +114,5 @@ JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'sl
 
 STATIC_PATHS = ['programme', 'images']
 
-TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
+TEMPLATE_PAGES = {'sessions.html': 'sessions.html'}
+#TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
