@@ -1,6 +1,9 @@
 Title: Emmanuel Gaillot
+Roles: speaker
 Twitter: egaillot
 Blog: http://emmanuelgaillot.blogspot.fr/
+Linkedin: 
+Viadeo: 
 
 Emmanuel intervient en tant que programmeur extrême, accompagnateur d'équipes, animateur de réunions, formateur, codexhibitionniste et agitateur public.
 Il est un spécialiste de la gestion de projet incrémentale, des structures émergentes et des espaces de co-apprentissage.
