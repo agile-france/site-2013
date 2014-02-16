@@ -1,5 +1,5 @@
 Title: Ellène Siber Dijoux
-Roles: organizer, speaker
+Roles: organizer
 Sexe: F
 Twitter: ElleneSiber
 Blog: http://uneviededev.wordpress.com/
