@@ -1,4 +1,4 @@
-Speakers: Régis Medinat, Antoine Contal
+Speakers: Régis Medina, Antoine Contal
 Title: La rétrospective continue
 Subtitle: Intégrer l'apprentissage dans le quotidien d'une équipe agile
 Goal: 
