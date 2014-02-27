@@ -4,7 +4,7 @@ Subtitle: Exploration de l'importance de la simplicité
 Goal: Comprendre la simplicité
 Format: Conférence
 Duration: 50 minutes
-Tags: 
+Tags: Construire, Courants d'air frais
 Summary: Plus je me débat dans du code legacy, et plus je suis convaincu que la pratique fondatrice est la simplicité.
 Summary: 
 Summary: Et puis au delà d'un gage de survie pour le code… la simplicité semble vraiment être une tendance de fond.
