@@ -4,7 +4,7 @@ Subtitle:
 Goal: Améliorer les relations entre programmeurs et les autres intervenants d'une équipe produit.
 Format: Conférence
 Duration: 50 minutes
-Tags: 
+Tags: Collaborer
 Summary: Vous avez l'idée qui va vous rendre riche et le budget, maintenant il vous faut les programmeurs.
 Summary: Ceux qui murmurent à l'oreilles des programmes pour faire des applications extraordinaires.
 Summary: 
