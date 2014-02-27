@@ -9,8 +9,11 @@ Summary: Raphaël et Jonathan sont papa, développeurs, et fréquentent assidûm
 Summary: Il viennent partager ce qu'ils ont appris, et vous invitent à en faire autant.
 
 Dans un premier temps, nous exposerons en quelques mots ce que nous avons appris lorsque nous avons proposé à nos propres enfants de développer des programmes, ou en aidant d'autres parents à le faire :
+
 - comment nous nous y sommes pris,
+
 - ce qui a marché,
+
 - ce qui n'a pas marché.
 
 Ensuite, nous inviterons les participants à raconter leurs propres expériences.
