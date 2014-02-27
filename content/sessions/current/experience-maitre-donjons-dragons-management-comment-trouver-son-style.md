@@ -4,7 +4,7 @@ Subtitle: Comment mon style de maître de jeu s'est formé, déformé, puis tran
 Goal: 
 Format: Conférence
 Duration: 50 minutes
-Tags: 
+Tags: Courants d'air frais
 Summary: 
 
 Je suis maître de jeu à Donjons et Dragons depuis environ 20 ans, beaucoup plus que mes 10+ années d'expérience professionnelle, et à bien y réfléchir, mes meilleurs leçons sur le management, l'animation et le leadership, viennent de là. 
