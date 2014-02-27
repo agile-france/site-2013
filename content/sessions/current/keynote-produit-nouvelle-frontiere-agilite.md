@@ -1,5 +1,5 @@
 Speakers: Régis Medina
-Title: Le produit, prochaine frontière de l'agilité
+Title: Keynote d'ouverture : Le produit, prochaine frontière de l'agilité
 Slug: keynote-le-produit-prochaine-frontiere-agilite
 Format: Conférence
 Duration: 25 minutes
