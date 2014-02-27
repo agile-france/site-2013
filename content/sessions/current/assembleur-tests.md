@@ -7,7 +7,7 @@ Goal: - d'apprendre comment épater la galerie (sans arrêter de faire du TDD po
 Goal: - de rencontrer d'autres développeurs qui aiment s'amuser avec les langages exotiques.
 Format: Conférence
 Duration: 50 minutes
-Tags: 
+Tags: Construire, Courants d'air frais
 Summary: Dans cette session de performance de code, nous montrerons comment construire un framework simple de tests en langage assembleur (Intel 32 bits) et comment l'utiliser pour programmer une fonctionnalité (probablement "Comparaison de chaînes").
 
 Dans cette session de performance de code, nous montrerons comment construire un framework simple de tests en langage assembleur (Intel 32 bits) et comment l'utiliser pour programmer une fonctionnalité (probablement "Comparaison de chaînes"). Nous nous appuierons sur les mécanismes Unix de codes de retour de process pour afficher si nos tests passent ou non, et nous implémenterons barres rouge et verte à l'aide des commandes Shell Unix.
