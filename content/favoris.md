@@ -4,6 +4,7 @@ Tags: sessions
 Category: general
 Author: comité de sélection
 Summary: Nos 9 sessions favorites
+Statuts: draft
 
 Le comité de sélection d'Agile France 2013 était réuni hier soir. 9 participants (merci à Ségolène, Caroline et Yannick qui nous ont rejoint pour l'occasion), une grosse centaine de propositions et 3 heures de travail et de discussions passionnées ont permis d'arriver à une short-list de 52 sujets.
 
