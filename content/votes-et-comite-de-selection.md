@@ -2,7 +2,7 @@ Title: Agile France 2014 : votes et comité de sélection
 Date: 2014-03-28 18:00
 Tags: agile france, soumissions, vote, programme
 Category: general
-Author: Caroline Damour
+Author: Equipe d'organisation
 Summary: Le comité de sélection des sessions se tiendra les 15 mars. Les agilistes motivés sont les bienvenus.
 Slug: agile-france-2014-votes-comite-selection
 Status: draft
