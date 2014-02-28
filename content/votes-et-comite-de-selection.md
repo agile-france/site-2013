@@ -9,7 +9,8 @@ Status: draft
 
 
 Nous ouvrons la possibilité à ceux qui ont proposé une session, aux early adopters (inscrits à la conférence avant publication des premières sessions) et à ceux qui le souhaitent de voter pour leurs 10 sessions favorites.
-* Les règles sont simples :
+
+Les règles sont simples :
     * Vous disposez de 10 votes en tout
     * Vous pouvez voter une fois par session
     * l'ordre des votes n'a pas d'importance
@@ -21,7 +22,8 @@ Le comité de sélection pourra tenir compte du résultat des votes pour compose
 Si vous avez envie de voter, dite- le nous <contact@conference-agile.fr> et nous vous créerons un compte permettant de le faire
 
 **Le comité de sélection se tiendra le 15 mars.**
-* Les éléments portés à l’attention des participants à ce comité seront :
+
+Les éléments portés à l’attention des participants à ce comité seront :
     * le titre
     * le sous-titre
     * le track
