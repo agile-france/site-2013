@@ -15,7 +15,7 @@ Les règles sont simples :
 * Vous pouvez voter une fois par session
 * l'ordre des votes n'a pas d'importance
 * Vous ne pouvez pas voter pour votre propre session
-* Les votes ne sont visibles que du comité de sélection
+* Les votes ne sont visibles que du comité de sélection.
  
 Le comité de sélection pourra tenir compte du résultat des votes pour composer un agenda équilibré qui satisfasse les objectifs de la conférence, tienne en deux jours et réponde aux attentes de la communauté.
 
