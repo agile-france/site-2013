@@ -33,7 +33,7 @@ Si vous avez envie de voter, dite- le nous <contact@conference-agile.fr> et nous
     * la description
     * le nombre maximal de participants
     
-Les échanges ayant eu lieu dans le cadre des Perfection Game ne seront pas pris en compte. Aux orateurs de mettre à jour vos propositions de session !
+Les échanges ayant eu lieu dans le cadre des Perfection Game ne seront pas pris en compte. Aux orateurs de mettre à jour leurs propositions de session !
 
 Vous êtes un agiliste motivé et voulez nous aider ?
 Envoyez-nous un mail : <contact@conference-agile.fr>.
