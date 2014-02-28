@@ -11,11 +11,11 @@ Status: draft
 Nous ouvrons la possibilité à ceux qui ont proposé une session, aux early adopters (inscrits à la conférence avant publication des premières sessions) et à ceux qui le souhaitent de voter pour leurs 10 sessions favorites.
 
 Les règles sont simples :
-    * Vous disposez de 10 votes en tout
-    * Vous pouvez voter une fois par session
-    * l'ordre des votes n'a pas d'importance
-    * Vous ne pouvez pas voter pour votre propre session
-    * Les votes ne sont visibles que du comité de sélection
+* Vous disposez de 10 votes en tout
+* Vous pouvez voter une fois par session
+* l'ordre des votes n'a pas d'importance
+* Vous ne pouvez pas voter pour votre propre session
+* Les votes ne sont visibles que du comité de sélection
  
 Le comité de sélection pourra tenir compte du résultat des votes pour composer un agenda équilibré qui satisfasse les objectifs de la conférence, tienne en deux jours et réponde aux attentes de la communauté.
 
@@ -24,14 +24,14 @@ Si vous avez envie de voter, dite- le nous <contact@conference-agile.fr> et nous
 **Le comité de sélection se tiendra le 15 mars.**
 
 Les éléments portés à l’attention des participants à ce comité seront :
-    * le titre
-    * le sous-titre
-    * le track
-    * la durée
-    * les noms des orateurs
-    * le teaser (short description)
-    * la description
-    * le nombre maximal de participants
+* le titre
+* le sous-titre
+* le track
+* la durée
+* les noms des orateurs
+* le teaser (short description)
+* la description
+* le nombre maximal de participants
     
 Les échanges ayant eu lieu dans le cadre des Perfection Game ne seront pas pris en compte. Aux orateurs de mettre à jour vos propositions de session !
 
