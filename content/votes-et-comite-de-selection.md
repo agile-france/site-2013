@@ -5,7 +5,6 @@ Category: general
 Author: Equipe d'organisation
 Summary: Le comité de sélection des sessions se tiendra les 15 mars. Les agilistes motivés sont les bienvenus.
 Slug: agile-france-2014-votes-comite-selection
-Status: draft
 
 
 Nous ouvrons la possibilité à ceux qui ont proposé une session, aux early adopters (inscrits à la conférence avant publication des premières sessions) et à ceux qui le souhaitent de voter pour leurs 10 sessions favorites.
