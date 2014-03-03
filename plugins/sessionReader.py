@@ -1,6 +1,7 @@
 from pelican import signals
 from pelican.contents import Page, Category, Tag, Author
 from pelican.utils import get_date, pelican_open
+from pelican.readers import BaseReader
 
 try:
     from markdown import Markdown
