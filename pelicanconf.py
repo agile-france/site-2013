@@ -10,7 +10,6 @@ from pelican.utils import slugify
 sys.path.insert(0, dirname(__file__))
 
 from plugins import conference
-from plugins import sessionReader
 
 AUTHOR = u"L'équipe d'organisation"
 SITENAME = u'Conférence Agile France 2014'
@@ -68,7 +67,7 @@ JINJA_EXTENSIONS = [loopcontrols]
 
 TEMPLATE_PAGES = {'js/custom.js': 'theme/js/custom.js'}
 
-PLUGINS = [conference, sessionReader]
+PLUGINS = [conference]
 
 ARTICLE_EXCLUDES = ['pages', 'bios', 'sessions']
 
