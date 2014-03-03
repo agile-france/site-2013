@@ -5,7 +5,6 @@ Category: general
 Author: Equipe d'organisation
 Tags: Keynote, Produit
 Summary: Annonce de la keynote d'ouverture
-Status: draft
 
 Les méthodes agiles ont largement démontré leur efficacité pour mener à bien des projets dans des environnements complexes et changeants. Bravo ! Mais à l'heure de l'iPad et d'App Stores riches de millions de produits, il ne suffit plus de livrer une application qui fonctionne : il faut qu'elle sorte du lot et enchante vraiment ses utilisateurs.
 
