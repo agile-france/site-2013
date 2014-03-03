@@ -1,7 +1,7 @@
 Speakers: Régis Medina
 Title: Keynote d'ouverture : Le produit, prochaine frontière de l'agilité
 Slug: keynote-ouverture-le-produit-prochaine-frontiere-agilite
-Category: gneral
+Category: general
 Author: Equipe d'organisation
 Tags: Keynote, Produit
 Summary: Annonce de la keynote d'ouverture
