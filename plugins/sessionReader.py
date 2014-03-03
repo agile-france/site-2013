@@ -1,5 +1,11 @@
 from pelican import signals
-from pelican.readers import MarkdownReader
+from pelican.contents import Page, Category, Tag, Author
+from pelican.utils import get_date, pelican_open
+
+try:
+    from markdown import Markdown
+except ImportError:
+    Markdown = False 
 
 # Create a new reader class, inheriting from the pelican.reader.MarkdownReader
 class SessionMarkdownReader(BaseReader):
