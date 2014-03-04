@@ -1,10 +1,7 @@
 Speakers: Emmanuel Gaillot
 Title: De l'assembleur et des tests
 Subtitle: TDD tout terrain
-Goal: Les participant/e/s auront l'occasion :
-Goal: - de réviser leurs connaissances sur la programmation en assembleur,
-Goal: - d'apprendre comment épater la galerie (sans arrêter de faire du TDD pour autant),
-Goal: - de rencontrer d'autres développeurs qui aiment s'amuser avec les langages exotiques.
+Goal: Les participant/e/s auront l'occasion de réviser leurs connaissances sur la programmation en assembleur, d'apprendre comment épater la galerie (sans arrêter de faire du TDD pour autant), et de rencontrer d'autres développeurs qui aiment s'amuser avec les langages exotiques.
 Format: Conférence
 Duration: 50 minutes
 Tags: Construire, Courants d'air frais
