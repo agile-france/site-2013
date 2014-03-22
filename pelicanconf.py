@@ -40,14 +40,14 @@ def MENUITEMS(session_info):
 			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
 		(u'Éditions précédentes', [
-			(u'2006 - restauration en cours', '#'),
-			(u'2007 - restauration en cours', '#'),
-			(u'2008', 'http://2009.conference-agile.fr/conf.agile-france.org/2008_programme.html'),
-			(u'2009', 'http://2009.conference-agile.fr'),
-			(u'2010 - restauration en cours', '#'),
-			(u'2011 - restauration en cours', '#'),
-			(u'2012', 'http://2012.conference-agile.fr'),
 			(u'2013', 'http://2013.conference-agile.fr'),
+			(u'2012', 'http://2012.conference-agile.fr'),
+			(u'2011 - restauration en cours', '#'),
+			(u'2010 - restauration en cours', '#'),
+			(u'2009', 'http://2009.conference-agile.fr'),
+			(u'2008', 'http://2009.conference-agile.fr/conf.agile-france.org/2008_programme.html'),
+			(u'2007 - restauration en cours', '#'),
+			(u'2006 - restauration en cours', '#'),
 			],)
 		]
 
