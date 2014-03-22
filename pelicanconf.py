@@ -47,6 +47,7 @@ def MENUITEMS(session_info):
 			(u'2010 - restauration en cours', '#'),
 			(u'2011 - restauration en cours', '#'),
 			(u'2012', 'http://2012.conference-agile.fr'),
+			(u'2013', 'http://2013.conference-agile.fr'),
 			],)
 		]
 
