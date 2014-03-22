@@ -44,6 +44,6 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 deploy_s3:
-	s3vcp upload www.conference-agile.fr output
+	s3vcp upload 2013.conference-agile.fr output
 
 .PHONY: html help clean regenerate serve devserver publish deploy_s3

@@ -5,7 +5,7 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://www.conference-agile.fr'
+SITEURL = 'http://2013.conference-agile.fr'
 
 DELETE_OUTPUT_DIRECTORY = True
 
