@@ -1,3 +1,4 @@
+Speakers: Cyrille Deruel
 Title: Comment j’ai développé mon muscle de l’amélioration continue en faisant mes courses
 Slug: comment-j-ai-developpe-mon-muscle-de-l-amelioration-continue-en-faisant-mes-courses
 Date: 2014-04-06 12:11
@@ -5,7 +6,6 @@ Subtitle: Découvrez comment en faisant vos courses vous pouvez arriver à déve
 Goal: Un outil pour gérer les problèmes.
 Duration: 50 minutes
 Format: Conference
-Speakers: Cyrille Deruel
 Tags: Bouffée d'air frais
 Summary: 
 
