@@ -20,6 +20,7 @@ Nous vous proposons un menu à emporter : toutes les étapes et les outils que n
 Ca ne vous dispensera pas de les approfondir par vous-même, mais nous espérons que cette session vous mettra sur les bons rails pour aborder vos prochains projets.
 
 **A qui s'adresse cette session ?**
+
 Toute personne amenée à démarrer un projet.
 
 
