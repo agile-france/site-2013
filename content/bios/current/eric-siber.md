@@ -1,5 +1,5 @@
 Title: Éric Siber
-Roles: organizer
+Roles: organizer, speaker
 Twitter: esiber
 Linkedin: in/siber
 Viadeo: eric.siber
