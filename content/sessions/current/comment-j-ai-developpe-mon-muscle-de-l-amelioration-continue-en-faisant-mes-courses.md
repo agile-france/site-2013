@@ -22,6 +22,7 @@ Repartez avec les méthodes et les outils utilisés.
 Des exemples de situations personnelles et leurs impacts concrets dans des projets IT.
 
 **A qui s'adresse cette session ?**
+
 Tout le monde !
 
 
