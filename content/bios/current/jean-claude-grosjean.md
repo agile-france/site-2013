@@ -1,4 +1,4 @@
-Title: Jean-Claude Grosjean orateur à Agile France 2014 
+Title: Jean-Claude Grosjean 
 Slug: jean-claude-grosjean
 Date: 2014-04-06 12:11
 Twitter: @jcQualitystreet
