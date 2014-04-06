@@ -1,12 +1,11 @@
+Speakers: Olivier Azeau
 Title: Doublures en folie
 Slug: doublures-en-folie
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: 
 Goal: Sur le fond, une vue d'ensemble de diverses doublures de tests et de leur apport dans le TDD.Sur la forme, une approche (expérimentale) de l'apprentissage par le biais d'une pièce de théatre. Et aussi un peu de fun...
 Duration: 50 minutes
 Format: Conference participative
-Speakers: Olivier Azeau
 Tags: Construire
 Summary: 
 
