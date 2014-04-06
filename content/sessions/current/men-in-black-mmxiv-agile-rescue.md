@@ -1,6 +1,5 @@
 Title: Men In Black MMXIV : Agile Rescue
 Slug: men-in-black-mmxiv-agile-rescue
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: Identifier les aliens cachés dans vos équipes agiles
 Goal: Prendre du plaisir lors de cette présentation humoristique - Identifier quelques comportements "non agile" et connaître quelques clés pour les gérer au mieux
