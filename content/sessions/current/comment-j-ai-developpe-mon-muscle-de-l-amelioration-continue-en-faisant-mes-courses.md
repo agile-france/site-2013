@@ -1,6 +1,5 @@
 Title: Comment j’ai développé mon muscle de l’amélioration continue en faisant mes courses
 Slug: comment-j-ai-developpe-mon-muscle-de-l-amelioration-continue-en-faisant-mes-courses
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: Découvrez comment en faisant vos courses vous pouvez arriver à développer un nouveau réflexe : celui de l'amélioration continue. Comment chaque erreur vous rappellera une situation vécu dans vos projets IT et comment vous allez les aborder différemment.
 Goal: Un outil pour gérer les problèmes.
