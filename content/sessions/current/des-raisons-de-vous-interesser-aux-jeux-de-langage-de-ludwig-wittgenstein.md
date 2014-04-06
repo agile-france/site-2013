@@ -5,7 +5,7 @@ Date: 2014-04-06 12:11
 Subtitle: Leçons d'un philosophe hors du commun
 Goal: 
 Duration: 25 minutes
-Format: Session
+Format: Conférence
 Tags: Bouffée d'air frais
 Summary: Les problèmes sont résolus non par l'apport d'une nouvelle expérience mais par une mise en ordre de ce qui est connu depuis longtemps. La philosophie est un combat contre l'ensorcellement de notre entendement par les ressources de notre langage. - Wittgenstein, Réflexions Philosophiques.
 
