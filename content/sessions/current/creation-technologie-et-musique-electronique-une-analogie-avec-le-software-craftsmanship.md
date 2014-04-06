@@ -1,6 +1,6 @@
+Speakers: Guillaume Saint Etienne
 Title: Création, technologie et musique "électronique": une analogie avec le Software Craftsmanship
 Slug: creation-technologie-et-musique-electronique-une-analogie-avec-le-software-craftsmanship
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: Comment ma passion de la musique assistée par les machines recoupe le développement logiciel
 Goal: Découverte de nouveaux horizons culturels
