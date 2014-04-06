@@ -1,4 +1,4 @@
-Speakers: Simon Jaillais, Elisabeth Motte
+Speakers: Simon Jaillais, Elizabeth Motte
 Title: Au secours, le Père Noël a perdu ses rennes
 Slug: au-secours-le-pere-noel-a-perdu-ses-rennes
 Date: 2014-04-06 12:11
