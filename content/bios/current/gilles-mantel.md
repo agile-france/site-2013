@@ -1,4 +1,5 @@
-Title: Gilles Mantel orateur à Agile France 2014 
+Title: Gilles Mantel
+Roles: speaker
 Slug: gilles-mantel
 Date: 2014-04-06 12:11
 Twitter: ‎
