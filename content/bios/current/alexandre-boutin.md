@@ -1,7 +1,8 @@
 Title: Alexandre Boutin
+Roles: speaker
 Slug: alexandre-boutin
 Date: 2014-04-06 12:11
-Twitter: ‎@agilex
+Twitter: ‎agilex
 Blog: http://www.agilex.fr/
 Linkedin:
 Viadeo: 
