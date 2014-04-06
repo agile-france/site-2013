@@ -1,3 +1,4 @@
+Speakers: Cyrille Deruel
 Title: Projets Agiles : Arrêtez les dérives !
 Slug: projets-agiles-arretez-les-derives
 Date: 2014-04-06 12:11
@@ -5,7 +6,6 @@ Subtitle:
 Goal: 
 Duration: 50 minutes
 Format: Conference
-Speakers: Cyrille Deruel
 Tags: Organisation
 Summary: 
 
