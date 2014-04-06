@@ -1,6 +1,5 @@
 Title: Projets Agiles : Arrêtez les dérives !
 Slug: projets-agiles-arretez-les-derives
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
