@@ -1,7 +1,6 @@
-Speakers: Benedicte Taillebois, Frédéric Friess
+Speakers: Bénédicte Taillebois, Frédéric Friess
 Title: 5 ans de projets agiles : transition ou traditions ? 
 Slug: 5-ans-de-projets-agiles-transition-ou-traditions
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: 
 Goal: Entendre un témoignage de praticiens sur le long terme et découvrir la méthode des 6 chapeaux
