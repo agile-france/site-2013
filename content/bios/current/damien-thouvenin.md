@@ -1,5 +1,5 @@
 Title: Damien Thouvenin
-Roles: organizer
+Roles: organizer, speaker
 Twitter: cltservices
 
 Damien Thouvenin a commencé sa carrière comme ingénieur en génie logiciel dans l’édition de progiciels puis dans l'agro-alimentaire avant de créer son entreprise en 2004.
