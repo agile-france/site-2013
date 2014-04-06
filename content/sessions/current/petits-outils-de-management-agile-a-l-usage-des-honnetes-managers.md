@@ -1,3 +1,4 @@
+Speakers: Jean-Claude Grosjean
 Title: Petits Outils de Management Agile à l’usage des… Honnêtes Managers !
 Slug: petits-outils-de-management-agile-a-l-usage-des-honnetes-managers
 Date: 2014-04-06 12:11
@@ -6,7 +7,6 @@ Vos retours d’expérience sur les techniques présentées seront plus qu'encou
 Goal: 
 Duration: 50 minutes
 Format: Session
-Speakers: Jean-Claude Grosjean
 Tags: Organisation
 Summary: 
 
