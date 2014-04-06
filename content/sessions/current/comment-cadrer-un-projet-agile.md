@@ -1,6 +1,5 @@
 Title: Comment cadrer un projet agile
 Slug: comment-cadrer-un-projet-agile
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: Voici la démarche et les outils que nous utilisons pour sécuriser les projets qui démarrent
 Goal: 
