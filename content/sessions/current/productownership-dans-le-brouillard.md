@@ -1,3 +1,4 @@
+Speakers: Gilles Mantel
 Title: ProductOwnership dans le brouillard
 Slug: productownership-dans-le-brouillard
 Date: 2014-04-06 12:11
@@ -5,7 +6,6 @@ Subtitle: et dans la nuit...
 Goal: 
 Duration: 50 minutes
 Format: Conference
-Speakers: Gilles Mantel
 Tags: Produit
 Summary: 
 
