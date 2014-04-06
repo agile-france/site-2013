@@ -1,7 +1,7 @@
 Title: Let's sketch together ! à Agile France 2014 
 Slug: let-s-sketch-together
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

@@ -1,7 +1,7 @@
 Title: Agilité: en 10 ans les enjeux ont changé à Agile France 2014 
-Slug: agilite-en-ans-les-enjeux-ont-change
+Slug: agilite-en-10-ans-les-enjeux-ont-change
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

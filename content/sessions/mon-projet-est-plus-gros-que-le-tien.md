@@ -1,7 +1,7 @@
 Title: Mon projet est plus gros que le tien à Agile France 2014 
 Slug: mon-projet-est-plus-gros-que-le-tien
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

@@ -1,7 +1,7 @@
 Title: Cross-Programming : Forging the future of programming à Agile France 2014 
 Slug: cross-programming-forging-the-future-of-programming
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

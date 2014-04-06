@@ -1,7 +1,7 @@
 Title: Expérience d'un maître de donjons et dragons sur le management, ou comment trouver son style à Agile France 2014 
 Slug: experience-d-un-maitre-de-donjons-et-dragons-sur-le-management-ou-comment-trouver-son-style
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

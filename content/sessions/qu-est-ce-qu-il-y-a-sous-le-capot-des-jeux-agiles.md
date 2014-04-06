@@ -1,17 +1,17 @@
 Title: Qu'est-ce qu'il y a sous le capot des jeux agiles? à Agile France 2014 
 Slug: qu-est-ce-qu-il-y-a-sous-le-capot-des-jeux-agiles
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 
 Format: Atelier
-Speakers: Pascal van Cauwenberghe, Alex Boutin, Damien Thouvenin
+Speakers: Pascal van Cauwenberghe, Alexandre Boutin, Damien Thouvenin
 Tags: Air Frais
 Summary: 
 
 
-# Qu'est-ce qu'il y a sous le capot des jeux agiles? par [Pascal van Cauwenberghe](../bios/pascal-van-cauwenberghe.html), [Alex Boutin](../bios/alex-boutin.html), [Damien Thouvenin](../bios/damien-thouvenin.html)
+# Qu'est-ce qu'il y a sous le capot des jeux agiles? par [Pascal van Cauwenberghe](../bios/pascal-van-cauwenberghe.html), [Alexandre Boutin](../bios/alexandre-boutin.html), [Damien Thouvenin](../bios/damien-thouvenin.html)
 
 **Reprendre ici les éléments depuis [http://call4paper-agileconf.herokuapp.com/sessions/6](http://call4paper-agileconf.herokuapp.com/sessions/6)**
 ## Objectifs

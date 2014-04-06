@@ -1,7 +1,7 @@
 Title: Pascal van Cauwenberghe orateur à Agile France 2014 
 Slug: pascal-van-cauwenberghe
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Pascal van Cauwenberghe
 

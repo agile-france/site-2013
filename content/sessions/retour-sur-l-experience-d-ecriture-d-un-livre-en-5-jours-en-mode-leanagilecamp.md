@@ -1,7 +1,7 @@
 Title: Retour sur l'expérience d'écriture d'un livre en 5 jours en mode LeanAgileCamp à Agile France 2014 
-Slug: retour-sur-l-experience-d-ecriture-d-un-livre-en-jours-en-mode-leanagilecamp
+Slug: retour-sur-l-experience-d-ecriture-d-un-livre-en-5-jours-en-mode-leanagilecamp
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

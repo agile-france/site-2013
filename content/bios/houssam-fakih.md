@@ -1,7 +1,7 @@
 Title: Houssam Fakih orateur à Agile France 2014 
 Slug: houssam-fakih
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Houssam Fakih
 

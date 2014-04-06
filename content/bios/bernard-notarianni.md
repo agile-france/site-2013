@@ -1,7 +1,7 @@
 Title: Bernard Notarianni orateur à Agile France 2014 
 Slug: bernard-notarianni
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Bernard Notarianni
 

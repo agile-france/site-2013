@@ -1,7 +1,7 @@
 Title: Emmanuel Gaillot orateur à Agile France 2014 
 Slug: emmanuel-gaillot
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Emmanuel Gaillot
 

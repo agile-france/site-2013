@@ -1,7 +1,7 @@
 Title: Ivre, j’ai développé une api de tests automatisés en Bash à Agile France 2014 
 Slug: ivre-j-ai-developpe-une-api-de-tests-automatises-en-bash
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

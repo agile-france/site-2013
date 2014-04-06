@@ -1,7 +1,7 @@
 Title: ProductOwnership dans le brouillard à Agile France 2014 
 Slug: productownership-dans-le-brouillard
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

@@ -1,7 +1,7 @@
 Title: Jean-Claude Grosjean orateur à Agile France 2014 
 Slug: jean-claude-grosjean
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Jean-Claude Grosjean
 

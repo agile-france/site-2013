@@ -1,7 +1,7 @@
 Title: Je veux tester avec des utilisateurs - je fais comment? et quoi? et est-ce que ça peut être rapide et pas cher? à Agile France 2014 
 Slug: je-veux-tester-avec-des-utilisateurs-je-fais-comment-et-quoi-et-est-ce-que-ca-peut-etre-rapide-et-pas-cher
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

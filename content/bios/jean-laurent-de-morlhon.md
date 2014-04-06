@@ -1,7 +1,7 @@
 Title: Jean-Laurent de Morlhon orateur à Agile France 2014 
 Slug: jean-laurent-de-morlhon
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Jean-Laurent de Morlhon
 

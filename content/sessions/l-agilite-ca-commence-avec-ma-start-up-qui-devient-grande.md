@@ -1,7 +1,7 @@
 Title: L’agilité ça commence avec ma start-up qui devient grande à Agile France 2014 
 Slug: l-agilite-ca-commence-avec-ma-start-up-qui-devient-grande
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

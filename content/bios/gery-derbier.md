@@ -1,7 +1,7 @@
 Title: Géry Derbier orateur à Agile France 2014 
 Slug: gery-derbier
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Géry Derbier
 

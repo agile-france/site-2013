@@ -1,7 +1,7 @@
 Title: Comment j’ai développé mon muscle de l’amélioration continue en faisant mes courses à Agile France 2014 
 Slug: comment-j-ai-developpe-mon-muscle-de-l-amelioration-continue-en-faisant-mes-courses
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

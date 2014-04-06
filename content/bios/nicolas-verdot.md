@@ -1,12 +1,12 @@
-Title: Nicolas VERDOT orateur à Agile France 2014 
+Title: Nicolas Verdot orateur à Agile France 2014 
 Slug: nicolas-verdot
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
-# Nicolas VERDOT
+# Nicolas Verdot
 
-**Mettre ici la bio de Nicolas VERDOT**
-## Cette année Nicolas VERDOT présentera
+**Mettre ici la bio de Nicolas Verdot**
+## Cette année Nicolas Verdot présentera
 
 * "[Story Map, Story Map, Story Map ... Comment on fait ?](../sessions/story-map-story-map-story-map-comment-on-fait.html)"
 

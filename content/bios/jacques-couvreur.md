@@ -1,7 +1,7 @@
 Title: Jacques Couvreur orateur à Agile France 2014 
 Slug: jacques-couvreur
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 
 # Jacques Couvreur
 

@@ -1,7 +1,7 @@
 Title: Des raisons de vous intéresser aux jeux de langage de Ludwig Wittgenstein à Agile France 2014 
 Slug: des-raisons-de-vous-interesser-aux-jeux-de-langage-de-ludwig-wittgenstein
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 

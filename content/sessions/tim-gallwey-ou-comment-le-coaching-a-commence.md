@@ -1,7 +1,7 @@
 Title: Tim Gallwey ou comment le coaching a commencé à Agile France 2014 
 Slug: tim-gallwey-ou-comment-le-coaching-a-commence
 Status: Draft
-Date: 2014-04-06 11:57
+Date: 2014-04-06 12:11
 Subtitle: 
 Goal: 
 Duration: 
