@@ -11,7 +11,6 @@ Tags: Bouffée d'air frais
 Summary: De la musique électronique à Agile France, non mais ca va pas? 
 Sous le feu des critiques: 
 Trop moderne! Pas assez subversive aux yeux de certains! Pas créative! Un effet de mode passager pour les "djeunz"! Ou pire une musique de drogués!!
-
 Permettez moi au cours de cette session de vous éclairer sur cette culture et également sur les coulisses de la création des musiques assistées par ordinateur (MAO), et de voir ensemble les relations intéressantes que l'on peut tisser avec nos pratiques du développement logiciel (Software Craftsmanship)..
 
 
