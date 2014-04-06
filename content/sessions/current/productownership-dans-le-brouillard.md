@@ -1,6 +1,5 @@
 Title: ProductOwnership dans le brouillard
 Slug: productownership-dans-le-brouillard
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: et dans la nuit...
 Goal: 
