@@ -1,7 +1,7 @@
 Speakers: Pierre Hervouet
 Title: Manipulé à l'insu de mon plein gré
 Slug: manipule-a-l-insu-de-mon-plein-gre
-Date: 2014-04-06 é:11
+Date: 2014-04-06 2:11
 Subtitle: Decouvrez les principes qui soutiennent la démarche agile... ou pas
 Goal: 
 Duration: 25 minutes
