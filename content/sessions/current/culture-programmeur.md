@@ -1,7 +1,6 @@
 Speakers: Jean-Laurent de Morlhon
 Title: La culture du programmeur
 Slug: la-culture-du-programmeur
-Subtitle: 
 Goal: Améliorer les relations entre programmeurs et les autres intervenants d'une équipe produit.
 Format: Conférence
 Duration: 50 minutes
