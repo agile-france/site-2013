@@ -1,5 +1,5 @@
 Title: Guillaume Nurdin
-Roles: orateur
+Roles: speaker
 Slug: guillaume-nurdin
 Date: 2014-04-06 12:11
 Twitter: guillaumenurdin
