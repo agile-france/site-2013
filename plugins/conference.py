@@ -127,7 +127,7 @@ class SessionGenerator(Generator):
                 split_and_strip(metadata, 'speakers')
                 split_and_strip(metadata, 'bios')
             except Exception, e:
-                logger.warning(u'Could not process %s\n%s' % (f, str(e)))
+                logger.warning(u'Could not process %s\n%s' % (f, unicode(e)))
                 continue
             session = Session(content, metadata, settings=self.settings,
                         source_path=f, context=self.context)
