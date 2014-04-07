@@ -6,6 +6,9 @@ from jinja2.ext import loopcontrols
 from os.path import dirname
 import sys
 from pelican.utils import slugify
+import logging
+
+logger = logging.getLogger(__name__)
 
 sys.path.insert(0, dirname(__file__))
 
@@ -109,8 +112,13 @@ def apostrophe(article, nom):
 
 
 def sessions_after(sessions, session):
-	i = sessions.index(session)
-	return sessions[i+1:]+sessions[:i]
+	try:
+		i = sessions.index(session)
+		return sessions[i+1:]+sessions[:i]
+	except Exception, e:
+		logger.error(u'Unknown session "%s"\n%s' % (session.title, unicode(e)))
+		return []
+
 
 
 JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'slugify': slugify}
