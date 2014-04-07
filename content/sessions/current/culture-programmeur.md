@@ -8,7 +8,6 @@ Duration: 50 minutes
 Tags: Collaborer
 Summary:
 
-
 Vous avez l'idée qui va vous rendre riche et le budget, maintenant il vous faut les programmeurs. Pas juste les 2 gugus qui parlent de warcraft à la cafet et qui livrent jour après jour une application de plus en plus buggé, mais des PROGRAMMEURS, des vrais. Ceux qui murmurent à l'oreilles des programmes pour faire des applications extraordinaires.
 
 Mais je les trouves où ces types là ?
