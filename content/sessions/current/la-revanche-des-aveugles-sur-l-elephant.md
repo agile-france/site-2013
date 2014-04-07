@@ -1,7 +1,7 @@
 Speakers: Nathaniel Richand
 Title: La revanche des aveugles sur l'éléphant à Agile France 2014 
 Slug: la-revanche-des-aveugles-sur-l-elephant
-Status: Draft
+Status: draft
 Date: 2014-04-06 12:11
 Subtitle: Et si on essayait de s'auto-organiser à 30?
 Goal: 
