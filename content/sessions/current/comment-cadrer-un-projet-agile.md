@@ -2,9 +2,8 @@ Speakers: Guillaume Duquesnay, Jean-Claude Grosjean
 Title: Comment cadrer un projet agile
 Slug: comment-cadrer-un-projet-agile
 Subtitle: Voici la démarche et les outils que nous utilisons pour sécuriser les projets qui démarrent
-Goal: 
+Format: Conférence
 Duration: 50 minutes
-Format: Conference
 Tags: Produit
 Summary: 
 
