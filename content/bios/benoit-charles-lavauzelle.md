@@ -1,4 +1,4 @@
-Title: Benoît-Charles Lavauzelle orateur à Agile France 2014 
+Title: Benoît-Charles Lavauzelle 
 Slug: benoit-charles-lavauzelle
 Status: Draft
 Date: 2014-04-06 12:11

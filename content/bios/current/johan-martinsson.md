@@ -1,4 +1,4 @@
-Title: Johan Martinsson orateur
+Title: Johan Martinsson
 Roles: speaker
 Slug: johan-martinsson
 Date: 2014-04-06 12:11

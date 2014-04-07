@@ -1,4 +1,4 @@
-Title: Christophe Goset orateur à Agile France 2014 
+Title: Christophe Goset 
 Slug: christophe-goset
 Status: Draft
 Date: 2014-04-06 12:11

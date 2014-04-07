@@ -1,4 +1,4 @@
-Title: Hervé Lourdin orateur
+Title: Hervé Lourdin
 Roles: speaker
 Slug: herve-lourdin
 Date: 2014-04-06 12:11

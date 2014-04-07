@@ -1,4 +1,4 @@
-Title: Pablo Perno
+Title: Pablo Pernot
 Roles: speaker
 Slug: pablo-pernot
 Date: 2014-04-06 12:11
