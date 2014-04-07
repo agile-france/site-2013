@@ -127,7 +127,7 @@ class SessionGenerator(Generator):
                 split_and_strip(metadata, 'speakers')
                 split_and_strip(metadata, 'bios')
             except Exception, e:
-                logger.warning(u'Could not process %s\n%s' % (f, unicode(e)))
+                logger.error(u'Could not process %s\n%s' % (f, unicode(e)))
                 continue
             session = Session(content, metadata, settings=self.settings,
                         source_path=f, context=self.context)
@@ -144,7 +144,7 @@ class SessionGenerator(Generator):
             elif session.status == "draft":
                 self.drafts.append(session)
             else:
-                logger.warning(u"Unknown status %s for file %s, skipping it." %
+                logger.error(u"Unknown status %s for file %s, skipping it." %
                                (repr(unicode.encode(session.status, 'utf-8')),
                                 repr(f)))
 
