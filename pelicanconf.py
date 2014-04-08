@@ -29,7 +29,8 @@ def MENUITEMS(session_info):
 		return [(s.title, '/' + s.url) for s in sessions]
 
 	def sessions_by_tag(tags):
-		return [(tag.name, session_list_menu(sessions)) for tag, sessions in tags.items()]
+		categories = [u"Keynote", u"Produit", u"Collaborer", u"Construire", u"Organisation", u"Bouffée d'air frais"]
+		return [(category, session_list_menu(tags[category])) for category in categories]
 
 	return [
 		(u'Accueil', '/index.html'),
