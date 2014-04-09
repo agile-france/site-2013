@@ -17,6 +17,7 @@ Dans ce workshop nous allons analyser des jeux existants pour en extraire les pa
 Ce langage vous aidera à créer vos propres jeux. 
 
 **A qui s'adresse cette session ? (Pré-requis, public visé)**
+
 Connaître au moins un jeu agile
 
 
