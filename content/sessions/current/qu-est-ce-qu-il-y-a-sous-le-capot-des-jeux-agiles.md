@@ -4,7 +4,7 @@ Subtitle: Découvrez les patterns des auteurs de jeux
 Goal: Comprenez mieux les patterns des jeux agiles afin de créer vos propres jeux 
 Duration: 75 minutes
 Format: Atelier
-Speakers: Pascal Van Cauwenberghe, Alexandre Boutin, Damien Thouvenin
+Speakers: Pascal Van Cauwenberghe, Damien Thouvenin
 Tags: Air Frais
 Summary:
 
@@ -17,6 +17,6 @@ Dans ce workshop nous allons analyser des jeux existants pour en extraire les pa
 Ce langage vous aidera à créer vos propres jeux. 
 
 **A qui s'adresse cette session ? (Pré-requis, public visé)**
-Connaître au moin un jeu agile
+Connaître au moins un jeu agile
 
 
