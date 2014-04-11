@@ -1,5 +1,5 @@
 Speakers: Pierrick Thibault, Vincent Baillet
-Title: L’agilité ça commence avec ma start-up qui devient grande à Agile France 2014 
+Title: L’agilité ça commence avec ma start-up qui devient grande 
 Slug: l-agilite-ca-commence-avec-ma-start-up-qui-devient-grande
 Date: 2014-04-06 12:11
 Subtitle: L'agilité pour permettre à mon entreprise de garder l'esprit start-up en grandissant
@@ -21,4 +21,6 @@ Les thèmes abordés :
 - enjeux de la taille critique : quels sont les problèmes, que se passe-t-il si on ne fait rien, quelles directions prendre ? 
 - Le niveau 2 via une approche agile : comment faire pour que mes projets continuent à avancer ? quelles solutions pour continuer à chouchouter mes clients en gardant ma rentabilité ? Quelle organisation interne pour une entreprise agile scalable ? Comment diffuser notre belle motivation aux salariés ? Quelle attitude pour moi dirigeant-manager et comment la travailler avec mes salariés ? Comment continuer à innover ?
 
+**A qui s'adresse cette session ? (Pré-requis, public visé)**
 
+Dirigeants de startup ou manager d'entreprise en forte croissance

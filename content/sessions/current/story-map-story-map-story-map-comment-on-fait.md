@@ -18,6 +18,6 @@ Du partage de la vision produit en passant par l'identification des utilisateurs
 
 Cet atelier laisse l’espace pour partager les bonnes pratiques.
 
+**A qui s'adresse cette session ? (Pré-requis, public visé)**
 
-
-
+Tous publics

@@ -11,8 +11,7 @@ Tags: Bouffée d'air frais
 Summary: De la musique électronique à Agile France, non mais ca va pas? 
 Sous le feu des critiques: 
 Trop moderne! Pas assez subversive aux yeux de certains! Pas créative! Un effet de mode passager pour les "djeunz"! Ou pire une musique de drogués!!
-Permettez moi au cours de cette session de vous éclairer sur cette culture et également sur les coulisses de la création des musiques assistées par ordinateur (MAO), et de voir ensemble les relations intéressantes que l'on peut tisser avec nos pratiques du développement logiciel (Software Craftsmanship)..
-
+Permettez moi au cours de cette session de vous éclairer sur cette culture et également sur les coulisses de la création des musiques assistées par ordinateur (MAO), et de voir ensemble les relations intéressantes que l'on peut tisser avec nos pratiques du développement logiciel (Software Craftsmanship).
 
 On a pu lire quelques analogies entre pratique des musiques jazz, somme toute une musique très classique, et la pratique du développement logiciel tel que nous la concevons tous ici ("agile" diront certain). 
 Pourtant il y a bien des façons de faire de la musique et en tant que spécialistes de la programmation j'ai été étonné de constater que peu d'entre nous s’intéressent à la musique dite "électronique". 
@@ -24,6 +23,6 @@ Live est également extensible grâce à Max MSP, une API de programmation qui p
 
 J'espère vous montrer que création et programmation ne sont pas si éloignés que cela... et vous ferai partager mon expérience au sein de la Do It Yourself Music Academy
 
-## A qui s'adresse cette session ? (Pré-requis, public visé)
+**A qui s'adresse cette session ? (Pré-requis, public visé)**
 
-
+Tous publics
