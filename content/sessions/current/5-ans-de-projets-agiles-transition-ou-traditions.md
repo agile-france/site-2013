@@ -27,6 +27,7 @@ Nos réponses seront orientées par le chapeau choisi :
 et puis finalement, repasser dans la vie courante : comment gérer cette transition ?
 
 
-** A qui s'adresse cette session ?**
+**A qui s'adresse cette session ? (Pré-requis, public visé)**
+
 Aucune expérience particulière requise. Une première expérience des projets agiles serait un plus.
 

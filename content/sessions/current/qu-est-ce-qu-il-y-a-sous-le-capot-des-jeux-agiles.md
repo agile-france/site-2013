@@ -4,8 +4,8 @@ Subtitle: Découvrez les patterns des auteurs de jeux
 Goal: Comprenez mieux les patterns des jeux agiles afin de créer vos propres jeux 
 Duration: 75 minutes
 Format: Atelier
-Speakers: Pascal Van Cauwenberghe, Damien Thouvenin
-Tags: Air Frais
+Speakers: Pascal Van Cauwenberghe, Alexandre Boutin, Damien Thouvenin
+Tags: Bouffée d'air frais 
 Summary:
 
 Nous utilisons souvent des jeux pour apprendre les concepts agiles, lean ou théorie des contraintes. Ces jeux nous permettent d'experimenter avec de nouvelles idées dans un environnement sûr.
