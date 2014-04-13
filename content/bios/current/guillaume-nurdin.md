@@ -1,6 +1,5 @@
 Title: Guillaume Nurdin
 Roles: speaker
-Slug: guillaume-nurdin
 Date: 2014-04-06 12:11
 Twitter: guillaumenurdin
 Blog: http://www.softfluent.com

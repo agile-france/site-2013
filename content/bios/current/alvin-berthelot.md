@@ -1,6 +1,5 @@
 Title: Alvin Berthelot
 Roles: speaker
-Slug: alvin-berthelot
 Date: 2014-04-06 12:11
 Twitter: alvinberthelot
 Blog: 

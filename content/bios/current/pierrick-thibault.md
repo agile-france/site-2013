@@ -1,6 +1,5 @@
 Title: Pierrick Thibault
 Roles: speaker
-Slug: pierrick-thibault
 Date: 2014-04-06 12:11
 Twitter: keurvet
 Blog: www.agilegarden.fr

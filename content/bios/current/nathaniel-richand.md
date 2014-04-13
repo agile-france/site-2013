@@ -1,6 +1,5 @@
 Title: Nathaniel Richand
 Roles: speaker
-Slug: nathaniel-richand
 Date: 2014-04-06 12:11
 Twitter: nrichand
 Blog: 

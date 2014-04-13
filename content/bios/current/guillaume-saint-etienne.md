@@ -1,6 +1,5 @@
 Title: Guillaume Saint Etienne
 Roles: speaker
-Slug: guillaume-saint-etienne
 Twitter: 
 Blog: 
 Linkedin:

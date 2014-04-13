@@ -1,6 +1,5 @@
 Title: Matthieu Barbereau
 Roles: speaker
-Slug: matthieu-barbereau
 Date: 2014-04-06 12:11
 Twitter: matbarbereau
 Blog: 

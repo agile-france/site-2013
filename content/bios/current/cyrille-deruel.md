@@ -1,6 +1,5 @@
 Title: Cyrille Deruel
 Roles: speaker
-Slug: cyrille-deruel
 Date: 2014-04-06 12:11
 Twitter: cyrillederuel
 Blog: 

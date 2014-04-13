@@ -1,6 +1,5 @@
 Title: Bénédicte Taillebois
 Roles: speaker
-Slug: benedicte-taillebois
 Date: 2014-04-06 12:11
 Twitter: 
 Blog: 

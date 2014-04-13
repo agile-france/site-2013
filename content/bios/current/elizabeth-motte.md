@@ -1,6 +1,5 @@
 Title: Elizabeth Motte
 Roles: speaker
-Slug: elisabeth-motte
 Date: 2014-04-06 12:11
 Twitter: 
 Blog: 

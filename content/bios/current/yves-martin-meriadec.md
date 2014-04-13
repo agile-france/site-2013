@@ -1,6 +1,5 @@
 Title: Yves-Martin Meriadec
 Roles: speaker
-Slug: yves-martin-meriadec
 Twitter: 
 Blog:
 Linkedin: 

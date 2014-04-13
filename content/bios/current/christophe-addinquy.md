@@ -1,6 +1,5 @@
 Title: Christophe Addinquy
 Roles: speaker
-Slug: christophe-addinquy
 Date: 2014-04-06 12:11
 Twitter: addinquy
 Blog:  http://freethinker.addinq.uy/

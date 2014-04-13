@@ -1,6 +1,5 @@
 Title: Christophe Keromen
 Roles: speaker
-Slug: christophe-keromen
 Date: 2014-04-06 12:11
 Twitter: ckeromen
 Blog: www.ckti.com

@@ -1,6 +1,5 @@
 Title: Nicolas Verdot
 Roles: speaker
-Slug: nicolas-verdot
 Date: 2014-04-06 12:11
 Twitter: nverdot
 

@@ -1,6 +1,5 @@
 Title: Sophie Freiermuth
 Roles: speaker
-Slug: sophie-freiermuth
 Date: 2014-04-06 12:11
 Twitter: wickedgeekie
 Blog: 

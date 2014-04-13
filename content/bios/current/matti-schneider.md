@@ -1,6 +1,5 @@
 Title: Matti Schneider
 Roles: speaker
-Slug: matti-schneider
 Date: 2014-04-06 12:11
 Twitter: matti_sg
 Blog: mattischneider.fr
