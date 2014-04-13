@@ -2,7 +2,7 @@ Title: Matti Schneider
 Roles: speaker
 Date: 2014-04-06 12:11
 Twitter: matti_sg
-Blog: mattischneider.fr
+Blog: http://mattischneider.fr
 
 
 Keeping out of the little boxes all the same. Software engineer, anthropology student, wannabe designer, concerned citizen.
