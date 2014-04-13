@@ -1,6 +1,6 @@
 Title: Jacques Couvreur
 Roles: speaker
-Twitter: jacquescouvreur‎
+Twitter: jacquescouvreur
 Blog: http://inagua.ch/
 Linkedin: in/jacquescouvreur
 Viadeo: 

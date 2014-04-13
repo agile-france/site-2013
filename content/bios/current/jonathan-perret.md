@@ -2,7 +2,7 @@ Title: Jonathan Perret
 Roles: speaker
 Twitter: jonathanperret 
 Blog: http://www.jonathanperret.net/
-Linkedin: in/jonathanperret‎
+Linkedin: in/jonathanperret
 Viadeo: jonathan.perret
 
 Polyglotte, accro au dernier degré des tests automatisés, célèbre pour ses sessions endiablées au Dojo Développement de Paris, Jonathan est un programmeur dans l'âme.
