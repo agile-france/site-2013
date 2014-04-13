@@ -41,6 +41,7 @@ def MENUITEMS(session_info):
 		(u'Blog', '/archives.html'),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
+			(u'Orateurs', '/pages/les-orateurs.html'),
 			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
 		(u'Éditions précédentes', [
