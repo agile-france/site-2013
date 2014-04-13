@@ -2,6 +2,7 @@ Title: Sophie Freiermuth
 Roles: speaker
 Date: 2014-04-06 12:11
 Twitter: wickedgeekie
+Sexe: F
 Linkedin: in/sophiefrei
 
 
