@@ -1,5 +1,5 @@
 Speakers: Guillaume Nurdin, Bernard Notarianni
-Title: Retour d'expérience sur Coding Dojo et Mob Progamming en entreprise à Agile France 2014 
+Title: Retour d'expérience sur Coding Dojo et Mob Progamming en entreprise 
 Slug: retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise
 Date: 2014-04-06 12:11
 Subtitle: Formation d'une équipe qui débute techniquement et fonctionnellement sur un vrai projet

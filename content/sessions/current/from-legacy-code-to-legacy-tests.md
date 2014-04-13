@@ -1,5 +1,5 @@
 Speakers: Houssam Fakih
-Title: From Legacy Code to Legacy Tests à Agile France 2014 
+Title: From Legacy Code to Legacy Tests
 Slug: from-legacy-code-to-legacy-tests
 Date: 2014-04-06 12:11
 Subtitle: 
