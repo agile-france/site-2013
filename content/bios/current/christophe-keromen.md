@@ -3,8 +3,6 @@ Roles: speaker
 Date: 2014-04-06 12:11
 Twitter: ckeromen
 Blog: www.ckti.com
-Linkedin: 
-Viadeo:
 
 
 Christophe Keromen a plus de 25 ans d’expérience dans les applications métiers. 

@@ -2,10 +2,6 @@ Title: Christopher Parola
 Roles: speaker
 Date: 2014-04-06 12:11
 Twitter: chrisparola
-Blog: 
-Linkedin: 
-Viadeo:
-
 
 Christopher intègre OCTO comme consultant dans l’équipe OCTO Online, responsable du développement de produit made by Octos. 
 Il participe au développement des applications natives et de l’application web d’une plateforme de déploiement d’applications mobiles (appaloosa-store).

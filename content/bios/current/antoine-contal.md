@@ -1,7 +1,6 @@
 Title: Antoine Contal
 Roles: speaker
 Twitter: antoine_contal
-Blog: 
 Linkedin: in/antoinecontal
 Viadeo: antoine.contal
 
