@@ -17,10 +17,8 @@ Sa posture de facilitateur graphique dépend du contexte : 
 
 [Les réalisations graphiques de Romain Couturier][3]
 
-Plus d’informations sur Terre d’Agile : [www.terredagile.com][4]
 
 [1]:http://www.fgcp.net
 [2]:http://ifvpcommunity.ning.com
 [3]:http://www.fgcp.net/Romain%20Couturier
-[4]:http://www.terredagile.com
 
