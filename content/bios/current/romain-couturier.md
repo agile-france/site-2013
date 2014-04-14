@@ -6,7 +6,7 @@ Twitter: romaincouturier
 
 Romain Couturier est facilitateur graphique et coach agile. Il a fondé Terre d’Agile en  2012  pour  répondre  aux  demandes  d’accompagnement  des  équipes  et  des organisations  dans  l’évolution  de  leurs  modes  collaboratifs,  de  leurs  procédés  de création et d’innovation de produit.
 
-Membre  de  la  FGCP  (Facilitation  Graphique  Communauté  de  Praticiens, [www.fgcp.net][1])  et  du  Forum  International  des  Praticiens  Visuels : ([ifvpcommunity.ning.com][2]) Il exerce la facilitation graphique comme un moyen simple et puissant  de  développer  l’intelligence  collective  par  la  visualisation  des  idées  et  la  connexion  des informations.
+Membre  de  la  FGCP  (Facilitation  Graphique  Communauté  de  Praticiens, [www.fgcp.net][1])  et  du  Forum  International  des  Praticiens  Visuels : ([IFVP community.ning.com][2]) Il exerce la facilitation graphique comme un moyen simple et puissant  de  développer  l’intelligence  collective  par  la  visualisation  des  idées  et  la  connexion  des informations.
 
 Sa posture de facilitateur graphique dépend du contexte : 
 
@@ -20,7 +20,7 @@ Sa posture de facilitateur graphique dépend du contexte : 
 Plus d’informations sur Terre d’Agile : [www.terredagile.com][4]
 
 [1]:http://www.fgcp.net
-[2]:ifvpcommunity.ning.com
+[2]:http://ifvpcommunity.ning.com
 [3]:http://www.fgcp.net/Romain%20Couturier
 [4]:http://www.terredagile.com
 
