@@ -10,12 +10,12 @@ Membre  de  la  FGCP  (Facilitation  Graphique  Communauté  de  Pratici
 
 Sa posture de facilitateur graphique dépend du contexte : 
 
-* Scribing : lors  d’ateliers  de  travail  interactifs,  pour  capturer  et  structurer les informations émergentes et soutenir les participants dans leurs réflexions,
-* Enregistrement graphique : lors  de  communications  descendantes  (par  exemple conférences,  plénières),  pour  offrir  à  l’assistance  une  synthèse  visuelles  des  idées  et concepts abordés ainsi que leurs liens entre eux,
-* Modélisation :  après  un  événement  pour  synthétiser  une  démarche  sur  un support visuel qui sera généralement diffusée à un large public et qui peut servir de base de travail pour de prochains travaux ou d’outil de communication,
-* Formateur :  pour  partager  et  transmettre  cette  discipline  simple  et  accessible qui permet d’enrichir les interactions entre membres d’une équipe de travail,
+* **Scribing** : lors  d’ateliers  de  travail  interactifs,  pour  capturer  et  structurer les informations émergentes et soutenir les participants dans leurs réflexions,
+* **Enregistrement graphique** : lors  de  communications  descendantes  (par  exemple conférences,  plénières),  pour  offrir  à  l’assistance  une  synthèse  visuelles  des  idées  et concepts abordés ainsi que leurs liens entre eux,
+* **Modélisation** :  après  un  événement  pour  synthétiser  une  démarche  sur  un support visuel qui sera généralement diffusée à un large public et qui peut servir de base de travail pour de prochains travaux ou d’outil de communication,
+* **Formateur** :  pour  partager  et  transmettre  cette  discipline  simple  et accessible qui permet d’enrichir les interactions entre membres d’une équipe de travail.
 
-[Les réalisations graphiques de Romain Couturier] [3] : http://www.fgcp.net/Romain%20Couturier
+[Les réalisations graphiques de Romain Couturier] [3]
 
 Plus d’informations sur Terre d’Agile : [www.terredagile.com][4]
 
