@@ -7,14 +7,15 @@ Status: draft
 Summary: Le programme nouveau est arrivé !
 
 
-Et oui, vous ne rêvez pas, il s'agit bien de la première version du programme !
+Et oui, vous ne rêvez pas, il s'agit bien de [la première version du programme][1] !
 
 Voici à quoi ressemble la conférence "aux petits oignons" à laquelle vous serez ravis de participer :)
 
-Alors n'attendez plus, [prenez vite vos places][1] !
+Alors n'attendez plus, [prenez vite vos places][2] !
 
 Et commencez dès à présent à réfléchir à un sujet "qui-va-bien" pour l'open-space !
 
 A bientôt ! :)
 
 [1]: /static/programme/programme%20agile%20france%202014%20-%20V1.pdf
+[2]: /
