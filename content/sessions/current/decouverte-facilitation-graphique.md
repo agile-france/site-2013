@@ -17,6 +17,7 @@ Je vous propose de découvrir cette 4ème option : la facilitation graphique.
 Vous ne savez pas dessiner ? C’est possible mais vous avez d’autres qualités innées qui feront de vous un bon "architecte visuels des idées".
 
 Pendant cet atelier pratique, vous :
+
 * serez initié aux techniques de base de la facilitation graphique des interactions de groupe,
 * apprendrez comment capturer visuellement l’information et établir des connexions simples,
 * découvrirez pourquoi la facilitation graphique apporte une dynamique interactive et innovante dans les réunions,
