@@ -3,7 +3,6 @@ Date: 2014-04-15 19:43
 Tags: programme orateur session
 Category: general
 Author: Julien Porot
-Status: draft
 Summary: Le programme nouveau est arrivé !
 
 
@@ -17,5 +16,5 @@ Et commencez dès à présent à réfléchir à un sujet "qui-va-bien" pour l'op
 
 A bientôt ! :)
 
-[1]: /static/programme/programme%20agile%20france%202014%20-%20V1.pdf
+[1]: /static/programme/Programme-AgileFrance2014-V1.pdf
 [2]: /
