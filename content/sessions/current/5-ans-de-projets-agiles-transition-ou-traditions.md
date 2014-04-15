@@ -17,12 +17,12 @@ Venez la découvrir autour de notre retour d'expérience de 5 ans de pratiques a
 Bien sûr, nous ne pouvons pas tout aborder. Pour focaliser la session sur ce qui intéresse vraiment les participants, c'est avec vos questions que nous construirons notre REX.
 
 Nos réponses seront orientées par le chapeau choisi :
-- Chapeau blanc de la situation actuelle : les résultats. 
-- Chapeau rouge des sentiments et de l'intuition : les équipes et des personnes. 
-- Chapeau jaune des avantages et des nouvelles possibilités : les pratiques. 
-- Chapeau vert de la créativité et de la recherche d'autres solutions : les expérimentations et l'innovation. 
-- Chapeau noir des risques et des dangers : les paris et les échecs. 
-- Chapeau bleu de l'organisation et de la cohérence d'ensemble : les modèles mis en oeuvre.
+* Chapeau blanc de la situation actuelle : les résultats. 
+* Chapeau rouge des sentiments et de l'intuition : les équipes et des personnes. 
+* Chapeau jaune des avantages et des nouvelles possibilités : les pratiques. 
+* Chapeau vert de la créativité et de la recherche d'autres solutions : les expérimentations et l'innovation. 
+* Chapeau noir des risques et des dangers : les paris et les échecs. 
+* Chapeau bleu de l'organisation et de la cohérence d'ensemble : les modèles mis en oeuvre.
 
 et puis finalement, repasser dans la vie courante : comment gérer cette transition ?
 
