@@ -1,9 +1,8 @@
 Title: Antoine Contal
 Roles: speaker
 Twitter: antoine_contal
-Blog: 
-Linkedin: in/antoinecontal‎
-Viadeo: antoine.contal‎
+Linkedin: in/antoinecontal
+Viadeo: antoine.contal
 
 Je suis coach lean spécialisé en informatique.
 J’interviens auprès d’équipes de développement, de support et de production.

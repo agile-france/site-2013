@@ -1,6 +1,6 @@
 Title: Raphaël Pierquin
 Roles: speaker
-Twitter: perafoo‎
+Twitter: perafoo
 Linkedin: in/raphaelpierquin
 Viadeo: raphael.pierquin
 

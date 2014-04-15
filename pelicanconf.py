@@ -35,12 +35,14 @@ def MENUITEMS(session_info):
 	return [
 		(u'Accueil', '/index.html'),
 		(u'Appel à Orateurs', '/pages/appel-a-orateurs.html'),
+		(u'Programme', '/static/programme/Programme-AgileFrance2014-V1.pdf'),
 		(u'Sessions', [
 			(u'Toutes', session_list_menu(session_info.sessions.all))] + sessions_by_tag(session_info.sessions.by_tag) ),
 		(u'FAQ', '/pages/faq.html'),
 		(u'Blog', '/archives.html'),
 		(u'Informations', [
 			(u'Accès', '/acces.html'),
+			(u'Orateurs', '/pages/les-orateurs.html'),
 			(u'Organisateurs', '/pages/lequipe-dorganisation.html')
 		]),
 		(u'Éditions précédentes', [

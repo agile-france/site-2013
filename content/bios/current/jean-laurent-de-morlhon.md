@@ -1,8 +1,8 @@
 Title: Jean-Laurent de Morlhon
 Roles: speaker
-Twitter: morlhon‎
+Twitter: morlhon
 Blog: http://happycleancoding.com/
-Linkedin: in/morlhon‎
+Linkedin: in/morlhon
 Viadeo: jean-laurent.demorlhon
 
 Programmeur indépendant, CTO @ [Serpodile][1], Mr FooBarQix @ [CodeStory][2], adore développer simplement & intelligemment avec des développeurs passionnés. 

@@ -1,12 +1,8 @@
 Title: Christophe Keromen
 Roles: speaker
-Slug: christophe-keromen
 Date: 2014-04-06 12:11
 Twitter: ckeromen
-Blog: www.ckti.com
-Linkedin: 
-Viadeo:
-
+Blog: http://www.ckti.com
 
 Christophe Keromen a plus de 25 ans d’expérience dans les applications métiers. 
 Il a expérimenté les rôles de développeur, help-desk, chef de projet, consultant externe, chef de produit, technical evangelist, formateur, coach. 

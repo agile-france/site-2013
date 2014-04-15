@@ -1,11 +1,7 @@
 Title: Matthieu Barbereau
 Roles: speaker
-Slug: matthieu-barbereau
 Date: 2014-04-06 12:11
 Twitter: matbarbereau
-Blog: 
-Linkedin: 
-Viadeo:
 
 Matthieu est tombé dans l’agilité il y a plus de 5 ans. Développeur de formation, il a tout de suite adopté les principes et pratiques agiles. 
 Il a découvert Scrum, XP puis petit à petit il s’est ouvert aux Serious Games, à Kanban, au Lean.. et ça n’arrête pas !!! 
