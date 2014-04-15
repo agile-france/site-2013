@@ -17,6 +17,7 @@ Venez la découvrir autour de notre retour d'expérience de 5 ans de pratiques a
 Bien sûr, nous ne pouvons pas tout aborder. Pour focaliser la session sur ce qui intéresse vraiment les participants, c'est avec vos questions que nous construirons notre REX.
 
 Nos réponses seront orientées par le chapeau choisi :
+
 * Chapeau blanc de la situation actuelle : les résultats. 
 * Chapeau rouge des sentiments et de l'intuition : les équipes et des personnes. 
 * Chapeau jaune des avantages et des nouvelles possibilités : les pratiques. 
