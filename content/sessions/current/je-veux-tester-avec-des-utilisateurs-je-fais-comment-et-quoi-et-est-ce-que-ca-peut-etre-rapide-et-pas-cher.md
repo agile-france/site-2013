@@ -15,10 +15,15 @@ Avec une méthode légère, un peu de préparation et des conseils pratiques pou
 
 Cette session est ouverte à tous, et proposera une méthode qui peut être implémentée quel que soit le produit, les utilisateurs et le contexte, start-up ou groupe mondial.
 
-La session suivra le programme suivant: 
+La session suivra le programme suivant :
+
 - comment vendre les tests aux décideurs 
+
 - comment préparer les sessions 
+
 - le déroulement des sessions et comment modérer efficacement 
+
 - que livrer en retour et comment faire pour que ça soit utilisé 
+
 - un atelier pratique pour s'exercer à modérer efficacement.
 
