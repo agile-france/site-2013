@@ -1,4 +1,4 @@
-Speakers: Houssam Fakih, Yves-Martin Meriadec
+Speakers: Houssam Fakih, Yves Martin-Meriadec
 Title: Cross-Programming : Forging the future of programming
 Date: 2014-04-06 12:11
 Subtitle: 
