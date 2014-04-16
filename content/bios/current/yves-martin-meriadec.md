@@ -1,4 +1,4 @@
-Title: Yves-Martin Meriadec
+Title: Yves Martin-Meriadec
 Roles: speaker
 
-La biographie d'Yves-Martin n'est pas encore disponible.
+La biographie d'Yves n'est pas encore disponible.
