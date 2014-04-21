@@ -63,6 +63,17 @@ Les présentations sont-elles filmées ?
 Oui, les présentations sont filmées puis diffusées gratuitement sur la plateforme InfoQ. En 2013, une dizaine de présentations ont été mises en ligne en accès gratuit.
 
 
+Est-ce que je peux filmer des sessions ?
+----------------------------------------
+
+Nous sommes plutôt favorables à ce que les sessions soient filmées. Attention cependant à respecter les contraintes suivantes :
+
+- le cameraman, comme toute personne assistant à la conférence, doit avoir son billet d'accès
+- les vidéos filmées à Agile France doivent être publiées en accès libre (et c'est sympa de nous informer du lien)
+- le titrage, le générique ou l'habillage doivent faire clairement apparaitre "filmé (ou enregistré) à Agile France", et plus généralement la présentation ne doit pas laisser entendre que le producteur organise ou sponsorise l'événement
+- la société ou la personne qui produits la vidéo doit faire son affaire des problèmes de droit a l'image et, en particulier, s'assurer du consentement des orateurs filmés
+
+
 Combien y a-t-il de présentations en parallèle ?
 ------------------------------------------------
 
