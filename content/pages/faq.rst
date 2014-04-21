@@ -11,7 +11,7 @@ Assister à la conférence
 Où la conférence se déroule-t-elle ?
 ------------------------------------
 
-Au “`Chalet de la Porte Jaune`__”, accessible par le RER A Fontenay-sous-Bois.
+Au “`Chalet de la Porte Jaune`__”, accessible par le **RER A** Fontenay-sous-Bois.
 
 __ https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 
@@ -19,7 +19,7 @@ __ https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE
 Y a-t-il des exposants ?
 ------------------------
 
-Non. Agile France est une conférence sans sponsors ni exposants.
+Non. Agile France est une conférence *sans sponsors ni exposants*.
 
 
 Comment les deux jours de d'Agile France se déroulent-ils ?
@@ -27,14 +27,14 @@ Comment les deux jours de d'Agile France se déroulent-ils ?
 
 Agile France 2014, c’est un savant dosage entre temps d’écoute, temps de parole, ateliers, discussions et détente ! 
 
-L’évènement se tient le jeudi 22 mai et le vendredi 23 mai 2014, et vous y trouverez :
+L’évènement se tient le **jeudi 22 mai** et le **vendredi 23 mai 2014**, et vous y trouverez :
 
-- des keynotes d'ouverture et de clôture
-- des présentations jeudi et vendredi matin
-- un open-space le jeudi après-midi
-- des ateliers le vendredi après-midi
--  un dîner le jeudi soir
-- une activité physique mais zen vendredi matin
+- des *keynotes* d'ouverture et de clôture
+- des *présentations* jeudi et vendredi matin
+- un *open-space* le jeudi après-midi
+- des *ateliers* le vendredi après-midi
+- un *dîner* le jeudi soir
+- une *activité physique* mais zen vendredi matin
 
 Une ébauche non définitive du calendrier est consultable `ici`__.
 
@@ -46,15 +46,15 @@ Comment l’espace est-il organisé ?
 
 Les salles de conférences et d’atelier se répartissent dans trois bâtiments :
 
-- le châlet, qui propose 4 espaces permettant d’accueillir chacun une bonne trentaine de personnes.
-- la fermette, une grande salle de 200m² qui se prête parfaitement aux ateliers nécessitant beaucoup de place.
-- le belvédère, où les 700 m² sont répartis entre l’espace de restauration et la salle plénière.
+- le *châlet*, qui propose 4 espaces permettant d’accueillir chacun une bonne trentaine de personnes.
+- la *fermette*, une grande salle de 200m² qui se prête parfaitement aux ateliers nécessitant beaucoup de place.
+- le *belvédère*, où les 700 m² sont répartis entre l’espace de restauration et la salle plénière.
 
 
 Comment la journée se déroule-t-elle ?
 --------------------------------------
 
-En dehors des conférences, nous vous proposons un petit déjeuner d’accueil le matin, des pauses café en milieu de matinée et d’après-midi, et une pause déjeuner à mi-journée. Tout se tient dans l’espace Belvédère, c’est donc un moment pour échanger avec les autres participants, les orateurs, etc...
+En dehors des conférences, nous vous proposons un *petit déjeuner* d’accueil le matin, des *pauses café* en milieu de matinée et d’après-midi, et une *pause déjeuner* à mi-journée. Tout se tient dans l’espace Belvédère, c’est donc un moment pour échanger avec les autres participants, les orateurs, etc...
 
 
 Les présentations sont-elles filmées ?
@@ -68,18 +68,18 @@ Est-ce que je peux filmer des sessions ?
 
 Nous sommes plutôt favorables à ce que les sessions soient filmées. Attention cependant à respecter les contraintes suivantes :
 
-- le cameraman, comme toute personne assistant à la conférence, doit avoir son billet d'accès
-- les vidéos filmées à Agile France doivent être publiées en accès libre (et c'est sympa de nous informer du lien)
-- le titrage, le générique ou l'habillage doivent faire clairement apparaitre "filmé (ou enregistré) à Agile France", et plus généralement la présentation ne doit pas laisser entendre que le producteur organise ou sponsorise l'événement
-- la société ou la personne qui produits la vidéo doit faire son affaire des problèmes de droit a l'image et, en particulier, s'assurer du consentement des orateurs filmés
+- le cameraman, comme toute personne assistant à la conférence, doit avoir *acheté son billet* d'accès
+- les vidéos filmées à Agile France doivent être *publiées en accès libre* (et c'est sympa de nous informer du lien)
+- le titrage, le générique ou l'habillage doivent faire clairement apparaitre *"filmé (ou enregistré) à Agile France"*, et plus généralement la présentation ne doit pas laisser entendre que le producteur organise ou sponsorise l'événement
+- la société ou la personne qui produits la vidéo doit faire son affaire des problèmes de *droit a l'image* et, en particulier, s'assurer du consentement des orateurs filmés
 
 
 Combien y a-t-il de présentations en parallèle ?
 ------------------------------------------------
 
-Les jeudi matin et vendredi soir ont lieu les keynotes, en séance pleinière. 
+Les jeudi matin et vendredi soir ont lieu les *keynotes*, en séance pleinière. 
 
-Le reste de la journée, les présentations se tiennent dans 6 salles simultanément.
+Le reste de la journée, les *présentations* se tiennent dans 6 salles simultanément.
 
 Vous aurez ainsi la possibilité de choisir parmi 6 présentations durant les 2 jours. 
 
@@ -136,10 +136,10 @@ __ http://www.weezevent.com/agile-france-2014
 
 Le prix dépend de la date à laquelle vous achetez votre place: 
 
-- le tarif "fan club" (180 €) s'applique tant qu'on n'a pas publié le programme. Il s'adresse à ceux qui nous font confiance pour faire une super conférence et qui, en retour de leur confiance aveugle, bénéficient d'un prix ultra bas.
-- le tarif "early bird" (250 €) est valable entre la fin de l'appel à orateurs et la publication du programme officiel, pendant quelques semaines.
-- le tarif "regular" (300 €) est valable dès que le programme a été officialisé et jusqu'au mois de Mai
-- le tarif "late bird" (600 €) s'applique à partir du 1er mai (les 3 dernières semaines). 
+- le tarif *fan club* (180 €) s'applique tant qu'on n'a pas publié le programme. Il s'adresse à ceux qui nous font confiance pour faire une super conférence et qui, en retour de leur confiance aveugle, bénéficient d'un prix ultra bas.
+- le tarif *early bird* (250 €) est valable entre la fin de l'appel à orateurs et la publication du programme officiel, pendant quelques semaines.
+- le tarif *regular* (300 €) est valable dès que le programme a été officialisé et jusqu'au mois de Mai
+- le tarif *late bird* (600 €) s'applique à partir du 1er mai (les 3 dernières semaines). 
  
 A votre billet - qui couvre les 2 jours de conférence avec petit-déjeuner, pauses et déjeuner - vous pouvez ajouter le diner du jeudi soir. Nous vous proposons aussi (1) d'adhérer à l'association pour soutenir ses activités tout au long de l'année et (2) d'acheter également le polo officiel de la conférence.
 
@@ -164,7 +164,7 @@ Si je prends mon billet puis que je ne peux finalement pas venir, est-ce que je 
 ----------------------------------------------------------------------------------------------------------
 Oui ... et Non !
 
-Si vous achetez votre place et que vous ne pouvez pas venir, nous remboursons le prix payé moins la différence entre le prix public au moment du remboursement et le prix payé. 
+Si vous achetez votre place et que vous ne pouvez pas venir, nous remboursons le prix payé *moins la différence entre le prix public au moment du remboursement et le prix payé*. 
 
 Qu'est-ce que ça veut dire ? Ca veut dire que si le prix n'a pas changé, on rembourse tout. En revanche, si le prix a augmenté, on ne rembourse pas l'augmentation. 
 
@@ -192,9 +192,11 @@ Qui organise la conférence et comment vous contacter ?
 
 Nous sommes une équipe de bénévoles qui soutenont l’association Agile France en donnant un peu de notre temps libre.
 
-Si vous êtes curieux de voir qui nous sommes, ça se passe par là !
+Si vous êtes curieux de voir qui nous sommes, ça se passe `par là`__ !
 
 Et si vous voulez nous contacter, vous pouvez nous envoyer un mail.
+
+__ /pages/lequipe-dorganisation.html
 
 
 Quel est le lien avec l’association Agile France ?
