@@ -1,0 +1,1278 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <style>
+        .creneau {
+            padding: 5px;
+            vertical-align: middle;
+
+            background-repeat: repeat-x;
+            border-radius: 5px;
+
+            height: 100%;
+            margin-bottom: 5px;
+        }
+
+        table {
+            border-collapse: inherit;
+            border-spacing: 5px;
+        }
+
+        table tr td {
+            padding: 5px;
+            vertical-align: middle;
+
+            background-repeat: repeat-x;
+            border-radius: 5px;
+            margin: 10px;
+
+            height: 100%;
+        }
+
+        .time {
+            min-width: 100px;
+        }
+
+        .green {
+            background-color: #DFF0D8;
+            color: #3C763D;
+            border-color: #B2DBA1;
+        }
+
+        .orange {
+            border-color: #ffc07d;
+            background-color: #ffd58d;
+            color: #cc7027;
+        }
+
+        .violet {
+            border-color: #b9a9ff;
+            background-color: #d8c7fa;
+            color: #5757ad;
+        }
+
+        .yellow {
+            border-color: #F5E79E;
+            background-color: #FCF8E3;
+            color: #8A6D3B;
+        }
+
+        .red {
+            border-color: #DCA7A7;
+            background-color: #F2DEDE;
+            color: #A94442;
+        }
+
+        div.blue {
+            border-color: #9ACFEA;
+            background-color: #D9EDF7;
+            color: #31708F;
+        }
+
+        td.blue {
+            border-color: #9ACFEA;
+            background-color: #D9EDF7;
+            color: #31708F;
+        }
+
+        #programTab li {
+            background-image: none;
+        }
+    </style>
+{% endblock css %}
+
+{% block content %}
+    <ul class="nav nav-tabs" id="programTab">
+        <li><a href="#tab20140522" data-toggle="tab">Jeudi 22 mai</a></li>
+        <li><a href="#tab20140523" data-toggle="tab">Vendredi 23 mai</a></li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane" id="tab20140522">
+            <div class="full-width visible-phone">
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>8h00 - 8h30</strong></div>
+                </div>
+                <div class="span11">
+                    <h5>Accueil et remise des badges</h5>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>8h30 - 9h00</strong></div>
+                </div>
+                <div class="span11">
+                    <h5>Petit d&eacute;jeuner</h5>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>9h00 - 9h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <a href="http://2014.conference-agile.fr/sessions/keynote-le-produit-prochaine-frontiere-agilite.html"
+                           target="_blank">
+                            <h3>Keynote d&apos;ouverture</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid">9h30 - 10h00</div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <h5>Pitch des sessions</h5>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>10h00 - 11h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/liberez-vos-idees-et-partez-a-la-decouverte-de-la-facilitation-graphique.html"
+                               target="_blank">
+                                <div class="creneau green">Initiation &agrave; la facilitation graphique</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/projets-agiles-arretez-les-derives.html"
+                               target="_blank">
+                                <div class="creneau orange">Projets Agiles : Arr&ecirc;tez les d&eacute;rives</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/from-legacy-code-to-legacy-tests.html"
+                               target="_blank">
+                                <div class="violet creneau"> From Legacy Code to Legacy Tests</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/la-simplicite-pas-facile.html" target="_blank">
+                                <div class="creneau blue">La simplicit&eacute; : pas facile !</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/comment-impliquer-vos-clients-dans-leurs-projets.html"
+                               target="_blank">
+                                <div class="creneau red">Comment impliquer vos clients dans leurs projets ?</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 6</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/comment-cadrer-un-projet-agile.html"
+                               target="_blank">
+                                <div class="creneau yellow">Comment cadrer un projet agile</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>11h00 - 11h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <h5>Pause</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>11h30 - 12h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/desapprendre-a-faire-bien-pour-faire-juste-a-temps.html"
+                               target="_blank">
+                                <div class="creneau green">
+                                    D&eacute;sapprendre &agrave; faire "bien" pour faire "juste &agrave; temps"
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/l-holacracy-un-systeme-d-exploitation-pour-des-entreprises-agiles-et-sociocratiques.html"
+                               target="_blank">
+                                <div class="creneau orange">
+                                    L&apos;holacracy, un "syst&egrave;me d&apos;exploitation" pour des entreprises agiles et
+                                    sociocratique
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/tim-gallwey-ou-comment-le-coaching-a-commence.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Tim Gallwey ou comment le coaching a commenc&eacute;
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/devenir-une-organisation-apprenante-dans-l-it-en-2014.html"
+                               target="_blank">
+                                <div class="creneau orange">
+                                    Devenir une organisation apprenante dans l&apos;IT en 2014
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+                            <a href="http://2014.conference-agile.fr/sessions/medecine-chinoise-et-agilite.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    M&eacute;decine Chinoise
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 6</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/ivre-j-ai-developpe-une-api-de-tests-automatises-en-bash.html"
+                               target="_blank">
+                                <div class="creneau violet">
+                                    Ivre, j&apos;ai d&eacute;velopp&eacute; une api de tests automatis&eacute;s en Bash
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>12h00 - 13h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/creation-technologie-et-musique-electronique-une-analogie-avec-le-software-craftsmanship.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Cr&eacute;ation, technologie et musique "&eacute;lectronique": une analogie avec le Software
+                                    Craftsmanship
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/la-retrospective-continue.html" target="_blank">
+                                <div class="creneau green">
+                                    La r&eacute;trospective continue
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/productownership-dans-le-brouillard.html"
+                               target="_blank">
+                                <div class="creneau yellow">
+                                    ProductOwnership dans le brouillard
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/5-ans-de-projets-agiles-transition-ou-traditions.html"
+                               target="_blank">
+                                <div class="creneau orange">
+                                    5 ans de projets agiles : transition ou traditions ?
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/doublures-en-folie.html" target="_blank">
+                                <div class="creneau violet">
+                                    Doublures en folie
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 6</span>
+        
+                            <a href="http://2014.conference-agile.fr/sessions/men-in-black-mmxiv-agile-rescue.html"
+                               target="_blank">
+                                <div class="creneau green">
+                                    Men In Black MMXIV : Agile Rescue
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>13h00 - 14h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>D&eacute;jeuner (Assis, barbecue s&apos;il fait beau)</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>14h30 - 18h15</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <ul>
+                                <li class="red">
+                                    <small class="pull-left">14h30 - 15h15</small>
+                                    &nbsp;
+                                    Place de march&eacute;</li>
+                                <li class="red">
+                                    <small class="pull-left">15h15 - 16h00</small>
+                                    &nbsp;
+                                    Open Space (8+ espaces x 3 slots)
+                                </li>
+                                <li>
+                                    <small class="pull-left">16h00 - 16h30</small>
+                                    &nbsp;
+                                    Pause
+                                </li>
+                                <li class="red">
+                                    <small class="pull-left">16h30 - 17h30</small>
+                                    &nbsp;
+                                    Open Space (suite)
+                                </li>
+                                <li class="red">
+                                    <small class="pull-left">17h30 - 18h15</small>
+                                    &nbsp;
+                                    Restitutions des Open Spaces (expo des productions)
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>18h15 - 19h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h3 class="blue">Keynote de mi-parcours</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>19h00 - 20h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>Ap&eacute;ro</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>20h00 - 23h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>Diner</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        
+            <div class="full-width hidden-phone">
+            <table>
+            <thead>
+            <tr>
+                <td></td>
+                <td><h4><span class="label label-default">Salle 1</span></h4></td>
+                <td><h4><span class="label label-default">Salle 2</span></h4></td>
+                <td><h4><span class="label label-default">Salle 3</span></h4></td>
+                <td><h4><span class="label label-default">Salle 4</span></h4></td>
+                <td><h4><span class="label label-default">Salle 5</span></h4></td>
+                <td><h4><span class="label label-default">Salle 6</span></h4></td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="time">8h00 - 8h30</td>
+                <td colspan="6">Accueil et remise des badges</td>
+            </tr>
+            <tr>
+                <td>8h30 - 9h00</td>
+                <td colspan="6">Petit d&eacute;jeuner</td>
+            </tr>
+            <tr>
+                <td>9h00 - 9h30</td>
+                <td colspan="6">
+                    <a href="http://2014.conference-agile.fr/sessions/keynote-le-produit-prochaine-frontiere-agilite.html"
+                       target="_blank">
+                        <h3 class="blue">Keynote d&apos;ouverture</h3>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>9h30 - 10h00</td>
+                <td colspan="6">Pitch des sessions</td>
+            </tr>
+            <tr>
+                <td rowspan="2">10h00 - 11h00</td>
+                <td class="green">
+                    <a href="http://2014.conference-agile.fr/sessions/liberez-vos-idees-et-partez-a-la-decouverte-de-la-facilitation-graphique.html"
+                       target="_blank">
+                        Initiation &agrave; la facilitation graphique
+                    </a></td>
+                <td class="orange">
+                    <a href="http://2014.conference-agile.fr/sessions/projets-agiles-arretez-les-derives.html"
+                       target="_blank">
+                        Projets Agiles : Arr&ecirc;tez les d&eacute;rives
+                    </a></td>
+                <td class="violet">
+                    <a href="http://2014.conference-agile.fr/sessions/from-legacy-code-to-legacy-tests.html"
+                       target="_blank">
+                        From Legacy Code to Legacy Tests
+                    </a></td>
+                <td class="blue">
+                    <a href="http://2014.conference-agile.fr/sessions/la-simplicite-pas-facile.html"
+                       target="_blank">
+                        La simplicit&eacute; : pas facile !
+                    </a>
+                </td>
+                <td class="red">
+                    <a href="http://2014.conference-agile.fr/sessions/comment-impliquer-vos-clients-dans-leurs-projets.html"
+                       target="_blank">
+                        Comment impliquer vos clients dans leurs projets ?
+                    </a>
+                </td>
+                <td class="yellow">
+                    <a target="_blank">
+                        Comment cadrer un projet agile ?
+                    </a>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td>11h00 - 11h30</td>
+                <td colspan="6">Pause</td>
+            </tr>
+            <tr>
+                <td>11h30 - 12h00</td>
+                <td class="green">
+                    <a href="http://2014.conference-agile.fr/sessions/desapprendre-a-faire-bien-pour-faire-juste-a-temps.html"
+                       target="_blank">
+                        D&eacute;sapprendre &agrave; faire "bien" pour faire "juste &agrave; temps"
+                    </a>
+                </td>
+                <td class="orange">
+                    <a href="http://2014.conference-agile.fr/sessions/l-holacracy-un-systeme-d-exploitation-pour-des-entreprises-agiles-et-sociocratiques.html"
+                       target="_blank">
+                        L&apos;holacracy, un "syst&egrave;me d&apos;exploitation" pour des entreprises agiles et
+                        sociocratique
+                    </a>
+                </td>
+                <td class="blue">
+                    <a href="http://2014.conference-agile.fr/sessions/tim-gallwey-ou-comment-le-coaching-a-commence.html"
+                       target="_blank">
+                        Tim Gallwey ou comment le coaching a commenc&eacute;
+                    </a>
+                </td>
+                <td class="orange">
+                    <a href="http://2014.conference-agile.fr/sessions/devenir-une-organisation-apprenante-dans-l-it-en-2014.html"
+                       target="_blank">
+                        Devenir une organisation apprenante dans l&apos;IT en 2014
+                    </a>
+                </td>
+                <td class="blue">
+                    <a target="_blank">
+                        M&eacute;decine Chinoise
+                    </a>
+                </td>
+                <td class="violet">
+                    <a href="http://2014.conference-agile.fr/sessions/ivre-j-ai-developpe-une-api-de-tests-automatises-en-bash.html"
+                       target="_blank">
+                        Ivre, j&apos;ai d&eacute;velopp&eacute; une api de tests automatis&eacute;s en Bash
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>12h00 - 13h00</td>
+                <td class="blue">
+                    <a href="http://2014.conference-agile.fr/sessions/creation-technologie-et-musique-electronique-une-analogie-avec-le-software-craftsmanship.html"
+                       target="_blank">
+                        Cr&eacute;ation, technologie et musique "&eacute;lectronique": une analogie avec le Software
+                        Craftsmanship
+                    </a>
+                </td>
+                <td class="green">
+                    <a href="http://2014.conference-agile.fr/sessions/la-retrospective-continue.html"
+                       target="_blank">
+                        La r&eacute;trospective continue
+                    </a>
+                </td>
+                <td class="yellow">
+                    <a href="http://2014.conference-agile.fr/sessions/productownership-dans-le-brouillard.html"
+                       target="_blank">
+                        ProductOwnership dans le brouillard
+                    </a>
+                </td>
+                <td class="orange">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/5-ans-de-projets-agiles-transition-ou-traditions.html"
+                            target="_blank">
+                        5 ans de projets agiles : transition ou traditions ?
+                    </a>
+                </td>
+                <td class="violet">
+                    <a href="http://2014.conference-agile.fr/sessions/doublures-en-folie.html"
+                       target="_blank">
+                        Doublures en folie
+                    </a>
+                </td>
+                <td class="green">
+                    <a href="http://2014.conference-agile.fr/sessions/men-in-black-mmxiv-agile-rescue.html"
+                       target="_blank">
+                        Men In Black MMXIV : Agile Rescue
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>13h00 - 14h30</td>
+                <td colspan="6">D&eacute;jeuner (Assis, barbecue s&apos;il fait beau)</td>
+            </tr>
+            <tr>
+                <td>14h30 - 18h15</td>
+                <td colspan="6">
+                    <ul>
+                        <li class="red">
+                            <small class="pull-left">14h30 - 15h15</small>
+                            &nbsp;
+                            Place de march&eacute;</li>
+                        <li class="red">
+                            <small class="pull-left">15h15 - 16h00</small>
+                            &nbsp;
+                            Open Space (8+ espaces x 3 slots)
+                        </li>
+                        <li>
+                            <small class="pull-left">16h00 - 16h30</small>
+                            &nbsp;
+                            Pause
+                        </li>
+                        <li class="red">
+                            <small class="pull-left">16h30 - 17h30</small>
+                            &nbsp;
+                            Open Space (suite)
+                        </li>
+                        <li class="red">
+                            <small class="pull-left">17h30 - 18h15</small>
+                            &nbsp;
+                            Restitutions des Open Spaces (expo des productions)
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>18h15 - 19h00</td>
+                <td colspan="6"><h3 class="blue">Keynote de mi-parcours</h3></td>
+            </tr>
+            <tr>
+                <td>19h00 - 20h00</td>
+                <td colspan="6">
+                    Ap&eacute;ro
+                </td>
+            </tr>
+            <tr>
+                <td>20h00 - 23h00</td>
+                <td colspan="6">
+                    Diner
+                </td>
+            </tr>
+            </tbody>
+            </table>
+            </div>
+        </div>
+        
+        <div class="tab-pane" id="tab20140523">
+            <div class="full-width visible-phone">
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>8h00 - 8h30</strong></div>
+                </div>
+                <div class="span11">
+                    <h3 class="blue">Bonus matinal: Tai Chi en plein air</h3>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>8h30 - 9h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <h5>Petit d&eacute;jeuner</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>9h00 - 9h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <h5>Pitch des sessions</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>9h30 - 11h30</strong></div>
+                </div>
+                <div class="span11">
+                    <span class="label label-default pull-right">Salle 6</span>
+    
+                    <a href="http://2014.conference-agile.fr/sessions/petits-outils-de-management-agile-a-l-usage-des-honnetes-managers.html"
+                       target="_blank">
+                        <div class="creneau yellow">Je veux tester avec des utilisateurs - je fais comment ? et
+                            quoi ? et est-ce que &ccedil;a peut &ecirc;tre rapide et pas cher ?
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>9h30 - 10h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/retour-sur-l-experience-d-ecriture-d-un-livre-en-5-jours-en-mode-leanagilecamp.html"
+                               target="_blank">
+                                <div class="creneau yellow">Retour sur l&apos;exp&eacute;rience d&apos;&eacute;criture
+                                    d&apos;un
+                                    livre en 5 jours en mode LeanAgileCamp
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/le-mythe-du-framework-agile.html" target="_blank">
+                                <div class="creneau violet">Le mythe du framework agile</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/generation-agyle.html" target="_blank">
+                                <div class="creneau blue">G&eacute;n&eacute;ration agYle</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/cross-programming-forging-the-future-of-programming.html"
+                               target="_blank">
+                                <div class="creneau green">Cross-Programming : Forging the future of programming</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/comment-impliquer-vos-clients-dans-leurs-projets.html"
+                               target="_blank">
+                                <div class="creneau orange">Petits Outils de Management Agile &agrave; l&apos;usage
+                                    des...
+                                    Honn&ecirc;tes Managers
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>10h30 - 11h15</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/experience-dun-maitre-de-donjons-et-dragons-sur-le-management-ou-comment-trouver-son-style.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Exp&eacute;rience d&apos;un ma&icirc;tre de donjons et dragons sur le management, ou comment
+                                    trouver son style
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/la-culture-du-programmeur.html" target="_blank">
+                                <div class="creneau green">La culture du programmeur</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/de-lassembleur-et-des-tests.html" target="_blank">
+                                <div class="creneau violet">De l&apos;assembleur et des tests</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/comment-jai-developpe-mon-muscle-de-lamelioration-continue-en-faisant-mes-courses.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Comment j&apos;ai d&eacute;velopp&eacute; mon muscle de l&apos;am&eacute;lioration continue en
+                                    faisant mes courses
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/penser-son-organisation.html" target="_blank">
+                                <div class="creneau orange">Penser son organisation</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>11h15 - 11h45</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>Pause</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>11h45 - 12h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 1</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/mon-projet-est-plus-gros-que-le-tien.html"
+                               target="_blank">
+                                <div class="creneau violet">
+                                    Mon projet est plus gros que le tien
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/l-agilite-ca-commence-avec-ma-start-up-qui-devient-grande.html"
+                               target="_blank">
+                                <div class="creneau orange">
+                                    L&apos;agilit&eacute; &ccedil;a commence avec ma start-up qui devient grande
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/les-tests-exploratoires.html" target="_blank">
+                                <div class="creneau yellow">
+                                    Les tests exploratoires
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/refactorer-legacy-meme-pas-peur.html" target="_blank">
+                                <div class="creneau violet">
+                                    Refactorer legacy, m&ecirc;me pas peur !
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/Partager-la-joie-de-coder-avec-un-enfant.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Partager la joie de coder avec un enfant
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>12h30 - 14h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>D&eacute;jeuner (Assis, barbecue s&apos;il fait beau)</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+    
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>14h00 - 16h30</strong></div>
+                </div>
+                <div class="span11">
+                    <span class="label label-default pull-right">Salle 1</span>
+    
+                    <a href="http://2014.conference-agile.fr/sessions/petit-board-deviendra-grand.html" target="_blank">
+                        <div class="creneau green">
+                            Petit board deviendra grand
+                        </div>
+                    </a>
+    
+                    <span class="label label-default pull-right">Salle 1</span>
+                    <a href="http://2014.conference-agile.fr/sessions/des-raisons-de-vous-interesser-aux-jeux-de-langage-de-ludwig-wittgenstein.html"
+                       target="_blank">
+                        <div class="creneau blue">
+                            Des raisons de vous int&eacute;resser aux jeux de langage de Ludwig Wittgenstein
+                        </div>
+                    </a>
+    
+                    <span class="label label-default pull-right">Salle 1</span>
+                    <a href="http://2014.conference-agile.fr/sessions/manipule-a-l-insu-de-mon-plein-gre.html"
+                       target="_blankŀ">
+                        <div class="creneau green">
+                            Manipul&eacute; &agrave; l&apos;insu de mon plein gr&eacute;
+                        </div>
+                    </a>
+    
+                    <span class="label label-default pull-right">Salle 1</span>
+                    <a href="http://2014.conference-agile.fr/sessions/user-stories-what-else.html" target="_blank">
+                        <div class="creneau yellow">
+                            User stories, what else !
+                        </div>
+                    </a>
+    
+                    <span class="label label-default pull-right">Salle 1</span>
+                    <a href="http://2014.conference-agile.fr/sessions/les-dix-buzzwords-du-hipster-agile.html"
+                       target="_blank">
+                        <div class="creneau blue">
+                            Les dix buzzwords du Hipster Agile
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>14h00 - 16h30</strong></div>
+                </div>
+                <div class="span11">
+                    <span class="label label-default pull-right">Salle 2</span>
+    
+                    <a href="http://2014.conference-agile.fr/sessions/la-revanche-des-aveugles-sur-lelephant.html"
+                       target="_blank">
+                        <div class="creneau green">
+                            La revanche des aveugles sur l&apos;&eacute;l&eacute;phant
+                        </div>
+                    </a>
+                    <span class="label label-default pull-right">Salle 2</span>
+                    <a href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
+                       target="_blank">
+                        <div class="creneau violet">
+                            Exp&eacute;rimentation Mob Programming en entreprise
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>14h00 - 16h30</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 2</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/au-secours-le-pere-noel-a-perdu-ses-rennes.html"
+                               target="_blank">
+                                <div class="creneau green">Au secours, le P&egrave;re No&euml;l a perdu ses rennes
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 3</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/let-s-sketch-together.html" target="_blank">
+                                <div class="creneau yellow">Let&apos;s sketch together !</div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 4</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/quest-ce-quil-y-a-sous-le-capot-des-jeux-agiles.html"
+                               target="_blank">
+                                <div class="creneau blue">
+                                    Qu&apos;est-ce qu&apos;il y a sous le capot des jeux agiles ?
+                                </div>
+                            </a>
+                        </div>
+                        <div class="span2">
+                            <span class="label label-default pull-right">Salle 5</span>
+    
+                            <a href="http://2014.conference-agile.fr/sessions/story-map-story-map-story-map-comment-on-fait.html"
+                               target="_blank">
+                                <div class="creneau yellow">Story Map, Story Map, Story Map ... Comment on fait ?</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>16h30 - 17h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h5>Pause</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="row-fluid"><strong>17h00 - 18h00</strong></div>
+                </div>
+                <div class="span11">
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h3 class="blue">Keynote de cl&ocirc;ture</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+    
+            <div class="full-width hidden-phone">
+            <table>
+            <thead>
+            <tr>
+                <td></td>
+                <td><h4><span class="label label-default">Salle 1</span></h4></td>
+                <td><h4><span class="label label-default">Salle 2</span></h4></td>
+                <td><h4><span class="label label-default">Salle 3</span></h4></td>
+                <td><h4><span class="label label-default">Salle 4</span></h4></td>
+                <td><h4><span class="label label-default">Salle 5</span></h4></td>
+                <td><h4><span class="label label-default">Salle 6</span></h4></td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="time">8h00 - 8h30</td>
+                <td colspan="6">
+                    <h3 class="blue">Bonus matinal: Tai Chi en plein air (!)</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>8h30 - 9h00</td>
+                <td colspan="6">Petit d&eacute;jeuner</td>
+            </tr>
+            <tr>
+                <td>9h00 - 09h30</td>
+                <td colspan="6">Pitch des sessions</td>
+            </tr>
+    
+            <tr>
+                <td class="time" rowspan="2">09h30 - 10h30</td>
+                <td class="yellow" rowspan="2">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/retour-sur-l-experience-d-ecriture-d-un-livre-en-5-jours-en-mode-leanagilecamp.html"
+                            target="_blank">
+                        Retour sur l&apos;exp&eacute;rience d&apos;&eacute;criture
+                        d&apos;un
+                        livre en 5 jours en mode LeanAgileCamp
+                    </a>
+                </td>
+                <td class="violet" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/le-mythe-du-framework-agile.html"
+                       target="_blank">
+                        Le mythe du framework agile
+                    </a>
+                </td>
+                <td class="blue" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/generation-agyle.html" target="_blank">
+                        G&eacute;n&eacute;ration agYle
+                    </a>
+                </td>
+                <td class="green" rowspan="2">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/cross-programming-forging-the-future-of-programming.html"
+                            target="_blank">
+                        Cross-Programming : Forging the future of programming
+                    </a>
+                </td>
+                <td class="orange" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/comment-impliquer-vos-clients-dans-leurs-projets.html"
+                            target="_blank">
+                        Petits Outils de Management Agile &agrave; l&apos;usage des... Honn&ecirc;tes Managers
+                    </a>
+                </td>
+                <td rowspan="4" class="yellow">
+                    <a href="http://2014.conference-agile.fr/sessions/petits-outils-de-management-agile-a-l-usage-des-honnetes-managers.html"
+                       target="_blank">
+                        Je veux tester avec des utilisateurs - je fais comment ? et quoi ? et est-ce que &ccedil;a
+                        peut &ecirc;tre rapide et pas cher ?
+                    </a>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td class="time" rowspan="2">10h30 - 11h15</td>
+                <td class="blue" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/experience-dun-maitre-de-donjons-et-dragons-sur-le-management-ou-comment-trouver-son-style.html"
+                            target="_blank">
+                        Exp&eacute;rience d&apos;un ma&icirc;tre de donjons et dragons sur le management, ou comment
+                        trouver son style
+                    </a>
+                </td>
+                <td class="green" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/la-culture-du-programmeur.html"
+                       target="_blank">
+                        La culture du programmeur
+                    </a>
+                </td>
+                <td class="violet" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/de-lassembleur-et-des-tests.html"
+                       target="_blank">
+                        De l&apos;assembleur et des tests
+                    </a>
+                </td>
+                <td class="blue" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/comment-jai-developpe-mon-muscle-de-lamelioration-continue-en-faisant-mes-courses.html"
+                            target="_blank">
+                        Comment j&apos;ai d&eacute;velopp&eacute; mon muscle de l&apos;am&eacute;lioration continue en
+                        faisant mes courses
+                    </a>
+                </td>
+                <td class="orange" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/penser-son-organisation.html"
+                       target="_blank">
+                        Penser son organisation
+                    </a>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+    
+            <tr>
+                <td class="time">11h00 - 11h30</td>
+                <td colspan="6">Pause</td>
+            </tr>
+    
+            <tr>
+                <td class="time" rowspan="2">11h30 - 12h30</td>
+                <td class="violet" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/mon-projet-est-plus-gros-que-le-tien.html"
+                            target="_blank">
+                        Mon projet est plus gros que le tien
+                    </a>
+                </td>
+                <td class="orange" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/l-agilite-ca-commence-avec-ma-start-up-qui-devient-grande.html"
+                            target="_blank">
+                        L&apos;agilit&eacute; &ccedil;a commence avec ma start-up qui devient grande
+                    </a>
+                </td>
+                <td class="yellow" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/les-tests-exploratoires.html"
+                       target="_blank">
+                        Les tests exploratoires
+                    </a>
+                </td>
+                <td class="violet" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/refactorer-legacy-meme-pas-peur.html"
+                       target="_blank">
+                        Refactorer legacy, m&ecirc;me pas peur !
+                    </a>
+                </td>
+                <td class="blue" rowspan="2">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/Partager-la-joie-de-coder-avec-un-enfant.html"
+                            target="_blank">
+                        Partager la joie de coder avec un enfant
+                    </a>
+                </td>
+                <td rowspan="2">
+                </td>
+            </tr>
+            <tr></tr>
+            <tr>
+                <td class="time">12h30 - 14h00</td>
+                <td colspan="6">D&eacute;jeuner (Assis, barbecue s&apos;il fait beau)</td>
+            </tr>
+    
+            <tr>
+                <td class="time" rowspan="6">14h00 - 16h30</td>
+                <td class="green" rowspan="1">
+                    <a href="http://2014.conference-agile.fr/sessions/petit-board-deviendra-grand.html"
+                       target="_blank">
+                        Petit board deviendra grand
+                    </a>
+                </td>
+                <td class="green" rowspan="3">
+                    <a href="http://2014.conference-agile.fr/sessions/la-revanche-des-aveugles-sur-lelephant.html"
+                       target="_blank">
+                        La revanche des aveugles sur l&apos;&eacute;l&eacute;phant
+                    </a>
+                </td>
+                <td class="green" rowspan="6">
+                    <a href="http://2014.conference-agile.fr/sessions/au-secours-le-pere-noel-a-perdu-ses-rennes.html"
+                       target="_blank">
+                        Au secours, le P&egrave;re No&euml;l a perdu ses rennes
+                    </a>
+                </td>
+                <td class="yellow" rowspan="6">
+                    <a href="http://2014.conference-agile.fr/sessions/let-s-sketch-together.html" target="_blank">
+                        Let&apos;s sketch together !
+                    </a>
+                </td>
+                <td class="blue" rowspan="6">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/quest-ce-quil-y-a-sous-le-capot-des-jeux-agiles.html"
+                            target="_blank">
+                        Qu&apos;est-ce qu&apos;il y a sous le capot des jeux agiles ?
+                    </a>
+                </td>
+                <td class="yellow" rowspan="6">
+                    <a href="http://2014.conference-agile.fr/sessions/story-map-story-map-story-map-comment-on-fait.html"
+                            target="_blank">
+                        Story Map, Story Map, Story Map ... Comment on fait ?
+                    </a>
+                </td>
+    
+            </tr>
+            <tr>
+                <td class="blue" rowspan="2">
+                    <a href="http://2014.conference-agile.fr/sessions/des-raisons-de-vous-interesser-aux-jeux-de-langage-de-ludwig-wittgenstein.html"
+                            target="_blank">
+                        Des raisons de vous int&eacute;resser aux jeux de langage de Ludwig Wittgenstein
+                    </a>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td class="green">
+                    <a href="http://2014.conference-agile.fr/sessions/manipule-a-l-insu-de-mon-plein-gre.html"
+                       target="_blank">
+                        Manipul&eacute; &agrave; l&apos;insu de mon plein gr&eacute;
+                    </a>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="yellow">
+                    <a href="http://2014.conference-agile.fr/sessions/user-stories-what-else.html" target="_blank">
+                        User stories, what else !
+                    </a>
+                </td>
+                <td class="violet" rowspan="2">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
+                            target="_blank">
+                        Exp&eacute;rimentation Mob Programming en entreprise
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="blue">
+                    <a href="http://2014.conference-agile.fr/sessions/les-dix-buzzwords-du-hipster-agile.html"
+                       target="_blank">
+                        Les dix buzzwords du Hipster Agile
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">16h30 - 17h00</td>
+                <td colspan="6">Pause</td>
+            </tr>
+    
+            <tr>
+                <td class="time">17h00 - 17h30</td>
+                <td colspan="6">
+                    <h3 class="blue">Keynote de cl&ocirc;ture</h3>
+                </td>
+            </tr>
+    
+            </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
+{% block javascript %}
+    {{ super() }}
+    <script type="text/javascript">
+        $(function() {
+            $('#programTab').find('a:first').tab('show');
+        });
+    </script>
+{% endblock javascript %}
