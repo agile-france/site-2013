@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
-{% block css %}
+{% block head %}
+    {{ super() }}
     <style>
         .creneau {
             padding: 5px;
@@ -16,6 +17,7 @@
         table {
             border-collapse: inherit;
             border-spacing: 5px;
+            background-color: #f7f7f7;
         }
 
         table tr td {
@@ -69,6 +71,10 @@
             color: #31708F;
         }
 
+        div.row-fluid {
+            background-color: #f7f7f7;
+        }
+
         td.blue {
             border-color: #9ACFEA;
             background-color: #D9EDF7;
@@ -79,12 +85,13 @@
             background-image: none;
         }
     </style>
-{% endblock css %}
+{% endblock head %}
 
 {% block content %}
     <ul class="nav nav-tabs" id="programTab">
         <li><a href="#tab20140522" data-toggle="tab">Jeudi 22 mai</a></li>
         <li><a href="#tab20140523" data-toggle="tab">Vendredi 23 mai</a></li>
+        <li class="pull-right"><a href="static/programme/programmeAgileFrance2014-V2.pdf" target="_blank">Version PDF</a></li>
     </ul>
     <div class="tab-content">
         <div class="tab-pane" id="tab20140522">
@@ -852,7 +859,13 @@
                             </a>
                         </div>
                         <div class="span2">
-    
+                            <span class="label label-default pull-right">Salle 2</span>
+                            <a href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
+                               target="_blank">
+                                <div class="creneau violet">
+                                    Exp&eacute;rimentation Mob Programming en entreprise
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -870,7 +883,6 @@
                     </div>
                 </div>
             </div>
-    
     
             <div class="row-fluid">
                 <div class="span1">
@@ -923,13 +935,13 @@
                 </div>
                 <div class="span11">
                     <span class="label label-default pull-right">Salle 2</span>
-    
                     <a href="http://2014.conference-agile.fr/sessions/la-revanche-des-aveugles-sur-lelephant.html"
                        target="_blank">
                         <div class="creneau green">
                             La revanche des aveugles sur l&apos;&eacute;l&eacute;phant
                         </div>
                     </a>
+
                     <span class="label label-default pull-right">Salle 2</span>
                     <a href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
                        target="_blank">
@@ -1158,7 +1170,12 @@
                         Partager la joie de coder avec un enfant
                     </a>
                 </td>
-                <td rowspan="2">
+                <td class="violet" rowspan="2">
+                    <a
+                            href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
+                            target="_blank">
+                        Exp&eacute;rimentation Mob Programming en entreprise
+                    </a>
                 </td>
             </tr>
             <tr></tr>
@@ -1233,11 +1250,7 @@
                     </a>
                 </td>
                 <td class="violet" rowspan="2">
-                    <a
-                            href="http://2014.conference-agile.fr/sessions/retour-d-experience-sur-coding-dojo-et-mob-progamming-en-entreprise.html"
-                            target="_blank">
-                        Exp&eacute;rimentation Mob Programming en entreprise
-                    </a>
+                    Atelier
                 </td>
             </tr>
             <tr>
@@ -1248,11 +1261,11 @@
                     </a>
                 </td>
             </tr>
+
             <tr>
                 <td class="time">16h30 - 17h00</td>
                 <td colspan="6">Pause</td>
             </tr>
-    
             <tr>
                 <td class="time">17h00 - 17h30</td>
                 <td colspan="6">
