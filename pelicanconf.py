@@ -35,7 +35,7 @@ def MENUITEMS(session_info):
 	return [
 		(u'Accueil', '/index.html'),
 		(u'Appel à Orateurs', '/pages/appel-a-orateurs.html'),
-		(u'Programme', '/static/programme/programmeAgileFrance2014-V2.pdf'),
+		(u'Programme', '/programme_2014.html'),
 		(u'Sessions', [
 			(u'Toutes', session_list_menu(session_info.sessions.all))] + sessions_by_tag(session_info.sessions.by_tag) ),
 		(u'FAQ', '/pages/faq.html'),
@@ -128,5 +128,5 @@ JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'sl
 
 STATIC_PATHS = ['programme', 'images']
 
-TEMPLATE_PAGES = {}
+TEMPLATE_PAGES = {'programme_2014.html': 'programme_2014.html'}
 #TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
