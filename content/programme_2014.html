@@ -71,6 +71,12 @@
             color: #31708F;
         }
 
+        span.blue {
+            border-color: #9ACFEA;
+            background-color: #D9EDF7;
+            color: #31708F;
+        }
+
         div.row-fluid {
             background-color: #f7f7f7;
         }
@@ -84,10 +90,26 @@
         #programTab li {
             background-image: none;
         }
+
+        div.well span.label {
+            font-weight: normal;
+        }
     </style>
 {% endblock head %}
 
 {% block content %}
+    <div class="well">
+        <div class="row-fluid">
+            Tracks :
+            <span class="label red">Client</span>
+            <span class="label yellow">Produit</span>
+            <span class="label green">Collaborer</span>
+            <span class="label orange">Orga</span>
+            <span class="label violet">Technique</span>
+            <span class="label blue">Air frais</span>
+        </div>
+    </div>
+
     <ul class="nav nav-tabs" id="programTab">
         <li><a href="#tab20140522" data-toggle="tab">Jeudi 22 mai</a></li>
         <li><a href="#tab20140523" data-toggle="tab">Vendredi 23 mai</a></li>

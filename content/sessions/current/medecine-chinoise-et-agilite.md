@@ -1,6 +1,5 @@
 Title: Médecine chinoise et agilité
 Slug: medecine-chinoise-et-agilite
-Status: Draft
 Date: 2014-04-06 12:11
 Subtitle: On n'a pas chômé en 3 ans et notre passion de l'amélioration continue et de l'automatisation de tout ce qui peut l'être avec TFS nous a permis d'atteindre un monastère quasi coupé du monde...
 Goal: Découvrir tout ce qui est améliorable, voire automatisable pour augmenter la productivité et réduire l'erreur humaine pour se concentrer sur les besoins client. 
