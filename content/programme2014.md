@@ -6,15 +6,17 @@ Author: Julien Porot
 Summary: Le programme nouveau est arrivé !
 
 
-Et oui, vous ne rêvez pas, il s'agit bien de [la première version du programme][1] !
+Et oui, vous ne rêvez pas, il s'agit bien de <del>[la première version du programme][1]</del> !
+Et quelques ajustements plus tard, voici la [seconde version][2].
 
 Voici à quoi ressemble la conférence "aux petits oignons" à laquelle vous serez ravis de participer :)
 
-Alors n'attendez plus, [prenez vite vos places][2] !
+Alors n'attendez plus, [prenez vite vos places][pl] !
 
 Et commencez dès à présent à réfléchir à un sujet "qui-va-bien" pour l'open-space !
 
 A bientôt ! :)
 
 [1]: /static/programme/Programme-AgileFrance2014-V1.pdf
-[2]: /
+[2]: /static/programme/programmeAgileFrance2014-V2.pdf
+[pl]: /
