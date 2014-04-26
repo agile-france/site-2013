@@ -1,4 +1,4 @@
-Title: Benoît-Charles Lavauzelle 
+Title: Benoît Charles-Lavauzelle 
 Roles: speaker
 Twitter: theodo
 
