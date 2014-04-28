@@ -17,7 +17,7 @@ Vous aurez besoin de
 Quelques commandes (je laisse les personnes n'ayant pas github d'installé sur leur machine, ou fonctionnant sous windows completer si nécéssaire)  
 git clone https://github.com/agile-france/site-2013.git
 sudo apt-get install python-pip  
-sudo pip install pelican==3.2
+sudo pip install pelican==3.2  
 sudo pip install Markdown  
 make clean  
 make html  
