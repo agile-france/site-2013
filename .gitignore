@@ -1,6 +1,22 @@
+# le site généré
 output/
+
+# forme compilée des plugins
 *.pyc
+
+# fichiers de travail de Vagrant
+vm/.vagrant/
+
+# fichiers de travail de develop_server
+*.pid
+
+# cochonneries laissées par le explorateurs
 Thumbs.db
+
+# fichiers de Sublime Text
 *.sublime-project
 *.sublime-workspace
-vm/.vagrant/
+
+# fichiers d'IntelliJ
+.idea/
+*.iml
