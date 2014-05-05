@@ -7,7 +7,7 @@ Summary: Le programme nouveau est arrivé !
 
 
 Et oui, vous ne rêvez pas, il s'agit bien de <del>[la première version du programme][1]</del> !
-Et quelques ajustements plus tard, voici la [seconde version][2].
+Et quelques ajustements plus tard, voici la <del>[seconde version][2]</del> [troisième version en HTML][3].
 
 Voici à quoi ressemble la conférence "aux petits oignons" à laquelle vous serez ravis de participer :)
 
@@ -19,4 +19,5 @@ A bientôt ! :)
 
 [1]: /static/programme/Programme-AgileFrance2014-V1.pdf
 [2]: /static/programme/programmeAgileFrance2014-V2.pdf
+[3]: /programme_2014.html
 [pl]: /
