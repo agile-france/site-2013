@@ -1,6 +1,6 @@
 Speakers: 
 Title: Agile France, selon...
-Slug:
+Slug: template-questionnaire
 Date: 2013-03-27 08:30
 Tags: 
 Category: general
