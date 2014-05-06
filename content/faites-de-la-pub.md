@@ -4,7 +4,7 @@ Tags: public
 Category: general
 Slug: Faites-de-la-pub-pour-Agile-France
 Author: Damien
-Summary: Agile France intéresse toutes celles et ceux qui pratiquent l'agile
+Summary: Les moyens, les occasions et les raisons de faire de la pub pour la conférence Agile France
 
 # Parlez d'Agile France autour de vous
 
@@ -26,5 +26,9 @@ Pour vous aider dans cette démarche, nous mettons à votre disposition les ress
 - un [argumentaire détaillé][2] en 2 pages et 10 photos, parlant des quatre bonnes raisons de venir à Agile France. A lire pour avoir des arguments imparables 
 - une assistance à la vente: votre patron ou votre client ne sont pas convaincu ? un membre de l'orga vous aide au téléphone ou se déplace pour "faire l'argu" 
 - une petite [affiche à télécharger][3], à imprimer et coller partout partout, qui résume les bonnes raisons. Commencez par en mettre une tout de suite à coté de votre machine à café puis pollinisez ... (vous pouvez aussi imprimer le [slide][1], il fait le job)
-
+ 
 On compte vraiment sur votre aide, alors hop hop hop ! au boulot ! =)
+
+[1]: http://www.slideshare.net/slideshow/embed_code/34133531
+[2]: https://drive.google.com/file/d/0B-RCbv1rIES7TkpaUldCQXlwaUE/edit?usp=sharing
+[3]: https://drive.google.com/file/d/0B-RCbv1rIES7dXFDbU1qa1E5Mms/edit?usp=sharing
