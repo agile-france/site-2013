@@ -1,4 +1,4 @@
-Title: Agile France c'est pas (que) pour les coachs barbus
+Title: Agile France la conférence des agilistes, pas seulement des coachs agiles
 Date: 2014-05-06 09:50
 Tags: public
 Category: general
