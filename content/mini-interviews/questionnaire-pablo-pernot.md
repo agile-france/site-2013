@@ -14,6 +14,7 @@ Template: interview-orateur
 
 Agent provocateur
 de changements ? d'idées ? d'émotions ? 
+
 Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
 
 1. *Aucun plan ne survit au premier contact avec l’ennemi* — Von Moltke
