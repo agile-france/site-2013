@@ -1,13 +1,24 @@
-Title: Modèle d'article
+Speakers: 
+Title: Agile France, selon...
+Slug:
 Date: 2013-03-27 08:30
-Tags: orateur
+Tags: 
 Category: general
-Author: Frederic Merizen
 status: draft
-Summary: Ceci est un modèle d'article
 
-Les métadonnées sont décrites dans la [doc de pélican][1]
-La syntaxe de markdown est décirte sur [daring fireball][2].
 
-[1]: http://docs.getpelican.com/en/3.1.1/getting_started.html#writing-articles-using-pelican
-[2]: http://daringfireball.net/projects/markdown/syntax
+
+
+## 1. Qui es-tu ?
+
+
+## 2. Agile France, pour toi, en deux ou trois mots ?
+
+
+## 3. Une anecdote ?
+
+
+## 4. Pour toi, la meilleure des raisons de venir à Agile France, c'est...
+
+
+## 5. Quelque chose à ajouter ?
