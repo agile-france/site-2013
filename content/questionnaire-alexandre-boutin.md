@@ -3,7 +3,7 @@ Title: Agile France, par Alexandre Boutin
 Date: 2014-05-06
 Tags: Agile France, Alexandre Boutin
 Category: general
-Slug: agile-france-par-alexandre-boutin
+Slug: Agile-France-par-Alexandre-Boutin
 Template: interview-orateur
 
 
