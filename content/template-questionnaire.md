@@ -9,7 +9,7 @@ status: draft
 
 
 
-## 1. Qui es-tu ?
+### 1. Qui es-tu ?
 
 
 ## 2. Agile France, pour toi, en deux ou trois mots ?
