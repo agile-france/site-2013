@@ -11,11 +11,11 @@ Summary: Les moyens, les occasions et les raisons de faire de la pub pour la con
 Nous sommes à trois semaines de la conférence et il nous reste une centaine de place à vendre. On nous remonte que nous ne sommes pas assez visibles. Soit mais nous ne sommes qu'une poignée d'orga et vous êtes des centaines d'agilistes. On aimerait donc que vous fassiez le boulot :-)
 Blague à part, il faudrait absolument que vous puissiez parler d'Agile France autour de vous:  
 
-- *Dans votre entreprise* : vous avez pris des places pour les barbus de l'IT et les chefs de projets(*)... mais peut-être que les gens du métier, les managers ou vos RH sont impactés par les pratiques agiles, qu'ils se posent des questions pratiques et pourraient apprendre et échanger sur l'agilité s'ils venaient  ?
-- *Chez vos clients* : vous les avez accompagnés sur la mise en place de l'agilité, ou vous êtes en train de le faire, mais ont-ils eu connaissance de cette formidable opportunité de continuer d'apprendre et d'échanger qu'est Agile France ?
-- *Lors de réunions* (agiles) auxquelles vous participez: **Brown Bag Lunchs**, **PODOJO**, **Code Jam**, ateliers, conférences ... quelle meilleure occasion d'ouvrir un peu plus les horizons ?
+- **Dans votre entreprise** : vous avez pris des places pour les barbus de l'IT et les chefs de projets<sup>(*)</sup>... mais peut-être que les gens du métier, les managers ou vos RH sont impactés par les pratiques agiles, qu'ils se posent des questions pratiques et pourraient apprendre et échanger sur l'agilité s'ils venaient  ?
+- **Chez vos clients** : vous les avez accompagnés sur la mise en place de l'agilité, ou vous êtes en train de le faire, mais ont-ils eu connaissance de cette formidable opportunité de continuer d'apprendre et d'échanger qu'est Agile France ?
+- **Lors de réunions** (agiles) auxquelles vous participez: *Brown Bag Lunchs*, *PODOJO*, *Code Jam*, ateliers, conférences ... quelle meilleure occasion d'ouvrir un peu plus les horizons ?
 
-(*) non ? qu'attendez-vous alors ? vite, vite, c'est par ici: www.conference-agile.fr 
+<small>(*) non ? qu'attendez-vous alors ? vite, vite, c'est par ici: www.conference-agile.fr</small>
 
 ## On vous fournit le matériel
 
