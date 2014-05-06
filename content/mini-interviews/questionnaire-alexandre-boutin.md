@@ -2,7 +2,7 @@ Speaker: Alexandre Boutin
 Title: Agile France, par Alexandre Boutin
 Date: 2014-05-06
 Tags: Agile France, Alexandre Boutin
-Category: general
+Category: mini interviews
 Slug: Agile-France-par-Alexandre-Boutin
 Template: interview-orateur
 
