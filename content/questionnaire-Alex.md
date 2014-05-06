@@ -4,7 +4,6 @@ Slug: Agile-France-par-Alexandre-Boutin
 Date: 2014-05-06
 Tags: Agile France, Alex Boutin
 Category: general
-status: draft
 
 
 
