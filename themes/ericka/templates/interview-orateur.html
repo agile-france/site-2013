@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% from "widgets/post.html" import post %}
+{% from "widgets/sidebar.html" import sidebar %}
+{% import "widgets/recent_posts.html" as recent_posts %}
+{% from "widgets/bio.html" import bio_thumb %}
+
+{% block head %}
+{{ super() }}
+<style>
+    .rinfo h4 {
+        color: #E24E35;
+    }
+</style>
+{% endblock %}
+{% block content %}
+    <div class="blog">
+        <div class="row">
+            <div class="span12">
+
+                <!-- Blog Posts -->
+                <div class="row">
+                    <div class="span8">
+                        <div class="posts">
+                            {%  set speaker = article.speaker %}
+                            {% call post(article) %}
+                                {{ bio_thumb(CONFERENCE.bios.by_slug[speaker|slugify], CONFERENCE.bio_pics)}}
+                                {{ article.content }}
+                            {% endcall %}
+
+
+                            {% set sessions = CONFERENCE.sessions.by_speaker[speaker|slugify] %}
+                            {% if sessions %}
+                                <div class="rinfo">
+                                    <h4><a href="/bios/{{ speaker|slugify }}.html" rel="bookmark">En savoir plus sur {{ speaker }}</a></h4>
+                                    <h4>Ses sessions</h4>
+                                    <ul>
+                                        {% for session in sessions %}
+                                            <li><a href="/{{ session.url }}">{{ session.title }}</a></li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endif %}
+
+                            <div class="well">
+                                <div class="social">
+                                    {% include "widgets/share.html" %}
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <hr />
+                            {% include "widgets/disqus.html" %}
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                    {% call sidebar() %}
+                        {{ recent_posts.tall('Articles récents', articles, 5) }}
+                    {% endcall %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% include "widgets/cta.html" %}
+{% endblock content %}

@@ -1,11 +1,10 @@
-Speakers: Alex Boutin
+Speaker: Alexandre Boutin
 Title: Agile France, par Alexandre Boutin
-Slug: Agile-France-par-Alexandre-Boutin
 Date: 2014-05-06
-Tags: Agile France, Alex Boutin
+Tags: Agile France, Alexandre Boutin
 Category: general
-
-
+Slug: agile-france-par-alexandre-boutin
+Template: interview-orateur
 
 
 ####1. Qui es-tu ?####

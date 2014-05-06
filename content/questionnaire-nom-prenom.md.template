@@ -1,9 +1,10 @@
-Speakers: 
-Title: Agile France, selon...
-Slug: template-questionnaire
-Date: 2013-03-27 08:30
-Tags: 
+Speaker: Prénom Nom
+Title: Agile France, par Prénom Nom
+Date: 2014-05-06 15:01
+Tags: Agile France, Prénom Nom
 Category: general
+Slug: agile-france-par-nom-prenom
+#Template: interview-orateur
 status: draft
 
 
