@@ -3,7 +3,7 @@ Title: Agile France, par Pablo Pernot
 Date: 2014-05-06 15:01
 Tags: Agile France, Pablo Pernot
 Category: mini interviews
-Slug: agile-france-par-Pablo-Pernot
+Slug: agile-france-par-pablo-pernot
 #Template: interview-orateur
 status: draft
 
