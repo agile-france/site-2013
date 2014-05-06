@@ -19,8 +19,7 @@ Ma première expérience de conférencier lors d'une conférence Agile en France
 
 ####3. Une anecdote ?####
 
-Avoir rencontré pour la première fois de visu Pascal Van Cauwenberghe, qui est une des personnes qui m'a le plus influencé (ne vous demandez plus pourquoi je joue autant) ... et avoir pris un bide en essayant de l'inviter à Grenoble:-)
-
+Avoir rencontré pour la première fois de visu Pascal Van Cauwenberghe, qui est une des personnes qui m'a le plus influencé (ne vous demandez plus pourquoi je joue autant) ... et avoir pris un bide en essayant de l'inviter à Grenoble :-)
 
 ####4. Pour toi, la meilleure des raisons de venir à Agile France, c'est...####
 
