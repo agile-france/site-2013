@@ -132,3 +132,5 @@ TEMPLATE_PAGES = {'programme_2014.html': 'programme_2014.html'}
 #TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
 
 FILES_TO_COPY = (('extra/favicon.ico', 'favicon.ico'),)
+
+NUM_RECENT_POSTS = 10
