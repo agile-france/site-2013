@@ -74,8 +74,6 @@ INDEX_SAVE_AS = False
 
 JINJA_EXTENSIONS = [loopcontrols]
 
-TEMPLATE_PAGES = {'js/custom.js': 'theme/js/custom.js'}
-
 PLUGINS = [conference]
 
 ARTICLE_EXCLUDES = ['pages', 'bios', 'sessions']
@@ -128,7 +126,11 @@ JINJA_FILTERS = {'apostrophe': apostrophe, 'sessions_after': sessions_after, 'sl
 
 STATIC_PATHS = ['programme', 'images']
 
-TEMPLATE_PAGES = {'programme_2014.html': 'programme_2014.html'}
+TEMPLATE_PAGES = {
+    'js/custom.js': 'theme/js/custom.js',
+    'programme_2014.html': 'programme_2014.html',
+    }
+
 #TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}
 
 FILES_TO_COPY = (('extra/favicon.ico', 'favicon.ico'),)
