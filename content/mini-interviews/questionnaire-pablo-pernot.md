@@ -12,7 +12,6 @@ Template: interview-orateur
 ####1. Qui es-tu ?####
 
 Agent provocateur
-
 de changements ? d'idées ? d'émotions ? 
 
 Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
@@ -39,6 +38,5 @@ La qualité et la bonhomie de la petite communauté agile française. L'open-spa
 ####5. Quelque chose à ajouter ?####
 
 Des questions existentielles : Vais-je oser le taïchi le matin ? Est-ce que j'amène le banjo, la flute ? 
-
 Un challenge : je fais une session sans prononcer une seule fois : scrum, kanban, xp ou méthode agile. Merci de crier "bingo" si ce n'est pas le cas. Tiens pourrait-on enrichir les deux jours du jeu "bingo" : on délivre une liste de mots "bingo" au début des deux journées, on crie "bingo" quand un orateur les prononce. BINGO !  
 
