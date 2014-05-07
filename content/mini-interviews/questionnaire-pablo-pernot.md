@@ -4,7 +4,6 @@ Date: 2014-05-06 15:01
 Tags: Agile France, Pablo Pernot
 Category: mini interviews
 Slug: agile-france-par-pablo-pernot
-Status: draft
 Template: interview-orateur
 
 
@@ -13,6 +12,7 @@ Template: interview-orateur
 ####1. Qui es-tu ?####
 
 Agent provocateur
+
 de changements ? d'idées ? d'émotions ? 
 
 Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
