@@ -1,6 +1,6 @@
 Speakers: Christophe Goset
 Title: Productivité, Ecoute<sup>r</sup>, Affectivité,..., Fierté ou Humilité ?
-Slug: productivite-ecouter-affectivite-fierte-humilite
+Slug: productivite-affectivite-fierte-humilite
 Date: 2014-05-07
 Format: Lightning Talk
 Duration: 15 minutes
