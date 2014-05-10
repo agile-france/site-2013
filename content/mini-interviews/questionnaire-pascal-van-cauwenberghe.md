@@ -5,7 +5,6 @@ Tags: Agile France, Pascal Van Cauwenberghe
 Category: mini interviews
 Slug: agile-france-par-pascal-van-cauwenberghe
 Template: interview-orateur
-status: draft
 
 
 
