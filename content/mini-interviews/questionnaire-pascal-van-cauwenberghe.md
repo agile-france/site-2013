@@ -22,7 +22,7 @@ Les amis (anciens et nouveaux) les idées, l'ambiance conviviale
 
 ####3. Une anecdote ?####
 
-Pour illustrer l'approche "Oui, et!" des organisateurs : chaque année je reviens d'Agile France avec des idées pour améliorer XP Days Benelux et Agile Tour Bruxelles. L'année passée on a invité un organisateur Agile France à XP Days Benelux pour "voler des idées". Cette année Agile France invite un organisateur XP Days Benelux ET des organisateurs de conférences agiles dans les pays voisins ou ailleurs en France pour venir voler des idées. Des organisateurs vraiment agiles, toujours prêt à apprendre et partager !
+Pour illustrer l'approche "Oui, et !" des organisateurs : chaque année je reviens d'Agile France avec des idées pour améliorer XP Days Benelux et Agile Tour Bruxelles. L'année passée on a invité un organisateur Agile France à XP Days Benelux pour "voler des idées". Cette année Agile France invite un organisateur XP Days Benelux ET des organisateurs de conférences agiles dans les pays voisins ou ailleurs en France pour venir voler des idées. Des organisateurs vraiment agiles, toujours prêt à apprendre et partager !
 
 ####4. Pour toi, la meilleure des raisons de venir à Agile France, c'est...####
 
@@ -33,4 +33,4 @@ Pour rencontrer les practiciens qui viennent à Agile France et partager nos pro
 J'ai participé à Agile France (né XP Day France) chaque année depuis le début. Je continuerai à venir. Je peux déjà bloquer la date d'Agile France 2015 dans mon agenda ?
 
 
-[1] http://agilecoach.net
+[1]:http://agilecoach.net
