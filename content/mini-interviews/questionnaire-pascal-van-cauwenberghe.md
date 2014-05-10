@@ -1,6 +1,6 @@
 Speaker: Pascal Van Cauwenberghe
 Title: Agile France, par Pascal Van Cauwenberghe
-Date: 2014-05-06 15:01
+Date: 2014-05-10
 Tags: Agile France, Pascal Van Cauwenberghe
 Category: mini interviews
 Slug: agile-france-par-pascal-van-cauwenberghe
