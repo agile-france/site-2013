@@ -33,4 +33,4 @@ Pour rencontrer les practiciens qui viennent à Agile France et partager nos pro
 J'ai participé à Agile France (né XP Day France) chaque année depuis le début. Je continuerai à venir. Je peux déjà bloquer la date d'Agile France 2015 dans mon agenda ?
 
 
-[1]:http://agilecoach.net
+[1]:http://www.agilecoach.net
