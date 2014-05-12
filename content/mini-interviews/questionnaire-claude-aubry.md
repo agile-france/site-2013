@@ -25,7 +25,9 @@ L'anecdote, c'est que je suis en train de contribuer au buzz pour Agile France, 
 
 ####4. Pour toi, la meilleure des raisons de venir à Agile France, c'est...####
 
-Je suis très orienté Lean Startup en ce moment, alors je m'essaie à un bout de canevas pour Agile France. La proposition unique de valeur pourrait être "2 jours pour partager et apprendre entre agilistes pratiquants, sans merchandising".    L'originalité à exploiter ("unfair advantage") est à mon avis qu'Agile France est une conférence sans newbies et sans sponsors.
+Je suis très orienté Lean Startup en ce moment, alors je m'essaie à un bout de canevas pour Agile France. La proposition unique de valeur pourrait être "2 jours pour partager et apprendre entre agilistes pratiquants, sans merchandising".
+<br/>
+L'originalité à exploiter ("unfair advantage") est à mon avis qu'Agile France est une conférence sans newbies et sans sponsors.
 <br/>
 Et s'il faut une dernière meilleure raison pour venir, on la trouvera dans le programme concocté par les organisateurs. 
 
