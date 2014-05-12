@@ -1,3 +1,4 @@
+Speaker: Claude Aubry
 Title: Agile France, par Claude Aubry
 Date: 2014-05-12
 Tags: Agile France, Claude Aubry
