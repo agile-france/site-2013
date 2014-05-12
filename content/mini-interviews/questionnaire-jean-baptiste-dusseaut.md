@@ -5,8 +5,6 @@ Tags: Agile France, Jean-Baptiste Dusseaut
 Category: mini interviews
 Slug: agile-france-par-jean-baptiste-dusseaut
 Template: interview-orateur
-status: draft
-
 
 
 
