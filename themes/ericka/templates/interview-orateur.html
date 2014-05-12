@@ -21,9 +21,12 @@
                 <div class="row">
                     <div class="span8">
                         <div class="posts">
-                            {%  set speaker = article.speaker %}
+                            {% set speaker = article.speaker %}
+                            {% set bio_pics = CONFERENCE.bio_pics %}
                             {% call post(article) %}
-                                {{ bio_thumb(CONFERENCE.bios.by_slug[speaker|slugify], CONFERENCE.bio_pics)}}
+                                {% if speaker|slugify in bio_pics %}
+                                    {{ bio_thumb(CONFERENCE.bios.by_slug[speaker|slugify], bio_pics)}}
+                                {% endif %}
                                 {{ article.content }}
                             {% endcall %}
 
