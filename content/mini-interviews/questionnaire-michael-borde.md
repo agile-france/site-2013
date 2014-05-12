@@ -5,7 +5,6 @@ Tags: Agile France, Michael Borde
 Category: mini interviews
 Slug: agile-france-par-michael-borde
 Template: interview-orateur
-status: draft
 
 
 
