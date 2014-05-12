@@ -20,3 +20,5 @@ Thumbs.db
 # fichiers d'IntelliJ
 .idea/
 *.iml
+*.ipr
+*.iws
