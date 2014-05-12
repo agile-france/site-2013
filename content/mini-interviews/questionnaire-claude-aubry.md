@@ -16,7 +16,7 @@ J'ai rangé mes papiers aujourd'hui et j'ai retrouvé la déclaration de mon act
  
 ####2. Agile France, pour toi, en deux ou trois mots ?####
 
-On se souvient de la première fois, pour moi. C'était en 2007, ma première conférence vraiment agile. Ca s'appelait xpday à l'époque (j'ai encore le tee-shirt).  
+On se souvient de la première fois. Pour moi, c'était en 2007, ma première conférence vraiment agile. Ca s'appelait xpday à l'époque (j'ai encore le tee-shirt).  
 C'est à cette occasion que j'ai suivi l'atelier "Au secours mon processus s'étrangle", un jeu sur la théorie des contraintes, animé par Pascal van Cauwenberghe. Cela a été pour moi le véritable début des jeux agiles. Cette bouffée d'air frais, avec des jeux ou avec d'autres innovations, continue d'année en année à Agile France.
 
 ####3. Une anecdote ?####
