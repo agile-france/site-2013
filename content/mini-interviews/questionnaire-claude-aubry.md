@@ -5,8 +5,6 @@ Tags: Agile France, Claude Aubry
 Category: mini interviews
 Slug: agile-france-par-claude-aubry
 Template: interview-orateur
-status: draft
-
 
 
 
