@@ -92,5 +92,5 @@ Romain Couturier est facilitateur graphique et coach agile. Il a fond√© Terre d‚
 * **[En savoir plus sur Romain][2]**
 
 [1]:/static/programme/resources/InterviewOrgasAF2014.m4a
-[2]:/static/bios/romain-couturier.html
+[2]:/bios/romain-couturier.html
 
