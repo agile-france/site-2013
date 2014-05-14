@@ -48,7 +48,7 @@ L’objectif de ce fil rouge de 2 jours sera de rendre accessible la facilitatio
 Si j’y suis arrivé, pourquoi pas vous ?   
 
 
-####Epilogue : la démocratisation démarre maintenant####  
+####Epilogue : la démocratisation démarre maintenant#### 
 
 
 Pour toutes celles et ceux qui voudraient s’échauffer pour le jeudi 22 mai 2014, je vous propose le petit exercice suivant :
