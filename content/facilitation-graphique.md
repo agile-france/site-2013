@@ -48,3 +48,11 @@ Pour découvrir la suite, rendez-vous jeudi matin pour une initiation à la faci
 
 NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voici ma version après l’écoute de l’enregistrement de la vision des organisateurs d’Agile France 2014, en 3 itérations : 
 
+* itération 1
+<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 1](/static/programme/resources/Scribe0001.jpg)]</a>
+
+* itération 2
+<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 2](/static/programme/resources/Scribe0002.jpg)]</a>
+
+* itération 3
+<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)]</a>
