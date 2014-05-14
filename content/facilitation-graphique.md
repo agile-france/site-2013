@@ -84,9 +84,8 @@ NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voic
    
 
 <br/>
-<br/>
 ####A propos de Romain Couturier :####
-<br/>
+  
 Romain Couturier est facilitateur graphique et coach agile. Il a fondé Terre d’Agile en 2012 pour répondre aux demandes d’accompagnement des équipes et de organisations dans l’évolution de leurs modes collaboratifs, de leurs procédés de création et d’innovation de produit.
 
 * **[En savoir plus sur Romain][2]**
