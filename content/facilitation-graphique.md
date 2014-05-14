@@ -1,14 +1,18 @@
 Title: "Vous voyez ce que je veux dire ?", la facilitation graphique à portée de main à Agile France 2014
 Date: 2014-05-14
 Slug: la-facilitation-graphique-a-portee-de-main-a-agile-france-2014
+Author: Romain Couturier
 Tags: orateur
 Category: general
 status: draft
 
 
-Chaque fois que j’entends cette question, j’observe soit que la personne en train de parler est à cours d’éléments pour se faire comprendre soit ne fait plus d’effort d’explication. (In)Volontairement, elle renvoie à son interlocuteur la responsabilité de l’analyse de l’échange en cours. L’interlocuteur arrivera avec plus ou moins de succès à interpréter ce qui doit l’être. 
-"Vous voyez ce que je veux dire ?" est une expression que nous pourrions prendre au pied de la lettre : rendre visible l’abstrait, ce qui est pensé, ce qui est suggéré, et d’une manière générale toutes les notions parfois trop complexes à verbaliser. La facilitation graphique prend dans ces cas-là le relais... parce qu’une image vaut parfois mieux qu’un long discours. 
+Chaque fois que j’entends cette question, j’observe soit que la personne en train de parler est à cours d’éléments pour se faire comprendre soit ne fait plus d’effort d’explication. (In)Volontairement, elle renvoie à son interlocuteur la responsabilité de l’analyse de l’échange en cours. L’interlocuteur arrivera avec plus ou moins de succès à interpréter ce qui doit l’être.  
+
+"Vous voyez ce que je veux dire ?" est une expression que nous pourrions prendre au pied de la lettre : rendre visible l’abstrait, ce qui est pensé, ce qui est suggéré, et d’une manière générale toutes les notions parfois trop complexes à verbaliser. La facilitation graphique prend dans ces cas-là le relais... parce qu’une image vaut parfois mieux qu’un long discours.  
+
 Cette année à Agile France 2014, nous vous proposons de stimuler encore plus votre mémoire visuelle avec en fil rouge la facilitation graphique sous tous ses angles. 
+
 Avant d’en dire plus, j’ai envie de vous raconter une petite histoire qui j’espère vous mènera au stand de facilitation graphique...
 
 ####L’effet Whaouh####
