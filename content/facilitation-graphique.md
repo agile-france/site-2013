@@ -14,6 +14,10 @@ Cette année à Agile France 2014, nous vous proposons de stimuler encore plus v
 
 Avant d’en dire plus, j’ai envie de vous raconter une petite histoire qui j’espère vous mènera au stand de facilitation graphique...    
 
+<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 1](/static/programme/resources/Scribe0001.jpg)</a>
+
+* **Itération 1**
+
 ####L’effet Whaouh####
 
 
@@ -21,7 +25,6 @@ En 2012 à Agile Grenoble, je découvrais avec une curiosité naïve la facilita
   
   
 Tout ça c’était avant l’effet "WHAOUH !". Grâce à un des pionniers de la facilitation graphique en France (Nicolas Gros), j’en ai compris les bases et oublié mes complexes passés. Le changement de perception était si évident pourtant, le mot le plus important dans "facilitation graphique" c’est "facilitation" !   
-
 
 ####La frénésie du Scribing depuis 1 an####
 
@@ -33,6 +36,10 @@ Ecoute pleine et entière, être au service du groupe, retranscrire sans filtre 
 
 
 La facilitation graphique est un feedback visuel pour les équipes, un moyen de plus pour voir la complexité qui les entoure et les laisser prendre les (bonnes ?) décisions. Les résultats sont étonnants et le plus encourageant est que cette discipline est encore peu connue, elle a donc potentiellement un bel avenir devant elle pour tous les facilitateurs d’interaction d’équipes (en gros tous les professionnels).
+
+<a href="/static/programme/resources/Scribe0002.jpg" target="_blank">![itération 2](/static/programme/resources/Scribe0002.jpg)</a>
+
+* **Itération 2**
 
 ####Et Agile France dans tout ça ?####
   
@@ -69,16 +76,11 @@ Pour découvrir la suite, rendez-vous jeudi matin pour une initiation à la faci
 3, 2, 1, Scribez ! 
 
 
-NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voici ma version après l’écoute de l’enregistrement de la vision des organisateurs d’Agile France 2014, en 3 itérations : 
+NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, vous avez pu découvrir au fil de l'article ma version après l’écoute de l’enregistrement de la vision des organisateurs d’Agile France 2014, en 3 itérations. 
 
-* **Itération 1**
-<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 1](/static/programme/resources/Scribe0001.jpg)</a>
-
-* **Itération 2**
-<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 2](/static/programme/resources/Scribe0002.jpg)</a>
+<a href="/static/programme/resources/Scribe0003.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)</a>
 
 * **Itération 3**
-<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)</a>
 
    
 
