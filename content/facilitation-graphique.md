@@ -36,6 +36,7 @@ Ecoute pleine et entière, être au service du groupe, retranscrire sans filtre 
 La facilitation graphique est un feedback visuel pour les équipes, un moyen de plus pour voir la complexité qui les entoure et les laisser prendre les (bonnes ?) décisions. Les résultats sont étonnants et le plus encourageant est que cette discipline est encore peu connue, elle a donc potentiellement un bel avenir devant elle pour tous les facilitateurs d’interaction d’équipes (en gros tous les professionnels).
 
 ####Et Agile France dans tout ça ?####
+  
 
 Nous avons la chance d’évoluer dans une communauté qui expérimente, partage et Agile France est un moment privilégié pour démocratiser les innovations organisationnelles indispensables pour nos équipes, nos projets, nos produits. 
 Je vois dans la facilitation graphique une compétence indispensable, utilisable par tous et dans quasiment toutes les circonstances professionnelles (mais aussi privées ;-)). La facilitation graphique est une compétence qui existe déjà en chaque personne et que chacune et chacun peut développer.  
@@ -48,7 +49,8 @@ L’objectif de ce fil rouge de 2 jours sera de rendre accessible la facilitatio
 Si j’y suis arrivé, pourquoi pas vous ?   
 
 
-####Epilogue : la démocratisation démarre maintenant#### 
+####Epilogue : la démocratisation démarre maintenant####
+  
 
 
 Pour toutes celles et ceux qui voudraient s’échauffer pour le jeudi 22 mai 2014, je vous propose le petit exercice suivant :
