@@ -4,8 +4,6 @@ Slug: la-facilitation-graphique-a-portee-de-main-a-agile-france-2014
 Tags: orateur
 Category: general
 status: draft
-Summary: Ceci est un modèle d'article
-
 
 
 Chaque fois que j’entends cette question, j’observe soit que la personne en train de parler est à cours d’éléments pour se faire comprendre soit ne fait plus d’effort d’explication. (In)Volontairement, elle renvoie à son interlocuteur la responsabilité de l’analyse de l’échange en cours. L’interlocuteur arrivera avec plus ou moins de succès à interpréter ce qui doit l’être. 
