@@ -2,7 +2,7 @@ Title: Pierre Hervouet
 Roles: speaker
 Date: 2014-05-14
 Twitter: agilelebanon
-Linkedin: lb.linkedin.com/in/pierrehervouet/
+Linkedin: in/pierrehervouet/
 
 
 Pierre a une large expérience professionnelle de plus de 25 ans, dans le secteur des services aux entreprises : informatiques et ingénierie où  il a occupé les postes de formateur, business analyste, développeur, chef de projet, commercial, consultants, contrôleur de gestion et responsable marketing.  
