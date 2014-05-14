@@ -3,11 +3,11 @@ Title: Manipulé à l'insu de mon plein gré
 Slug: manipule-a-l-insu-de-mon-plein-gre
 Date: 2014-04-06 2:11
 Subtitle: Decouvrez les principes qui soutiennent la démarche agile... ou pas
-Goal: 
 Duration: 25 minutes
 Format: Conférence
 Tags: Collaborer
 Summary: Découvrons ensemble au travers d'une présentation interactive quelques-uns des ressorts psychologiques actionnés par la démarche agile. Ou comment au dépend de notre plein gré nous pouvons devenir agile ou pas.
+Promo: <iframe width="560" height="315" src="//www.youtube.com/embed/JNNxdxv49hk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 Pourquoi le relative sizing marche? 
