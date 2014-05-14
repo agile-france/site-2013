@@ -1,4 +1,4 @@
-Title: "Vous voyez ce que je veux dire ?", la facilitation graphique à portée de main à Agile France 2014
+Title: Vous voyez ce que je veux dire ?, la facilitation graphique à portée de main à Agile France 2014
 Date: 2014-05-14
 Sulg: la-facilitation-graphique-a-portee-de-main-a-agile-france-2014
 Tags: orateur
