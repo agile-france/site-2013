@@ -13,18 +13,18 @@ Chaque fois que j’entends cette question, j’observe soit que la personne en 
 
 Cette année à Agile France 2014, nous vous proposons de stimuler encore plus votre mémoire visuelle avec en fil rouge la facilitation graphique sous tous ses angles. 
 
-Avant d’en dire plus, j’ai envie de vous raconter une petite histoire qui j’espère vous mènera au stand de facilitation graphique...  
+Avant d’en dire plus, j’ai envie de vous raconter une petite histoire qui j’espère vous mènera au stand de facilitation graphique...    
 
-
-####L’effet Whaouh####  
+####L’effet Whaouh####
 
 
 En 2012 à Agile Grenoble, je découvrais avec une curiosité naïve la facilitation graphique. Sans vraiment y comprendre grand-chose, j’ai tout de suite été attiré par le côté esthétique et épaté par la simplicité de la structuration des idées et des concepts complexes. Cette découverte m’a donné envie de reprendre les gribouillis. Comme les 99% des gens, j’étais (ultra)complexé, je ne savais pas dessiner, quand j’essayais c’était moche, et Ô jamais je n’osais montrer tout ça à qui que ce soit. Bref, j’étais nul et ça ne servait à rien d’essayer de toutes façons...
-<br/>
+  
+  
 Tout ça c’était avant l’effet "WHAOUH !". Grâce à un des pionniers de la facilitation graphique en France (Nicolas Gros), j’en ai compris les bases et oublié mes complexes passés. Le changement de perception était si évident pourtant, le mot le plus important dans "facilitation graphique" c’est "facilitation" !   
 
 
-####La frénésie du Scribing depuis 1 an####  
+####La frénésie du Scribing depuis 1 an####
 
 
 Depuis 1 an, je "scribe" comme on dit (définition : prise de notes graphiques en direct devant un groupe sans forcément connaître le contenu des échanges à venir. Le scribing a pour objectif de stimuler les interactions et l’émergence de nouvelles idées). J’ai découvert de nouveaux moments d’équipes qui n’appartiennent qu’à elles, en limitant mon incursion dans les frontières du groupe, en laissant simplement les personnes agir et parler comme elles en ont l’habitude. Car lorsque je facilite graphiquement une équipe, je ne parle pas, je restitue graphiquement, c’est l’image que le groupe voit qui facilite les échanges.  
