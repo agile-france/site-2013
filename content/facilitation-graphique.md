@@ -57,7 +57,7 @@ Pour toutes celles et ceux qui voudraient s’échauffer pour le jeudi 22 mai 20
 
 1. Prenez 2 ou 3 feutres de couleur (un noir obligatoire)
 2. Prenez une feuille A4 (ou plus grande si vous voulez)
-3. Ecoutez l’enregistrement de la vision des organisateurs d’Agile France 2014 disponible <a href:="/static/programme/resources/InterviewOrgasAF2014.m4a" target="_blanck">[ici](/static/programme/resources/InterviewOrgasAF2014.m4a)</a>
+3. Ecoutez l’enregistrement de la vision des organisateurs d’Agile France 2014 disponible [ici][1]
 4. Dessinez et notez les idées majeures en une seule prise
 5. Connectez les dessins et les textes
 6. Publiez vos œuvres en commentaire ici, sur votre blog ou sur Twitter
@@ -80,3 +80,13 @@ NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voic
 
 * **Itération 3**
 <a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)</a>
+
+  
+####A propos de Romain Couturier :####
+
+Romain Couturier est facilitateur graphique et coach agile. Il a fondé Terre d’Agile en 2012 pour répondre aux demandes d’accompagnement des équipes et de organisations dans l’évolution de leurs modes collaboratifs, de leurs procédés de création et d’innovation de produit.
+* **[En savoir plus sur Romain][2]**
+
+[1]:/static/programme/resources/InterviewOrgasAF2014.m4a
+[2]:/bios./current/romain-couturier.md
+
