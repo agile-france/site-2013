@@ -1,5 +1,6 @@
 Speakers: Rachel Davies
 Title: Extreme Product Development
+Slug: extreme-product-develoment
 Date: 2014-05-16
 Duration: 25 minutes
 Format: Session
