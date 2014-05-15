@@ -61,7 +61,7 @@ Pour toutes celles et ceux qui voudraient s’échauffer pour le jeudi 22 mai 20
 5. Connectez les dessins et les textes
 6. Publiez vos œuvres en commentaire ici, sur votre blog ou sur Twitter
 7. Bravo,  vous venez de faire votre premier scribe !
-8. Si cœur vous en dit, refaite une nouvelle version en écoutant une deuxième fois
+8. Si le cœur vous en dit, refaite une nouvelle version en écoutant une deuxième fois
 
 Pour découvrir la suite, rendez-vous jeudi matin pour une initiation à la facilitation graphique, une mise en pratique l’après-midi sur l’Open Space et un débriefing le lendemain.   
 
@@ -75,10 +75,10 @@ NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voic
 <a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 1](/static/programme/resources/Scribe0001.jpg)</a>
 
 * **Itération 2**
-<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 2](/static/programme/resources/Scribe0002.jpg)</a>
+<a href="/static/programme/resources/Scribe0002.jpg" target="_blank">![itération 2](/static/programme/resources/Scribe0002.jpg)</a>
 
 * **Itération 3**
-<a href="/static/programme/resources/Scribe0001.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)</a>
+<a href="/static/programme/resources/Scribe0003.jpg" target="_blank">![itération 3](/static/programme/resources/Scribe0003.jpg)</a>
 
    
 
