@@ -7,7 +7,7 @@ Goal: Meilleure connaissance de l'histoire du coaching
 Duration: 15 minutes
 Format: Lightning Talk
 Tags: Bouffée d'air frais
-Summary: 
+Promo: <iframe width="560" height="315" src="//www.youtube.com/embed/fgMs0Kjd0Bo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 Depuis quelques années, nombre d'agilistes deviennent "coach agile". Certains d'entre eux complètent leur expertise agile par une formation de coach professionnel. Mais savez-vous d'où vient le coaching ? 
