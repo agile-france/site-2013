@@ -1,13 +1,12 @@
 Speakers: Rachel Davies
 Title: Turning Product Development Upside Down
-Slug: turning-product-development-upside-down
+Slug: keynote-turning-product-development-upside-down
 Date: 2014-05-16
 Duration: 25 minutes
-Format: Session
-Tags: keynote, produit, collaborer
-Summary: 
+Format: Conférence
+Tags: Keynote, Produit, Collaborer
 Status: draft
-
+Summary: 
 
 At Unruly we have been applying eXtreme Programming (XP) from the start. In 8 years, we have grew our technical team so we can develop new product offerings with rich user-experience while improving our underlying infrastructure to handle a growing amount of traffic and data. 
 
