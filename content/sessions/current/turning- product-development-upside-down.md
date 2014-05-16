@@ -1,6 +1,6 @@
 Speakers: Rachel Davies
 Title: Turning Product Development Upside Down
-Slug: turning- product-development-upside-down
+Slug: turning-product-development-upside-down
 Date: 2014-05-16
 Duration: 25 minutes
 Format: Session
