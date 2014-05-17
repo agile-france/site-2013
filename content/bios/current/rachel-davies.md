@@ -6,9 +6,11 @@ Twitter: rachelcdavies
 Blog: http://agilecoach.typepad.com
 Status: Draft
 
+Rachel est co-auteur du premier livre "Agile Coaching" et travaille comme coach agile chez Unruly, la première plate-forme mondiale pour le marketing social vidéo. Internationalement reconnue et oratrice à des conférences professionnelles dans le monde entier, Rachel a commencé à travailler comme développeur de logiciels et pratique l’agile depuis l’an 2000 en déployant tout une gamme de méthodes agiles, y compris XP, Lean / Kanban et Scrum .
 
-Rachel is co-author of the first “Agile Coaching” book and works as coach at Unruly Media (London, UK), the leading global platform for social video marketing. Internationally recognized and presenyer at industry conferences worldwide, Rachel started out working as a software developer and has been an agile practitioner since 2000 applying a range of agile methods including XP, Lean / Kanban and Scrum.
+Vous pouvez suivre Rachel sur Twitter @rachelcdavies et via son [blog] [2]
 
-Her book has now been translated in French [https://leanpub.com/coaching-agile] [1]
+Son livre a été traduit en [français] [1] par Fabrice Aimetti
 
 [1]:https://leanpub.com/coaching-agile
+[2]:http://agilecoach.typepad.com
