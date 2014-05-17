@@ -1,8 +1,9 @@
-Speakers: Dominique de Premorel
-Title: Retour sur l'expérience d'écriture d'un livre en 5 jours en mode LeanAgileCamp 
+Speakers: Dominique de Premorel, Christophe Ordano
+Title: LeanAgileCamp
 Slug: retour-sur-l-experience-d-ecriture-d-un-livre-en-5-jours-en-mode-leanagilecamp
 Date: 2014-04-06 12:11
-Subtitle: 
+Subtitle: ou comment l'écriture d'un livre nous en apprend plus que ce que nous pensions transmettre.  
+Un retour d'expérience en 5 jours et autant de découvertes.
 Goal: 
 Duration: 50 minutes
 Format: Conférence
@@ -11,10 +12,7 @@ Tags: Produit
 Summary: 
 
 
-L’été dernier, dix praticiens expérimentés de l’agile se sont retrouvés avec un objectif commun : Créer un pont entre l’agile et le lean.
+Un groupe de 10 praticiens Lean et Agile se retire du monde pour construire un pont entre ces deux disciplines, et en tirer un livre. Le temps est limité, il faudra être efficace, utiliser ces mêmes connaissances qu'ils souhaitent partager, et les confronter à la réalité de la création d'un produit. En fin de compte cet exercice prouve au moins un grand principe : Le Lean est bel et bien, avant tout, un système d'apprentissage.  
 
-En effet, cinq d’entre eux sont devenus coach lean depuis plusieurs années , d’autres ont intégré des pratiques lean dans leurs projets agiles. Tous ont souhaité faire partager leurs expériences et tracer les parallèles entre ces pratiques incontournables de l’ingénierie logicielle d’aujourd’hui.
-
-Au terme de cinq jours continus de réflexion et de discussion, ils ont rédigé ensemble le « Petit guide de management lean à l’usage des équipes agiles » , un guide gratuit principalement destiné aux coaches d’équipes agiles.
-
+Dominique de Prémorel, coach Lean et Christophe Ordano, entrepreneur agile, partageront avec vous les conclusions du livre, mais aussi celles de son écriture.
 
