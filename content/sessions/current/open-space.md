@@ -1,4 +1,4 @@
-Speakers: Vous
+Speakers:
 Title: Forum ouvert
 Slug: open-space
 Date: 2014-05-14
