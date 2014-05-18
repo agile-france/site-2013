@@ -5,7 +5,7 @@ Date: 2014-05-17
 Duration: 25 minutes
 Format: Conférence
 Tags: Keynote, Collaborer
-Teaser: L'intelligence collective c'est un peu comme le sexe chez les ados: tout le monde en parle, très peu pratiquent :-)
+Teaser: L'intelligence collective c'est un peu comme le sexe chez les ados: tout le monde en parle, très peu pratiquent <span style='white-space:nowrap;'>:-)</span>
 
 Il y a un an, Agile France accueillait Michel Hervé pour un extraordinaire [témoignage][1] sur la structure agile, intrapreneuriale et fractale de son groupe, Hervé Thermique. 
 
