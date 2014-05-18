@@ -15,7 +15,6 @@ Cette année, nous avons choisit d'inviter [Thibaud BRIERE][2] pour une réflexi
 -	Favoriser la variété et instaurer un climat de bienveillance  
 -	Coordonner les différents points de vue: parvenir à penser ensemble et favoriser l'esprit critique  
 
-Thibaud BRIERE est philosophe, intervenant en entreprises. Dans ces communautés humaines que sont les entreprises, il travaille à « remettre l’humain au centre » en restaurant les conditions d’un véritable dialogue, ce creuset de l’intelligence collective dont dépendent innovation et motivation. Attentif au sens des mots, il témoignera des résistances qu’il observe dans ces organisations et des moyens de les surmonter.
 
 Il interviendra en clôture de la première journée de conférences, à l'heure de l'apéritif.
 
