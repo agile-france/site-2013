@@ -6,6 +6,7 @@ Subtitle: Formation d'une équipe qui débute techniquement et fonctionnellement
 Duration: 50 minutes
 Format: Atelier
 Tags: Construire
+Promo: <iframe width="560" height="315" src="//www.youtube.com/embed/y6O6aJ-17tU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 Nous présenterons un retour d'expérience d'un projet dans lequel nous avons utilisé des coding Dojo et le Mob programming pour former l'équipe de développement, et augmenter sa vélocité.

@@ -6,6 +6,7 @@ Subtitle: Et si la taille de code mesurait en fait le gaspillage ?
 Duration: 50 minutes
 Format: Conférence
 Tags: Construire
+Promo: <iframe width="560" height="315" src="//www.youtube.com/embed/huFqqL1ogzc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 La taille, en nombre de lignes de code ou en nombre de personnes dans un projet, est une des métriques les plus évidentes, mais que nous indique-t-elle vraiment ?
 
