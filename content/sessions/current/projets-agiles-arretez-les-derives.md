@@ -2,12 +2,9 @@ Speakers: Cyrille Deruel
 Title: Projets Agiles : Arrêtez les dérives !
 Slug: projets-agiles-arretez-les-derives
 Date: 2014-04-06 12:11
-Subtitle: 
-Goal: 
 Duration: 50 minutes
 Format: Conference
 Tags: Organisation
-Summary: 
 
 
 En 2014, l'Agilité est mainstream, tous les projets sont Agiles (ou presque tous), les rituels sont là (démo, rétro, planning game & co), le management visuel est visible de tous... 

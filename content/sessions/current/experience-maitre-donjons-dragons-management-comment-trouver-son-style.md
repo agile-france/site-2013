@@ -1,11 +1,9 @@
 Speakers: Guillaume Duquesnay
 Title: Expérience d'un maître de donjons et dragons sur le management, ou comment trouver son style
 Subtitle: Comment mon style de maître de jeu s'est formé, déformé, puis transcendé au cours de mes années de jeu. Je ne parlerai jamais directement de management, et pourtant je ne parlerai que de ça.
-Goal: 
 Format: Conférence
 Duration: 50 minutes
 Tags: Bouffée d'air frais
-Summary: 
 
 Je suis maître de jeu à Donjons et Dragons depuis environ 20 ans, beaucoup plus que mes 10+ années d'expérience professionnelle, et à bien y réfléchir, mes meilleurs leçons sur le management, l'animation et le leadership, viennent de là. 
 

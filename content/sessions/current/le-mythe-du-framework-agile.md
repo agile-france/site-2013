@@ -2,12 +2,10 @@ Speakers: Jean-Baptiste Dusseaut
 Title: Le mythe du framework agile
 Slug: le-mythe-du-framework-agile
 Date: 2014-04-06 12:11
-Subtitle: 
-Goal: 
 Duration: 50 minutes
 Format: Conférence
 Tags: Construire
-Summary: Un framework peut-il se prétendre agile ? Quelles sont les caractéristiques d'une architecture agile ?
+Teaser: Un framework peut-il se prétendre agile ? Quelles sont les caractéristiques d'une architecture agile ?
 
 
 «Agile Web Development with Rails !», «Agile Web Development with Grails !», «Agile Development with ». 

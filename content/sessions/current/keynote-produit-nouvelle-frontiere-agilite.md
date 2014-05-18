@@ -4,7 +4,6 @@ Slug: keynote-le-produit-prochaine-frontiere-agilite
 Format: Conférence
 Duration: 25 minutes
 Tags: Keynote, Produit
-Summary: 
 
 Les méthodes agiles ont largement démontré leur efficacité pour mener à bien des projets dans des environnements complexes et changeants. Bravo ! Mais à l'heure de l'iPad et d'App Stores riches de millions de produits, il ne suffit plus de livrer une application qui fonctionne : il faut qu'elle sorte du lot et enchante vraiment ses utilisateurs.
 

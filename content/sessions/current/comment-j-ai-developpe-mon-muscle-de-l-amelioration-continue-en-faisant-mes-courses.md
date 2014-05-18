@@ -5,7 +5,6 @@ Goal: Un outil pour gérer les problèmes.
 Duration: 50 minutes
 Format: Conference
 Tags: Bouffée d'air frais
-Summary: 
 
 Vous rêvez d’avoir une solution pour développer votre réflexe de l’amélioration continue ? 
 Pour que cela devienne instinctif, vous devez vous entrainer le plus souvent possible. 

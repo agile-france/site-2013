@@ -8,7 +8,6 @@ Duration: 110 minutes
 Format: Atelier
 Speakers: Alvin Berthelot
 Tags: Produit, Collaborer
-Summary: 
 
 On entend bien souvent parler de collaboration ou de coopération au sein d'organisations ou d'équipes agiles. 
 C'est d'ailleurs l'un des principes du manifeste agile : "Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet".

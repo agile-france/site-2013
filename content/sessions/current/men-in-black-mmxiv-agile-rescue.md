@@ -7,8 +7,7 @@ Duration: 50 minutes
 Format: Conférence
 Speakers: Alexandre Boutin, Jacques Couvreur
 Tags: Collaborer
-Summary: Des aliens se sont introduits dans votre équipe ... et s'ils n'étaient pas vraiment agile ? 
-Heureusement les MIB sont là pour vous aider à les reconnaitre et les prendre en charge.
+Teaser: Des aliens se sont introduits dans votre équipe ... et s'ils n'étaient pas vraiment agile ? Heureusement les MIB sont là pour vous aider à les reconnaitre et les prendre en charge.
 
 
 Les Aliens de MIB prennent souvent l'apparence des habitants de la planète terre pour mieux se fondre dans la masse et faire ce qu'ils sont venu faire sur Terre. 

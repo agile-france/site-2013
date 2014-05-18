@@ -7,7 +7,7 @@ Goal: L'importance de s'intéresser à la qualité du code des tests et non pas 
 Duration: 50 minutes
 Format: Conférence
 Tags: Construire
-Summary: Cette session est une live coding demo où nous allons travailler ensemble sur un exemple de legacy test tiré de la vraie vie. Nous allons découdre dans un premier temps ce test, identifier les zones qui le rendent legacy puis, dans un second temps, nous allons y redonner une vie en réécrivant les parties legacy.
+Teaser: Cette session est une live coding demo où nous allons travailler ensemble sur un exemple de legacy test tiré de la vraie vie. Nous allons découdre dans un premier temps ce test, identifier les zones qui le rendent legacy puis, dans un second temps, nous allons y redonner une vie en réécrivant les parties legacy.
 
 
 Une des définitions les plus citées pour le legacy code est celle donnée par Michael Feathers : legacy code as code without tests. Cette définition fait référence aux difficultés rencontrées par les développeurs pour maintenir ou pour faire évoluer un code existant mais non testé.

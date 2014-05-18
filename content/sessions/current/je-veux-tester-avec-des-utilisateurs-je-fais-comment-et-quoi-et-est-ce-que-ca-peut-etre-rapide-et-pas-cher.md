@@ -2,12 +2,11 @@ Speakers: Sophie Freiermuth
 Title: Je veux tester avec des utilisateurs - je fais comment? et quoi? et est-ce que ça peut être rapide et pas cher ? 
 Slug: je-veux-tester-avec-des-utilisateurs-je-fais-comment-et-quoi-et-est-ce-que-ca-peut-etre-rapide-et-pas-cher
 Date: 2014-04-06 12:11
-Subtitle: 
 Goal: Des outils pratiques et une méthode flexible pour se lancer.
 Duration: 110 minutes
 Format: Conférence
 Tags: Produit
-Summary: Tout pour préparer puis conduire des entretiens et tests petit budget, et rapporter des savoirs à l'équipe
+Teaser: Tout pour préparer puis conduire des entretiens et tests petit budget, et rapporter des savoirs à l'équipe
 
 
 Les test avec des utilisateurs ont la réputation (parfois justifiée) d'être coûteux, longs et finalement ne servent à rien. Pourtant, le triangle d'agile c'est bien "construite, mesurer, apprendre", alors tester avec des utilisateurs, ça a sûrement sa place? Tout à fait. 

@@ -2,12 +2,9 @@ Speakers:
 Title: Forum ouvert
 Slug: open-space
 Date: 2014-05-14
-Subtitle:
-Goal:
 Duration: 240 minutes
 Format: Forum ouvert
 Tags: Bouffée d'air frais
-Summary:
 
 Le forum ouvert de la conférence Agile france sera le moment idéal pour échanger avec les autres praticien(ne)s de la conférence. Chaque participant pourra, s'il le souhaite, proposer des sujets, qu'il en soit le plus grand expert ou le plus parfait ignorant. 
 

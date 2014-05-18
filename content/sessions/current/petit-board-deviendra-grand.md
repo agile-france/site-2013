@@ -7,7 +7,7 @@ Goal: Obtenir de nouvelles pratiques pour votre cycle de développements, et une
 Duration: 25 minutes
 Format: Conférence
 Tags: Collaborer
-Summary: Révéler et faciliter l’adoption de pratiques d’amélioration continue à travers l’évolution d’un processus de développement.
+Teaser: Révéler et faciliter l’adoption de pratiques d’amélioration continue à travers l’évolution d’un processus de développement.
 
 
 Cette session suivra l'évolution sur 15 mois du kanban board d'une startup. 

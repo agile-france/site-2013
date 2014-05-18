@@ -3,7 +3,6 @@ Title: Libérez vos idées et partez à la découverte de la facilitation graphi
 Format: Atelier 
 Duration: 50 minutes 
 Tags: Collaborer 
-Summary: 
 
 Vous devez animer une réunion avec votre(vos) client(s), votre équipe et/ou vos collègues que faites-vous ? 
 

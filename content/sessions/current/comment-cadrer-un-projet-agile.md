@@ -5,7 +5,7 @@ Subtitle: Voici la démarche et les outils que nous utilisons pour sécuriser le
 Format: Conférence
 Duration: 50 minutes
 Tags: Produit
-Summary: Un bon projet agile est un projet cadré.
+Teaser: Un bon projet agile est un projet cadré.
 
 Cadrer un projet, c'est d'abord aligner les acteurs, faire émerger des consensus et voir très tôt les divergences. Le chemin parcouru est plus important que la destination. Ester Derby résume très bien ce point en déclarant que 60% de la réussite d'un projet tient à la qualité de son cadrage et non à son déroulement. 
 Sans cadrage, une équipe agile tend à se mettre "la tête dans le guidon". S'adapter d'une itération à l'autre ne lui suffira pas toujours : décisions prises trop tard, d'autres déclenchées à la rache. Sur le long terme, elle peut même aller dans la mauvaise direction, car à chercher la vitesse on oublie parfois de vérifier le cap. Ce sont ces risques que prévient un cadrage.

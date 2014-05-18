@@ -6,7 +6,6 @@ Goal: Des idées concrète de comment faire pour coder avec un enfant.
 Format: Débat
 Duration: 50 minutes
 Tags: Bouffée d'air frais
-Summary: 
 
 Nous, Raphaël et Jonathan, sommes papa, développeurs, et fréquentons assidûment les coding goûter.
 Nous venons partager ce que nous avons appris, et vous inviter à en faire autant.

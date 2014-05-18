@@ -7,7 +7,7 @@ Goal: Les participants partiront avec des pistes concrètes pour passer agilemen
 Duration: 50 minutes
 Format: Conference
 Tags: Organisation
-Summary: Venez découvrir lors de cette session ces principes qui ont permis à des entreprises aujourd’hui leaders sur leur marché d’éviter le piège du “plus de” (documentations, processus, pages aux contrats, réunions improductives, …), de rester innovantes, attractives pour les collaborateurs et leurs clients malgré une croissance rapide. 
+Teaser: Venez découvrir lors de cette session ces principes qui ont permis à des entreprises aujourd’hui leaders sur leur marché d’éviter le piège du “plus de” (documentations, processus, pages aux contrats, réunions improductives, …), de rester innovantes, attractives pour les collaborateurs et leurs clients malgré une croissance rapide. 
 
 
 Startup : l’Agilité naturelle des débuts… Gardez-la en grandissant ! Passez votre startup au niveau 2 sans perdre de vie !

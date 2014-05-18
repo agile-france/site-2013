@@ -6,7 +6,6 @@ Goal: Comprendre la simplicité
 Format: Conférence
 Duration: 50 minutes
 Tags: Construire, Bouffée d'air frais
-Summary: 
 
 Plus je me débat dans du code legacy, et plus je suis convaincu que la pratique fondatrice est la simplicité. Je vois parfois du code qui respecte des design patterns, voire même qui est testé, et pourtant c'est du code indigeste !
 

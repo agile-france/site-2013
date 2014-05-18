@@ -3,12 +3,9 @@ Title: Mon projet est plus gros que le tien
 Slug: mon-projet-est-plus-gros-que-le-tien
 Date: 2014-04-06 12:11
 Subtitle: Et si la taille de code mesurait en fait le gaspillage ?
-Goal: 
 Duration: 50 minutes
 Format: Conférence
 Tags: Construire
-Summary: 
-
 
 La taille, en nombre de lignes de code ou en nombre de personnes dans un projet, est une des métriques les plus évidentes, mais que nous indique-t-elle vraiment ?
 

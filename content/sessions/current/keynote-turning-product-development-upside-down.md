@@ -5,7 +5,6 @@ Date: 2014-05-16
 Duration: 25 minutes
 Format: Conférence
 Tags: Keynote, Produit, Collaborer
-Summary:
 
 ## Keynote en anglais
 
