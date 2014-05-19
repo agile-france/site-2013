@@ -1,8 +1,7 @@
 Title: Julien Porot
 Roles: organizer
 Twitter: cranedemorse
-Linkedin: pub/julien-porot/13/225/464/
-Viadeo: profile/0021oy9dre7kaxz0/
+Viadeo: 0021oy9dre7kaxz0/
 
 
 Je suis tombé dans l'agilité il y a maintenant presque 4 ans (déjà !), et cela n'a eu cesse de m'enrichir !
