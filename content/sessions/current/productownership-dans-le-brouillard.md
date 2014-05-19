@@ -3,11 +3,9 @@ Title: ProductOwnership dans le brouillard
 Slug: productownership-dans-le-brouillard
 Date: 2014-04-06 12:11
 Subtitle: et dans la nuit...
-Goal: 
 Duration: 50 minutes
 Format: Conference
 Tags: Produit
-Summary: 
 
 
 Le rôle du ProductOwner a beau être décrit dans le guide Scrum et la multitude de cours certifiants, il ne faut pas se voiler la face: lorsque le brouillard s'épaissit autour de ce qu'il faut réaliser, notre PO est bien démuni. Comment notre PO peut-il sortir la tête de son backlog alors même que l'équipe de développement lui colle au basket pour obtenir des stories ready ?

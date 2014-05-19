@@ -7,7 +7,8 @@ Goal: Les nouvelles formes et patterns d'apprentissage individuels et collectifs
 Duration: 25 minutes
 Format: Conference
 Tags: Organisation
-Summary: La formation est en ébullition : entre l'explosion des conférences / BBL et l'essor de la formation en ligne, la formation classique est mise à mal par les nouvelles possibilités que ces canaux nous procurent. 
+Teaser: La formation est en ébullition : entre l'explosion des conférences / BBL et l'essor de la formation en ligne, la formation classique est mise à mal par les nouvelles possibilités que ces canaux nous procurent. 
+
 Dans l'IT, là où les développeurs doivent constamment se remettre en question, l'apprentissage est crucial pour l'employabilité. Voyons ensemble comment en partant de démarches individuelles nous pourrions imaginer l'organisation apprenante en 2014 et dans les années à venir.
 
 De nouvelles sources d'apprentissage pour des bénéfices immédiats ? Comment les intégrer dans votre quotidien et les faire adopter à vos organisations ?

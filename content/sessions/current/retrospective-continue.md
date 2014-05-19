@@ -1,11 +1,9 @@
 Speakers: Régis Medina, Antoine Contal
 Title: La rétrospective continue
 Subtitle: Intégrer l'apprentissage dans le quotidien d'une équipe agile
-Goal: 
 Format: Conférence
 Duration: 50 minutes
 Tags: Collaborer, Organisation
-Summary: 
 
 Les rétrospectives fournissent un moment idéal pour progresser. Pourtant, beaucoup d'équipes, par ailleurs irréprochables dans leurs pratiques agiles, sont bien embêtées quand nous les encourageons à factualiser les résultats apportés par 2 ou 3 ans de pratique assidue des rétros d'itération.
 

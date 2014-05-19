@@ -2,11 +2,9 @@ Speakers: Nathaniel Richand
 Title: La revanche des aveugles sur l'éléphant
 Date: 2014-04-06 12:11
 Subtitle: Et si on essayait de s'auto-organiser à 30?
-Goal: 
 Duration: 50 minutes
 Format: Atelier
 Tags: Collaborer
-Summary: 
 
 
 Et si vous participiez à une expérience passionnante et enrichissante? Etes-vous prêt à relever le défi de recréer une histoire dont chacun ne possède qu'un tout petit élément?

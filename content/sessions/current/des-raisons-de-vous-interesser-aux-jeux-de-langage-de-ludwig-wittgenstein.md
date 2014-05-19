@@ -3,11 +3,10 @@ Title: Des raisons de vous intéresser aux jeux de langage de Ludwig Wittgenstei
 Slug: des-raisons-de-vous-interesser-aux-jeux-de-langage-de-ludwig-wittgenstein
 Date: 2014-04-06 12:11
 Subtitle: Leçons d'un philosophe hors du commun
-Goal: 
 Duration: 25 minutes
 Format: Conférence
 Tags: Bouffée d'air frais
-Summary: Les problèmes sont résolus non par l'apport d'une nouvelle expérience mais par une mise en ordre de ce qui est connu depuis longtemps. La philosophie est un combat contre l'ensorcellement de notre entendement par les ressources de notre langage. - Wittgenstein, Réflexions Philosophiques.
+Teaser: Les problèmes sont résolus non par l'apport d'une nouvelle expérience mais par une mise en ordre de ce qui est connu depuis longtemps. La philosophie est un combat contre l'ensorcellement de notre entendement par les ressources de notre langage. - Wittgenstein, Réflexions Philosophiques.
 
 
 A la fin des années 80, Pelle Ehn publie le livre "Work oriented design of computer artifacts". Dans ce livre il décrit une série de projets explorant les moyens de produire des applications à base de logiciel plus en adéquation avec leur usage, plus faciles à utiliser et conçues à la fois par des programmeurs et des utilisateurs. Il considère dans ce livre le développement du logiciel du point de vue de différents philosophes: Descartes, Heidegger, Marx et Wittgenstein.

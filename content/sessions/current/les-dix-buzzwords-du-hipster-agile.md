@@ -7,7 +7,6 @@ Goal: Les concepts derrières les 10 buzzwords
 Duration: 25 minutes
 Format: Conférence
 Tags: Bouffée d'air frais
-Summary: 
 
 
 Depuis ces douze derniers mois, trop de buzzwords utilisés à contre sens à la machine à café défrisent nos moustaches de Hipsters Agiles.

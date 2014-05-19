@@ -7,7 +7,6 @@ Goal: Se poser la question de savoir si, en comparaison avec les principes agile
 Duration: 50 minutes
 Format: Conférence
 Tags: Bouffée d'air frais
-Summary: 
 
 
 Génération connectée, multi-tâches, interdépendante, adaptable... La génération Y, Petite Poucette de Michel Serres, fait débat sur le net, les réseaux sociaux et jusque dans nos bureaux.

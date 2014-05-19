@@ -1,12 +1,10 @@
 Speakers: Houssam Fakih, Yves Martin-Meriadec
 Title: Cross-Programming : Forging the future of programming
 Date: 2014-04-06 12:11
-Subtitle: 
 Goal: Apprendre une nouvelle technique de développement
 Duration: 50 minutes
 Format: Conférence
 Tags: Collaborer
-Summary: 
 
 
 Le cross-programming est une variation du pair-programming. La différence est que dans le cross-programming le binôme n'est pas formé de deux développeurs comme c'est le cas dans le pair-programming mais d'un développeur et d'un product manager. L'objectif principal est d'avoir une meilleure réponse au besoin, une vision continue et partagée entre les différents acteurs du produit. Dans cette présentation, nous faisons notre retour d’expérience sur ce mode de programmation que nous pratiquons au quotidien dans notre équipe.

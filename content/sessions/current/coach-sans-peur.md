@@ -6,7 +6,7 @@ Goal: Une "ludification" d'un jeu agile existant pour introduire la notion de ch
 Duration: 50 minutes
 Format: Atelier
 Tags: Collaborer
-Summary: Un jeu agile pour ceux qui n'ont pas froid aux yeux !
+Teaser: Un jeu agile pour ceux qui n'ont pas froid aux yeux !
 
 Que se passe-t-il lorsque l'on mélange un jeu agile intéressant mais pas palpitant (Fearless journey de Deborah & Ilja Preuss) et un jeu d'apéro sympa mais peu instructif (Oui, seigneur des ténèbres)?
 

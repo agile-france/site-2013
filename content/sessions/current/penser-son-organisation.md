@@ -7,7 +7,7 @@ Goal: Sortir des schémas classiques d’organisation d’entreprise
 Duration: 50 minutes
 Format: Conférence
 Tags: Organisation
-Summary: Penser une organisation agile à grande échelle (selon l’expression consacrée du moment). Aujourd’hui les questions clefs autour de l’agilité sont de deux ordres (à mon humble avis) : a) la durabilité et l’intégrité de l’agilité, b) la mise à l’échelle. La conférence traitera de ce deuxième point.
+Teaser: Penser une organisation agile à grande échelle (selon l’expression consacrée du moment). Aujourd’hui les questions clefs autour de l’agilité sont de deux ordres (à mon humble avis) : a) la durabilité et l’intégrité de l’agilité, b) la mise à l’échelle. La conférence traitera de ce deuxième point.
 Promo: <iframe src="//player.vimeo.com/video/95218779?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Deux écoles s’affrontent. Ceux, dont je ne fais pas partie, qui pensent qu’à 

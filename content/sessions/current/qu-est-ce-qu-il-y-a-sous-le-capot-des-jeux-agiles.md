@@ -6,7 +6,6 @@ Duration: 75 minutes
 Format: Atelier
 Speakers: Pascal Van Cauwenberghe, Alexandre Boutin, Damien Thouvenin
 Tags: Bouffée d'air frais 
-Summary:
 
 Nous utilisons souvent des jeux pour apprendre les concepts agiles, lean ou théorie des contraintes. Ces jeux nous permettent d'experimenter avec de nouvelles idées dans un environnement sûr.
 

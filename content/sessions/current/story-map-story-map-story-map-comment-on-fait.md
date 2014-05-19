@@ -7,7 +7,6 @@ Goal: Créer un Story Mapping, savoir l'animer, échanger les bonnes pratiques
 Duration: 110 minutes
 Format: Atelier
 Tags: Produit
-Summary: 
 
 
 Le podojo est aux Product Owners ce que les coding dojos sont aux développeurs : un atelier qui permet de s’améliorer par la pratique.

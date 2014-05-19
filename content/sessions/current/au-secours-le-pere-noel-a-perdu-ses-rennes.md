@@ -7,7 +7,6 @@ Goal: Capacité à utiliser des techniques de créativité (Carte mentale créat
 Duration: 110 minutes
 Format: Atelier
 Tags: Collaborer
-Summary: 
 
 J-216,
 

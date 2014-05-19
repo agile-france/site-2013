@@ -22,4 +22,4 @@ pour **apprendre** en dehors des sentiers battus. A ce stade, vous avez 2 option
 
 [1]: https://maps.google.fr/maps?ie=UTF-8&cid=0,0,5262208505098551486&ei=KIEqUd2HE4HL0QWtw4DgDA&ved=0CJgBEPwSMAA
 [2]: http://call4paper-agileconf.herokuapp.com/
-[3]: http://www.conference-agile.fr/point%20d'info.html#.UvKiYPl5Odg
+[3]: http://2014.conference-agile.fr/sessions/open-space.html

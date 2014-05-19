@@ -1,11 +1,9 @@
 Speakers: Benoît Charles-Lavauzelle
 Title: Comment impliquer vos clients dans leurs projets ?
-Subtitle:
 Goal: Apporter des outils simples pour que votre client prenne la responsabilité de son projet 
 Format: Conférence
 Duration: 45 minutes
 Tags: Collaborer
-Summary:
 
 La création d'une application est, fondamentalement, une activité de co-construction. Le client apporte sa connaissance du métier et la vision de son besoin. L'équipe technique transforme les idées en fonctionnalités mises à disposition des utilisateurs. Dans la réussite d'un projet, l'implication du client est ainsi au moins aussi importante que la qualité de son prestataire.
 

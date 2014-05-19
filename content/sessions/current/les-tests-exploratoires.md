@@ -7,7 +7,7 @@ Goal: Une nouvelle méthode pour garantir la qualité du logiciel.
 Duration: 50 minutes
 Format: Conférence
 Tags: Produit
-Summary: Que faire pour garantir la qualité du produit fini ? Quand on a de plus en plus d'interactions entre les différentes fonctionnalités ? Vous découvrirez avec des outils simples comment répondre à ses questions, tout en maitrisant les différents risques liés à l'ajout d'une nouvelle fonctionnalité.
+Teaser: Que faire pour garantir la qualité du produit fini ? Quand on a de plus en plus d'interactions entre les différentes fonctionnalités ? Vous découvrirez avec des outils simples comment répondre à ses questions, tout en maitrisant les différents risques liés à l'ajout d'une nouvelle fonctionnalité.
 
 
 Tester les interactions entre deux fonctionnalités reste assez facile. Mais que faire quand on en a de plus en plus ?

@@ -5,7 +5,6 @@ Date: 2014-05-07
 Format: Lightning Talk
 Duration: 15 minutes
 Tags: Bouffée d'air frais
-Summary:
 
 Produire vite et bien, c'est pas mal  
 En écoutant vraiment le client c'est mieux  
