@@ -103,6 +103,12 @@
 {% endblock head %}
 
 {% block content %}
+    <div class="row-fluid visible-phone">
+        <a href="#myModal" role="button" data-toggle="modal"><strong><i class="icon-map-marker"></i>Plan des salles</strong></a>
+        &nbsp;
+        &nbsp;
+        <a href="static/programme/programmeAgileFrance2014-V5.pdf" target="_blank"><strong><i class="icon-file"></i>Version PDF</strong></a>
+    </div>
     <div class="well">
         <div class="row-fluid">
             Tracks :
@@ -115,12 +121,18 @@
         </div>
     </div>
     <ul class="nav nav-tabs" id="programTabTop">
-        <li><a href="#tab20140522" data-toggle="tab"><h4>Jeudi 22 mai</h4></a></li>
-        <li><a href="#tab20140523" data-toggle="tab"><h4>Vendredi 23 mai</h4></a></li>
-        <li>
+        <li><a href="#tab20140522" data-toggle="tab">
+            <h4 class="hidden-phone">Jeudi 22 mai</h4>
+            <h5 class="visible-phone">22 mai</h5>
+        </a></li>
+        <li><a href="#tab20140523" data-toggle="tab">
+            <h4 class="hidden-phone">Vendredi 23 mai</h4>
+            <h5 class="visible-phone">23 mai</h5>
+        </a></li>
+        <li class="pull-right hidden-phone">
             <a href="#myModal" role="button" data-toggle="modal"><h4><i class="icon-map-marker"></i>Plan des salles</h4></a>
         </li>
-        <li>
+        <li class="pull-right hidden-phone">
             <a href="static/programme/programmeAgileFrance2014-V5.pdf" target="_blank"><h4><i class="icon-file"></i>Version PDF</h4></a>
         </li>
     </ul>
@@ -679,7 +691,7 @@
             <div class="row-fluid"><strong>08h00 - 08h30</strong></div>
         </div>
         <div class="span11">
-            <h4 class="blue">Qi Gong en plein air</h4>
+            <h4 class="blue">Bonus matinal : Qi Gong en plein air</h4>
         </div>
     </div>
     <div class="row-fluid">
@@ -1112,7 +1124,7 @@
     <tr>
         <td class="time">08h00 - 08h30</td>
         <td colspan="6">
-            <h4 class="blue">Qi Gong en plein air</h4>
+            <h4 class="blue">Bonus matinal : Qi Gong en plein air</h4>
         </td>
     </tr>
     <tr>
