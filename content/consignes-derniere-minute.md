@@ -5,9 +5,9 @@ Category: general
 Slug: agile-france-2014-c-est-presque-maintenant
 Author: Equipe d'organisation
 Summary: Récap des infos de dernière minute pour bien préparer sa conférence
-Status: Draft
 
-Un petit récap’, ça ne fait jamais de mal, et à deux jours de la conférence, nous pensons que le timing de ce billet est adapté ! C'est un peu long, on en a conscience, et vous n’êtes pas obligé de tout lire. Mais au moins, parcourez le en diagonale, vous y glanerez sûrement quelques infos =)
+Un petit récap’, ça ne fait jamais de mal, et à deux jours de la conférence, nous pensons que le timing de ce billet est adapté !  
+C'est un peu long, on en a conscience, et vous n’êtes pas obligé de tout lire. Mais au moins, parcourez le en diagonale, vous y glanerez sûrement quelques infos =)
 Alors ouvrez grand vos yeux, c’est parti !
 
 ###Concernant le programme###
@@ -21,7 +21,7 @@ En revanche :
 * il y aura un pitch des sessions chaque matin, où les orateurs feront preuve d’audace et de créativité  pour vous attirer à leur session (et vous raconter un peu ce qu’il y a dedans !),
 * nous vous encourageons à préparer vos deux journées en regardant le détail des sessions sur le site,
 * vous pouvez aussi aller jeter un oeil (pas trop fort...) sur les [pitchs vidéos] [1],
-si vous avez un smartphone (ouais, ok, c’est peu probable…  ), vous pouvez aussi télécharger l’application « Lanyrd » ([ici pour Android][2], [là pour iPhone][3], [ici pour les autres][4]), chercher l’événement Agile France 2014, et rendre son contenu disponible hors-ligne, pour avoir le programme en permanence sur vous
+* si vous avez un smartphone (ouais, ok, c’est peu probable…  ), vous pouvez aussi télécharger l’application « Lanyrd » ([ici pour Android][2], [là pour iPhone][3], [ici pour les autres][4]), chercher l’événement Agile France 2014, et rendre son contenu disponible hors-ligne, pour avoir le programme en permanence sur vous
 * Et si vous tweetez, pensez à utiliser le hashtag #AgileFrance !
 
 
