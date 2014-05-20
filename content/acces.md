@@ -27,6 +27,15 @@ Quelques sites pour vous aider à planifier votre itinéraire dans les transport
 
 <span class="soon-med color">En voiture</span>
 
+Coordonnées GPS : Latitude : 48.8404997 - Longitude : 2.4542036
+
+En venant de l'est, par l’A4 (l'Autoroute de l’Est), prendre la sortie 4 puis la Route de la Ferme et continuer sur 600m.
+Au rond-point prendre à gauche Avenue de Tremblay et continuer sur 2,1 km.
+Prendre à droite Avenue de Nogent.
+
+En venant de Paris, sortir du périphérique Porte de Vincennes et prendre la D120 (avenue de Paris, qui devient avenue de Nogent après le Château de Vincennes) en direction de Nogent sur Marne.
+Le Chalet de la Porte de Jaune est au milieu du bois de Vincennes, il sera sur votre droite.
+
 Un parking gratuit se trouve à côté du lieu de la conférence.
 
 <span class="soon-med">[Plus d'informations sur le site du Châlet de la Porte Jaune][4]</span>
