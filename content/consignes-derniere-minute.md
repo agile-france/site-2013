@@ -7,7 +7,7 @@ Author: Equipe d'organisation
 Summary: Récap des infos de dernière minute pour bien préparer sa conférence
 
 Un petit récap’, ça ne fait jamais de mal, et à deux jours de la conférence, nous pensons que le timing de ce billet est adapté !  
-C'est un peu long, on en a conscience, et vous n’êtes pas obligé de tout lire. Mais au moins, parcourez le en diagonale, vous y glanerez sûrement quelques infos =)
+C'est un peu long, on en a conscience, et vous n’êtes pas obligé de tout lire. Mais au moins, parcourez le en diagonale, vous y glanerez sûrement quelques infos :-)  
 Alors ouvrez grand vos yeux, c’est parti !
 
 ###Concernant le programme###
@@ -30,7 +30,6 @@ En revanche :
 
 Oui, ça semble bête à dire, mais n’oubliez pas votre billet Weezevent !
 La personne en charge du contrôle des billets est le résultat d’un croisement entre Arnold Schwarzenegger et une porte de prison, alors autant vous dire qu’il sera difficile de passer sans.  
-<br/>
 Et si vous avez gardé un porte-badge d’une édition précédente d’Agile France (ou d’une autre conférence), prenez-le ! Vous aurez peut-être la chance d’apercevoir un léger plissement de lèvre sur la figure crispée de notre fidèle Cerbère, ce qui correspondra –dans son monde- à un sourire =) (ça vous fera des choses croustillantes à raconter à vos petits enfants, un jour).
   
 Pensez aussi à amener quelques feutres et quelques post-its, parce que... on vous réserve une petite surprise ! 
