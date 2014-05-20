@@ -6,5 +6,6 @@ Linkedin: in/davidboissier
 Viadeo: david.boissier3
 
 
-Développeur Agile portant une casquette de coach (ou un bob Ricard selon le contexte).
+Développeur ayant plus de huit années d'expérience dans l'Agilité, notamment XP. Apprécie le rôle de coach agile qui me permet d'aborder les problématiques humaines et organisationnelles au sein d'une équipe.
+
 J'ai participé à l'Agile Conf trois fois et j'ai décidé de rejoindre l'organisation cette année pour vivre pleinement cet évènement. 
