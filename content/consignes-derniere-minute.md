@@ -29,9 +29,10 @@ En revanche :
 
 
 Oui, ça semble bête à dire, mais n’oubliez pas votre billet Weezevent !
-La personne en charge du contrôle des billets est le résultat d’un croisement entre Arnold Schwarzenegger et une porte de prison, alors autant vous dire qu’il sera difficile de passer sans.
+La personne en charge du contrôle des billets est le résultat d’un croisement entre Arnold Schwarzenegger et une porte de prison, alors autant vous dire qu’il sera difficile de passer sans.  
+<br/>
 Et si vous avez gardé un porte-badge d’une édition précédente d’Agile France (ou d’une autre conférence), prenez-le ! Vous aurez peut-être la chance d’apercevoir un léger plissement de lèvre sur la figure crispée de notre fidèle Cerbère, ce qui correspondra –dans son monde- à un sourire =) (ça vous fera des choses croustillantes à raconter à vos petits enfants, un jour).
- 
+  
 Pensez aussi à amener quelques feutres et quelques post-its, parce que... on vous réserve une petite surprise ! 
 Si vous jouez le jeu, vous êtes fantastiques, et nous vous offrirons des chatons ou des licornes (dans la limite des stocks disponibles, bien sûr).
 
@@ -40,14 +41,15 @@ Si vous jouez le jeu, vous êtes fantastiques, et nous vous offrirons des chaton
  
 Jeudi après-midi, la part belle est laissée à la communauté pour s’exprimer et échanger.
 Vous pouvez vous préparer à ce moment en essayant de répondre à ces quelques questions :
-Quelle est la plus grande question vous anime en ce moment ? 
-Quelle pépite voudrez-vous partager avec les autres praticiens qui se présenteront à la conférence Agile France ?
+* Quelle est la plus grande question qui vous anime en ce moment ? 
+* Quelle pépite voudrez-vous partager avec les autres praticiens qui se présenteront à la conférence Agile France ?
 
 
 ###Amener un ordinateur ?###
 
 Quelques sessions participatives nécessitent un ordinateur avec quelques pré-requis.
 Attention, le réseau, qu’il soit wifi ou 3g, au Chalet de la Porte Jaune n’est pas spécialement véloce...
+
 
 ###Pas envie d'être filmé, photographié ? Dites-le !###
 
@@ -63,7 +65,8 @@ Si vous avez une caméra ou un appareil photo et que vous filmez / prenez des ph
 ###Informations pratiques sur le Châlet de la Porte Jaune###
 
 
-Vous trouverez les informations pour [venir en voiture ou en transport en commun ici][6].
+Vous trouverez les informations pour [venir en voiture ou en transport en commun ici][6].  
+
 Une fois sur place, c’est assez simple de s’y retrouver, juste au cas où, vous pouvez trouver un [mini-plan ici][7].
 Notez qu’il y a des vestiaires gratuits mis à votre disposition, qui seront ouverts de 8h00 à 18h00.
 
