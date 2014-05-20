@@ -16,13 +16,13 @@ Alors ouvrez grand vos yeux, c’est parti !
 Alors il faut savoir que chez Agile France, on en a marre de tuer des ours blancs.
 Du coup, on a décidé de ne pas vous distribuer de programme détaillé sur place.
 En revanche :
-- on vous distribuera un petit agenda avec votre porte-badge  
-- on affichera un peu partout des agendas grand-format  
-- il y aura un pitch des sessions chaque matin, où les orateurs feront preuve d’audace et de créativité  pour vous attirer à leur session (et vous raconter un peu ce qu’il y a dedans !),  
-- nous vous encourageons à préparer vos deux journées en regardant le détail des sessions sur le site,  
-- vous pouvez aussi aller jeter un oeil (pas trop fort...) sur les [pitchs vidéos] [1],  
-- si vous avez un smartphone (ouais, ok, c’est peu probable…  ), vous pouvez aussi télécharger l’application « Lanyrd » ([ici pour Android][2], [là pour iPhone][3], [ici pour les autres][4]), chercher l’événement Agile France 2014, et rendre son contenu disponible hors-ligne, pour avoir le programme en permanence sur vous  
-- Et si vous tweetez, pensez à utiliser le hashtag #AgileFrance !   
+* on vous distribuera un petit agenda avec votre porte-badge  
+* on affichera un peu partout des agendas grand-format  
+* il y aura un pitch des sessions chaque matin, où les orateurs feront preuve d’audace et de créativité  pour vous attirer à leur session (et vous raconter un peu ce qu’il y a dedans !),  
+* nous vous encourageons à préparer vos deux journées en regardant le détail des sessions sur le site,  
+* vous pouvez aussi aller jeter un oeil (pas trop fort...) sur les [pitchs vidéos] [1],  
+* si vous avez un smartphone (ouais, ok, c’est peu probable…  ), vous pouvez aussi télécharger l’application « Lanyrd » ([ici pour Android][2], [là pour iPhone][3], [ici pour les autres][4]), chercher l’événement Agile France 2014, et rendre son contenu disponible hors-ligne, pour avoir le programme en permanence sur vous  
+* Et si vous tweetez, pensez à utiliser le hashtag #AgileFrance !   
 
 
 ###Votre billet + feutres + post-its !###
@@ -39,14 +39,14 @@ Si vous jouez le jeu, vous êtes fantastiques, et nous vous offrirons des chaton
 
  
 Jeudi après-midi, la part belle est laissée à la communauté pour s’exprimer et échanger.
-Vous pouvez vous préparer à ce moment en essayant de répondre à ces quelques questions :
-- Quelle est la plus grande question qui vous anime en ce moment ?  
-- Quelle pépite voudrez-vous partager avec les autres praticiens qui se présenteront à la conférence Agile France ?  
+Vous pouvez vous préparer à ce moment en essayant de répondre à ces quelques questions :  
+* Quelle est la plus grande question qui vous anime en ce moment ?  
+* Quelle pépite voudrez-vous partager avec les autres praticiens qui se présenteront à la conférence Agile France ?  
 
 
 ###Amener un ordinateur ?###
 
-Quelques sessions participatives nécessitent un ordinateur avec quelques pré-requis.
+Quelques sessions participatives nécessitent un ordinateur avec quelques pré-requis.  
 Attention, le réseau, qu’il soit wifi ou 3g, au Chalet de la Porte Jaune n’est pas spécialement véloce...
 
 
@@ -57,10 +57,10 @@ Nous vous encourageons aussi, si vous êtes prêts à emmener votre appareil pho
 
 Et si vous ne souhaitez pas apparaître en gros plan dans un film, être photographié, faites-le simplement savoir, le droit à l'image est essentiel pour nous.
 
-Si vous avez une caméra ou un appareil photo et que vous filmez / prenez des photos, sachez que le partage, c'est chic ! Vous pouvez nous les partager :
+Si vous avez une caméra ou un appareil photo et que vous filmez / prenez des photos, sachez que le partage, c'est chic ! Vous pouvez nous les partager :  
 - soit en prêtant votre carte mémoire au photographe "officiel" (Christopher, avec un beau polo et tout plein d'appareils photo) pour qu'il la copie  
 - soit en nous déversant vos rush [dans la dropbox][5]  
-
+ 
 ###Informations pratiques sur le Châlet de la Porte Jaune###
 
 
