@@ -2,7 +2,7 @@ Title: Agile France 2014, c'est (presque) maintenant ! Dernières infos...
 Date: 2014-05-20
 Tags: public
 Category: general
-Slug: Agile-France-2014-c-est-presque-maintenant
+Slug: agile-france-2014-c-est-presque-maintenant
 Author: Equipe d'organisation
 Summary: Récap des infos de dernière minute pour bien préparer sa conférence
 Status: Draft
