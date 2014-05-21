@@ -24,8 +24,15 @@ class Session(Page):
     default_template = 'session'
 
 
-    def __init__(self, *args, **kwargs):
-        super(Session, self).__init__(*args, **kwargs)
+    def __init__(self, content, metadata=None, **kwargs):
+        if metadata is None:
+            metadata = {}
+        if not 'summary' in metadata:
+            if 'teaser' in metadata:
+                metadata['summary'] = metadata['teaser']
+            elif 'goal' in metadata:
+                metadata['summary'] = metadata['goal']
+        super(Session, self).__init__(content, metadata, **kwargs)
 
         has_duration = hasattr(self, 'duration')
         has_start_date = hasattr(self, 'start_date')

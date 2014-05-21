@@ -129,6 +129,7 @@ STATIC_PATHS = ['programme', 'images']
 TEMPLATE_PAGES = {
     'js/custom.js': 'theme/js/custom.js',
     'programme_2014.html': 'programme_2014.html',
+    'pitchs-video.html': 'pitchs-video.html',
     }
 
 #TEMPLATE_PAGES = {'programme.html':'programme.html', 'livret.html': 'livret.html', 'sessions.html': 'sessions.html'}

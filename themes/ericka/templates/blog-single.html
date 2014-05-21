@@ -12,11 +12,13 @@
            <div class="row">
               <div class="span8">
                  <div class="posts">
-                 
-                    {% call post(article) %}
-                      {{ article.content }}
-                    {% endcall %}
-                    
+
+                    {% block post %}
+                        {% call post(article) %}
+                          {{ article.content }}
+                        {% endcall %}
+                    {% endblock post %}
+
                     <div class="well">
                        <div class="social">
                          {% include "widgets/share.html" %}
