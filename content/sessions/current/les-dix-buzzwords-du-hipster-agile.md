@@ -7,6 +7,7 @@ Goal: Les concepts derrières les 10 buzzwords
 Duration: 25 minutes
 Format: Conférence
 Tags: Bouffée d'air frais
+Slides: <iframe src="http://www.slideshare.net/slideshow/embed_code/35101803" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
 Depuis ces douze derniers mois, trop de buzzwords utilisés à contre sens à la machine à café défrisent nos moustaches de Hipsters Agiles.
