@@ -4,6 +4,7 @@ Subtitle: Intégrer l'apprentissage dans le quotidien d'une équipe agile
 Format: Conférence
 Duration: 50 minutes
 Tags: Collaborer, Organisation
+Slides: <iframe src="http://www.slideshare.net/slideshow/embed_code/35044064" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Les rétrospectives fournissent un moment idéal pour progresser. Pourtant, beaucoup d'équipes, par ailleurs irréprochables dans leurs pratiques agiles, sont bien embêtées quand nous les encourageons à factualiser les résultats apportés par 2 ou 3 ans de pratique assidue des rétros d'itération.
 

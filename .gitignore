@@ -22,3 +22,6 @@ Thumbs.db
 *.iml
 *.ipr
 *.iws
+
+# backups
+*~

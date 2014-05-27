@@ -8,7 +8,7 @@ Duration: 15 minutes
 Format: Lightning Talk
 Tags: Bouffée d'air frais
 Promo: <iframe width="560" height="315" src="//www.youtube.com/embed/fgMs0Kjd0Bo?rel=0" frameborder="0" allowfullscreen></iframe>
-
+Slides: <iframe src="http://www.slideshare.net/slideshow/embed_code/35053922" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Depuis quelques années, nombre d'agilistes deviennent "coach agile". Certains d'entre eux complètent leur expertise agile par une formation de coach professionnel. Mais savez-vous d'où vient le coaching ? 
 En tant que tennisman (de très bas étage, mais aux perspectives d'amélioration immenses) et agiliste (avec les mêmes perspectives d'amélioration), je souhaite rendre hommage à Tim Gallwey. Vous ne le connaissez peut-être pas, mais son livre "The Inner Game of Tennis" (1974) est à l'origine du coaching tel qu'on le conçoit aujourd'hui. 
