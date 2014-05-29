@@ -52,7 +52,8 @@ class Session(Page):
             self.end_date = self.start_date + self.duration
             self.locale_end_time = strftime(self.end_date, "%H:%M")
 
-
+        if not hasattr(self, 'speakers'):
+            self.speakers = []
         if not hasattr(self, 'bios'):
             bios = conference.bios.by_role_and_slug['speaker']
             self.bios = []
