@@ -8,7 +8,7 @@ Duration: 25 minutes
 Format: Conférence
 Tags: Collaborer
 Teaser: Révéler et faciliter l’adoption de pratiques d’amélioration continue à travers l’évolution d’un processus de développement.
-
+Slides: <script async class="speakerdeck-embed" data-id="30ab65f0c8e4013130862e590c444dc4" data-ratio="1.32987012987013" src="//speakerdeck.com/assets/embed.js"></script>
 
 Cette session suivra l'évolution sur 15 mois du kanban board d'une startup. 
 Sur la base de cet artefact, le propos sera double : nous analyserons d’une part les pratiques qu'il cristallise, et d’autre part le processus qui mène à l’évolution de ces pratiques. 
