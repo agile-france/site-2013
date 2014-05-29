@@ -1,4 +1,4 @@
-Speakers:
+Speakers: Raphaël Pierquin, Lan Levy
 Title: Forum ouvert
 Slug: open-space
 Date: 2014-05-14
