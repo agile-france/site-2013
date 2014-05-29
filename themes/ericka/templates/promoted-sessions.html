@@ -1,11 +1,12 @@
 {% extends "blog-single.html" %}
 
 {% block post %}
+    {{ article.content }}
     {% for session in CONFERENCE.sessions.all %}
-        {% if session.slides %}
+        {% if session[article.sessionfilter] %}
             <h3><a href="/{{ session.url }}">{{ session.title }}</a></h3>
             <p>{{ session.summary }}</p>
-            {{ session.slides }}
+            {{ session[article.sessionfilter] }}
         {% endif %}
     {% endfor %}
 {% endblock post %}
