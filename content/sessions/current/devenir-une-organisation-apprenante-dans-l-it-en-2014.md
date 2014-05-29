@@ -8,6 +8,7 @@ Duration: 25 minutes
 Format: Conference
 Tags: Organisation
 Teaser: La formation est en ébullition : entre l'explosion des conférences / BBL et l'essor de la formation en ligne, la formation classique est mise à mal par les nouvelles possibilités que ces canaux nous procurent. 
+Slides: <iframe src="http://www.slideshare.net/slideshow/embed_code/35071438" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Dans l'IT, là où les développeurs doivent constamment se remettre en question, l'apprentissage est crucial pour l'employabilité. Voyons ensemble comment en partant de démarches individuelles nous pourrions imaginer l'organisation apprenante en 2014 et dans les années à venir.
 

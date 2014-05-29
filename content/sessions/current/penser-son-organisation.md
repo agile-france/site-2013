@@ -9,6 +9,7 @@ Format: Conférence
 Tags: Organisation
 Teaser: Penser une organisation agile à grande échelle (selon l’expression consacrée du moment). Aujourd’hui les questions clefs autour de l’agilité sont de deux ordres (à mon humble avis) : a) la durabilité et l’intégrité de l’agilité, b) la mise à l’échelle. La conférence traitera de ce deuxième point.
 Promo: <iframe src="//player.vimeo.com/video/95218779?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Slides: <script async class="speakerdeck-embed" data-id="ce1eff00c5410131946106305ec17342" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Deux écoles s’affrontent. Ceux, dont je ne fais pas partie, qui pensent qu’à 
 une certaine échelle les anciens modes de pensée reprennent leurs droits. C’est 

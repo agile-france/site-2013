@@ -9,6 +9,7 @@ Format: Session
 Speakers: Guillaume Saint Etienne
 Tags: Bouffée d'air frais
 Teaser: De la musique électronique à Agile France, non mais ca va pas? 
+Sessions: <iframe src="http://www.slideshare.net/slideshow/embed_code/35048432" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Sous le feu des critiques: 
 Trop moderne! Pas assez subversive aux yeux de certains! Pas créative! Un effet de mode passager pour les "djeunz"! Ou pire une musique de drogués!!

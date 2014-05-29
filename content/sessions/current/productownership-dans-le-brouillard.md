@@ -6,7 +6,7 @@ Subtitle: et dans la nuit...
 Duration: 50 minutes
 Format: Conference
 Tags: Produit
-
+Slides: <iframe src="http://www.slideshare.net/slideshow/embed_code/35040956" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Le rôle du ProductOwner a beau être décrit dans le guide Scrum et la multitude de cours certifiants, il ne faut pas se voiler la face: lorsque le brouillard s'épaissit autour de ce qu'il faut réaliser, notre PO est bien démuni. Comment notre PO peut-il sortir la tête de son backlog alors même que l'équipe de développement lui colle au basket pour obtenir des stories ready ?
 

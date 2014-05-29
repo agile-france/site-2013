@@ -8,7 +8,8 @@ Duration: 50 minutes
 Format: Conférence participative
 Tags: Construire
 Teaser: Le code legacy est souvent synonyme de difficilement lisible et évolutif. Refactorer le code reste trop dangereux sans disposer de tests. Néanmoins, les écrire préalablement est souvent perçu comme TRÈS long et n’est donc pas fait. Est-ce possible à la fois d’écrire très rapidement des tests qui ont une couverture de code proche de 100% et qui ne sont pas fragiles au remaniement du code et du design ? OUI, en utilisant l'approche Golden Master.
-
+Slides: <iframe width="420" height="315" src="//www.youtube.com/embed/qEPb7eqvxes?rel=0" frameborder="0" allowfullscreen></iframe>
+Seealso: http://martinsson-johan.blogspot.fr/2014/05/refactorer-legacy-meme-pas-peur.html
 
 L’idée est d’écrire des tests temporaires spécifiques à l’activité de refactoring qui bombardent la partie du code à remanier en faisant varier les arguments en entrée et compare la sortie avec une référence qui a été enregistré avec le code initial. Le tour de force est d’automatiser tout cela grâce un outillage adapté comme Approvals Test. Après le refactoring, des tests classiques remplaceront ces tests temporaires.
 
