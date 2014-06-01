@@ -13,28 +13,28 @@ Merci à tous ceux qui font partager ce qu'ils ont vécu, apprécié, appris... 
 
 [Retour sur Agile France 2014][6], par Alexandre Boutin
 
-[Carnet de route : Agile France 2014 (1/4)][1]
-[Carnet de route : Agile France 2014 (2/4)][2]
-par Christophe Addinquy
+[Carnet de route : Agile France 2014 (1/4)][1]  
+[Carnet de route : Agile France 2014 (2/4)][2]  
+par Christophe Addinquy  
 
 [Notes sur l’Agile Conférence 2014][3], par Bruno Thomas
 
-[Agile France - first impressions are often correct...][4]
-[The economy of s-miles][5]
-par Dov Tsal Sela
+[Agile France - first impressions are often correct...][4]  
+[The economy of s-miles][5]  
+par Dov Tsal Sela  
 
-[(Agile France 2014) Projets Agile : Arrêtez les dérives !][7], par Patrick Bobo
-[(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe
+[(Agile France 2014) Projets Agile : Arrêtez les dérives !][7], par Patrick Bobo  
+[(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe  
 
-[Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9], par Couthaïer Farfra
+[Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9], par Couthaïer Farfra  
 
 Retrouvez également [les slides des sessions][10]
 
 ##Agile France 2014 en images##
 
-[Les photos de Christopher][12]
+[Les photos de Christopher][12]  
 
-[Les photos de Bruno][11]
+[Les photos de Bruno][11]  
 
 
 Vous avez vu d'autres retours qui ne sont pas ici ? Vite, dites-le nous pour que nous puissions enrichir cette page... Merci.
