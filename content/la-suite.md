@@ -26,8 +26,9 @@ par Dov Tsal Sela
 [(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe  
 [(Agile France 2014) Cadrer un projet Agile][14], par Pascal Poussard
 
-[Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9], par Couthaïer Farfra  
-[Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !][13], par Couthaïer Farfra  
+[Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9]  
+[Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !][13]  
+par Couthaïer Farfra  
 
 Retrouvez également [les slides des sessions][10]
 
