@@ -4,7 +4,6 @@ Tags: conference, photos, compte-rendus
 Category: general
 Author: Equipe d'organisation
 Slug: agile-france-2014-en-mots-et-en-images
-status: draft
 Summary: 
 
 ##Agile France 2014 en quelques mots##
@@ -25,8 +24,10 @@ par Dov Tsal Sela
 
 [(Agile France 2014) Projets Agile : Arrêtez les dérives !][7], par Patrick Bobo  
 [(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe  
+[(Agile France 2014) Cadrer un projet Agile][14], par Pascal Poussard
 
 [Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9], par Couthaïer Farfra  
+[Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !][13], par Couthaïer Farfra  
 
 Retrouvez également [les slides des sessions][10]
 
@@ -55,3 +56,5 @@ Vous avez vu d'autres retours qui ne sont pas ici ? Vite, dites-le nous pour que
 [10]: http://2014.conference-agile.fr/slides-des-sessions.html
 [11]: https://www.flickr.com/photos/31719094@N04/sets/72157644815216765/
 [12]: http://photos.seeshoot.com/agile-france-2014
+[13]: http://blog.xebia.fr/2014/06/04/retour-sur-agile-france-2014-petits-outils-de-management-agile-a-lusage-des-honnetes-managers/
+[14]: http://blog.soat.fr/2014/06/agile-france-2014-cadrer-un-projet-agile/
