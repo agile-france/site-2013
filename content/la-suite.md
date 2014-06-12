@@ -15,6 +15,7 @@ Merci à tous ceux qui font partager ce qu'ils ont vécu, apprécié, appris... 
 [Carnet de route : Agile France 2014 (1/4)][1]  
 [Carnet de route : Agile France 2014 (2/4)][2]  
 [Carnet de route : Agile France 2014 (3/4)][15]  
+[Carnet de route : Agile France 2014 (4/4)][16]  
 par Christophe Addinquy  
 
 [Notes sur l’Agile Conférence 2014][3], par Bruno Thomas
@@ -61,3 +62,4 @@ Vous avez vu d'autres retours qui ne sont pas ici ? Vite, dites-le nous pour que
 [13]: http://blog.xebia.fr/2014/06/04/retour-sur-agile-france-2014-petits-outils-de-management-agile-a-lusage-des-honnetes-managers/
 [14]: http://blog.soat.fr/2014/06/agile-france-2014-cadrer-un-projet-agile/
 [15]: http://freethinker.addinq.uy/post/88115912577/carnet-de-route-agile-france-2014-3-4 
+[16]: http://freethinker.addinq.uy/post/88513954672/carnet-de-route-agile-france-2014-4-4
