@@ -26,7 +26,8 @@ par Dov Tsal Sela
 
 [(Agile France 2014) Projets Agile : Arrêtez les dérives !][7], par Patrick Bobo  
 [(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe  
-[(Agile France 2014) Cadrer un projet Agile][14], par Pascal Poussard
+[(Agile France 2014) Cadrer un projet Agile][14], par Pascal Poussard  
+[(Agile France 2014) Le retour d’expérience d’un maître de Donjons et Dragons sur le management, ou comment trouver son style][17], par Lydie Huon
 
 [Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9]  
 [Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !][13]  
@@ -63,3 +64,4 @@ Vous avez vu d'autres retours qui ne sont pas ici ? Vite, dites-le nous pour que
 [14]: http://blog.soat.fr/2014/06/agile-france-2014-cadrer-un-projet-agile/
 [15]: http://freethinker.addinq.uy/post/88115912577/carnet-de-route-agile-france-2014-3-4 
 [16]: http://freethinker.addinq.uy/post/88513954672/carnet-de-route-agile-france-2014-4-4
+[17]: http://blog.soat.fr/2014/06/agile-france-2014-le-retour-dexperience-dun-maitre-de-donjons-et-dragons-sur-le-management-ou-comment-trouver-son-style/
