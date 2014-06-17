@@ -28,7 +28,7 @@ par Dov Tsal Sela
 [(Agile France 2014) L’amélioration continue au supermarché][8], par Vincent Uribe  
 [(Agile France 2014) Cadrer un projet Agile][14], par Pascal Poussard  
 [(Agile France 2014) Le retour d’expérience d’un maître de Donjons et Dragons sur le management, ou comment trouver son style][17], par Lydie Huon  
-[(Agile France 2014) Génération agYle][14], par Olivier Le Lan   
+[(Agile France 2014) Génération agYle][19], par Olivier Le Lan   
 
 [Retour sur Agile France 2014 : Comment cadrer un projet agile ?][9]  
 [Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !][13]  
